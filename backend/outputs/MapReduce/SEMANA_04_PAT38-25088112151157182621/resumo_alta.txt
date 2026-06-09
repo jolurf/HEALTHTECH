@@ -1,0 +1,74 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Insuficiência Cardíaca com Fração de Ejeção Reduzida 30 % presumivelmente isquêmica  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus tipo 2  
+Infarto Agudo do Miocárdio prévio  
+Síncope recorrente / episódios prévios de síncope  
+
+Vícios, cirurgias prévias, alergias, internações prévias, prática de exercícios físicos – não consta.
+
+2) Dados da Internação
+Data de admissão: 28/07/2023  
+Data de alta: 13/08/2023  
+Permanência em UTI? não  
+Motivo da internação:  
+  Síncope de alto risco após esforço, associada a dispneia, taquicardia e mal‑estar, em investigação cardiovascular (suspeita de etiologia isquêmica e avaliação de insuficiência cardíaca).
+Diagnóstico da Internação:  
+Síncope de alto risco em investigação  
+Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFER) 30 % – provável etiologia isquêmica, acinesia em múltiplos segmentos  
+Doença Renal Crônica agudizada (DRC) – creatinina basal 4,7 mg/dL, CKD‑EPI 12 mL/min/1.73 m² – provavelmente associada a exame contrastado  
+Miocardiopatia Isquêmica com Fração de Ejeção 28 %  
+Taquicardia Ventricular Não Sustentada (TVNS) no Holter  
+Embolia pulmonar excluída na angiotomografia  
+ATC diagnóstico 1ª  
+
+3) Exames da Internação
+21/07/2023 – Holter: extrassistoles ventriculares frequentes e polimórficas, episódios de TVNS (sinusal, extrassistoles ventriculares 2,6 %, 2 TVNS).  
+21/07/2023 – Ecocardiograma transtorácico (EcoTT): fração de ejeção 30 %; acinesia apical, inferolateral, anterior, segmento médio septal; insuficiência mitral moderada‑importante.  
+29/07/2023 – ECG: ritmo sinusal; bloqueio atrioventricular de 1º grau; atraso de condução pelo ramo esquerdo.  
+31/07/2023 – Ecocardiograma: disfunção ventricular importante, fração de ejeção 25 %; discinesias; insuficiência mitral moderada; ectasia aórtica 37 mm.  
+03/08/2023 – CATE: doença arterial coronariana com lesões: DA 90 % médio, Dg2 90 %, CX 70 %, CD 70 % ostial.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  Carvedilol; Espironolactona; Furosemida  
+Medicação durante a internação:  
+  AAS; Carvedilol; Espironolactona; Furosemida; Hidralazina; HLZ; Insulina; Insulina NPH; Monocordil; Rosuvastatina  
+
+5) Terapia Intervencionista
+Angioplastia coronária (procedimento percutâneo) – 08/08/2023  
+Angioplastia de Dg – 09/08/2023  
+Angioplastia de Dg – 10/08/2023  
+Angioplastia de Dg – 11/08/2023  
+Implante de cardioverter desfibrilador subcutâneo (CDI) – 11/08/2023  
+Implante de cardioverter desfibrilador subcutâneo (CDI) – 13/08/2023  
+
+6) Dispositivos
+CDI subcutâneo implantado (11/08/2023; 13/08/2023)  
+
+7) Situação funcional na alta
+Paciente estável hemodinamicamente, sem desconforto ventilatório agudo, em ar ambiente.  
+Exame físico: bom estado geral (BEG), lúcido, orientado, temperatura (ACV) regular, frequência cardíaca regular (RCR), bulhas normofonéticas (BNF), 2 tórax, sopro sistólico regurgitativo de insuficiência mitral (2+/6+), tempo de ejeção cardíaca < 3 s, ausculta pulmonar sem ruídos adventícios, curativo inframamário e subxifoideo sem complicação, sem sangramento importante, radiografia de tórax sem alterações. Não há estimulação do CDI.
+
+8) Status laboratorial na alta
+Creatinina: 5,7 mg/dL → 6,33 mg/dL (último valor)  
+Potássio (K): 4,2 mmol/L → 4,9 mmol/L (último valor)  
+Creatinina basal: 4,7 mg/dL; CKD‑EPI 12 mL/min/1.73 m²  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Voltar na receita de alta;  
+Programação de alta no sábado, se estiver bem clinicamente.  
+
+Seguimento:  
+Vigilância da função renal após cateterismo com solicitação de laboratório de rotina;  
+Telemetria contínua;  
+Ajuste e controle de dextro.

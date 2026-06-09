@@ -1,0 +1,89 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus  
+Dislipidemia  
+Obesidade  
+
+(não há informações sobre vícios, cirurgias prévias, alergias, internações prévias ou prática de exercícios físicos)  
+
+2) Dados da Internação
+Data de admissão: 2021‑02‑19  
+Data de alta: 2021‑03‑01  
+Permanência em UTI? não  
+Motivo da internação:  
+  Diarreia aquosa (3 dias) e dispneia aguda com suspeita de COVID‑19; suspeita de tromboembolismo pulmonar (alta probabilidade); descompensação cardíaca secundária à diarreia e dispneia, com suspeita de hipertensão pulmonar.  
+Diagnóstico da Internação:  
+Infecção por coronavírus (COVID‑19) – 18/02/2021  
+COVID‑19 negativo – 01/03/2021  
+Tromboembolismo pulmonar (TEP) – alta probabilidade (26/02/2021; 01/03/2021)  
+Dispneia – 01/03/2021  
+Hipertensão pulmonar descompensada – 01/03/2021  
+Síndrome da apneia e hipopneia obstrutiva do sono (SAHOS) – 01/03/2021  
+Hipoventilação associada à obesidade – 01/03/2021  
+Doença pulmonar obstrutiva (DPO) com resposta a broncodilatador – 01/03/2021  
+Luxação glenoumeral – 01/03/2021  
+Doença renal crônica estágio A (DRC‑A) – 01/03/2021  
+Trombose da veia safena magna (evento em 23/02/2021) – 01/03/2021  
+
+3) Exames da Internação
+18/02/2021 – Tomografia Computadorizada de Tórax (aquisição volumétrica sem contraste):  
+  Ausência de derrame pleural bilateral.  
+  Espessamento parietal brônquico difuso.  
+  Bandas parenquimatosas esparsas, compatíveis com atelectasias laminares / estrias residuais.  
+  Micronódulos/diminutos nódulos esparsos bilaterais, alguns calcificados (residuais) e outros sem calcificações evidentes (inespecíficos).  
+  Restante do parênquima pulmonar com atenuação normal.  
+  Ausência de linfonodomegalias mediastinais.  
+  Traqueia e brônquios-fonte pérvios, de calibre preservado.  
+  Ectasia das artérias pulmonares, calibre 2,8 cm; tronco pulmonar no limite superior (3,0 cm).  
+  Demais estruturas vasculares do mediastino com trajeto e diâmetro normais.  
+  Ateromatose aórtica e coronariana.  
+  Calcificações mitrais grosseiras.  
+  Espondilose dorsal.  
+25/02/2021 – Cintilografia V/Q:  
+  Alta probabilidade de tromboembolismo pulmonar (agudo?).  
+26/02/2021 – Cintilografia V/Q:  
+  Cintilografia V/Q com alta probabilidade para TEP.  
+26/02/2021 – Teste de Função Pulmonar:  
+  VEF1 1,14 (47%) > 1,31 (54%) +15% ; CVF 1,87 (62%) > 1,97 (65%) +5% ; Rel 0,61 > 0,66 ; >>>> distúrbio ventilatório obstrutivo moderado com CVF reduzida.  
+
+4) Terapia Medicamentosa
+Medicação prévia: Alenia, Anlodipino, Atenolol, Furosemida, Losartana, Metformina  
+Medicação durante a internação: Alenia, Clexane, Furosemida, Marevan  
+
+5) Terapia Intervencionista
+23/02/2021 – Trombectomia da veia safena magna  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente em isolamento, em leito de enfermaria não COVID, usando cateter nasal de O₂ 2 L/min e VNI intermitente, eupneica, sinais vitais estáveis, edema bilateral dos membros inferiores com cordões varicosos, extremidades quentes, sem epistaxe.  
+
+8) Status laboratorial na alta
+01/03/2021: hb 10,3 g/dL; leucócitos 6 610 /µL (5 % eosinófilos); plaquetas 250 000 /µL; ureia 52 mg/dL; creatinina 1,56 mg/dL; sódio 143 mmol/L; potássio 4,6 mmol/L; magnésio 1,8 mg/dL; DHL 280 U/L; PCR 23 mg/L; pH 7,36; bicarbonato 33 mmol/L; cálcio iônico 1,19 mmol/L; INR 1,0; TTPA 44 seg; dímero‑D 3 289 ng/mL.  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter uso de oxigênio domiciliar (instalado) e VNI conforme orientação;  
+Fisioterapia com BIPAP ao invés de CPAP;  
+Suspender anti‑hipertensivos;  
+Aguardar leito em enfermaria não COVID;  
+Contato com assistência social (ramal 5218).  
+
+Seguimento (profissionais de saúde):  
+Manter Clexane 100 mg 2× ao dia (cuidado com epistaxe);  
+Iniciar Marevan;  
+Dosar Anti‑Xa amanhã;  
+Manter Alenia 400 µg 2× ao dia;  
+DPO sem resposta a broncodilatador;  
+Aguardar leito em enfermaria não COVID;  
+Suspender anti‑hipertensivos;  
+Manter furosemida 1× ao dia.

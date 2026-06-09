@@ -1,0 +1,54 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- HAS há 5 anos, DLP, Ex-Tabagista 70 a.m (cessou ha 12 anos)
+- Ex-Etilista pesado
+- Sedentarismo
+- HPB??
+- Hanseníase multibacilar virchowiana descoberta há 4 anos em TTO no HC há 2
+anos
+2) Dados da Internação
+Data de [entrada] admissão: 14/04/2020
+Data de alta
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Não descrito
+Diagnóstico da Internação:
+Dissecção aórtica Stanford A cronica
+IAo importante
+IC perfil C
+PCR (ritmo?) durante IOT em 16/04/20 - RCE em um ciclo de RCP
+Fibrilação atrial de alta resposta ventricular
+Infecção de Foco Pulmonar
+Lesão Renal Aguda
+PCR em FV 26/04/20 com evolução para AESP após desfibrilação
+3) Exames da Internação
+- Ecocardiograma transtorácico (14/04/20): FE 30%, AE 52, Septo 11 , PP 10 , DDVE 70, DSVE 60,
+acinesia basal inferior e anterolateral. Aneurisma de Aorta Ascendente (seios aórticos 48 mm, junção sinotubular 46 mm, aorta ascendente 81 mm, arco aórtico 34 mm). Dissecção de Aorta tipo A. Insuficiência aórtica de grau importante.**Insuficiência mitral de grau moderado.Insuficiência tricúspide de grau discreto.Comprometimento sistólico difuso do ventrículo esquerdo de grau importante.
+- Angiotomografia de Aorta Torácica e Abdominal (14/04/20): Dissecção focal da aorta ascendente torácica, com flap intimal de localização supra coronariana, com extensão superior por cerca de 5,0 cm, sem envolvimento dos seios coronarianos ou do tronco braquiocefálico. Não há evidência de trombo intramural. Determina dilatação aneurismática da aorta ascendente torácica (calibre de até 8,2 cm), achado que pode estar relacionado ao relato ecocardiográfico de insuficiência aórtica. Dilatação aneurismática das artérias ilíacas comuns. Demais segmentos da aorta torácica e abdominal de calibres preservados. Ectasia do tronco da artéria pulmonar (mede 3,6 cm), achado que pode estar relacionado a algum grau de hipertensão arterial pulmonar. Pequeno derrame pleural bilateral. Discreto enfisema pulmonar centrolobular e parasseptal com predomínio em campos pulmonares médios e superiores. Tênues opacidades em vidro fosco associados a espessamento septal liso mais evidente nas bases pulmonares, além de segmentos posterior do lobo superior direito e ápico posterior do lobo superior esquerdo, que podem corresponder a algum grau de congestão.
+
+- Anatomopatológico de Valva natural em posição aórtica (22/04/20) - degeneração mucóide e fibrose moderadas e difusas, metaplasia adiposa multifocal e calcificação discreta e focal em estroma valvar.
+- Anatomopatológico de Produto de correção cirúrgica de dissecção crônica em aorta ascendente (22/04/20): Dissecção crônica, com degeneração mucóide moderada a intensa, áreas de necrose laminar, fibrose e infiltrado inflamatório linfomononuclear discreto e focal em túnica média de artéria elástica, acompanhada de fibrose densa e difusa em adventícia. Aterosclerose com calcificação e fibrose em placas ateromatosas, em superfície de dissecção em parede de artéria elástica.
+- Ecocardiograma transtorácico 22/04/2020: Ventrículo esquerdo apresenta função sistólica diminuída à custa de acinesia em paredes inferior, septal, além de hipocinesia das demais paredes. A fração de ejeção do ventrículo esquerdo foi estimada em 35% (VN >= 52%). Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Calcificação do anel valvar de grau discreto. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente sistólico máximo VE-Ao estimado em 20 mmHg e médio em 13 mmHg. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais. Arco aórtico não visibilizado. Apresenta tubo protético normoposicionado em aorta ascendente. Pericárdio com aspecto ecocardiográfico normal. Exame realizado na beira do leito, com dificuldades técnicas. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 40 mmHg (VN < 35 mmHg).
+4) Terapia Medicamentosa
+Medicação prévia: Captopril, furosemida, sinvastatina
+Medicação durante a internação: Fentanil, midazolam, dobutamina, noradrenalina, adrenalina, vasopressina, cefuroxima, tazocin, tartarato de metoprolol, bromazepam, ácidos graxos + vitaminas A e E emulsão tópica, omeprazol, furosemida, hidroclorotiazida, fitomenadiona, cloreto de potássio
+5) Terapia Intervencionista
+- 17/04/2020 Cirurgia de Bentall de Bono:  Reconstrução da raiz da aorta com tubo
+valvulado biológico n° 25
+6) Dispositivos
+- TOT
+- Dreno mediano
+-  PAI Artéria Femoral Direita
+- CVC Veia Jugular Interna Direita
+7 Situação funcional na alta
+Paciente em 8° PO de correção de dissecção aguda de aorta Stanford A, tendo apresentado PCR detectado às 6h. Paciente encontrava-se em FV, tendo sido realizado desfibrilação com 150J (carga indicada pelo aparelho), com posterior evolução para AESP. Realizado intubação (sem intercorrência) e administração de adrenalina a cada 3 minutos, com RCE após 7 ciclos. Entretanto, o paciente apresentou novamente 2 PCRs, todos os ciclos em AESP, sem RCE. Exames do dia 25/04 com hipocalemia (K:2,9), sem outras alterações. Iniciado reposição EV potássio e feito expansão volêmica, entretanto, sem sucesso. Solicitado exames na urgência, entretanto, sem resultado disponível a tempo. Óbito as 7h. Paciente sem causa de óbito definido (hipocalemia? sangramento por deiscência? infarto por dissecção de CD?) Entretanto, devido impossibilidade
+de realização de necropsia por pandemia de COVID-19, realizado atestado de óbito.
+8) Status laboratorial na alta
+- Laboratório 26/04/2020: Hemoglobina 6.1 g/dL Leucócitos 7910/mm³ Plaquetas 116.000/mm³ Creatinina 0.42 mg/dL Sódio 149 mEq/L Potássio 2.4 mEq/L (hemolisado +) Magnésio 1.0 mg/dL (hemolisado +) Proteina C Reativa (PCR) 58.91 mg/L
+9) Prescrição de Alta
+10 Orientações de alta para o paciente
+10 Orientações de seguimento

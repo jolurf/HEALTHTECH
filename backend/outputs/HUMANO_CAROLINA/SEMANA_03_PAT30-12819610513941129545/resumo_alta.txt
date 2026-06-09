@@ -1,0 +1,71 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipotireoidismo
+- Dislipidemia
+2) Dados da Internação
+Data de [entrada] admissão: 22/10/2023
+Data de alta: 17/11?2023
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Há 8 meses iniciou quadro de dispneia para médios esforços, de caráter progressivo, associado à dispneia paroxística noturna, procurando por diversas vezes atendimento médico, sem resolução do quadro. Há 14 dias, iniciou quadro de dor torácica de forte intensidade (9/10), progressiva ao longo dos dias, com caráter de aperto e queimação, irradiada para membro superior direito e membro superior esquerdo, com piora ao exercício físico, diária, sempre iniciada durante à noite, com duração de 1h30 e melhora após o uso de dipirona.
+Diagnóstico da Internação:
+- Insuficiência aórtica importante sintomática - etiologia: possível aortite com desabamento de folheto de valva aórtica
+- Arterite de Takayasu - diagnóstico na internação: pressão arterial divergente + pulsos assimétricos + proteína C reativa elevada + angiotomografia com espessamento concêntrico de subclávia direita + carótida direita
+- Dor torácica com curva de troponina - infarto agudo do miocárdio sem supradesnivelamento do segmento ST provável: acometimento ostial aorta?
+- Pós-operatório de troca valvar aórtica prótese biológica braile número 21 (10/11/2023):
+3) Exames da Internação
+- Angiotomografia de tórax e abdome (22/10/2023): discussão com radiologista de plantão: espessamento concêntrico de tronco braquiocefálico e terço proximal de subclávia direita com reenchimento distal e redução de calibre de carótida direita, continua com subclávia (Takayasu?).
+- Angiotomografia de aorta torácica (22/10/2023): Valva aórtica tricúspide. Aorta com dimensões normais.
+Origem comum do tronco braquiocefálico e da artéria carótida comum esquerda. Espessamento parietal circunferencial do arco aórtico, origem de ramos supra-aórticos e tronco braquiocefálico. Oclusão do segmento proximal da artéria subclávia direita, com enchimento médio-distal a partir da artéria vertebral direita por provável fluxo reverso. Redução difusa do calibre dos demais segmentos da artéria subclávia direita e das porções visualizadas da artéria carótida comum direita. Ramos abdominais com trajetos e dimensões normais. A possibilidade de arterite de Takayasu deve ser considerada.
+- Ecocardiograma transtorácico (23/10/2023): ventrículo esquerdo 58 x 40 / septo e parede posterior 10 x 10. Fração de ejeção 58%. Sem alteração segmentar. Insuficiência aórtica importante apresenta calcificação mais acentuada entre a válvula não coronariana e coronariana direita gerando falha de coaptação central. Insuficiência mitral discreta-moderada.
+- Cateterismo cardíaco (23/10/2023): sem lesões obstrutivas
+- Aortografia (23/10/2023): com diâmetro preservado. Não apresenta dissecção da aorta. Apresenta insuficiência aórtica acentuada. Apresenta valva aórtica tricúspide, sem calcificação valvar aórtica.
+- Sorologias: Sífilis negativa
+- Ressonância magnética cardíaca (25/10/2023): Dilatação importante do ventrículo esquerdo. Demais câmaras cardíacas com dimensões preservadas.Disfunção sistólica discreta do ventrículo esquerdo Fração de ejeção 47%. Ausência de fibrose/infarto miocárdico. Insuficiência aórtica.
+- Angioressonância de vasos (24/10/2023): não demonstram realce significativo da parede do tronco braquiocefálico e da parede aórtica, na região do arco aórtico, assim como, não se observa hipersinal nas sequências T2 destas mesmas regiões, não sendo possível afirmar processo inflamatório em atividade por este estudo. Observa-se espessamento concêntrico das paredes da aorta na porção ascendente, envolvendo o arco e tronco braquiocefálico, artéria subclávia proximal, artéria carótida comum direita e artéria carótida interna direita. Este espessamento determina estenose significativa do tronco braquiocefálico estendendo-se até a origem da artéria subclávia direita, onde se observa oclusão. Os segmento distais da artéria subclávia direita tem reenchimento por colaterais, possivelmente pela vertebral ipsilateral (roubo da subclávia). Artéria carótida interna direita encontra-se afilada em relação a carótida interna esquerda possivelmente determinando estenose com cerca de 50% em todo seu trajeto.
+- Tomografia computadorizada de tórax (24/10/2023): espaços pleurais virtuais. Espessamento difuso das paredes brônquicas. Micronódulos pulmonares sem calcificações evidentes esparsos e bilaterais, menores que 0,3 cm, achado frequente e inespecíficos. Restante do parênquima pulmonar sem anormalidades significativas. Hilos pulmonares livres. Não se observam linfonodomegalias mediastinais. Linfonodos mediastinais proeminentes, sem esboçar francas linfonodomegalias. Traqueia e brônquios-fonte pérvios, com calibre normal. Estruturas vasculares mediastinais com trajeto e diâmetro preservados. Espondilose dorsal incipiente. Partes moles sem particularidades.
+- PET-SCAN (27/10/2023): estudo sem evidências de processo inflamatório vascular em atividade nos segmentos corporais avaliados.
+- IGRA: negativo
+- Ecocardiograma transesofágico intraoperatório (10/11/2023):
+Pré-circulação extracorpórea: função sistólica biventricular preservada (fração de ejeção do ventrículo esquerdo = 0,65) Valva aórtica apresenta retração da válvula coronariana esquerda gerando falha de coaptação. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante. Valva mitral apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva tricúspide sem anormalidades significantes e sem refluxo. Septo atrial íntegro. Ausência de imagens de trombos ou massas intracavitárias.
+Pós-circulação extracorpórea: não realizado.
+- Biópsia (13/11/2023): valva aórtica (insuficiência): valvulite crônica em atividade, apresentando necrose focal, infiltrado inflamatório linfomonoplasmocitário rico em eosinófilos, com formação de microabscessos eosinofílicos e proliferação focal de vasos de paredes muscularizadas e hipertróficas em estroma valvar que exibe, ainda, fibrose e degeneração mucóide moderadas e difusas, metaplasia adiposa focal e calcificação discreta e focal (ver nota). Ausência de granulomas e de células gigantes nesta amostra. Pesquisas histoquímicas de fungos e bactérias, inclusive bacilos álcool-ácido-resistentes, negativas nesta amostra (métodos de Grocott, Brown-hopps, Brown-brenn e Ziehl-neelsen).
+- Biópsia (13/11/2023): fragmento de aorta: deposição difusa de pequena quantidade de material mucóide e fibras elásticas preservadas em túnica média de artéria elástica, com fibrose discreta e difusa em adventícia. Ausência de granulomas ou de alterações histológicas de aortite nesta amostra.
+- Angiotomografia de aorta e membro superior direito (14/11/2023): Observa-se espessamento parietal de aspecto circunferencial do segmento ascendente e do arco aórtico, o primeiro podendo estar ao menos parcialmente relacionado à manipulação cirúrgica recente, mas comportando igualmente acometimento pela vasculite de base. Segmento descendente sem significativo espessamento parietal. Há também espessamento focal de aspecto circunferencial na origem dos três ramos supra-aórticos com estenoses discretas. O espessamento parietal do tronco braquiocefálico é mais exuberante e extenso, envolvendo toda a extensão do vaso, que se apresenta difusamente afilado. Observa-se, ainda, sinais de extensão para a carótida comum direita, igualmente afilada, mas pérvia e oclusão da artéria subclávia direita desde a origem. Há sinais de tênue contrastação do segmento da artéria subclávia direita após a emergência da artéria vertebral direita, possivelmente refletindo reenchimento por inversão de fluxo vertebral no contexto de síndrome do roubo da subclávia. Os segmentos arteriais do membro superior direito tem contrastação frusta na raiz no membro e avaliação limitada nos demais segmentos pelo protocolo realizado. Sugere-se correlação ultrassonográfica dirigida.
+- Ecocardiograma transtorácico (16/11/2023): fração de ejeção do ventrículo esquerdo 34% / raiz aórtica 33 / átrio esquerdo 32 / ventrículo esquerdo 43x31 / septo 10 / parede posterior 10 / ventrículo esquerdo com aumento da espessura relativa de parede sugestivo de remodelamento concêntrico e função sistólica reduzida à custa de hipocinesia difusa. Ventrículo direito com hipocinesia discreta. Movimentação atípica do septo ventricular. Insuficiência mitral discreta. Valva aórtica com prótese biológica normofuncionante. Insuficiência aórtica mínima. Insuficiência tricúspide discreta. Pressão sistólica da artéria pulmonar 23.
+4) Terapia Medicamentosa
+Medicação prévia: Levotiroxina, Furosemida, Cloreto de Potássio.
+Medicação durante a internação: Furosemida, Atorvastatina, Levotiroxina, Enoxaparina, Tropicamida, Omeprazol, Ácido acetilsalicílico, Midazolam, Dipirona, Mupirocina, Cefuroxima, Heparina, Ácido fólico, Sulfato ferroso,
+5) Terapia Intervencionista
+- 10/11/2023: pós-operatório de troca valvar aórtica prótese biológica braile número 21. Sem intercorrências. Tempo de circulação extracorpórea 1h40. Tempo de anóxia 1h03. Sem intercorrência intra-operatória.
+6) Dispositivos
+- Acesso venoso periférico
+- Tubo orotraqueal
+- Cateter duplo lumen em veia jugular direita
+- Pressão arterial invasiva em artéria radial esquerda
+- Fio de marcapasso em ventrículo direito
+- Dreno mediano
+- Sonda vesical de demora
+7 Situação funcional na alta
+Ontem apresentou episódio isolado de tontura ao se levantar, sem síncope, associado a hipotensão sem repercussão hemodinâmica de resolução espontânea, hoje sem recorrência dos sintomas,
+Vigil, orientada, escala de coma de Glasgow 15, sem déficit, pupilas isofotorreagentes, parestesia em membro superior direito (dedos da mão direita).
+Murmúrio vesicular presente, sem ruídos adventícios.
+Ritmo cardíaco regular em 2 tempos, sem sopros. Tempo de enchimento capilar 2 segundos. Turgência jugular e refluxo hepatojugular ausentes. Pulsos periféricos não palpáveis em membro superior direito.
+Abdome indolor a palpação, ruídos hidroaéreos presentes.
+Extremidades sem edemas ou empastamento de panturrilhas.
+8) Status laboratorial na alta
+- 16/11/2023: hemoglobina 9,1 / leucócitos 5760 / plaquetas 137000 / ureia 33 / creatinina 1,00 / sódio 141 / potássio 3,9 / magnésio 2,1 / proteína C reativa 77 / cálcio ionizado 1,21.
+9) Prescrição de Alta
+- Carvedilol 3,125mg 2 vezes ao dia
+- Enalapril 2,5mg 2 vezes ao dia
+- Ácido acetilsalicílico 100mg 1 vez ao dia
+- Levotiroxina 25mcg 1 vez ao dia
+10 Orientações de alta para o paciente
+- Retorno no ambulatório da Reumatologia dia 15/01/2026 quinto andar do PAMB-HC
+- Retorno no ambulatório UNVAL até 15 dias pós-alta
+10 Orientações de seguimento
+- Sem

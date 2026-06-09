@@ -1,0 +1,105 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão Arterial Sistêmica  
+Prolapso valvar mitral  
+Tabagismo ativo (1 maço/dia)  
+Retocolite ulcerativa  
+Extrassístoles atriais frequentes (uso prévio de propafenona e propranolol)  
+Insuficiência cardíaca  
+Infarto agudo do miocárdio (prévio)
+
+Não há informações sobre cirurgias prévias, alergias, internações anteriores, prática de exercícios ou outras comorbidades não listadas acima.
+
+2) Dados da Internação
+Data de admissão: 25/07/2016  
+Data de alta: 04/08/2016  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Malaise, dispneia e tosse seca associados a fibrilação atrial de alta resposta ventricular; alteração de consciência que requereu tomografia de crânio; infarto agudo do miocárdio tipo 2 associado a arritmia, doença coronariana anômala e hipertireoidismo subclínico possivelmente induzido por amiodarona; infarto tipo 2 associado a arritmia (taquicardia‑flutter) e infecção urinária por E. coli após tentativa de ablação.
+
+Diagnóstico da Internação:  
+Fibrilação atrial de alta resposta ventricular  
+Infarto agudo do miocárdio tipo 2 sem supradesnivelamento do segmento ST  
+Delirium hiperativo (resolvido)  
+Congestão pulmonar  
+Anomalia coronariana com origem no seio coronariano esquerdo  
+Hipertireoidismo subclínico induzido por amiodarona  
+Escore de cálcio coronariano elevado (Agatston 1594, volume 1266, percentil 98)  
+Estenose coronariana discreta/moderada  
+Infecção do trato urinário por Escherichia coli multirresistente  
+Ablação por cateter – 3ª tentativa, bem‑sucedida  
+
+3) Exames da Internação
+26/07/2016 – Tomografia Computadorizada de Crânio: Realizada sem contraste; presença de tênue hipoatenuação da substância branca periventricular, discreta dilatação não hipertensiva ventricular, áreas hipoatenuantes bilaterais sugestivas de infartos lacunares, calcificações nas artérias carótidas internas e no sistema vértebro‑basilar; sem lesões isquêmicas agudas, hemorrágicas ou coleções extra‑axiais.  
+27/07/2016 – Gasometria arterial: pH 7,45 / pO₂ 68 / pCO₂ 33,4 / Bicarbonato 22,8 / BE -0,1 / SatO₂ 94,1 %  
+27/07/2016 – Marcadores cardíacos (CK‑MB e Troponina): CK‑MB 3,8 → 4,8 → 2,8 → 2,8 → 4,7 ng/mL; Troponina 1,01 → 1,39 → 0,875 → 0,609 → 0,408 ng/mL  
+27/07/2016 – Lactato arterial: 9 mmol/L  
+27/07/2016 – Cateterismo cardíaco (CATE): Sem lesões obstrutivas; artéria coronária direita origina‑se do seio coronariano esquerdo; tortuosidade e calcificação importante em artéria ilíaca esquerda e aorta.  
+26/07/2016 – Ecocardiograma transtorácico: Fração de ejeção 45 %; discinesia da região apical; insuficiência mitral discreta; insuficiência tricúspide moderada; pressão sistólica da artéria pulmonar 35 mmHg; sinais de contraste espontâneo no átrio esquerdo; ausência de trombos ou massas intracavitárias.  
+28/07/2016 – Urocultura: Escherichia coli > 100.000 UFC/mL  
+29/07/2016 – Angiotomografia de coronárias: Dominância direita; tronco da coronária esquerda sem redução luminal; artéria descendente anterior com placas calcificadas segmentares no terço proximal, redução discreta; artéria diagonal primeira com placa calcificada proximal, redução discreta; artéria circunflexa com placas calcificadas proximais, redução discreta; artéria marginal esquerda com placa mista segmentar no segmento proximal, redução discreta/moderada (~50 %); artéria coronária direita emergindo do seio de Valsalva esquerda, trajeto intra‑arterial, redução luminal 55 %; escore de cálcio 1594 (Agatston) e 1266 (volume), percentil 98.  
+04/08/2016 – Urocultura (repetida): Escherichia coli multirresistente (resultado aguardando antibiograma).  
+
+4) Terapia Medicamentosa
+Medicação prévia (antes da internação):  
+amiodarona  
+amlodipino / anlodipino  
+Entocot (budesonida)  
+losartana / Losartan  
+propafenona  
+propranolol  
+
+Medicação durante a internação:  
+AAS (ácido acetilsalicílico)  
+adenosina  
+amiodarona  
+anlodipina  
+carvedilol  
+ceftriaxone  
+cefuroxima  
+clopidogrel  
+eliquis (apixabana)  
+enoxaparina  
+Entocot (budesonida)  
+furosemida  
+HBPM plena  
+losartana / Losartan  
+magnésio  
+
+5) Terapia Intervencionista
+Cateterismo cardíaco – 27/07/2016  
+Ablação por cateter (via lenta nodal) – 02/08/2016 e 04/08/2016 (3ª tentativa, bem‑sucedida)  
+
+6) Dispositivos
+Acesso venoso periférico – 27‑28/07/2016  
+PICC MSD – 01‑04/08/2016  
+
+7) Situação funcional na alta
+Paciente sem queixas, hemodinamicamente estável, confortável em ar ambiente, deambulando sem dificuldades. Exame físico: frequência cardíaca 58 bpm, pressão arterial 88 mmHg, escala de coma de Glasgow 15, sem sopros audíveis, sem déficits focais, abdômen flácido e indolor, dieta oral tolerada.
+
+8) Status laboratorial na alta
+Renal/Metabólico: Uréia 71 mg/dL, Creatinina 0,9 mg/dL, Na⁺ 137 mmol/L, K⁺ 4,5 mmol/L, Mg²⁺ 2,2 mg/dL, Cálcio 1,21 mmol/L  
+Hemato/Infeccioso: Hemoglobina 10,4 g/dL, Leucócitos 6 850 /mm³, Plaquetas 174 000 /mm³, PCR 1 mg/dL  
+Tireoidiano: TSH 0,51 µUI/mL, T4 livre 2,33 µg/dL  
+
+9) Prescrição de Alta
+Eliquis 5 mg – 12 h em 12 h (via oral)  
+Cefuroxima 250 mg – 12 h em 12 h, por 6 dias (via oral)  
+Losartana 50 mg – 12 h em 12 h (via oral)  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Retorno ambulatorial conforme agendamento.  
+
+Seguimento:  
+Programação de eletroexames (EEF) para o dia seguinte.  
+Suspender enoxaparina.  
+Reservar hemocomponentes conforme necessidade.  
+Aguardar resultado do antibiograma da urocultura.  
+Seguimento conjunto com a equipe de arritmia.

@@ -1,0 +1,51 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+     -Doença Arterial Coronariana triarterial
+-AVCI 11/17 - acompanha com clínico geral da FMUSP
+-DM Insulinodependente;
+-HAS;
+-DLP;
+-Ex-tabagista - parou há 25 anos (alta carga);
+-Ex etilista;
+2) Dados da Internação
+Data de [entrada] admissão: 29/09/2019
+Data de alta: 10/10/2019
+Permanência em UTI?
+- Sim
+Motivo da internação: 
+Paciente internado para Cirurgia de Revascularização do Miocárdio em contexto eletivo. Cateterismo Cardíaco de 19/02/19: DA 60% m; Dg1 90% m; Dg2 60% prox; Dg3 70% óstio; Cx 100% proximal; CD 100% proximal. Colateral DA-CX III e DA-CD III.
+Diagnóstico da Internação: 
+Cirurgia eletiva de Revascularização do Miocárdio
+3) Exames da Internação 
+
+- Tomografia Computadorizada de Tórax 08/10/2019: Estruturas vasculares do mediastino com diâmetro preservado, observando-se ateromatose esparsa com extensas calcificações no território coronariano. Presença de esternorrafia metálica e sinais de revascularização do miocárdio, associadas a densificação dos planos adiposos peristernais, sem coleções significativas. O coração apresenta dimensões normais. Não há linfonodomegalias mediastinais. A traquéia e os brônquios principais possuem calibre normal e encontram-se pérvios. Notam-se bandas parenquimatosas de aspecto atelectásico esparsas em ambas as bases pulmonares, sendo o restante do parênquima pulmonar sem alterações evidentes, sem focos de consolidação alveolar. Observa-se pequeno derrame pleural bilateral. Há ainda diverticulose cólica, sem sinais inflamatórios agudos.
+
+- Ecocardiograma transtorácico 09/10/2019: Raiz Aorta 32 mm AE 40 mm Ventriculo Direito Basal 34 mm Ventrículo Direito Médio 25 mm Septo 10 mm Parede Posterior 9 mm DDVE 52 mm DSVE 42 mm FE 50% Índice de Massa 88 g/m². As câmaras cardíacas foram avaliadas, evidenciando ventrículo esquerdo com espessura preservada, porém com função sistólica diminuída à custa de acinesia nas paredes inferior (segmento basal), anterior (segmento basal) e inferolateral. Não foi possível a análise da função diastólica. O ventrículo direito apresenta função sistólica normal, observando-se ainda movimentação atípica do septo ventricular.
+A valva mitral apresenta calcificação discreta do anel valvar, sendo que o estudo Doppler e o mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. A valva aórtica apresenta aspecto e movimentação normais de suas válvulas, com estudo Doppler e mapeamento com fluxo em cores dentro da normalidade. A valva tricúspide apresenta aspecto e movimentação normais de suas cúspides, com insuficiência de grau mínimo ao Doppler. A valva pulmonar apresenta aspecto e movimentação normais de suas válvulas, com estudo Doppler e mapeamento com fluxo em cores normais.
+A avaliação da aorta ficou prejudicada devido à inadequada visualização do arco aórtico. O pericárdio apresenta espessura normal, com aumento mínimo do líquido pericárdico. Não foi possível estimar a pressão sistólica da artéria pulmonar (PSAP) devido à dificuldade técnica em alinhar o feixe do Doppler ao jato de insuficiência tricúspide.
+4) Terapia Medicamentosa
+Medicação prévia:  Não descrito
+Medicação durante a internação: Dobutamina, Noradrenalina, Insulina NPH, AAS, atorvastatina, furosemida, heparina, omeprazol, enoxaparina, atenolol, enalapril
+5) Terapia Intervencionista
+Cirurgia de Revascularização Miocárdica com Circulação Extracorpórea Mamária Esquerda-Descendente Anterior, Safena-Marginal 30/09/2019
+6) Dispositivos
+
+- Cateter Venoso Central em Veia Jugular Interna Direita
+- Cateter de Pressão Arterial em Artéria Radial Direita
+- Mediano 
+- Dreno Pleural Esquerdo
+7) Situação funcional na alta
+
+Paciente refere tosse seca sem novos episódios de dispneia, nega dor em ferida operatória , nega palpitações ou algum outro sintoma.
+8) Status laboratorial na alta
+- Laboratório 10/10/2019: Hemoglobina 9.9 g/dL Hematócrito 30% Leucócitos 11650/mm³ Plaquetas 389.000/mm³ Ureia 71 mg/dL Creatinina 1,88 mg/dL Sódio 143 mEq/L Potássio 4,2 mEq/L Proteína C Reativa (PCR) 13,86 mg/L
+9) Prescrição de Alta
+
+Furosemida VO
+10 Orientações de alta para o paciente
+-
+10 Orientações de seguimento
+-

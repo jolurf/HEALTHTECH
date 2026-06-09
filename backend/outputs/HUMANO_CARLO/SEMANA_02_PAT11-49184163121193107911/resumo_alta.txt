@@ -1,0 +1,47 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+DAC (IAM 08/2014)
+Hipertensão arterial sistêmica há 20 anos
+Dislipidemia
+Câncer de Mama bilateral, mastectomia 1996 e 1999, fez quimioterapia por meses e 35 sessões de RT.
+Insuficiência renal crônica  não-dialítica (Cr = 1,82 / TFG = 28 mL/min - 30/09/15)
+2) Dados da Internação
+Data de [entrada] admissão: 04/01/2016
+Data de alta: 04/01/2016
+Permanência em UTI?
+-  Não
+Motivo da internação:
+Paciente com queixa de piora da dispnéia atual(CF I ambulatorial) há pouco
+mais de uma semana, de caráter progressivo, agora com dispnéia aos mínimos
+esforços, ortopnéia, dispnéia paroxística noturna, associada a tosse seca e
+náuseas, que melhora com uso de isossorbida 40mg. Nega síncope, dor torácica,
+febre, bem como outros sintomas. Está tomando bastante água durante o dia,
+não foi orientada a fazer restrição hídrica
+Diagnóstico da Internação: 
+
+Dor torácica anginosa tipo B
+Dispnéia classe funcional I
+3) Exames da Internação
+-Ecocardiograma transtorácico 03/01/2026 - aumento importante do átrio esquerdo e aumento moderado do átrio direito, além de aumento biventricular discreto. O ventrículo esquerdo apresenta hipertrofia excêntrica e função sistólica diminuída às custas de hipocinesia difusa, não sendo possível a análise da função diastólica. O ventrículo direito apresenta função sistólica preservada. Observa-se movimentação assincrônica do septo ventricular. A valva mitral apresenta aspecto e movimentação normais de suas cúspides, porém o estudo Doppler e o mapeamento com fluxo em cores demonstram insuficiência de grau moderado. A valva aórtica apresenta sinais de fibrocalcificação mínima, com mobilidade preservada de suas válvulas, gradiente sistólico máximo VE–Ao estimado em 5 mmHg e estudo Doppler com fluxo em cores sem alterações. A valva tricúspide apresenta aspecto e movimentação normais de suas cúspides, com insuficiência de grau discreto a moderado ao Doppler com mapeamento em cores. A valva pulmonar apresenta aspecto e movimentação normais de suas válvulas, com estudo Doppler e mapeamento com fluxo em cores dentro da normalidade. Os seios aórticos, a aorta ascendente e o arco aórtico apresentam diâmetros e fluxo normais. O pericárdio apresenta aspecto ecocardiográfico normal. A pressão sistólica estimada em artéria pulmonar pelo Doppler é de 42 mmHg (valor de referência < 35 mmHg).
+4) Terapia Medicamentosa
+Medicação prévia: carvedilol, losartana, AAS, furosemida, sinvastatina, clortalidona, isossorbida, clopidogrel, omeprazol, furosemida,
+Medicação durante a internação: heparina, carvedilol, furosemida, losartana, atorvastatina, AAS, omeprazol
+5) Terapia Intervencionista
+- Procedimentos invasivos realizados durante a internação
+- Exemplos; cirurgia, angioplastia, implante de dispositivo
+- Não incluir procedimentos não invasivos que tenham sido realizados - exemplo: irrigação vesical
+- Atenção ao que realmente é procedimento: “Fios de marcapasso” diferente de “marcapasso”
+- Sempre mencionar a data em que o procedimento foi realizado
+6) Dispositivos
+-
+7) Situação funcional na alta 
+
+Paciente consciente, orientado e sem queixas. Pressão arterial de 120/70 mmHg, frequência cardíaca de 70 batimentos por minuto e peso de 57,2 kg. Apresenta murmúrio vesicular presente, com discreta redução nas bases pulmonares. Bulhas cardíacas rítmicas e normofonéticas, sem sopros. Abdome sem alterações ao exame. Ausência de edema em membros inferiores.
+8) Status laboratorial na alta
+- Laboratório 05/01/2016 - Hemoglobina 10,2 Hematócrito 30% Leucócitos 6090/mm³ Plaquetas 161.000/mm³ Uréia 78 Creatinina 2,28 mg/dL Sódio 142 mEq/L Potássio 3,8 mEq/L Magnésio 1,5 mEq/L Proteina C Reativa (PCR) 13,44 mg/L INR 1,3 Cálcio Ionizado 1.16 mMol/L
+9) Prescrição de Alta
+10 Orientações de alta para o paciente
+10 Orientações de seguimento

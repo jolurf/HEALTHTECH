@@ -1,0 +1,69 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão arterial sistêmica
+- Diabetes mellitus
+- Acidente vascular encefálico prévio em 2011 - sem sequelas
+2) Dados da Internação
+Data de [entrada] admissão: 22/03/2018
+Data de alta: 04/04/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para avaliação intra-hospitalar de revascularização miocárdica pela equipe de coronárias após cateterismo cardíaco eletivo.
+Diagnóstico da Internação:
+- Doença arterial coronariana crônica triarterial
+- Pós-operatório de cirurgia de revascularização miocárdica com ponte mamária esquerda para artéria descendente anterior, safena para ramo descendente posterior e safena para ramo marginal (29/03/2018)
+3) Exames da Internação
+- Cateterismo cardíaco (22/03/2018): artéria coronária direita com lesão de 100% no óstio, artéria descendente anterior com lesão 90% no terço médio, artéria circunflexa de pequena importância com irregularidades.
+- Ecocardiograma transtorácico (23/03/2018): seio aórtico 28mm / átrio esquerdo 36mm / ventrículo direito basal 31mm / ventrículo direito médio 22mm / septo ventricular 9mm / parede posterior do ventrículo esquerdo 9mm / diâmetro diastólico do ventrículo esquerdo 46mm / diâmetro sistólico do ventrículo esquerdo 30mm / fração de ejeção 55%.
+Câmaras Cardíacas: Câmaras cardíacas de tamanhos normais.
+Ventrículos: Ventrículo esquerdo apresenta espessura normal e função sistólica preservada apesar de acinesia em segmento basal da parede ínfero-lateral e inferior, além de hipocinesia do segmento apical da parede anterior. Achados de Doppler compatíveis com alteração de relaxamento ventricular esquerdo. Ventrículo direito apresenta função sistólica normal.
+Valva Mitral: Calcificação do anel valvar de grau mínimo. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Aórtica: trivalvular com sinais de fibrocalcificação moderado, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo VE-Ao estimado em 20 mmHg e médio em 14 mmHg. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva Tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais.
+Pericárdio: Pericárdio com aspecto ecocardiográfico normal.
+- Ultrassom de carótidas (23/03/2018): Ateromatose carotídea bilateral. Estenose inferior a 50% nas artérias carótidas internas. Artérias vertebrais sem sinais de lesão estenosante significativa.
+- Ecocardiograma transtorácico (03/04/2018): seio aórtico 34mm / átrio esquerdo 36mm / ventrículo direito basal 29mm / ventrículo direito médio 22mm / septo ventricular 11mm / parede posterior do ventrículo esquerdo 11mm / diâmetro diastólico do ventrículo esquerdo 43mm / diâmetro sistólico do ventrículo esquerdo 29mm / fração de ejeção 60%.
+Câmaras Cardíacas: Câmaras cardíacas de tamanhos normais.
+Ventrículos: Ventrículo esquerdo apresenta aumento da espessura relativa de parede sugestivo de remodelamento concêntrico e função sistólica preservada apesar de acinesia em parede(s) septal (segmento basal) e inferior (segmento basal). Índices de função diastólica normais. Ventrículo direito apresenta função sistólica normal.
+Valva Mitral: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Aórtica: Apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 28 mmHg e médio em 16 mmHg. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva Tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Aorta ascendente mede 35 mm.
+Pericárdio: Pericárdio com espessura normal e aumento mínimo do líquido.
+Observação: Não foi possível estimar a PSAP devido dificuldade técnica em alinhar o feixe do Doppler ao jato da insuficiência tricúspide.
+4) Terapia Medicamentosa
+Medicação prévia: Captopril, Anlodipino, Ácido acetilsalicílico, Glimepirida, Sinvastatina.
+Medicação durante a internação: Enoxaparina, Ácido acetilsalicílico, Maleato de Enalapril, Hidroclorotiazida, Atenolol, Atorvastatina, Cristalóide, Dobutamina, Cefuroxima, Omeprazol, Dipirona, Furosemida, Vasopressina, Insulina Humana Ação Intermediária, Metformina, Enalapril, Atenolol, Heparina.
+5) Terapia Intervencionista
+- 29/03/2018: cirurgia de revascularização miocárdica com circulação extracorpórea (ponte mamária esquerda para artéria descendente anterior, safena para ramo descendente posterior e safena para ramo marginal). Sem intercorrências. Tempo de circulação extracorpórea de 1h24. Tempo de anóxia 58min.
+6) Dispositivos
+- Cateter venoso central em veia jugular direita
+- Dreno mediano
+- Dreno pleural esquerdo
+- Fio de marcapasso em ventrículo direito
+- Pressão arterial invasiva em artéria radial esquerda
+- Sonda vesical de demora
+- Tubo orotraqueal
+7 Situação funcional na alta
+Paciente estável clinicamente, bem e sem queixas. Sono e apetite preservados Funções excretórias presentes.
+Bom estado geral, hidratado, corado, anictérico, acianótico.
+Murmúrio vesicular presente simétrico, sem ruídos adventícios.
+Primeira bulha hipofonética. Sopro sistólico ejetivo mais audível em foco aórtico, irradiação para fúrcula, pico mesossistólico 2+/6. Segunda bulha hiperfonética.
+Abdome globoso, flácido, inocente.
+Extremidades sem edema.
+Ferida operatória limpa, seca, sem deiscência e sem sinais infecciosos em esterno ou safena.
+8) Status laboratorial na alta
+- 02/04/2018: hemoglobina 13,1 / leucócitos 5230 / plaquetas 142000 / ureia 39 / creatinina 1,1 / sódio 140 / potássio 4,2 / magnésio 2,0 / proteína C reativa 62,1 / cálcio ionizado 1,24
+9) Prescrição de Alta
+- Atorvastatina 20mg 2 comprimidos a noite
+10 Orientações de alta para o paciente
+- Seguir com uso da medicação para diabetes mellitus bem como seu controle via ambulatorial em Unidade Básica de Saúde.
+10 Orientações de seguimento
+- Sem

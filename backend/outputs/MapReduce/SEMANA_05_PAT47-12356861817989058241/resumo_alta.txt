@@ -1,0 +1,92 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Doença Isquêmica Crônica do Coração – 13/08/2018  
+Revascularização Cirúrgica – 17/08/2018  
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 14/08/2018  
+Data de alta: 24/08/2018  
+Permanência em UTI? não  
+Motivo da internação:  
+  Angina instável com dor torácica em esforço, dispneia e sudorese há 2 meses; teste ergométrico positivo para isquemia; cateterismo revelou lesão do tronco da coronária esquerda (~70 %) e DAP 60 %; encaminhado para avaliação cirúrgica e posterior revascularização miocárdica programada. No pós‑operatório apresentou instabilidade hemodinâmica necessitando suporte pressórico e, posteriormente, constipação intestinal.
+Diagnóstico da Internação:  
+Angina Instável  
+Lesão do tronco da coronária esquerda (TCE)  
+Pós‑operatório de revascularização miocárdica (POi)  
+Constipação intestinal  
+
+3) Exames da Internação
+13/08/2018 – Cateterismo coronariano: TCE 70% e DAp 60%  
+13/08/2018 – CATE: TCE 70% e DAp 60%  
+15/08/2018 – Ecocardiograma transtorácico: FEVE 64%: Ventrículo esquerdo apresenta função sistólica e espessura miocárdica preservadas, não sendo observadas alterações na mobilidade segmentar de parede. Achados de Doppler compatíveis com alteração de relaxamento ventricular esquerdo. Ventrículo direito apresenta função sistólica normal.  
+18/08/2018 – ECG: Ecg=15, sem deficits  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+AAS  
+Diltiazem  
+Diltiazen  
+Monocordil  
+Propanolol  
+Propranolol  
+Medicação durante a internação:  
+Cefuroxima  
+Dobuta  
+Dobutamina  
+Hidrocortisona  
+Noradrenalina  
+Norepinefrina  
+
+5) Terapia Intervencionista
+13/08/2018 – Cateterismo coronariano  
+14/08/2018 – Cateterismo coronariano com vasodilatador intra‑procedimento; lesão importante do tronco da coronária esquerda  
+15/08/2018 – Ecocardiograma transtorácico  
+23/08/2018 – Revascularização sem circulação extracorpórea (CEC)  
+
+6) Dispositivos
+2 drenos pleurais – 17/08/2018  
+Cateter venoso central (via jugular interna direita) – 17/08/2018  
+Cateter arterial periférico radial direito – 17/08/2018  
+Sonda vesical de demora – 17/08/2018  
+TOT – 17/08/2018  
+Fio MCP VD – 17/08/2018  
+Cateter de oxigênio – 18/08/2018  
+Cateter de oxigênio – 19/08/2018  
+
+7) Situação funcional na alta
+Paciente assintomático, alerta, normocorado, hidratado, frequência cardíaca 100 bpm, pressão arterial 100 x 60 mmHg, sem sopros, crepitação discreta em base esquerda, edema 1+/4+ em membro inferior esquerdo, abdômen inocente.
+
+8) Status laboratorial na alta
+VA fácil / Tempo anestésico: 6h30  
+Recebeu – Cristalóide: 2500 ml + Alb 100 ml  
+Diurese: 1300 ml  
+BH: +500 ml / Sg: -290 ml (compressas)  
+Y: 8 g  
+TCA: 117 >> 111  
+Ht: 46 >> 45 %  
+Lact: 12 >> 16  
+Na: 136 >> 139  
+K: 3,7 >> 4,3  
+Cai: 1,17 >> 1,17  
+ATB: Cefuroxima 1,5 g 13 h  
+DVAs: Dobuta 3,98 mcg/kg/min  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter dieta, observar evacuações e diurese.  
+
+Seguimento:  
+Manter clopidogrel suspenso.  
+Solicitar exames laboratoriais de rotina.  
+Aguardar cirurgia (SO) agendada para sexta‑feira e confirmar informação amanhã.

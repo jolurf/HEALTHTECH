@@ -1,0 +1,45 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- Infarto Agudo do Miocárdio julho/2015 sem terapia de reperfusão
+- Hipertensão Arterial Sistêmica
+- Diabetes Mellitus
+- Gota
+- Etilismo (parou há 4 meses)
+- Erisipela de repetição com Edema de MIE de longa data
+2) Dados da Internação
+Data de [entrada] admissão: 10/07/2016
+Data de alta: 19/07/2016
+Permanência em UTI?
+Sim
+Motivo da internação: 
+   Não descrito (presume-se que internação eletiva para Cirurgia de Revascularização Miocárdica)
+Diagnóstico da Internação:
+Não descrito (presume-se que internação eletiva para Cirurgia de Revascularização Miocárdica)
+3) Exames da Internação
+Não descrito
+4) Terapia Medicamentosa
+Medicação prévia: AAS, Clopidogrel, Atorvastatina, Carvedilol, Enalapril, Metformina, Isossorbida, Alopurinol, Ranitidina
+Medicação durante a internação: Noradrenalina, Dobutamina, Eritropoetina, Colchicina,AAS, Carvedilol, Metformina, Hidroclorotiazida, Alopurinol, Omeprazol, Atorvastatina, Enoxaparina, Ranitidina, Pantoprazol, Cefuroxima, Dipirona, Furosemida, Heparina, Hidrocortisona, Sulfato Ferroso
+5) Terapia Intervencionista
+Cirurgia de Revascularização Miocárdica com Circulação Extracorpórea - Mamária-Descendente Anterior; Safena-Marginal; Safena-Coronária Direita
+6) Dispositivos
+- Sonda Vesical de Demora
+- Cateter arterial de Pressão Arterial não invasiva em Artéria Radial Direita
+- Cateter Venoso Central Veia Jugular Interna Direita
+- Dreno Mediano
+- Dreno Pleural Esquerdo
+7 Situação funcional na alta:
+Paciente segue bem no leito, sem queixas. Nega dor. Nega dispnéia. Nega náuseas. Boa aceitação alimentar.
+Sou informado pela enfermagem que paciente apresentando secreção sanguinolenta espessa após expressão daferida operatório de esternotomia. leucocitose ou elevação de PCR. Afebril.
+8) Status laboratorial na alta
+
+Laboratório 18/07/2016: Hemoglobina 9.4 g/dL Hematócrito 28% Leucócitos 10610/mm³ Plaquetas 532000/mm³ Ureia 70 mg/dL Creatinina 1,29 mg/dL Sódio 137 mEq/L Potássio 3.9 mEq/L Magnésio 1.7 mEq/L Proteína C Reativa (PCR) 221.31 mg/L INR 1.1 TTPa 31 segundos Cálcio Ionizado 1.17 mMol/L
+9) Prescrição de Alta
+Não descrito
+10 Orientações de alta para o paciente
+Não descrito
+10 Orientações de seguimento
+- Retorno em 01 semana no ambulatório de curativos para avaliar FO.

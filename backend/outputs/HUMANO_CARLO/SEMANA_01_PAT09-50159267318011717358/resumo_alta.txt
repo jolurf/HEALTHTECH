@@ -1,0 +1,73 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- G2P2c (último parto cesáreo há 12 dias com relato de sangramento volumoso)
+- Pré-eclâmpsia em gestação anterior
+- Hipertensão diagnosticada em última gestação
+- Hipotireoidismo
+2) Dados da Internação
+Data de [entrada] admissão: 08/06/2023
+Data de alta: 15/06/2023
+Permanência em UTI?
+- Sim
+Motivo da internação:
+Paciente puérpera, parto cesáreo com sangramento volumoso há 12 dias,
+com passado de pré-eclâmpsia em gestação anterior e hipertensão gestacional
+na última gestação, encaminhada ao INCOR proveniente do HU com diagnóstico de
+IAMCSSST. Refere dor torácica em aperto, iniciada em repouso, de forte
+intensidade, com irradiação para MSE e mandíbula, iniciada hoje por volta das
+14:00. Procurou HU, onde realizou ECG com evidência de supradesnivelamento de
+segmento ST em paredes inferior, lateral e dorsal. Feito AAS 300mg e morfina
+2mg. Trazida ao INCOR, admitida hemodinamicamente estável, sem DVA, mantendo
+dor, intensidade 5/10. Realizado novo ECG à admissão com evidência de redução
+do supra. Aberto porta-balão imediatamente.
+Diagnóstico da Internação:
+3) Exames da Internação 
+
+ECG com 2h de dor (sem data descrita): Supra de 1,5mm em região latero-dorsal, 1mm em parede
+inferior
+ECG INCOR (sem data descrita): melhora do supra, ARV latero-dorsal + ESVV
+- Cateterismo cardíaco 08/06/23: Artéria DA contorna o ápice do VE, com sinal de dissecção
+de 50% no terço médio de DA. Demais artérias sem lesões obstrutivas.
+Ventriculografia: Disfunção sistólica global leve, com valva mitral
+competente
+
+- ECOTT 08/06/23: FE: 55%, hipocinesia dos segmentos médio e basal da
+parede lateral. VD sem disfunção. Insuficiência mitral discreta.
+- Ressonância Magnética Cardíaca (09/06/2023): Achados consistentes com infarto agudo do miocárdio
+transmural, com áreas de no-reflow / obstrução microvascular.Câmaras
+cardíacas com dimensões preservadas. Disfunção sistólica discreta do
+ventrículo esquerdo. Presença de edema no segmento inferolateral médio.
+- Angiotomografia de coronárias (09/06/2023): Escore total de cálcio coronariano de zero.
+Área de afilamento focal proximal da artéria primeira marginal com componente
+de dilatação pós-estenótico e sem lesões associadas. Seu aspecto por imagem é
+inespecífico, mas comporta a possibilidade de dissecção coronariana focal no
+contexto apresentando. Coexiste realce tardio de padrão isquêmico nos
+segmentos miocárdicos supridos por seus ramos, com imagem hipodensas junto à
+face subendocárdica, achados que podem traduzir a presença de infarto com
+componente de obstrução microvascular.
+- Eletrocardiograma 12/06/2023: Extrassístoles Ventriculares, Extrassístoles Supra-Ventriculares, Alterações da Repolarização ventricular
+4) Terapia Medicamentosa
+Medicação prévia: Captopril
+Medicação durante a internação:  AAS, clopidogrel, atenolol, enalapril, hidroclorotiazida, levotiroxina, omeprazol, enoxaparina, lactulose, lanolina + vaselina pomada, atorvastatina, carbonato de magnésio, anlodipino, cloreto de potássio, metoprolol, ivabradina, tridil,
+5) Terapia Intervencionista
+
+-
+6) Dispositivos
+
+Não descrito
+7) Situação funcional na alta
+
+Paciente em leito de enfermaria, lúcida e orientada, assintomática, com controles estáveis. Encontra-se em bom estado geral, anictérica, acianótica, afebril e sem DVA. Ao exame do aparelho respiratório, apresenta MVBD, sem RA, em ar ambiente. No aparelho cardiovascular, observa-se RCR em 2T, BNF, sem sopros, com TEC < 3 segundos. Extremidades bem perfundidas, sem edema, com TEC < 3 segundos. Presença de hematoma em sítio de punção radial direita, em reabsorção e sem sopro.
+8) Status laboratorial na alta
+
+- Laboratório 16/06/2023: Hemoglobina de 12,6 g/dL, hematócrito de 38%, leucócitos de 6,3 mil/mm³ e plaquetas de 449 mil/mm³. Ureia de 24 mg/dL e creatinina de 0,87 mg/dL. Sódio de 138 mEq/L, potássio de 4,7 mEq/L e magnésio de 2,2 mg/dL. Proteína C reativa de 13 mg/L.
+9) Prescrição de Alta
+Não descrito
+10 Orientações de alta para o paciente
+
+Retorno no Ambulatório de MINOCA em 30 dias
+10 Orientações de seguimento
+Não descrito

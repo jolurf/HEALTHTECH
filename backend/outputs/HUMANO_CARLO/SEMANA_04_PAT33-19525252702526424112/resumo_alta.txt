@@ -1,0 +1,42 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+     - DAC triarterial e disfunção ventricular grave
+- DM não insulino-dependente 
+- Obesidade
+- Apneia do sono, sem uso de CPAP
+2) Dados da Internação
+Data de [entrada] admissão: 26/06/2019
+Data de alta: 03/07/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+Paciente internado em caráter eletivo para realização de revascularização do miocárdio.
+Diagnóstico da Internação: 
+- DAC multiarterial com FEVE 45%
+- PO RM Ma-Da; Sf-Mg1E; Sf-Dg2 27/06/2019
+3) Exames da Internação 
+- Não descrito
+4) Terapia Medicamentosa
+Medicação prévia: Carvedilol, enalapril, furosemida, metformina, AAS, Atorvastatina
+Medicação durante a internação: Cefuroxima, Dobutamina, Tridil, AAS, Carvedilol, Atorvastatina, Metformina, Omeprazol, pomada anti coagulante a base de heparina, dipirona
+5) Terapia Intervencionista
+- 27/06/2019: Cirurgia de Revascularização Miocárdica Ma-Da; Sf-Mg1E; Sf-Dg2
+6) Dispositivos
+- Dispositivos que foram implantados no paciente durante a internação
+- Exemplos: sonda vesical de demora, cateter venoso central, cateter de pressão arterial invasiva, sonda nasoenteral
+- Incluir apenas os que de fato foram implantados
+7 Situação funcional na alta
+- Mantém-se assintomático, sem queixas. Sem intercorrências durante à noite.
+8) Status laboratorial na alta
+-  Laboratório 02/07/19: Hemoglobina 11.5 Leucócitos 7160 Plaquetas 273.000 Ureia 43 Creatinina 0.99 Sódio 143 Potássio 4.2 Magnésio 2.40 PCR 87.16
+9) Prescrição de Alta
+- Não descrita
+10 Orientações de alta para o paciente
+- Atestado Médico 45 dias
+- Orientações quanto ao repouso 
+- Procurar PS-InCor, se intercorrências
+10 Orientações de seguimento
+- Não descrito

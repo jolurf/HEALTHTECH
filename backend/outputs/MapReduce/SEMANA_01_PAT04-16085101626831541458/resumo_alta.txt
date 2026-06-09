@@ -1,0 +1,114 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Aterosclerose  
+Infarto Agudo do Miocárdio sem terapia de reperfusão  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus tipo 2  
+Gota  
+Etilismo (abstinência há 4 meses)  
+Erisipela recorrente  
+Edema crônico de membros inferiores  
+Vícios: etilismo (abstinente há 4 meses)  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+Observação: não incluir medicações, exames ou prática de exercícios físicos nesta seção.
+
+2) Dados da Internação
+Data de admissão: 2016‑07‑10  
+Data de alta: 2016‑07‑19  
+Permanência em UTI? sim  
+Motivo da internação:  
+Sangramento discreto de anastomose pós‑operatório (inclui anastomose do cólon descendente) – 11 a 14 de julho 2016.  
+Avaliação e controle de doença coronariana (síndrome coronariana) em paciente com histórico de infarto do miocárdio, hipertensão arterial e diabetes mellitus – 15 de julho 2016.  
+Secreção sanguinolenta espessa da ferida de esternotomia sem sinais de infecção sistêmica – 19 de julho 2016.  
+Diagnóstico da Internação:  
+Sangramento de anastomose (11/07/2016; 12/07/2016 – discreto)  
+Anóxia (11/07/2016)  
+Lesão estenosante coronariana (15/07/2016)  
+Secreção sanguinolenta da ferida de esternotomia (19/07/2016)  
+
+3) Exames da Internação
+16/03/2016 – Doppler de carótidas e vertebrais: Estenose inferior a 50 % dos bulbos carotídeos, das artérias carótidas internas. Artérias vertebrais sem sinais de lesão estenosante significativa.  
+28/03/2016 – ECG: Sinusal, diminuição de forças septais, ARV.  
+28/03/2016 – Radiografia de tórax: Ndn.  
+28/03/2016 – Ecocardiograma: FE 55 % AE 36 % S 8 % PP 7 % VE 52x38 mm FE 55 % hipocinesia septal (segmento apical), IAo discreta.  
+
+4) Terapia Medicamentosa
+Medicação prévia (antes da internação):  
+AAS  
+Alopurinol  
+Atorvastatina  
+Carvedilol  
+Clopidogrel  
+Enalapril  
+Isossorbida  
+Metformina  
+Ranitidina  
+Medicação durante a internação:  
+Alopurinol  
+Antifibrinolítico  
+Carvedilol  
+Cefuroxima  
+Colchicina  
+Dobutamina  
+Enalapril  
+Isossorbida  
+Metformina  
+MTF  
+Noradrenalina  
+Ranitidina  
+
+5) Terapia Intervencionista
+11/07/2016 – Dreno pleural esquerdo  
+11/07/2016 – Dreno mediano  
+11/07/2016 – Cateter venoso central (CVC) via jugular interna direita  
+11/07/2016 – Cateter arterial periférico (PAI) radial  
+11/07/2016 – Sonda vesical de demora (SVD)  
+11/07/2016 – 3º PO RM com CEC MA‑DA; Sf‑MG; Sf‑CD  
+
+6) Dispositivos
+Cateter venoso central de inserção interna (CVC VJID) – 11/07/2016, 12/07/2016, 13/07/2016  
+Pressão arterial invasiva (PAI ARD) – 11/07/2016, 12/07/2016, 13/07/2016  
+Sonda vesical de demora (SVD) – 11/07/2016, 12/07/2016, 13/07/2016  
+Dreno mediano – 11/07/2016, 12/07/2016, 13/07/2016  
+Dreno pleural esquerdo (Dreno pleural E) – 11/07/2016, 12/07/2016, 13/07/2016  
+
+7) Situação funcional na alta
+Paciente apresenta secreção sanguinolenta espessa da ferida de esternotomia, sem leucocitose, PCR normal e afebril.
+
+8) Status laboratorial na alta
+Exames pré‑operatórios de 28/03/2016  
+Hb 12,1 g/dL  
+Ht 38 %  
+Leucócitos 9 560 /mm³  
+Plaquetas 318 000 /mm³  
+Colesterol total 171 mg/dL  
+HDL 51 mg/dL  
+LDL 107 mg/dL  
+Triglicerídeos 66 mg/dL  
+Glicemia 115 mg/dL  
+Uréia 55 mg/dL  
+Creatinina 1,23 mg/dL  
+Na⁺ 142 mmol/L  
+K⁺ 5,1 mmol/L  
+HbA1c 5,7 %  
+Urina: sem leucocitúria, sem proteinúria  
+INR 1,0  
+TTPA 1,11  
+TSB+ PAI negativo  
+Sorologias HBV/HCV/HIV negativas  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter alta hospitalar e retornar em 1 semana ao ambulatório de curativos para avaliação da ferida operatória.  
+
+Seguimento:  
+não consta

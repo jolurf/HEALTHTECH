@@ -1,0 +1,51 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- DPOC
+- Ex-tabagista
+- Dissecção crônica de aorta ascendente
+- Insuficiencia aórtica discreta a moderada
+2) Dados da Internação
+Data de [entrada] admissão: 17/01/2019
+Data de alta: 01/02//2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação para tratamento cirúrgico de dissecção crônica de aorta Stanford A
+Diagnóstico da Internação: 
+     - Dissecção crônica de aneurisma de aorta Stanford A
+- Taquicardia supraventricular no POI
+- Pericardite no POI 
+- Fibrilação Atrial intermitente de difícil ajuste (taquicardia vs bradicardia)
+- Delírium Hiperrativo no 1° PO  resolvido
+- Traqueobronquite
+3) Exames da Internação
+- Ecocardiograma transesofágico 18/01/2019: Exame Pré-CEC: Ventrículo esquerdo apresenta função sistólica preservada, não sendo observadas alterações na mobilidade segmentar de parede. A fração de ejeção foi estimada em 65% (VN > 54%). Ventrículo direito apresenta função sistólica normal. Valva mitral apresenta espessamento valvar discreto, com mobilidade normal de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva aórtica apresenta movimentação normal e espessamento discreto de suas válvulas. Falha de coaptação entre suas válvulas. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Valva tricúspide apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Medidas da aorta: seios aórticos 40 mm, junção sinotubular 38 mm, aorta ascendente 67 mm. Septo atrial íntegro. Não visibilizados trombos ou massas intracavitárias.
+- Anatomopatológico de produto de correção cirúrgica de dissecção crônica em aorta ascendente 21/01/2019: Dissecção crônica em parede de artéria elástica, com hematoma em organização em superfície delaminada, fibrose e degeneração mucóide moderadas em túnica média e fibrose adventicial moderada e difusa. Aterosclerose, com fibrose e calcificação em placas ateromatosas, em parede de artéria elástica.
+
+- Anatomopatológico de valva natural em posição aórtica 21/02/2019: Alterações degenerativas em estroma valvar, representadas por degeneração mucóide intensa e difusa, metaplasia adiposa multifocal, fibrose discreta e focal e calcificação moderada. Área focal de reatividade endocárdica. Proliferação filiforme constituída por tecido conjuntivo avascular na face ventricular de um dos folhetos valvares, morfologicamente compatível com excrescência de Lambl.
+
+- Ecocardiograma transtorácico 29/01/2019: Seio Aórtico 42 mm Átrio Esquerdo 45 mm Ventrículo Direito Basal 39 mm Ventrículo Direito médio 28 mm Septo 10 mm Parede Posterior 10 mm DDVE 42 mm DSVE 27 mm IMVE 78 g/m² FE 66%. Aumento discreto de átrio esquerdo. O volume do átrio esquerdo medido pela regra de Simpson foi estimado em 38 ml/m2 (valor normal < 34 ml/m2). Demais câmaras de tamanhos normais. Ventrículo esquerdo apresenta função sistólica preservada e aumento da espessura relativa de parede sugestivo de remodelamento concêntrico, não sendo observadas alterações na mobilidade segmentar de parede. Achados de Doppler compatíveis com padrão pseudonormal. Ventrículo direito apresenta função sistólica normal. Valva mitral apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente sistólico máximo VE-Ao estimado em 24 mmHg e médio em 12 mmHg. Valva tricúspide apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Valva pulmonar apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Tubo normoposicionado em aorta ascendente medindo 30 mm. Derrame pericárdico discreto. Ausência de sinais de restrição ao enchimento ventricular. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 26 mmHg (VN < 35 mmHg).
+4) Terapia Medicamentosa
+Medicação prévia: Atenolol enalapril, AAS, anlodipino, atorvastatina, alenia
+Medicação durante a internação: Dobutamina, Noradrenalina, Amiodarona, dipirona, furosemida, ceftriaxona, AAS, cefuroxima, omeprazol, haloperidol, hidrocortisona, lactulose, prednisona, metoprolol, formoterol + budesonida, heparina, ibuprofeno, colchicina, atorvastatina, enoxaparina, carbonato de magnésio, varfarina
+5) Terapia Intervencionista
+- PO (18/01) Troca de Ao ascendente com tubo supracpronariano + interposição
+de Dacron + TV Ao Bio 21 + plastia tricúspide
+6) Dispositivos
+- Cateter Venoso Central em Veia Jugular interna Direita
+- Dreno Mediano
+- Fio de Marcapasso
+- Sonda Nasogástrica
+7 Situação funcional na alta
+- Vigil, orientada. Refere sono reparador e boa aceitação da dieta. Hoje com discreto edema de membros inferiores, porém com boa perfusão e presença de insuficiência venosa periférica. Nega alterações urinárias (aspecto e volume) e alterações do TGI. Nega dispneia e queixas álgicas.Controles: Afebril / Normotensa / Normocárdica / Eupneica. Ao EF: BEG, COTE, h,c,A,A,A. AR: MV+ AHT, sem RAs, eupneica em AA. FO em BE e sem sinais flogísticos. ACV: RCR a 2T, BNF, SS ejetivo em FAo ++/6 (perfil de prótese) e SS regurgitativo em F Tri +++/6. EJ neg. AB: Inocente. Ext: sem edemas, BPP.
+8) Status laboratorial na alta
+- Laboratório 01/02/2019: Hemoglobina 7.8 g/dL Hematócrito 26% Leucócitos 7310/mm³ Plaquetas 860.000/mm³ Ureia 34 mg/dL Creatinina 1,09 mg/dL Sodio 142 mEq/L Potássio 4.9 mEq/L Magnésio 1.8 mg/dL Proteína C Reativa (PCR) 23.27 mg/L
+9) Prescrição de Alta
+-
+10 Orientações de alta para o paciente
+- Retorno no amb. de TP em 7 dias, UNCAR em 15 dias e no amb. de Ao em abril
+10 Orientações de seguimento
+-

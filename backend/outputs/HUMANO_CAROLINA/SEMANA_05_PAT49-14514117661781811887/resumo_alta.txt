@@ -1,0 +1,56 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão arterial sistêmica
+- Diabetes mellitus
+- Dislipidemia
+- Obesidade
+2) Dados da Internação
+Data de [entrada] admissão: 18/02/2021
+Data de alta: 03/03/2021
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Paciente transferida via CROSS. Refere ter procurado pronto-socorro externo ontem (17/02) por quadro de dispneia (estava cansando para os afazeres domésticos, o que não acontece normalmente). Além disso, refere que nos 3 dias anteriores à admissão, apresentou diarreia aquosa, várias vezes ao dia, sem sangue.
+Diagnóstico da Internação:
+- Hipertensão pulmonar - descompensada?
+> Síndrome da apneia e hipopneia obstrutiva do sono
+> Hipoventilação da obesidade
+> Alta probabilidade de tromboembolismo pulmonar pela cintilografia V/Q
+- Luxação glenoumeral - reduzida em 23/02/2021
+- Doença renal crônica agudizada (KDIGO 2)
+- Tromboembolismo venoso - trombose da veia safena magna direita.
+3) Exames da Internação
+- Ecocardiograma transtorácico (19/02/2021): fração de ejeção 55%, sinais indiretos de hipertensão pulmonar. Pressão sistólica da artéria pulmonar 77mmHg.
+- Tomografia computadorizada de tórax (18/02/2021): Exame realizado em caráter de urgência. Ausência de derrame pleural bilateral. Espessamento parietal brônquico difuso. Bandas parenquimatosas esparsas, compatíveis com atelectasias laminares / estrias residuais. Micronódulos/diminutos nódulos esparsos bilaterais, alguns calcificados (residuais) e outros sem calcificações evidentes (inespecíficos). Restante do parênquima pulmonar com atenuação normal. Ausência de linfonodomegalias mediastinais. Traqueia e brônquios-fonte pérvios, de calibre preservado. Ectasia das artérias pulmonares, que tem calibre de 2,8 cm. Tronco pulmonar com calibre no limite superior (3,0 cm). Demais estruturas vasculares do mediastino com trajeto e diâmetro normais. Ateromatose aórtica e coronariana. Calcificações mitrais grosseiras. Espondilose dorsal.
+- Doppler venoso de membro inferior direito (23/02/2021): Trombose da veia safena magna, distando 6,0 cm da crossa.
+- Doppler venoso de membro inferior esquerdo (23/02/2021): Ausência de sinais de trombose venosa profunda.
+- Cintilografia de inalação e perfusão pulmonar (25/02/2021): Alta probabilidade de tromboembolismo pulmonar (agudo?).
+- Prova de função pulmonar (26/02/2021): VEF1 1,14 (47%) > 1,31 (54%) +15% CVF 1,87 (62%) > 1,97 (65%) + 5% Rel 0,61 > 0,66. Distúrbio ventilatório obstrutivo moderado com CVF reduzida.
+4) Terapia Medicamentosa
+Medicação prévia: Atenolol, Losartana, Anlodipino, Furosemida, Metformina, Alenia.
+Medicação durante a internação: Enoxaparina, Furosemida, Adrenalina, Atenolol, Lactulose, Ondansetrona, Anlodipino, Heparina, Poliesterinossulfonato de cálcio, Formoterol + Budesonida, Diazepam, Loratadina, Budesonida, Varfarina.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Cateter nasal de oxigênio
+- Ventilação não invasiva
+7 Situação funcional na alta
+Durante a avaliação em cateter nasal de oxigênio saturando 97% em 3L/min. Em uso de ventilação não invasiva intermitente com boa tolerabilidade. Vigil e orientada, se mantendo eupneica, com sinais vitais estáveis, sem necessidade de droga vasoativa. Sem epistaxe.
+Bom estado geral, lúcida e orientada em tempo e espaço, obesa.
+Murmúrio vesicular reduzido em bases. Frequência respiratória 18 irpm. Saturação periférica de oxigênio 95% com cateter nasal de oxigênio 3L/min. Eupneica.
+Ritmo cardíaco regular, bulhas normofonéticas, sem sopros. Frequência cardíaca 90 bpm.
+Abdome em avental, inocente.
+Membros inferiores com edema bilateral e com cordões varicosos.
+Extremidades quentes.
+Adiposidade em região cervical posterior.
+8) Status laboratorial na alta
+- 03/03/2021: hemoglobina 10,9 / leucócitos 7140 / plaquetas 237000 / ureia 45 / creatinina 1,3 / sódio 142 / potássio 4,9 / magnésio 2,0 / cálcio ionizado 1,16 / RNI 1,0 / TTPA 43 segundos.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

@@ -1,0 +1,90 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Infarto Agudo do Miocárdio (IAM)  
+Hipertensão Arterial Sistêmica (HAS)  
+Diabetes Mellitus  
+Dislipidemia  
+Vícios: não consta  
+Cirurgias prévias realizadas: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2018‑10‑30  
+Data de alta: 2018‑11‑06  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Internação eletiva para cirurgia de revascularização miocárdica/coronária (30/10/2018, 31/10/2018, 05/11/2018); internação eletiva para recuperação de válvula mitral (RVM) (01/11/2018); internação em UTI cirúrgica, eupneico, em uso de O₂ por cânula nasal, hemodinamicamente estável (03/11/2018); queixa de insônia e dor torácica ao mobilizar (05/11/2018).
+Diagnóstico da Internação:  
+Recuperação de Válvula Mitral (RVM) – 01/11/2018  
+Pós‑operatório de revascularização miocárdica (PO RM) – 31/10/2018  
+
+3) Exames da Internação
+08/10/2018 – ECOTT: FE 55% Acinesia dos segmentos basaias das paredes inferolateral, septal, septal inferior e inferior  
+06/09/2018 – Cateterismo (CATE): TRIARTERIAL DA 70% tercio medio 90% distal 1dg ostio 70% cx 7% tercio medio 2MG 70% ostio Cd 90% tercio distal E 70% tercio medio  
+[sem data] – ECG: area inativa inferior  
+08/10/2018 – Ecocardiograma: FE 55% Acinesia dos segmentos basaias das paredes inferolateral, septal, septal inferior e inferior  
+06/09/2018 – Cateterismo: TRIARTERIAL DA 70% tercio medio 90% distal 1dg ostio 70% cx 7% tercio medio 2MG 70% ostio Cd 90% tercio distal E 70% tercio medio  
+[sem data] – Eletrocardiograma: area inativa inferior  
+
+(exames listados exatamente como descritos, sem abreviações)  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  Ablock (atenolol + clortalidona)  
+  anlodipina  
+  Glibenclamida  
+  HCTZ  
+  losartana  
+  Metformina  
+  sinvastatina  
+Medicação durante a internação:  
+  AAS  
+  Atenolol  
+  Cefuroxima  
+  Dobutamina  
+  Procinéticos  
+  Óxido nítrico  
+
+5) Terapia Intervencionista
+31/10/2018 – Cirurgia de revascularização miocárdica  
+05/11/2018 – Cirurgia de revascularização miocárdica  
+02/11/2018 – Retirada de fio de MP  
+
+6) Dispositivos
+Cateter Venoso Central (CVC) – tipo CJID – 31/10/2018; 05/11/2018  
+Cateter Venoso Central (CVC) – tipo VJID – 01/11/2018  
+Cateter de Pressão Venosa Central (CVP) – tipo VRE – 31/10/2018; 05/11/2018  
+Cateter Arterial Venoso (AVP) – tipo VRE – 01/11/2018  
+Dreno mediano e pleural – tipo E – 31/10/2018; 01/11/2018; 05/11/2018  
+Fio de Medição de Pressão (MP) – tipo VE – 31/10/2018; 01/11/2018; 05/11/2018  
+Pressão Arterial Invasiva (PAI) – tipo ARE – 31/10/2018; 01/11/2018; 05/11/2018  
+
+7) Situação funcional na alta
+Paciente assintomático, hemodinamicamente estável, eupneico, deambulando, PA 130/80 mmHg, FC 84 bpm, saturação 98 %, bom estado geral, vigil, orientado, boa perfusão capilar periférica, sem edema, sem secreção nas vias aéreas.
+
+8) Status laboratorial na alta
+HB: 15‑12  
+HT: 46‑37  
+Na: 130‑136  
+K: 3.9‑4  
+LAC: 17‑56  
+GLIC: 253‑173  
+TCA: 98‑120  
+
+(valores apresentados conforme registro; datas não especificadas)  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Oriento sinais de alarme.  
+Orientações gerais ao paciente e família.  
+
+Seguimento:  
+Avaliar alta amanhã.

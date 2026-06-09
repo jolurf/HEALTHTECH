@@ -1,0 +1,53 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- HIpertensão Arterial Sistêmica
+- Doença Renal Crônica dialítica há 1 ano
+- Doença arterial coronariana triarterial com acometimento proximal de artéria descendente anterior
+2) Dados da Internação
+Data de [entrada] admissão: 26/10/2021
+Data de alta: 05/11/2021
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de revascularização miocárdica
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de revascularização miocárdica (28/10/2021)
+3) Exames da Internação
+- Tomografia computadorizada de tórax (27/10/2021): Ateromatose esparsa e acentuada em território coronariano. Estruturas vasculares do mediastino com calibre externo preservado. Não se caracterizam linfonodomegalias mediastinais. Linfonodos calcificados no hilo pulmonar esquerdo de aspecto residual. Traqueia e brônquios principais com calibre normal. Leve espessamento difuso das paredes brônquicas. Acentuação das silhuetas bronquiolares. Nota-se ectasia de alguns brônquios nos campos pulmonares inferiores. Focos de enfisema pulmonar parasseptal esparsos e bilaterais. Discretas opacidades subpleurais e lineares esparsas e bilaterais compatíveis com atelectasias laminares / estrias residuais. Micronódulos pulmonares medindo até 0,3 cm esparsos por ambos os pulmões, alguns calcificados (residuais) e outros sem calcificação evidente, incaracterísticos ao método. Não há derrame pleural bilateral. Sinais de leve ginecomastia bilateral. Alterações degenerativas da coluna vertebral, com leve redução da altura anterior de corpos vertebrais dorsais inferiores. Imagem hipoatenuante no rim esquerdo parcialmente visualizado neste estudo.
+- Cultura do sangue periférico (01/11/2021): parcial negativa
+- Urocultura (01/11/2021): negativa
+- Cultura do cateter (01/11/2021): parcial negativa
+4) Terapia Medicamentosa
+Medicação prévia: Ácido acetilsalicílico, Anlodipino, Furosemida, Atorvastatina, Metoprolol, Hidróxido férrico, Calcitriol.
+Medicação durante a internação: Anlodipino, Furosemida, Ácido acetilsalicílico, Cefuroxima, Pantoprazol, Dipirona, Mupirocina, Protamina, Cálcio, Cristalóide, Dobutamina, Noradrenalina, Omeprazol, Eritropoietina, Sacarato de Hidróxido Férrico, Heparina, Lactulose, Simeticona, Domperidona, Ácido fólico, Atorvastatina, Atenolol.
+5) Terapia Intervencionista
+- 28/10/2021: cirurgia de revascularização miocárdica (artéria mamária interna esquerda para artéria coronária descendente anterior, veia de safena a partir da aorta para o ramo marginal e veia de safena a partir da aorta para o ramo ventricular posterior direito). Sem intercorrências. Tempo de circulação extracorpórea de 1h43. Tempo de anóxia 1h28.
+6) Dispositivos
+- Cateter venoso central em veia jugular interna direita
+- Jelco em artéria radial esquerda
+- Dreno mediastinal
+- Dreno pleural esquerdo mediano
+- 2 fios de marcapasso em ventrículo direito
+- Tubo orotraqueal
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Sem uso de drogas vasoativas. Realizou hemodiálise hoje pela manhã, sem intercorrências. Sem picos febris. Cicatriz cirúrgica com bom aspecto. Aceitando bem a dieta. Hábitos fisiológicos presentes.
+Consciente, escala de coma de Glasgow 15, pupilas isofotorreagentes. Sem sedação.
+Ritmo cardíaco regular, bulhas normofonéticas, sem sopros.
+Murmúrio vesicular presente bilateralmente, sem ruídos adventícios.
+Abdome plano, flácido, indolor, ruídos hidroaéreos presentes.
+Membros inferiores simétricos, sem edema. Pulsos cheios. Boa perfusão. Membros aquecidos.
+Curativo em perna esquerda no local da safenectomia.
+8) Status laboratorial na alta
+- 05/11/2021: hemoglobina 8,8 / leucócitos 9680 / plaquetas 476000 / troponina 495 / ureia 110 / creatinina 8,22 / sódio 137 / potássio 5,1 / magnésio 2,4 / proteína C reativa 96,9 / gasometria venosa com pH 7,36 e bicarbonato 23,5 / cálcio ionizado 1,26 / lactato venoso 11
+9) Prescrição de Alta
+- Atorvastatina 20mg 1 comprimido ao dia
+10 Orientações de alta para o paciente
+- Uso regular das medicações
+- Retorno ambulatorial em 30 dias
+- Em caso de sintomas cardiovasculares ir ao pronto-socorro do INCOR.
+10 Orientações de seguimento
+- Sem

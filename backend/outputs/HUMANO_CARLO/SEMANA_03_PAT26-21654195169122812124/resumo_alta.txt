@@ -1,0 +1,57 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Troca Valvar Mitral Prótese Biológica Biológica n° 31 em 2002 na Santa Casa de Santos
+- Doença arterial coronariana  uniarterial (ADA 100%d)
+- Hipertensão Arterial Sistêmica
+- Dislipidemia
+- Varizes de membros inferiores 
+- Sedentária
+2) Dados da Internação
+Data de [entrada] admissão: 10/02/2016
+Data de alta: 21/0/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente com antecedente de troca valvar mitral PBio 31 em 2002  apresenta há cerca de 2 anos dispnéia de piora progressiva até esforços menores que habituais, ortopnéia, DPN (eventualmente) e edema de MMII. Alguns episódios de dor precordial em pontada, curta duração, sem relação com esforços. Refere episódios raros de palpitações de curta duração, bem tolerados. 1 único episódio de síncope em julho de 2014, ao mudar de decúbito, precedido por mal-estar, tonturas e sudorese, curta duração, presenciado pela filha, sem versão ocular, sem movimentos tônico-clônicos de membros, com liberação esfincteriana (iria ao banheiro). Refere perda de peso não quantificada. Avaliada ambulatorialmente, sendo constatada disfunção de prótese mitral e internada eletivamente para cirurgia.
+Diagnóstico da Internação:
+- Internação eletiva para cirurgia de troca valvar mitral devido disfunção de prótese biológica (estenose > insuficiência)
+- Insuficiência renal aguda no pós-operatório 
+- Traqueobronquite
+- Serosite pós-operatória?
+3) Exames da Internação
+- Anatomopatológico de prótese valvar mitral 12/02/2016 - PRÓTESE VALVAR BIOLÓGICA APRESENTANDO DEGENERAÇÃO E CALCIFICAÇÃO DOS FOLHETOS, COM ÁREA DE LACERAÇÃO; PRESENÇA DE PANUS FOCALMENTE E DEPOSIÇÃO SUPERFICIAL DE FIBRINA
+
+- Anatomopatológico de trombo no átrio esquerdo 12/02/2016 - TROMBO SANGUÍNEO CONSTITUÍDO POR FIBRINA, HEMÁCEAS E LEUCÓCITOS ÍNTEGROS E DEGENERADOS
+
+- Anatomopatológico de linfonodo mediastinal 12/02/2016 - LINFONODO COM ARQUITETURA PRESERVADA, EXIBINDO INTENSA ANTRACOSE
+
+- Ecocardiograma transtorácico 18/02/2016 - Seio Aórtico 35 mm Átrio Esquerdo 51 mm Ventrículo Direito Basal 30 mm Ventrículo Direito Médio 20 mm Septo Ventricular 10 mm Parede Posterior VE 9 mm DDVE 50 mm DSVE 33 mm Índice de Massa 100 g/m³ FE 63%.
+Aumento importante de átrio esquerdo. O volume do átrio esquerdo medido pela regra de Simpson foi estimado em 46 ml/m2 . Demais câmaras de tamanhos  normais. Ventrículo esquerdo apresenta função sistólica preservada e hipertrofia miocárdica excêntrica, não sendo observadas alterações na mobilidade segmentar de parede. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Movimentação atípica do septo ventricular. Prótese biológica mitral com espessamento dos seus folhetos e mínima regurgitação central ao Doppler e mapeamento de fluxo em cores. Gradiente diastólico médio AE-VE estimado em 3 mmHg. Valva aórtica apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo VE-Ao estimado em 16 mmHg. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto a moderado. Valva tricúspide apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva pulmonar apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais. Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais. Pericárdio com aspecto ecocardiográfico normal. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 20 mmHg (VN < 35 mmHg). Prótese biológica em posição mitral sem sinais de disfunção. Insuficiência aórtica de grau discreto a moderado. Insuficiência tricúspide de grau discreto.
+4) Terapia Medicamentosa
+Medicação prévia: Atenolol, omeprazol, sinvastatina, furosemida, digoxina, AAS
+Medicação durante a internação: ringer lactato, ácido aminocapróico, dobutamina, cefuroxima, furosemida, ceftazidima, lactulose, pomada anticoagulante a base de heparina, varfarina, cloreto de potássio, hidroclorotiazida, omeprazol, heparina, AAS, dipirona, atenolol,
+5) Terapia Intervencionista
+- 11/02/2016 Cirurgia de Troca de Prótese Biológica Mitral N° 29
+6) Dispositivos
+
+- Dreno mediano
+- Dreno pleural direito
+- Dreno  pleural esquerdo
+-  2 fios de MP no VD
+- Cateter de Pressão Arterial Invasiva em artéria  radial direita
+- Cateter venoso central em Veia Jugular Interna Esquerda
+- Tubo Orotraqueal
+7 Situação funcional na alta
+Paciente relata melhora da tosse em relação ao dia anterior, hoje leve tosse seca. Nega ortopneia ou dispneia paroxística noturna. Ao exame físico: bom estado geral, corada, hidratada, acianótica, afebril, anictérica, eupnéica, frequência cardíaca 82 bpm, pressão arterial 108x70 mmHg, sem congestão direita ou esquerda. Pulmões: murmúrio vesicular presente bilateralmente, com estertores grosseiros em bases. Cardiovascular: ritmo cardíaco irregular, bulha 1 normal, sem sopros, bulha 2 normal, atrito pericárdico monofásico. Abdome: globoso, flácido, indolor, ruídos hidroaéreos presentes, sem visceromegalias. Ferida operatória: esterno fixo, sem sinais flogísticos ou secreção local. Membros inferiores: varizes de membros inferiores, sem sinais de trombose.
+8) Status laboratorial na alta
+- Laboratório 21/02/2016: Hemoglobina 8 g/dL Hematócrito 25% Leucócitos 9590/mm³ Plaquetas 170.000/mm³ INR 1,8 Uréia 59 mg/dL Creatinina 1,21 mg/dL Sódio 138 mEq/L Magnésio 1,9 mEq/L Proteína C Reativa (PCR) 58.95 mg/L
+9) Prescrição de Alta
+-  Mantida corticoterapia iniciada em 20/02/2016 devido serosite por 7 dias
+- Reduzida dose diária de diureticoterapia para 20 mg/dia
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não descrito

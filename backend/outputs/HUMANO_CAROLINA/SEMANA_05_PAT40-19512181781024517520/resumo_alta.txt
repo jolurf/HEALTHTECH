@@ -1,0 +1,37 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana
+- Hiperplasia prostática benigna
+- Hipertensão arterial sistêmica (há 1 mês)
+- Ex-etilista social
+2) Dados da Internação
+Data de [entrada] admissão: 04/03/2018
+Data de alta: 06/03/2018
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Internação eletiva para realização de cateterismo cardíaco e angioplastia pelo protocolo ASET.
+Diagnóstico da Internação:
+- Angioplastia de artéria coronária direita eletiva (05/03/2018)
+3) Exames da Internação
+- Eletrocardiograma (05/03/2018: anormal, não clinicamente significativo.
+4) Terapia Medicamentosa
+Medicação prévia: Doxazosina, Finasterida, Atenolol, Ácido acetilsalicílico, Atorvastatina, Anlodipino.
+Medicação durante a internação: Clopidogrel
+5) Terapia Intervencionista
+- 05/03/2018: angioplastia da coronária direita com implante de 02 stents farmacológicos, guiada e controlada por IVUS, com sucesso.
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Paciente clinicamente estável, confortável em ar ambiente. Sem queixas no momento. Sem hematoma ou complicações no sítio de punção.
+8) Status laboratorial na alta
+- 06/03/2018: CK-MB 1,2 / troponina inferior a 0.006
+9) Prescrição de Alta
+- Prasugrel
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Seguimento ambulatorial

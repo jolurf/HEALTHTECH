@@ -1,0 +1,59 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Febre reumática - troca valvar mitral por estenose mitral com prótese biológica em 2012
+- Surto agudo de febre reumática em 2015 - artrite e cardite. Sem novos surtos após, sem disfunção
+de ventrículo esquerdo
+- Disfunção de prótese mitral do tipo estenose
+- Hipertensão arterial sistêmica
+2) Dados da Internação
+Data de [entrada] admissão: 26/04/2018
+Data de alta: 08/05/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para abordagem cirúrgica de doença valvar
+Diagnóstico da Internação:
+- PO retroca valvar prótese biológica mitral nº 27
+- Paralisia frênica bilateral - melhora clínica e radiológica com fisioterapia
+- Anemia
+3) Exames da Internação
+- Ultrassom de tórax (02/05/2018): sem mobilidade cúpula frênica esquerda. Redução de mobilidade cúpula frênica direita.
+- Biópsia (02/05/2018): prótese valvar biológica mitral (estenose com insuficiência): panus em face ventricular de dois folhetos da prótese, constituído por tecido conjuntivo com fibrose densa e difusa, infiltrado inflamatório linfomononuclear. Discreto e focal e reação inflamatória a corpo estranho do tipo cirúrgico, com calcificação discreta e focal. Alterações degenerativas em colágeno e calcificação difusa, com metaplasia óssea, em folhetos da prótese. Trombo superficial de fibrina em folheto da prótese.
+- Ecocardiograma transtorácico (03/05/2018): seio aórtico 29mm / átrio esquerdo 52mm / septo ventricular 10mm / parede posterior do ventrículo esquerdo 9mm / diâmetro diastólico do ventrículo esquerdo 49mm / diâmetro sistólico do ventrículo esquerdo 30mm / fração de ejeção do ventrículo esquerdo 69%. Aumento importante de átrio esquerdo. Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente diastólico máximo átrio esquerdo-ventrículo esquerdo estimado em 15 mmHg e médio em 8 mmHg. Em vigência de taquicardia. Valva aórtica: apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 12 mmHg. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva tricúspide: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 46 mmHg.
+- Tomografia computadorizada de crânio 04/05/2018: Parênquima cerebral com coeficientes de atenuação normais. Cisternas basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média. Não há sinais de sangramentos intracranianos ou coleções extra-axiais.
+4) Terapia Medicamentosa
+Medicação prévia: benzetacil, atenolol, furosemida, fluoxetina, ciclobenzaprina.
+Medicação durante a internação: ringer lactato, albumina, cefuroxima, dobutamina, nitroprussiato, omeprazol, dipirona, furosemida, heparina, fluoxetina, lactulose, fleet enema, ácido fólico, sulfato ferroso, prednisona, ciclobenzaprina, atenolol,
+5) Terapia Intervencionista
+- 27/04/2018: retroca valvar prótese biológica mitral nº 27. Tempo de circulação extracorpórea 1h14min. Tempo de anóxia 1h04min. Sangramento difuso discreto no fim do tempo cirúrgico, segundo cirurgião sem intercorrências mecânicas durante o procedimento.
+6) Dispositivos
+- Cateter Venoso Central em veia jugular direita
+- Pressão arterial invasiva em artéria radial direita
+- Dreno mediano
+- Dreno pleural esquerdo
+- Dreno pleural direito
+- Tubo orotraqueal 7,5
+- Sonda vesical de demora
+- Fio de marcapasso em ventrículo direito
+- Acesso venoso periférico em membro superior direito
+7 Situação funcional na alta
+Refere melhora da dispneia e parcial da dor no corpo. Mantém queixa de cefaleia occipital.
+Pressão arterial 110/60mmHg. Frequência cardíaca 88bpm. Frequência respiratória 20irpm. Saturação periférica de oxigênio 98% em ar ambiente.
+Regular estado geral, lúcida e orientada em tempo e espaço, descorada (++/4), anictérica.
+Bulhas cardíacas rítmicas em 2 tempos, sem sopros.
+Ferida operatória seca e sem saída de secreção a expressão manual.
+Murmúrio vesicular bilateralmente distribuído, sem ruídos adventícios.
+Abdome semi globoso, ruídos hidroaéreos presentes, flácido, indolor.
+Extremidades perfundidas e sem edema.
+Glasgow 15 sem déficits focais.
+8) Status laboratorial na alta
+- 07/05/2018: Hemoglobina 7,0 / Leucócitos 11480 / Plaquetas 249000 / Creatinina 0,67 / Ureia 19 / Sódio 138 / Potássio 4,6 / Magnésio 2,0 / Proteína C Reativa 52,97 / Cálcio ionizado 1,30.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

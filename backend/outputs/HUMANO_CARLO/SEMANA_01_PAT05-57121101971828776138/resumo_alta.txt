@@ -1,0 +1,80 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+IMi moderada por prolapso em Classe Funcional I
+Taquicardia Ventricular Não Sustentada
+Ex-etilista
+Ex-tabagista
+2) Dados da Internação
+Data de [entrada] admissão: 29/12/2016
+Data de alta: 10/01/2017
+Permanência em UTI? 
+Sim
+Motivo da internação:
+Dor precordial tipo aperto por 7 horas continuas em 28/12/16, após
+esforço fisico, que piorava com alguns movimentos do torax, sem sintomas
+associados. Na admissão ECG sinusal, com extrassistoles ventriculares frequentes e
+sinais de sobrecarga de ventriculo esquerdo com  elevação dos marcadores de necrose miocárdica. Realizado Ressonância de coração que foi sugestiva de infarto e descartou miocardite. Realizado Angiotomografia de coronárias, que evidenciou anomalia de coronárias, com óstio unico a direita, assim como lesões obstrutivas. Submetido ao cateterismo em 30/12/16 que revelou imagem
+sugestiva de trombo em Cx (lesão culpada?) e lesão de 80% em CD focal.
+Diagnóstico da Internação:
+IAMSSST Killip I / TIMI 2 / CRUSADE 33
+3) Exames da Internação
+Eletrocardiograma 29/12/2016: ECG sinusal, com extrassistoles ventriculares frequentes, sinais de sobrecarga VE.
+Ressonância de Coração 29/12/2016 : Infarto miocárdico anterolateral basal recente, com no-reflow.
+Infarto inferior médio-basal prévio, com envolvimento do papilar pósteromedial. Insuficiênci mitral. FEVE 62%.
+Angiotomografia de Coronárias 29/12/2016: 
+Tronco coronariano único, curto, com origem do seio de
+Valsalva direito. Bifurca-se em artéria coronária direita, esta com trajeto
+habitual, e em artéria calibrosa que apresenta trajeto anterior a via de
+saída do VD, dando origem, em seguinda, à artéria descendente anterior.
+Continua-se em direção ao sulco atrioventricular esquerdo, emitindo neste
+trajeto uma artéria diagonal (Dg2) e uma artéria marginal (Mg1). No sulco
+atrioventricular esquerdo, se continua como artéria circunflexa, emite um
+segundo ramo marginal (Mg2) e se termina como terceiro ramo marginal (Mg3) e pequeno ramo atrioventricular. Não se observa artéria emergindo do seio de Valsalva esquerdo. Artéria Circunflexa com placa não calcificada na transição entre os segmentos médio e distal (de onde emerge o segundo ramo marginal), que determina oclusão / suboclusão deste vaso. Segmento após alesão depequeno calibre, com opacificação preservada. Artéria Segunda
+Marginal emerge da lesão supracitada na Cx, apresenta-se afilada e com
+opacificação reduzida, sendo responsável pelo suprimento do território no
+qual se caracterizou infarto miocárdico no estudo de ressonância da mesma
+data. Artéria Coronária Direita com placa focal não calcificada no segmento
+médio, que determina redução luminal importante. Escore de cálcio coronariano
+de zero.
+-  Ecocardiograma transtorácico 30/12/2016: AE39 SV7 PP7 VE55X35 FEVE66%, hipocinesia em segmento basal da parede inferior. Valva mitral com prolapso de cúspide anterior
+
+- CATE 30/12/2016: Artéria coronária única com origem do seio aórtico direito,
+originando artéria descendente anterior com ponte miocárdica no 1/3 médio, CX
+com imagem sugestiva de trombo no 1/3 médio (a cavaleiro?) sem restrição ao
+fluxo coronário; CD com estenose de 80% no 1/3 médio; Ventriculo esquerdo com acinesia apical e hipocinesia lateral e insuficiência mitral moderada.
+
+- Cintilografia miocárdica  02/01/2016: Discreta hipocaptação transitória de parede
+inferior (segmento apical, médio, basal). Hipocaptação persistente de parede
+ântero-lateral (segmento basal).
+
+- Ultrassonografia de coronárias 06/01: Reestudo de ACD com ultrasson intracoronário , via
+Artéria Radial direita , para melhor avaliação de obstrução em terço médio
+distal a Angiografia. Imagem ultrassonográfica sem sinais de Aterosclerose.
+Artéria coronária direita com tortuosidade importante e área luminal mínima
+de 2,22 mm2 na região avaliada . Reestudo Angiográfico de ACX ,sem lesões
+obstrutivas ,não visualizada imagem negativa sugestiva de trombo,detectada em
+exame prévio.
+4) Terapia Medicamentosa
+Medicação prévia: Atenolol
+Medicação durante a internação: Varfarina, Atenolol, Enalapril, Captopril, Ranitidina, pomada anticoagulante à base de heparina, Atorvastatina, Enoxaparina, Clopidogrel, AAS, Propranolol, Fondaparinux, Colchicina, Ibuprofeno
+5) Terapia Intervencionista
+-
+6) Dispositivos
+-
+7) Situação funcional na alta
+Paciente sem intercorrêncais nas ultimas 24h. Sem queixas no
+momento. Bom estado geral. Neuro: acordado, orientado, ECG15. Cardio: estável hemodinamicamente, sem DVAs. BCRNF, 2t. FC 60. Resp: ausculta limpa, eupneico em ar ambiente, mantendo saturação adequada. Abdômen: flácido, indolor a palpação. Aceitando bem a dieta VO. Extremidades: quentes, boa perfusão, sem edema. Hematoma em sitio de punção radial direita, em melhora. Cavidade oral: sem novos sangramentos
+8) Status laboratorial na alta
+Laboratório 05/01/2017: Hemoglobina 14,2 g/dL Hematócrito 40% Leucócitos 6760/mm³ Plaquetas 197.000/mm³ Ureia 27 mg/dL Creatinina 0,86 mg/dL Sódio 139 mEq/L Potássio 4,6 mEq/L 
+Laboratório 10/01/2017 - INR 2
+9) Prescrição de Alta
+Não descrito
+10 Orientações de alta para o paciente
+- Solicitada coleta de tempo de protrombina para 13/01/2017 (paciente trará o exame
+na UCO)
+- Retorno no ambulatório da UCO
+10 Orientações de seguimento
+- Caso do paciente será discutido na reunião do dia 12/01/2017

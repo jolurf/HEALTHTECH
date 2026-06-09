@@ -1,0 +1,67 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Infarto agudo do miocárdio em 2017
+- Hipertensão arterial sistêmica
+- Diabetes mellitus
+- Dislipidemia
+2) Dados da Internação
+Data de [entrada] admissão: 30/10/2018
+Data de alta: 06/11/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de revascularização miocárdica
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de revascularização miocárdica com pontes artéria mamária para artéria descendente anterior, safena para ramo marginal, safena para ramo ventricular posterior (31/10/2018)
+3) Exames da Internação
+- Ecocardiograma transtorácico (01/11/2018):
+Ventrículos: Ventrículo esquerdo apresenta função sistólica diminuída às custas de aparente acinesia nas paredes inferior e inferolateral (janela ecocardiográfica muito limitada). A fração de ejeção foi estimada em 45%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva Mitral: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Aórtica: Apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 18 mmHg.
+Valva Tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva Pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Aorta ascendente (segmento tubular) não visualizada de forma adequada para análise.
+Pericárdio: Pericárdio com espessura normal e aumento mínimo do líquido.
+Exame realizado na beira do leito, com dificuldades técnicas (janela ecocardiográfica muito limitada). Paciente em decúbito dorsal exclusivo, em uso de drogas vasoativas e com drenos.
+- Ecocardiograma transtorácico (02/11/2018):
+Ventrículos: Ventrículo esquerdo apresenta função sistólica diminuída às custas de acinesia nas paredes inferior e inferolateral. A fração de ejeção foi estimada em 45%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva Mitral: Apresenta aspecto e movimentação normais de suas cúspides. Estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva Aórtica: Apresenta sinais de fibrocalcificação mínima, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 20 mmHg. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva Tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais.
+Pericárdio: Pericárdio com aspecto ecocardiográfico normal.
+Ausência de sinais de hipertensão pulmonar.
+4) Terapia Medicamentosa
+Medicação prévia: Losartana, Anlodipino, Hidroclorotiazida, Metformina, Glibenclamida, Sinvastatina, Atenolol+Clortalidona.
+Medicação durante a internação: Dobutamina, Cefuroxima, Omeprazol, Dipirona, Furosemida, Ácido acetilsalicílico, Heparina, Atenolol, Sinvastatina, Metformina, Cloreto de potássio, Insulina NPH.
+5) Terapia Intervencionista
+- 31/10/2018: cirurgia de revascularização miocárdica (pontes artéria mamária para artéria descendente anterior, safena para ramo marginal, safena para ramo ventricular posterior). Sem intercorrências. Tempo de circulação extracorpórea de 1h16. Tempo de anóxia 1h03.
+6) Dispositivos
+- Cateter venoso central em veia jugular interna direita
+- Dreno mediano
+- Dreno pleural esquerdo
+- Fio de marcapasso em ventrículo esquerdo
+- Pressão arterial invasiva em artéria radial esquerda
+- Cateter venoso periférico em veia radial esquerda
+- Tubo orotraqueal
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Paciente assintomático, hemodinamicamente estável, eupneico em ar ambiente. Deambulando.
+Pressão arterial 130 x 80 mmHg. Frequência cardíaca: 84 bpm. Saturação periférica de oxigênio 98% em ar ambiente.
+Bom estado geral, vigil, orientado, boa perfusão capilar periférica.
+Turgência jugular negativa. Refluxo hepatojugular negativo.
+Murmúrio vesicular audível universalmente, sem ruídos adventícios.
+Ritmo cardíaco regular, 2 tempos, bulhas normofonéticas, sem sopro. Ferida operatória em bom aspecto sem saída de secreção.
+Abdome flácido, indolor.
+Membros inferiores sem edema, panturrilhas livres. Ferida operatória em bom aspecto sem saída de secreção.
+8) Status laboratorial na alta
+- 05/11/2018: hemoglobina 11,6 / leucócitos 4960 / plaquetas 166000 / ureia 65 / creatinina 1,22 / sódio 145 / potássio 3,1 / magnésio 2,0 / proteína C reativa 86,8 / BNP 374
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Orientado sinais de alarme
+10 Orientações de seguimento
+- Encaminhamento para UBS/AME Cardiologia

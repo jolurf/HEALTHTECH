@@ -1,0 +1,49 @@
+1) Dados do Paciente
+Nome completo:  -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- Miocardiopatia chagásica: atual CF 1, FE: 30% 2014
+- MP 2007 por bloqueio trifascicular, TG fev/2015 e POT plastia da loja do gerador em set/16 por granuloma infectado
+- FA paroxística em anticoagulação oral
+- Hipotireoidismo
+- Hipertensão arterial sistêmica
+2) Dados da Internação
+Data de [entrada] admissão: 03/01/2017
+Data de alta:  Não descrito, última evolução do dia 17/01/2017, sem menção à alta, possível óbito
+Permanência em UTI?
+-
+Motivo da internação:
+-  Paciente portadora de miocardiopatia dilatada de etiologia chagásica e disfunção ventricular importante, com marcapasso definitivo atrioventricular desde 2007 por bloqueio trifascicular. Em fevereiro de 2015 realizou a primeira troca de gerador, seguida de necessidade de plastia de loja em setembro de 2015. Posteriormente apresentou granuloma infectado em ferida operatória, sendo submetida à antibioticoterapia sistêmica e cuidados locais com curativo. Evoluiu com resolução de infecção, entretanto sem cicatrização adequada de incisão cirúrgica desde então. Estava em programação ambulatorial para realização de nova plastia de loja. Entretanto, há quinze dias evoluiu com presença de sinais flogísticos, saída de secreção purulenta através de incisão e extrusão de eletrodo. Foi introduzida antibioticoterapia sistêmica (ciprofloxacino) e programada internação hospitalar para realização de limpeza de loja e exteriorização do gerador, e posterior extrusão do sistema. Não havia história de febre ou outros sintomas sistêmicos, e encontrava-se assintomática do ponto de vista cardiovascular.
+Paciente foi então submetida ao procedimento cirúrgico proposto para exteriorização do gerador de pulsos conforme indicação clínica, sob sedação (midazolam + fentanil) e anestesia local, sem intercorrências. Em sala de recuperação anestésica, apresentou quadro de parada cardiorrespiratória em ritmo inicial de fibrilação ventricular, seguido de assistolia, com retorno da circulação espontânea após três ciclos de reanimação cardiopulmonar (tempo estimado de parada de oito minutos). Durante a parada, foram administradas três doses de adrenalina e realizada expansão volêmica com 1000 mL de Ringer lactato. Após retorno da circulação espontânea, em ritmo de marcapasso, foram administrados cloreto de cálcio, bicarbonato de sódio, sulfato de magnésio e glicose hipertônica, além do início de drogas vasoativas (noradrenalina e dobutamina). Paciente evoluiu pós PCR, sem sequela neurológica, mas com insulto hepático isquêmico e com piora da função renal. Apresenta desmame lento de drogas
+vasoativas, refratárias às medidas instituídas, sem terapia de destino. No
+momento evoluindo com piora clínica.
+Diagnóstico da Internação: 
+- Extrusão de eletrodo de MP + infecção da loja de marcapasso
+- PO (05/01) plastia de loja de MP com exteriorização do gerador 
+- Choque cardiogênico
+- PCR revertida (ritmo FV/ assistolia) - 1 choque e 3 ciclos (8 min) em 05/01 -> Hipoxemia?
+- Hepatite isquêmica
+- IRA AKIN III
+3) Exames da Internação 
+
+- Ultrassom Venoso de Membro superior direito 04/01/2017: Exame direcionado para pesquisa de trombose venosa profunda. Veias subclávia, axilar, braquiais, radiais e ulnares com trajeto, calibre e contornos preservados. Compressibilidade conservada às manobras habituais. Ao ecodoppler, nota-se fluxo venoso característico, com variações fásicas à respiração. Não há evidências de sinais de trombose venosa profunda e tromboflebite.
+
+- Ultrassom Venoso de Membro superior esquerdo 04/01/2017: Exame direcionado para pesquisa de trombose venosa profunda. Veias subclávia, axilar, braquiais, radiais e ulnares com trajeto, calibre e contornos preservados. Compressibilidade conservada às manobras habituais. Ao ecodoppler, nota-se fluxo venoso característico, observando-se variações fásicas com a respiração. Não há evidências de trombose venosa profunda ou tromboflebite.
+4) Terapia Medicamentosa
+Medicação prévia: Carvedilol, Enalapril, Omeprazol, Levotiroxina, Furosemida, Espironolactona, Marevan
+Medicação durante a internação: midazolam, fentanil, adrenalina, ringer lactato, cloreto de cálcio, bicarbonato de sódio, sulfato de magnésio, glicose hipertônica, dobutamina, noradrenalina, Brometo de n-butil-hioscina, ciprofloxacino, heparina, omeprazol, carvedilol, enalapril, espironolactona, furosemida, levotiroxina, tramadol, xarope de cloreto de potássio, dipirona, amiodarona, lactulose, hidrocortisona, oxido de zinco vitaminado pomada, morfina,
+5) Terapia Intervencionista
+- 05/01/2017  plastia de loja de MP
+6) Dispositivos
+- Tubo Orotraqueal, Cateter Venoso Central em Veia Jugular Interna Esquerda, Cateter de Pressão Arterial Invasiva em Artéria Radial Direita, Sonda Vesical de Demora, Acesso Venoso periférico em Membro Superior Esquerdo, Sonda Nasoenteral,
+7 Situação funcional na alta
+- Não descrito, última evolução do dia 17/01/2017, sem menção à alta, possível óbito
+8) Status laboratorial na alta
+- Último exame descrito: Laboratório 15/01/2017: Gasometria Venosa (pH 7,36 pCo2 52,4 mmHg pO2 31,4 mmHg Bicarbonato 29 mmol/L BE +3,2 mmol/L) Sódio 161 mEq/L Potássio 3,9 mEq/L Cálcio Ionizado 1,18 mMol Lactato Venoso 15 mg/dL
+9) Prescrição de Alta
+- Não descrito
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não descrito

@@ -1,0 +1,49 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão arterial sistêmica
+- Epilepsia (cisto aracnoide)
+- Doença arterial coronariana (infarto agudo do miocárdio prévio em 2019 tratado em serviço externo com angioplastia coronariana de artéria circunflexa; angioplastia de ramo diagonalis em 2020)
+- Gota
+2) Dados da Internação
+Data de [entrada] admissão: 03/06/2023
+Data de alta: 07/06/2023
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Dor anginosa típica aos esforços, associada à dispneia. Refere que acorda com dor torácica.
+Diagnóstico da Internação:
+- Angina instável em crescendo de alto risco
+3) Exames da Internação
+- Eletrocardiograma admissão: ritmo sinusal.
+- Cateterismo cardíaco (03/06/2023): tronco de coronária esquerda e artéria descendente anterior sem lesões. Artéria circunflexa e primeiro ramo marginal esquerdo com stents pérvios. Terceiro ramo marginal esquerdo com lesão 70% proximal. Ramo ventricular posterior esquerdo com lesão 60% proximal. Artéria coronária direita de pequena importância com lesão 90% distal.
+- Ecocardiograma transtorácico (03/06/2023): fração de ejeção do ventrículo esquerdo 55% com hipocinesia de parede inferolateral e segmento basal inferior. Sem sinais de hipertensão pulmonar.
+4) Terapia Medicamentosa
+Medicação prévia: Ácido valproico, Levetiracetam, Enalapril, Rosuvastatina, Succinato de Metoprolol, Vastarel, Clopidogrel, Ácido acetilsalicílico, Alopurinol.
+Medicação durante a internação: Atorvastatina, Levetiracetam, Enoxaparina, Alopurinol, Enalapril, Ácido acetilsalicílico, Clopidogrel, Enoxaparina, Ácido valproico, Omeprazol, Succinato de Metoprolol, Vastarel.
+5) Terapia Intervencionista
+- Angioplastia coronariana (03/06/2023): angioplastia de segundo ramo marginal esquerdo (MgE2) com insucesso por não ter conseguido ultrapassar a lesão.
+- Angioplastia coronariana (05/06/2023): angioplastia do segundo ramo marginal esquerdo (MgE2) com balão, com sucesso.
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Estável hemodinamicamente, sem droga vasoativa e confortável do ponto de vista respiratório.
+Sítio de punção sem sinais de complicação.
+Consciente e orientado, sem déficits focais
+Estável sem droga vasoativa. Bulhas rítmicas e normofonéticas, sem sopros. Estase jugular negativa.
+Murmúrio vesicular presente sem ruídos adventícios. Eupneico em repouso. Normoxêmico em ar ambiente.
+Abdome normotenso e indolor, sem visceromegalias.
+Sem lesão renal aguda ou distúrbios hidroeletrolíticos.
+Sem sinais de infecção, sangramento ou trombose.
+8) Status laboratorial na alta
+- 07/06/2023: hemoglobina 16,0 / leucócitos 11000 / plaquetas 225000 / troponina 154 / ureia 25 / creatinina 0,87 / magnésio 2,1
+9) Prescrição de Alta
+- Dupla antiagregação plaquetária por 1 ano
+- Atorvastatina 40mg 2 comprimidos 1 vez ao dia
+- Clopidogrel 75mg 1 comprimido 1 vez ao dia
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

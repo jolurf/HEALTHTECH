@@ -1,0 +1,48 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana crônica
+> Infarto agudo do miocárdio sem supradesnivelamento do segmento ST (2014) com angioplastia de artéria circunflexa com implante de stent farmacológico.
+> Ausência de precordialgia/angina
+> Provas funcionais positivas para isquemia em 2019
+- Pré-diabetes mellitus
+- Dislipidemia
+- Prótese quadril direito (2011)
+2) Dados da Internação
+Data de [entrada] admissão: 16/09/2019
+Data de alta: 23/09/2019
+Permanência em UTI?
+- Colocar “sim” se houve permanência em UTI; colocar “não” se não houve permanência em UTI
+Motivo da internação:
+- Paciente com DAC crônica, lesão importante de artéria descendente anterior ostial e proximal, com fração de ejeção preservada, assintomático. Internação eletiva para angioplastia de artéria descendente anterior com 2 stents farmacológicos.
+Diagnóstico da Internação:
+1) Pós-angioplastia com 2 stents farmacológicos em tronco coronário esquerdo e artéria descendente anterior, sem intercorrências
+2) Pico febril associado a 3 episódios de diarreia com aspecto colônico em 19/09/2019 - infecção do trato gastrointestinal? Colite pseudomembranosa?
+3) Exames da Internação
+- Sem
+4) Terapia Medicamentosa
+Medicação prévia: ácido acetilsalicílico, clopidogrel, rosuvastatina, neblock, glifage XR.
+Medicação durante a internação: ácido acetilsalicílico, clopidogrel, atorvastatina, neblock, ceftriaxona, metronidazol.
+5) Terapia Intervencionista
+-  Angioplastia coronariana (19/09/2019): angioplastia do tronco coronário esquerdo para artéria descendente anterior (TCE-ADA) com implante de 1 stent farmacológico (INSPIRON 3,0x23mm), com sucesso. Angioplastia da artéria descendente anterior (ADA) com implante de 1 stent farmacológico (PROMUS PREMIER 2,5X24mm), com sucesso.
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Assintomático. Sem novos episódios de diarreia.
+Bom estado geral, consciente, orientado, eupneico, anictérico, acianótico.
+Ritmo cardíaco regular, em 2 tempos, sem sopros.
+Murmúrio vesicular presente bilateralmente, sem ruídos adventícios.
+Abdome indolor à palpação
+Local de punção: femoral à direita, sem sinais de hematoma, sem frêmitos.
+Membros inferiores sem edemas. Sem sinais de trombose venosa profunda.
+8) Status laboratorial na alta
+- 23/09/2019: Hemoglobina 12,4 / Leucócitos 8380 / Plaquetas 224000 / Ureia 24 / Creatinina 0,91 / Sódio 140 / Potássio 4,1 / Magnésio 1,90 / Proteína C Reativa 17,18 /
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Orientações gerais
+- Manter medicamentos de uso contínuo
+10 Orientações de seguimento
+- Encaminhamento para unidade UNCOR em 30 dias

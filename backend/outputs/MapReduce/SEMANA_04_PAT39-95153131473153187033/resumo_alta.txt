@@ -1,0 +1,114 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Prótese mitral biológica (Braile nº 29) implantada em 07/08/2013  
+Febre reumática (comissurotomia em 2005)  
+Comissurotomia em 2005  
+Doença do refluxo gastroesofágico (DRGE)  
+Colesteatoma do ouvido médio com mastoidectomia radical à esquerda  
+Colecistectomia videolaparoscópica (2018)  
+Síndrome isquêmica crônica da perna (má circulação) com indicação cirúrgica  
+Triglicerídeos altos (TAG)  
+Estenose mitral importante de etiologia reumática  
+Disfunção de prótese mitral biológica (estenose e trombo em átrio esquerdo)  
+Insuficiência cardíaca com fração de ejeção levemente reduzida, descompensada, perfil B, associada à fibrilação atrial  
+Tromboembolismo pulmonar (TEP) – PESI II  
+Ansiedade  
+Taquicardia atrial (27/10/2023)  
+Fibrilação atrial de início recente (setembro/2023)  
+Vícios: não consta  
+Cirurgias prévias: comissurotomia (2005); mastoidectomia radical à esquerda (08/10/2023); colecistectomia videolaparoscópica (2018)  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 07/10/2023  
+Data de alta: 27/10/2023  
+Permanência em UTI? não  
+Motivo da internação:  
+  Dispneia progressiva associada a fibrilação atrial com resposta ventricular rápida, congestão pulmonar, dor abdominal aguda suspeita de isquemia mesentérica, e suspeita de trombose da prótese mitral e/ou tromboembolismo pulmonar.
+Diagnóstico da Internação:  
+Estenose e trombose de prótese mitral biológica (disfunção valvar)  
+Insuficiência valvar aórtica moderada  
+Insuficiência valvar tricúspide importante  
+Fibrilação atrial (incluindo FAARV/alta resposta ventricular)  
+Congestão pulmonar  
+Hipertensão pulmonar  
+Tromboembolismo pulmonar (risco baixo – PESI II)  
+Trombo/trombose atrial (esquerda e direita)  
+Isquemia mesentérica (possível)  
+Dor abdominal aguda  
+Pericardite com atrito pericárdico e elevação de PCR  
+Insuficiência cardíaca – fração de ejeção levemente reduzida, etiologia valvar, perfil B  
+Insuficiência cardíaca descompensada  
+
+3) Exames da Internação
+07/10/2023 – Eletrocardiograma (ECG): ritmo irregularmente irregular sem ondas P. FC 168 bpm.  
+07/10/2023 – Angiotomografia de artérias pulmonares (TEP): hipertensão pulmonar; tromboembolismo pulmonar agudo; volumoso trombo no átrio esquerdo.  
+07/10/2023 – POCUS pulmonar: linhas B em todo parênquima pulmonar.  
+07/10/2023 – BNP: 558 pg/mL.  
+07/10/2023 – Cultura de urina: negativa.  
+07/10/2023 – Hemocultura: negativa (PN).  
+07/10/2023 – Ecocardiograma transtorácico (EcoTT): FEVE 45 % com movimento paradoxal do septo ventricular; VD hipocinesia moderada; prótese mitral biológica com espessamento, calcificação e imagem sugestiva de trombo; gradiente diastólico máximo AE‑VE 27 mmHg, médio 16 mmHg; PHT 212 ms; insuficiência aórtica moderada; insuficiência tricúspide importante; pressão sistólica da artéria pulmonar estimada 47 mmHg; veia cava inferior 26 mm, variação respiratória < 50 %.  
+09/10/2023 – AngioTC Abdome: tronco celíaco e artérias mesentérica superior, renais e mesentérica inferior pérvias; artéria esplênica com aneurisma sacular 0,9 cm; dilatação das veias gonadais e varizes parauterinas; pequeno líquido perihepático; dilatação das veias cava inferior e hepáticas; sinais de shunt portossistêmico.  
+09/10/2023 – Tomografia Computadorizada de Abdome: fígado de dimensões normais com esteatose; shunt portossistêmico com alteração perfusional no segmento VIII; veias hepáticas e cava inferior ingurgitadas; resolução do derrame pleural bilateral; demais achados inalterados.  
+09/10/2023 – Angiotomografia de Aorta Abdominal e Ramos: aorta abdominal calibre normal, pérvia; tronco celíaco e artérias mesentérica superior, renais e mesentérica inferior pérvias; artéria esplênica aneurisma sacular 0,9 cm; dilatação das veias gonadais, varizes parauterinas; pequeno líquido perihepático; dilatação das veias cava inferior e hepáticas; sinais de shunt portossistêmico.  
+23/10/2023 – Ecocardiograma transtorácico (EcoTT): FE 50 %; VE com hipocinesia difusa; VD com hipocinesia discreta; prótese mitral biológica com insuficiência central mínima e GDm 4 mmHg; aórtica fibrocalcificação discreta com insuficiência moderada; tricúspide importante; PSAP 36 mmHg; em uso de drogas vasoativas.  
+24/10/2023 – Tomografia Computadorizada de Tórax: esternorrafia metálica bem alinhada; discreto borramento e densificação da gordura pré‑ e retroesternais com discreto enfisema subcutâneo; pequeno líquido retroesternal com bolhas gasosas; ectasia do tronco pulmonar 3,3 cm; discreto espessamento interlobular sugerindo edema/congestão; finas bandas atelectásicas; pequeno derrame pleural direito; calcificações pleurais; espessamento pleural com focos de calcificação no hemitórax esquerdo.  
+
+4) Terapia Medicamentosa
+Medicação pré‑internação: Amitriptilina, Carvedilol, Enalapril, Espironolactona, Furosemida, Omeprazol, Prometazina, Sertralina.  
+Medicação durante a internação: Amiodarona, Amitriptilina, Atenolol, Carvedilol, Ceftriaxona, Deslanosido, Dipirona, Dobutamina, Enalapril, Enoxaparina, Escopolamina, Espironolactona, Furosemida, Hidroclorotiazida, KCl, Metoclopramida, Metronidazol, Nistatina, Omeprazol, Ondansetrona, Potássio, Potássio oral, Prometazina, Sertralina, Sulfato de magnésio, Teofilina, Vancomicina.  
+
+5) Terapia Intervencionista
+08/10/2023 – Mastoidectomia radical à esquerda  
+19/10/2023 – Reparo valvar mitral biológico (nº 31) + trombectomia atrial direita  
+19/10/2023 – Reparo valvar mitral biológico (nº 31) + trombectomia atrial esquerda  
+
+6) Dispositivos
+AVP em MSE – 15/10/2023 e 16/10/2023  
+AVP em MSD – 17/10/2023 e 18/10/2023  
+CDL em VJID – 19/10/2023 a 25/10/2023  
+PAI em ARD – 19/10/2023 a 25/10/2023  
+Dreno pleural direito – 19/10/2023 a 25/10/2023  
+Dreno mediastinal – 19/10/2023 a 25/10/2023  
+Sonda Vesical de Demora (SVD) – 19/10/2023 a 25/10/2023  
+2 fios de marcapasso (MP) – 19/10/2023 a 25/10/2023  
+Cateter venoso central (acesso central) em AJID – 26/10/2023 e 27/10/2023  
+
+7) Situação funcional na alta
+Paciente lúcido, orientado, hemodinamicamente estável; pressão arterial 90 × 60 mmHg, frequência cardíaca 60 bpm, SpO₂ 93 % em ar ambiente; sem edema, boa perfusão periférica, sem dispneia ou ortopneia; tolerando dieta oral.
+
+8) Status laboratorial na alta (27/10/2023)
+Hb: 9,7 g/dL  
+Leucócitos: 9 190 /mm³  
+Plaquetas: 229 000 /mm³  
+Creatinina: 1,33 mg/dL  
+Ureia: 45 mg/dL  
+Sódio: 143 mmol/L  
+Potássio: 3,8 mmol/L  
+Magnésio: 1,9 mg/dL  
+PCR: 84 mg/L  
+Cálcio iônico: 1,21 mmol/L  
+
+9) Prescrição de Alta
+Amiodarona 200 mg, via oral, 2 vezes ao dia  
+Atenolol 25 mg, via oral, 2 vezes ao dia  
+Furosemida 40 mg (1 comprimido), via oral, 1 vez ao dia  
+Omeprazol 20 mg, via oral, 1 vez ao dia  
+Sertralina 50 mg, via oral, 1 vez ao dia  
+Amitriptilina 50 mg, via oral, 1 vez ao dia  
+
+10) Orientações de Alta  
+
+Para o paciente:  
+Realizar fisioterapia motora e respiratória no pós‑operatório.  
+Manter uso regular de anticoagulante oral direto (DOAC), conforme decisão do paciente.  
+Retorno ao ambulatório de curativos em 1 semana.  
+Aguarda realização de ecocardiograma transtorácico hoje às 16 h para avaliação final de alta.  
+
+Seguimento:  
+Avaliar ambulatorialmente a reversão do ritmo cardíaco após 4 semanas de anticoagulação.  
+Paciente com retorno agendado à equipe de valvulopatias para acompanhamento ambulatorial.

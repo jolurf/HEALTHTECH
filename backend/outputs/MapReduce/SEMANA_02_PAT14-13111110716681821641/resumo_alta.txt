@@ -1,0 +1,64 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Tabagismo  
+Lesão/valvopatia mitral (lesão mitral dupla, lesão mitral moderada)  
+Lesão marginal coronariana  
+
+2) Dados da Internação
+Data de admissão: 2016‑03‑05  
+Data de alta: 2016‑03‑09  
+Permanência em UTI? não  
+Motivo da internação:  
+  Suspeita de síndrome coronariana aguda (incluindo infarto agudo do miocárdio ou miocardite) e suspeita de AVC isquêmico occipital.
+Diagnóstico da Internação:  
+IAM de origem embólica / Síndrome coronariana aguda  
+Miocardite  
+Embolia cardíaca (hipótese diagnóstica)?  
+AVC isquêmico occipital direito com hemianopsia homônima esquerda  
+Lesão mitral moderada (dupla lesão mitral de grau moderado)  
+
+3) Exames da Internação
+05/03/2016 – CATE: Dg ocluída.  
+06/03/2016 – CATE: Paciente realizou CATE sem evidências de lesões obstrutivas na circulação coronariana.  
+06/03/2016 – Tomografia Computadorizada de Crânio:  
+  Técnica: Foi feita aquisição volumétrica no plano axial.  
+  Resultado: Área hipoatenuante córtico subcortical temporo‑occipital direita compatível com vento isquêmico/embólico. Restante do parênquima cerebral com coeficientes de atenuação normais. Cisterna basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média.  
+06/03/2016 – Tomografia Computadorizada de Crânio (descrição adicional): CT crânio com lesão hipoatenuante occipital direita compatível com isquemia aguda.  
+07/03/2016 – Angiografia de Crânio: Carótidas internas, artérias cerebrais anteriores, artérias cerebrais médias, porção cranial das artérias vertebrais, artéria basilar, artérias cerebrais posteriores e artérias comunicantes anteriores e posteriores de calibre, trajeto e fluxo preservados. Não foram observados sinais de circulação patológica nos segmentos analisados.  
+07/03/2016 – Angiotomografia de vasos cervicais: Arco aórtico de calibre normal e contorno regulares. Tronco arterial braquiocefálico permeável, de calibre normal e contornos regulares. Origem da carótida comum direita a partir do tronco braquiocefálico. Porção proximal das artérias subclávias permeáveis de calibre normal e contornos regulares. Artérias vertebrais permeáveis, de calibre normal e contornos regulares, sendo dominante a direita. Artérias carótidas comuns permeáveis, de contornos regulares e calibre normal. Artérias carótidas externas permeáveis, de contornos regulares e calibre normal. Artérias carótidas internas permeáveis, de contornos regulares e calibre normal.  
+07/03/2016 – Tomografia Computadorizada de Crânio (comparativo): Em comparação com exame 06/03/2015 não se observa alteração da área hipoatenuante córtico subcortical temporo‑occipital direita compatível com evento isquêmico/embólico. Restante do parênquima cerebral com coeficientes de atenuação normais. Cisterna basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média. Espessamento mucoso do seio esfenoidal à esquerda. Laudo: DRA.  
+08/03/2016 – ECG: Supra de ST em parede lateral, posterior e inferior já evoluído.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  AAS, atenolol, Clopidogrel, Digoxina, Enoxaparina, Furosemida, Omeprazol, Paracetamol  
+Medicação durante a internação:  
+  AAS, atorvastatina, carvedilol, ciprofibrato, Clexane, Digoxina, enoxaparina, Espironolactona, Furosemida, Omeprazol, Varfarina, warfarina, Zolpidem  
+
+5) Terapia Intervencionista
+não consta  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente mantém apenas hemianopsia homônima esquerda como déficit neurológico, sem transformação hemorrágica e sem oclusão de grandes vasos.  
+
+8) Status laboratorial na alta
+Tropo: negativa > positiva  
+CK‑MB: negativo > 74  
+CPK: negativo > 455  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientações para mudança de hábitos de vida e uso contínuo das medicações, com atenção às possíveis complicações da varfarina (buscar serviço de saúde em caso de sangramentos).  
+
+Seguimento:  
+Encaminhamento para ambulatório de origem (valva) e para neurologista. Retorno em 14/03/16 para coleta de RNI e avaliação de ajuste de dose.

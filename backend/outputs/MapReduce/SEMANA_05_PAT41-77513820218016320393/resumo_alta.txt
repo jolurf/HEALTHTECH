@@ -1,0 +1,74 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Insuficiência Cardíaca com Fração de Ejeção Intermediária (ICFE intermediária)  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus tipo 2 (sem uso de insulina)  
+Dislipidemia  
+Sobrepeso  
+Transtorno de Ansiedade Generalizada  
+Edema Agudo de Pulmão (EAP, incluído EAP hipertensivo resolvido)  
+
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2021‑10‑29  
+Data de alta: 2021‑11‑01  
+Permanência em UTI? não  
+
+Motivo da internação:  
+Dispneia aguda e dor torácica atípica após cateterismo cardíaco eletivo, evoluindo para edema agudo de pulmão hipertensivo com piora respiratória, taquipneia, crepitações pulmonares e hipoxemia.
+
+Diagnóstico da internação:  
+Edema agudo de pulmão hipertensivo (EAP hipertensivo) – 29/10/2021 a 01/11/2021 (resolvido)
+
+3) Exames da Internação
+não consta  
+
+4) Terapia Medicamentosa  
+
+Medicação prévia (antes da internação):  
+AAS, Anlodipino, Atorvastatina, Carvedilol, Enalapril, Espironolactona, Furosemida, Glibenclamida, Metformina, Omeprazol, Setralina  
+
+Medicação durante a internação:  
+Furosemida, Morfina, Tridil  
+
+5) Terapia Intervencionista
+Cateterismo cardíaco eletivo – 29/10/2021  
+Cateterismo cardíaco eletivo – 30/10/2021  
+Cateterismo cardíaco eletivo – 31/10/2021  
+Cateterismo cardíaco eletivo – 01/11/2021  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente em leito de retaguarda, estável hemodinamicamente, eupneica, confortável, tolerando decúbito, sem queixa de dispneia ou dor torácica.  
+Exame físico:  
+Boca, olhos, garganta (BEG): corada, hidratada, anictérica  
+Pulmões: estertores crepitantes bilaterais  
+Coração: sopro ejetivo mesossistólico  
+Abdômen: globoso, flácido, indolor  
+Membros: sem edema  
+
+8) Status laboratorial na alta
+31/10/2021: Hb 12,6 g/dL; Ht 37 %; Leucócitos 9.100 /mm³; Plaquetas 231.000 /mm³; Ureia 57 mg/dL; Creatinina 1,15 mg/dL; Magnésio 2 mg/dL; PCR 9,4 mg/L; Sódio 139 mmol/L; Potássio 3,8 mmol/L; Cálcio iônico 1,16 mmol/L  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientado sobre sinais ou sintomas de alarme e retorno imediato em caso de intercorrências.  
+Retorno ambulatorial em 30 dias e orientação de retorno ao departamento de origem.  
+
+Seguimento:  
+Mantida programação de cateterismo cardíaco via ambulatorial.  
+Retorno ambulatorial em 30 dias.

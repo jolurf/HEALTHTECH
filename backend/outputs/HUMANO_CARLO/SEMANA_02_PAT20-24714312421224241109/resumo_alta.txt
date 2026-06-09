@@ -1,0 +1,55 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Febre reumática
+- Amigdalites de repetição
+- Queimadura em flanco e inguinal a esquerda
+- FA paroxística em anticoagulação - acompanha TP em São miguel
+- Hepatite C
+- Ex-tabagista 30 anos-maço (cessou há três anos)
+- Ex-etilista (cessou há três anos)
+- Ex-usuário de crack (cessou há três anos)
+2) Dados da Internação
+Data de [entrada] admissão: 30/10/2019
+Data de alta: 13/11/2019
+Permanência em UTI?
+- Sim
+Motivo da internação: 
+Internação eletiva para cirurgia de troca valvar
+Diagnóstico da Internação:
+- Dupla Lesão Mitral importante de Etiologia Reumática, Classe Funcional II 
+- Fibrilação Atrial de Alta Resposta Ventricular revertida com Amiodarona
+3) Exames da Internação
+Tomografia Computadorizada de Tórax 30/10/2019 -  Estruturas vasculares mediastinais de calibre normal e contornos regulares, traqueia e brônquios principais permeáveis e de calibre normal, brônquios lobares e segmentares de calibre normal, não há linfonodomegalias, coração de morfologia e dimensões normais, hilos pulmonares de configuração e dimensões normais, parênquima pulmonar com coeficientes de atenuação habituais, vascularização pulmonar de distribuição e calibre normais, pleura de aspecto normal, estruturas ósseas, musculares e planos gordurosos de morfologia e densidade normais.
+- Biópsia de Valvas Cardíacas 31/10/2019 - Fibrose densa e difusa, proliferação de vasos muscularizados, infiltrado inflamatório linfomononuclear discreto e focal e calcificação moderada e focal em estroma valvar, hipertrofia moderada em cardiomiócitos e fibrose moderada em endocárdio de músculos papilares que, associados às alterações macroscópicas, são sugestivos de sequela de doença reumática crônica.
+- Broncoscopia 31/10/2019 - Árvore brônquica direita e esquerda: morfologia sem alterações até subsegmentos. Ausência de secreção. Conclusão: exame endoscópico sem alterações relevantes. Cânula duplo lúmen bem locada.
+- Ecocardiograma transtorácico 31/10/2019 - Função sistólica biventricular preservada (FEVE estimada em 0,65), valva mitral apresenta sinais de fusão comissural, espessamento de suas cúspides e redução da abertura valvar compatíveis com comprometimento reumático importante, o anel mitral mede 38x39mm, gradiente diastólico máximo AE-VE estimado em 7 mmHg e médio em 3 mmHg, área valvar estimada em 1,1 cm2, o estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante, valva aórtica espessada e bivalvularizada devido à fusão de aspecto reumático das válvulas não coronariana com coronariana direita) com redução discreta da abertura global, área valvar estimada pela planimetria 3D estimada em 1,7 cm2, o estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto a moderado, valva tricúspide sem anormalidades significantes e com refluxo moderado, septo atrial íntegro, ausência de trombos em apêndices atriais
+.
+Tomografia Computadorizada de Crânio 11/11/19: Sem sinais de sangramento.
+Eco TT 11/11/2019: Prótese mitral sem disfunção,  gradiente máximo de  7 mmHg  e médio de 2 mmHg. FE 62%; Aorta 31 mm ; AE 46 mm ; S 9 mm ; PP 9 mm ; DDVE 48 mm ; DSVE 32 mm . Insuficiência aórtica moderada.
+4) Terapia Medicamentosa
+Medicação prévia: não descrito
+Medicação durante a internação: Dobutamina, Noradrenalina, Vasopressina, Amiodarona, Insulina, Soro Glicosado, Cefuroxima, Hidrocortisona, Fludrocortisona, Cloreto de Potássio, Varfarina, heparina, Enoxaparina, Quetiapina, Omeprazol, Dipirona, hidroclorotiazida, furosemida, atenolol
+5) Terapia Intervencionista
+-  Cirurgia de Troca de Valva Mitral Prótese Biológica  n°29 por toracotomia lateral com Circulação Extracorpórea 31/10/2019
+6) Dispositivos
+- Cateter Venoso Central em Veia Jugular Interna Direita
+- Cateter de Swan-ganz em Veia Jugular Interna Direita
+- Cateter de Pressão Arterial Invasiva em Membro Superior Direito
+- Acesso Venoso Periférico em Membro Superior Direito
+- Dreno (não descrita topografia)
+7) Situação funcional na alta
+
+Paciente em leito, eupneico em AA, estável clinica e hemodinamicamente, em poltrona, nega intercorrências no período. Nega dor torácica ou dispneia. Sem mais queixas no momento. Boa perfsão. PA: 90 x 60 mm Hg, FC: 52 BPM, SAT 98% A/A. AR: MV s/ RA. Brnf 2t sorpo perfil protese. Abd Plano, indolor. Dieta via oral. sem edemas ou sinais de tvp
+8) Status laboratorial na alta
+- Laboratório 14/11/2019: INR 2,2 TTPA 43,1 segundos
+- Laboratório 13/11/2019 - Hemoglobina 12,1 g/dL Hematócrito 34% Leucócitos 16040/mm³ Plaquetas 333.000/mm³ Ureia 64 mg/dL Creatinina 1,25 mg/dL Sódio 139 mEq/L Potássio 4,0 mEq/L Magnésio Proteína C Reativa (PCR) 14,58 mg/dL Cálcio Ionizado 1,19 mMol/L
+9) Prescrição de Alta
+- Retorno Marevan 5 mg 1xd mantenho Clexane dose plena
+10 Orientações de alta para o paciente
+- Retorno ambulatorial em 15 dias e TP em 7 dias.
+10 Orientações de seguimento
+- Neste campo deverão ser incluídas as orientações específicas e direcionadas à profissionais de saúde quanto ao seguimento do paciente
+- Não incluir neste campo informações destinadas ao paciente

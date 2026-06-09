@@ -1,0 +1,72 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- Hipertensão Arterial Sistêmica
+- Prolapso valvar mitral
+- Tabagismo ativo (1 maço/dia) 
+- Retocolite ulcerativa 
+- Extrassístoles atriais frequentes - uso prévio de propafenona e propranolol
+2) Dados da Internação
+Data de [entrada] admissão: 24/07/2016
+Data de alta: 04/08/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente deu entrada no PS INCOR com queixa de há 2 dias apresentar mal estar, dispnéia e tosse
+seca; negava palpitações ou dor torácica. Refere que frequentemente apresenta dispnéia sem relação com esforço físico e tontura. Esposo refere que a paciente já apresentou frequência cardíaca elevada (FC: 110 bpm), sem queixas (ambulatorialmente palpitações atribuídas a extrassístoles atriais. À admissão, apresentava ritmo sinusal, com FC: 54 bpm. Apresentou ontem à noite Fibrilação de Alta Resposta, FC: 114 - 130, com inversão de onda T V4 a V6 (ECG de hoje pela manhã). Apresentou ainda alteração de marcadores de necrose miocárdica. Equipe do PS discutiu o caso com o médico assistente da paciente (Dr. Fábio Fernandes), que esclareceu que é o pimeiro episódio de FA da paciente pois o uso de Propafenona deve-se a extrassístoles atriais de alta densidade. Dessa forma, optado por tentativa inicial de reversão química com amiodarona e proposta de CVE se necessário.
+.
+Diagnóstico da Internação: 
+     - Taquicardia por Reentrada Nodal Incessante
+- IAM sem supra ST tipo 2 -> CD c/ origem anômala
+-  ITU (E. coli multi S)
+- Delirium hiperativo - resolvido
+- Hipertireoidismo subclínico - induzido pela amiodarona?
+3) Exames da Internação 
+
+- Eletrocardiograma 27/06/2016: Sobrecarga de Câmaras Esquerdas. Alterações da Repolarização Ventricular. 	
+
+- Eletrocardiograma 26/07/2016: Flutter Atrial, alterações difusas da rapolarização ventricular
+- Ecocardiograma transesofágico  26/07/16: FE 45%, discinesia da região apical, IMi discreta, ITi
+moderada, PSAP 35, Sinais de contraste espontâneo no átrio esquerdo . Ausência de imagens de trombos ou massas intracavitárias.
+
+- Tomografia de Crânio 26/07/2016: Tênue hipoatenuação da substância branca periventricular, inespecífica, podendo corresponder à gliose, microangiopatia ou leucoencefalopatia. Discretas áreas hipoatenuante bilaterais nas regiões núcleo-capsulares, sugestivas de infartos lacunares. Proeminência dos sulcos entre giros corticais e das cisternas cerebrais. Discreta dilatação não hipertensiva do sistema ventricular supratentorial. Não se observa desvio das estruturas da linha média. Não há sinais de sangramentos intracranianos ou coleções extra-axiais. Calcificações nas porções intracranianas das artérias carótidas internas e no sistema vétebro-basilar.
+- Cateterismo cardíaco 27/07/16: sem lesões obstrutivas, ACD origina-se do seio coronariano
+esquerdo.Tortuosidade e calcificação importante em artéria ilíaca esquerda e aorta.
+
+- Urocultura 28/07/2016: E. coli (>100.000 UFC)
+
+- Angiotomografia de coronárias 29/07/16: Artéria Coronária Direita com emergência do
+Seio de valsalva esquerda e trajeto intra-arterial, com redução luminal de 55%, em relação ao segmento proximal. Escore total de cálcio de 1594 (Agatston) e 1266 (volume), no percentil 98 para a faixa etária e sexo. Presença de redução luminal uniarterial discreta/moderada (~50%) na marginal esquerda.
+
+- Eletrocardiograma 01/08/2016: Alterações da repolarização ventricular.
+4) Terapia Medicamentosa
+Medicação prévia: Propafenona, Propranolol, Anlodipino, Losartana, Budesonida, AAS, Clopidogrel, Furosemida
+Medicação durante a internação: ranitidina, clopidogrel, amiodarona, enoxaparina, anlodipino, losartana, pomada anticoagulante a base de heparina, carvedilol, omeprazol, suplemento oral, ceftriaxona
+5) Terapia Intervencionista
+
+- Ablação da via lenta nodal 02/08/2016
+6) Dispositivos
+-
+7) Situação funcional na alta
+Paciente sem queixas, estável hemodinamicamente, confortável em ar ambiente, deambulando sem dificuldades.
+EF:
+- Geral: BEG, CHAAAE
+- Invasões: PICC MSD
+- Neuro: sem sedação, GCS 15, sem deficits focais,
+- Cardio: BR sem sopros audíveis, FC 58, PAM 88, EJ discreta, BPP, sem DVA
+- Resp: MV+ bil. s/RA
+- Abd/Nutricional: RHA+, flácido, indolor. Dieta oral.
+- Extremidades: sem edema ou sinais de TVP
+8) Status laboratorial na alta
+
+- Laboratório 05/08/2016: Hemoglobina 10.4 g/dL Hematócrito 32% Leucócitos 6850/mm³ Plaquetas 174000/mm³ Ureia 71 mg/dL Creatinina 0.95 mg/dL Magnésio 1.9 mEq/L PCR 1.07 mg/dL
+9) Prescrição de Alta
+- Deixo com eliquis 5mg 12/12h para anticoagulação crônica;
+- Prescrevo cefuroxima 250mg 12/12h por mais 6 dias;
+- Suspendo anlodipino e deixo com losartana 50mg 12/12h;
+10 Orientações de alta para o paciente
+-  Alta hospitalar com retorno ambulatorial;
+10 Orientações de seguimento
+-

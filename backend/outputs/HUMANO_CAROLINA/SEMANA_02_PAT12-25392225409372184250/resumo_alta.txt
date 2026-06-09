@@ -1,0 +1,38 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Insuficiência cardíaca - miocardiopatia chagásica
+- 2 paradas cardiorrespiratórias em assistolia por hipercalemia
+- Transplante cardíaco ortotópico bicaval em 05/02/2019
+- Rejeição aguda celular grau 2R em fevereiro de 2019
+- Rejeição aguda celular grau 2R em junho de 2019
+2) Dados da Internação
+Data de [entrada] admissão: 13/02/2020
+Data de alta: 14/02/2020
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Realização de biópsia endomiocárdica eletiva
+Diagnóstico da Internação:
+- Sem
+3) Exames da Internação
+- Biópsia endomiocárdica (14/02/2020): ausência de rejeição aguda celular (grau 0R). Negativo para critérios histopatológicos ou imunopatológicos de rejeição aguda mediada por anticorpos (PAMR0). A pesquisa imuno-histoquímica da fração C4D do complemento resultou negativa.
+4) Terapia Medicamentosa
+Medicação prévia: Tacrolimus, Azatioprina, Prednisona, Diltiazem, Propranolol, Omeprazol, Sinvastatina.
+Medicação durante a internação: Tacrolimus, Azatioprina, Diltiazem, Propranolol, Omeprazol, Sinvastatina.
+5) Terapia Intervencionista
+- 14/02/2020: biópsia endomiocárdica percutânea realizada com sucesso.
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+- Sem
+8) Status laboratorial na alta
+- Sem
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

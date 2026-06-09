@@ -1,0 +1,57 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana com 2 IAMs prévios, sendo último há 7 anos
+- Aneurisma cerebral há 2a - tratamento conservador 
+- TVP de MIE há 3 anos
+- Hipertensão Arterial Sistêmica
+- Diabetes Mellitus
+- Dislipidemia
+- Hipotireoidismo
+- Ex-tabagismo
+2) Dados da Internação
+Data de [entrada] admissão: 11/08/2016
+Data de alta: 25/08/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente com 15 dias de dor torácica.
+Diagnóstico da Internação:
+- Dissecção de aorta ascendente e descendente subaguda (Stanford A, DeBakey
+1). Diâmetro máximo de 4,6 cm no segmento ascendente proximal.
+3) Exames da Internação 
+
+- Ecocardiograma transtorácico (11/08/16): FEVE 67%, VE 53x33, SI/PP 10/9, AE 41, PSAP 31. Sem
+alterações segmentares, VD sem disfunção. Válvula Aórtica com insuficiência discreta a moderada.
+Medidas da aorta: seios aórticos 36 mm, aorta ascendente 45 mm, arco aórtico
+25 mm. Visualizada lâmina de dissecção na raiz aórtica(aproximadamente 0,8 cm
+do plano valvar), no arco aórtico, aorta descendente torácica e porção
+abdominal.
+-  Colonoscopia (12/08/16): Segmento colônico necrótico, acinzentado,
+circunferencial, com discreta diminuição da luz. Esta área possui cerca de 15 cm de extensão e sua localização provável é o cólon transverso distal. Nota- se ainda mucosa hiperemiada, friável, com focos de hemorragia petequiais, nas extremidades do segmento descrito. Cólons descendente, sigmoide e reto sem anormalidades.
+-  Angiotomografia de Aorta (12/08/16): Extensa dissecção de aorta tipo A de Stanford, com flap de dissecção que se inicia no plano da raiz, envolvendo os seios não coronariano e coronariano direito, inclusive acometendo o óstio da artéria coronária direita, estendendo-se a emergência das artérias ilíacas. Maior diâmetro de 4,6 cm no segmento ascendente proximal da aorta torácica. Originam-se da luz verdadeira: artérias carótida comum esquerda, subclávia esquerda, vertebral esquerda e mesentérica superior. Originam-se da luz falsa: tronco celíaco e artéria mesentérica inferior. O flap insinua-se na origem do tronco braquiocefálico, que tem origem principalmente da luz falsa. As artérias renais originam-se de ambas as luzes. Espessamento parietal do cólon ascendente, com densificação dos planos gordurosos adjacentes, devendo estar relacionado à isquemia e "sofrimento". 
+
+- Tomografia de Abdome (15/08) Não há coleções abdominais. Espessamento parietal do cólon ascendente, com densificação dos planos gordurosos adjacentes provavelmente relacionado a quadro recente de colite isquêmica ou pós manipulação.
+
+- Biópsia de fragamentos da aorta 16/08/2016: DISSECÇÃO EM ORGANIZAÇÃO, COM PRESENÇA DE ACÚMULOS DE MATERIAL MUCÓIDE NA CAMADA MÉDIA
+4) Terapia Medicamentosa
+Medicação prévia: Não descrito
+Medicação durante a internação: complexo protrombínico, DDAVP, pool de plaquetas, dobutamina, metronidazol, ciprofloxacino, ceftriaxona, epsilon, ringer lactato,  bromazepam, fluoxetina, enoxaparina, levotiroxina, furosemida, hidrocortisona, dipirona, atorvastatina, omeprazol, AAS, Piperacilina-Tazobactam, lactulose, metoprolol
+5) Terapia Intervencionista
+- 16/08/2016 -  Cirurgia de Substituição Aorta Ascendente Interposição Com Tubo
+De Dacron com HEMIARCO + IMPLANTE DE STENT BRAILE VIA ARCO AÓRTICO + plástica
+da valva aórtica
+6) Dispositivos
+- Cateter Venoso Central em Veia Jugular Interna Direita, Cateter de Pressão Arterial Invasiva em Veia Jugular Interna Direita, Dreno de mediastino, Marcapasso Epicárdico, Tubo Orotraqueal,
+7 Situação funcional na alta
+Paciente mantém-se assintomática, sem queixas de dor, eliminações presentes. Geral: bom estado geral, lúcida e orientada no tempo e no espaço, hidratada, hipocorada (2+/4+), afebril, bem perfundida. Neurológico: escala de Glasgow 15, sem déficit focal. Aparelho respiratório: murmúrio vesicular audível, estertores crepitantes mínimos em bases, saturação de oxigênio 95% em ar ambiente. Aparelho cardiovascular: ritmo cardíaco regular em dois tempos, sopro sistólico +/6+ em foco aórtico. Abdome: globoso, flácido, indolor à palpação, sem massas, ruídos hidroaéreos presentes. Extremidades: sem edemas, sem sinais de trombose venosa profunda, bem perfundidas. Ferida operatória sem sinais de infecção.
+8) Status laboratorial na alta
+-  Laboratório 22/08/2016: Hemoglobina 8.4 g/dL Leucócito 14890/mm³ Plaquetas 423.000/mm³ Ureia 11 mg/dL Creatinina 0.68  mg/dL Sódio 142 mEq/L Potássio 3.6 mE1/L Proteína C Reativa (PCR) 65.90 mg/L
+9) Prescrição de Alta
+- Mantenho medicações em uso
+10 Orientações de alta para o paciente
+-  Retorno no ambulatório de cardiologia geral em 30 dias
+10 Orientações de seguimento
+- Não descrito

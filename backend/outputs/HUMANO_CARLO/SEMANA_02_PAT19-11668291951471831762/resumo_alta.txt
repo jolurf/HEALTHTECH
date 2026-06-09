@@ -1,0 +1,68 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos): 
+DRC dialítica há 1 ano, em programação ambulatorial de Tx, com diurese residual, dialisa por FAV, peso seco 59 kg
+HAS
+2) Dados da Internação
+Data de [entrada] admissão: 26/10/2021
+Data de alta: 05/11/2021
+Permanência em UTI?
+- Sim
+Motivo da internação: 
+
+Paciente em avaliação para transplante renal ambulatorial, foi submetido a CATE em agosto de 2020, tendo sido evidenciado DAC triarterial com DA proximal. Assintomático do ponto de vista cardiovascular. Nega angina, dispneia, ortopneia, DPN, palpitação, síncope ou edema de membros inferiores. Queixa-se de claudicação intermitente.
+Diagnóstico da Internação: 
+
+DAC estabelecida triarterial com DA proximal
+- Sem eventos agudos prévios
+- Sem disfunção ventricular (FEVE 50%)
+3) Exames da Internação
+- Tomografia Computadorizada de Alta Resolução de Tórax 27/10/2021: Ateromatose esparsa e acentuada em território coronariano. As estruturas vasculares do mediastino apresentam calibre externo preservado, sem caracterização de linfonodomegalias mediastinais. Identificam-se linfonodos calcificados no hilo pulmonar esquerdo, com aspecto residual. A traqueia e os brônquios principais apresentam calibre normal. Nota-se leve espessamento difuso das paredes brônquicas, com acentuação das silhuetas bronquiolares e ectasia de alguns brônquios nos campos pulmonares inferiores. Há focos de enfisema pulmonar parasseptal esparsos e bilaterais. Observam-se discretas opacidades subpleurais e lineares, esparsas e bilaterais, compatíveis com atelectasias laminares/estrias residuais. Evidenciam-se micronódulos pulmonares medindo até 0,3 cm, distribuídos de forma esparsa em ambos os pulmões, alguns calcificados (residuais) e outros sem calcificação evidente, sendo incaracterísticos ao método. Não há derrame pleural bilateral. Notam-se sinais de leve ginecomastia bilateral. Observam-se alterações degenerativas da coluna vertebral, com leve redução da altura anterior de corpos vertebrais dorsais inferiores. Imagem hipoatenuante no rim esquerdo, parcialmente visualizada neste estudo.
+
+- Culturas: 01/11/2021: Urocultura - negativa / Sangue periférico - parcial
+negativa / Cateter - parcial negativa.
+4) Terapia Medicamentosa
+Medicação prévia: AAS, Anlodipino, Furosemida, Atorvastatina, Metoprolol, Hidróxido férrico
+Medicação durante a internação: Concentrado de Hemácias, Protamina, Cálcio, Épsilon, Dobutamina, Noradrenalina, anlodipino, furosemida, AAS, Dipirona, mupirocina creme, cefuroxima, pantoprazol, omeprazol, hidróxido férrico, eritropoetina, heparina, ácido fólico, lactulose, domperidona, simeticona, atorvastatina, atenolol,
+5) Terapia Intervencionista
+
+Cirurgia de Revascularização do miocárdio em 28/102/2021 com os seguintes enxertos: Mamária - Descendente Anterior, Safena-Marginal, Safena-Ventricular Posterior Direito
+6) Dispositivos
+Cateter de Pressão Arterial Invasiva em Radial Esquerda
+Cateter Venoso Central em Veia Jugular Interna Direita
+2 fios de Marca-passo no Ventrículo Direito 
+Dreno Pleural Esquerdo mediano 
+Dreno mediastinal 
+Tubo orotraqueal
+Sonda Vesical de Demora
+7 Situação funcional na alta
+
+Paciente no 9° pós operatório de revascularização miocárdica, sem uso de
+drogas vasoativas. Realizou hemodiálise hoje pela manhã, sem intercorrências.
+Sem picos febris - culturas parciais negativas. Cicatriz cirúrgica com bom
+aspecto. Aceitando bem a dieta. Hábitos Fisiológicos presentes. Condições de
+alta hospitalar
+Ao exame:
+- Neuro: Consciente, glasgow 15, PIFR. Sem sedação.
+- ACV: RCR, Bulhas normofonéticas, sem sopros. Sem DVA.
+- AP: MV + bilateralmente, sem RA.
+- Abdome: plano, flácido, indolor, RHA +.
+- MMII simétricos, s/edema, pulsos cheios, boa perfusão, membros aquecidos.
+Curativo em perna esquerda- local da safenectomia.
+8) Status laboratorial na alta
+
+- Laboratório 05/11/2021: Hemoglobina 8,8 g/dL Hematócrito 27% Leucócitos 9680/mm³ Plaquetas 476.000 Troponina I-hs 495 ng/L Ureia 110 Creatinina 8,22 mg/dL Sódio 137 mEq/L Potássio 5,1 mEq/L Magnésio 2,4 mg/dL PCR 96,9 mg/L Cálcio Ionizado 1,26 mMol/L Lactato Venoso 11 mg/dL  Gasometria Venosa pH 7,36 pCo2 43,2 mmHg PO2 19 mmHg Saturação de 02 15,3% Bicarbonato 22,5 mmol/L BE -1,4 mmol/L
+9) Prescrição de Alta
+
+Mantenho betabloqueador - atenolol 25mg 2x/dia
+10) Orientações de alta para o paciente
+
+- Agendada hemodiálise em clinica externa
+(Suzano - onde já realiza acompanhamento) para Terça(09/11) ás 11:30.
+- Uso regular das medicações, retorno ambulatorial em 30
+dias, em caso de sintomas cardiovasculares - procurar PS INCOR.
+11) Orientações de seguimento
+
+Aguardo culturas - 01/11/21;

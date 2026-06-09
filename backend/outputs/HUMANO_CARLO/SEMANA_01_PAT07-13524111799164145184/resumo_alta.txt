@@ -1,0 +1,56 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- Insuficiência Mitral Importante por Prolapso de Cúspide Posterior (P2) de Valva Mitral, com rotura de Cordoalha
+- Hiperatividade Detrusora Neurogênica
+- Parkinson há 6 anos
+- Constipação Intestinal importante, retirada de fecaloma 2 vezes esse ano
+- Síncopes por Disautonomia  
+- Doença bipolar há alguns anos. Última crise em janeiro, com quadro psicótico. Estava sem medicação. Evoluindo bem com Lítio
+- Bebia uma dose de rum diariamente, parou há seis meses.
+2) Dados da Internação
+Data de [entrada] admissão: 09/08/2017
+Data de alta: 20/08/2017
+Permanência em UTI?
+- Sim
+Motivo da internação:
+O paciente foi internado por dispnéia a pequenos esforços. Tem insuficiência mitral por prolapso que evoluiu com rotura de cordoalhas.
+Diagnóstico da Internação: 
+Abordagem cirúrgica eletiva de Insuficiência Mitral Importante por Prolapso de Cúspide Posterior (P2) de Valva Mitral, com rotura de Cordoalha
+3) Exames da Internação 
+
+- Eletrocardiograma 10/08/2017: Bloqueio Atrioventricular de 1° grau.
+
+- ECO TE intraoperatório 11/08/2017: PRÉ CIRCULAÇÃO EXTRACORPÓREA: Função sistólica biventricular preservada. A fração de ejeção foi estimada em 60% (VN >=52%). Valva mitral com espessamento discreto, mobilidade preservada, apresentando prolapso da cúspide posterior (segmentos P1 e P2), com corda rota relacionada a esta cúspide. Valvas tricúspide sem anormalidades significantes e com refluxo discreto. Valvas aórtica sem anormalidades significantes. Septo atrial íntegro.  Ausência de trombos em átrios e seus respectivos apêndices. Ausência de derrame pericárdico.
+PÓS CIRCULAÇÃO EXTRACORPÓREA: Função sistólica biventricular preservada. A fração de ejeção foi estimada em 60% (VN >=52%). Valva mitral com espessamento discreto, mobilidade preservada, com sinais de plástica da cúspide posterior. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Demais achados mantidos em relação ao exame pré-CEC.
+
+- Biópsia de Valva Mitral 14/08/2017: Segmento de Cúspide Valvar com fibrose e acúmulo de material mucóide no estroma, difusos. 
+
+- Eletrocardiograma 14/08/2017: Bloqueio Divisional Ântero-Superior.
+4) Terapia Medicamentosa
+Medicação prévia: Losartana, Sinvastatina, Prolopa BD; Vesomini, Carbonato de Lítio, Clonazepam
+Medicação durante a internação: Dobutamina, Nitroprussiato de Sódio (Nipride), Concentrado de Hemácias, Cristaloides, Albumina, Transamin, DDAVP, Dobutamina, Nipride, Ondansetrona, Dexametasona, Teofilina, Levodopa, Benserazida, Pramipexol, Clonazepam, Carobato de Lítio, Óleo Mineral, Furosemida, Atorvastatina, Císter de Glicerina, Cefuroxima, Omeprazol, Dipirona, Alfafluor Hidrocortisona, Hidroclorotiazida, AAS, Heparina, Cloreto de Potássio, Bisacodil, Codeina, Sinvastatin
+5) Terapia Intervencionista
+11/08/2017 - Cirurgia de Plástica de Valva Mitral (Ressecção quadrangular com a técnica de Duplo Teflon) + Revascularização Miocárdica Ponte Veia Safena - Descendente Anterior
+6) Dispositivos
+Cateter Venoso Central em Veia Jugular Interna Direita
+Cateter de Pressão Arterial Invasiva em Radial Direita
+Dreno de Mediastino
+Fio de Marcapasso no Ventrículo Direito
+Tubo Orotraqueal
+7 Situação funcional na alta
+
+Ao exame físico. Está eupneico, hidratado. anictérico e acianótico. Tem marcha festinante, típica do Parkinson. Tem ainda disartria com repetições de sílabas. Tem bom raciocínio e memória. Está bem orientado no tempo e espaço. Tem dificuldade de se levantar sozinho da cama. Tem boa comunicação e está cooperativo. Sem deficits localizados. ACV. RCR. FC 68. SS AM +++. AR. Pulmões claros. Abdome sem visceromegalias. Membros inferiores com varizes discretas e edema +. Pulsos palpáveis.
+8) Status laboratorial na alta
+
+- Laboratório 18/08/2017 - Hemoglobina 10,3 g/dL Hematócrito 31% Leucócitos 13450/mm³ Plaquetas 208000/mm³ Ureia 56 mg/dL Creatinina 1,01 mg/dL Sódio 140 mEq/L Potássio 3,3 mEq/L Ferro 27 ug/dL Albumina 3 g/dL Ferritina 404 ng/mL
+9) Prescrição de Alta
+Não descrito
+10 Orientações de alta para o paciente
+
+Autorizada Viagem de Avião
+10 Orientações de seguimento
+
+Foi visto pelo neuro que manteve a indicação do Pramiprexol que deve ser aumentado 0,25mg por semana até 1 mg 2xd.

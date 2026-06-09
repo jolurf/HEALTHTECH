@@ -1,0 +1,315 @@
+=========================================================
+RESUMO TÉCNICO DO PROJETO — AVALIAÇÃO DE RESUMOS DE ALTA
+InCor · Junho 2026
+=========================================================
+
+CONTEXTO GERAL
+--------------
+Sistema web para avaliação clínica de resumos de alta gerados por IA.
+Médicos avaliadores fazem login, leem um resumo por vez e preenchem um
+formulário estruturado com métricas de fidelidade, erros factuais,
+concisão, cobertura e completude. Os dados vão para um banco SQLite,
+há backup automático em JSON e notificação por e-mail.
+
+Toda a aplicação roda via Docker: um container de backend (Python/FastAPI)
+e um container de frontend (Nginx servindo HTML estático com proxy reverso
+para o backend).
+
+=========================================================
+PARTE 1 — BACKEND  (backend/main.py)
+=========================================================
+
+TECNOLOGIA
+  Python 3.12 · FastAPI · Uvicorn · SQLite · stdlib (smtplib, hashlib,
+  secrets, threading)
+
+COMO FOI FEITO E POR QUÊ
+  - FastAPI foi escolhido por ser simples, rápido e gerar documentação
+    automática em /docs (útil para testar sem frontend).
+  - Banco SQLite porque não há necessidade de servidor de banco externo;
+    toda a app é de uso interno por poucos usuários simultâneos.
+  - As avaliações também são salvas em JSON em backend/backups/ como
+    redundância — se o banco corromper, os dados não se perdem.
+
+MÓDULOS DO main.py
+
+1. CORS
+   allow_origins=["*"] — liberado para não bloquear a origem do nginx
+   durante o desenvolvimento. Em produção pode-se restringir ao domínio
+   do frontend.
+
+2. CONFIGURAÇÃO VIA VARIÁVEIS DE AMBIENTE
+   DB_PATH        → caminho do SQLite (padrão: avaliacoes.db)
+   USUARIOS_FILE  → JSON de usuários (padrão: usuarios.json)
+   NOTIFY_EMAIL   → e-mail que recebe notificações
+   SMTP_HOST/PORT/USER/PASS → credenciais Gmail para envio de e-mail
+
+3. AUTENTICAÇÃO E SESSÕES
+   - Login com usuário + senha → retorna um token hexadecimal de 64 chars.
+   - Sessões em memória (_sessions dict) com TTL de 24 horas.
+   - Senhas armazenadas com PBKDF2-HMAC-SHA256 (200.000 iterações + salt).
+   - Migração automática: se um usuário ainda tem senha em texto puro
+     (versão antiga), o sistema faz hash na primeira autenticação.
+   - Rate limiting: 5 tentativas erradas bloqueiam o usuário por 15 min;
+     máximo de 3 cadastros por IP por hora.
+
+4. USUÁRIOS
+   Armazenados em usuarios.json com estrutura:
+     { "username": "...", "email": "...", "senha": "<hash>",
+       "senha_salt": "...", "permissoes_revisao": [...] }
+   permissoes_revisao é uma lista de caminhos que definem quais resumos
+   aquele usuário pode avaliar (ex: "MODELO_X/SEMANA_01").
+
+5. ENDPOINTS PRINCIPAIS
+
+   GET  /               → healthcheck
+   POST /login          → autentica, retorna token
+   POST /logout         → invalida token
+   POST /cadastrar      → auto-cadastro (aguarda permissão do admin)
+   POST /alterar-senha  → troca senha do próprio usuário
+   POST /atualizar-email → atualiza e-mail do usuário
+
+   POST /admin/cadastrar-usuario → admin cria usuário com permissões
+   POST /admin/resetar-senha     → admin redefine senha de usuário
+   GET  /admin/usuarios          → lista todos os usuários (admin)
+
+   GET  /resumos  → lista resumos pendentes do usuário autenticado
+                    (lê arquivos resumo_alta.txt em outputs/, filtra
+                    os já avaliados consultando o banco)
+   POST /avaliar  → salva avaliação no SQLite + backup JSON + email
+   GET  /avaliacoes → lista todas as avaliações (admin)
+
+   GET  /pdfs     → lista PDFs do prontuário de um caso
+   GET  /pdf      → serve um PDF (protegido por token, path traversal
+                    bloqueado via .resolve() + relative_to())
+
+6. ESTRUTURA DE ARQUIVOS NO BACKEND
+   backend/
+   ├── main.py
+   ├── requirements.txt
+   ├── Dockerfile
+   ├── usuarios.json          ← usuários e senhas
+   ├── converter_docx.py      ← script local para gerar resumo_alta.txt
+   ├── outputs/               ← resumos .txt organizados por modelo/semana/pat
+   │   ├── MODELO_X/
+   │   │   └── SEMANA_01_PAT01-.../resumo_alta.txt
+   │   └── HUMANO_CARLO/
+   │       └── SEMANA_01_PAT01-.../resumo_alta.txt
+   ├── PDFs/                  ← prontuários em PDF por semana/paciente/visita
+   │   └── SEMANA_01/PAT01-.../VISITA.../arquivo.pdf
+   ├── backups/               ← JSON de cada avaliação salva
+   └── (runtime) avaliacoes.db
+
+7. SCRIPT converter_docx.py
+   Converte os arquivos .docx das anotações humanas (CARLO/CAROLINA) em
+   resumo_alta.txt dentro de outputs/HUMANO_CARLO/ e outputs/HUMANO_CAROLINA/.
+   Roda localmente antes do deploy para popular a pasta outputs/.
+
+=========================================================
+PARTE 2 — FRONTEND  (frontend/)
+=========================================================
+
+TECNOLOGIA
+  HTML puro · React 18 (CDN via unpkg) · Babel Standalone (CDN) ·
+  Tailwind CSS (CDN) · Nginx (container)
+
+POR QUÊ ESSA ABORDAGEM
+  Não há build step (sem npm, sem Vite, sem webpack). O React é carregado
+  diretamente do CDN no navegador do usuário, e o Babel transpila JSX em
+  tempo de execução. Isso simplifica o Dockerfile (só nginx + HTML estático)
+  e elimina dependências de Node.js no processo de deploy.
+
+ARQUIVOS DO FRONTEND
+  frontend/
+  ├── Dockerfile
+  ├── nginx.conf          ← template com ${BACKEND_HOST}
+  ├── index.html          ← app completa (React inline)
+  └── src/App.jsx         ← versão de desenvolvimento (mesmo código)
+
+COMO O FRONTEND SE COMUNICA COM O BACKEND
+  O App.jsx detecta se está rodando como arquivo local ou via servidor:
+
+    const API = window.location.protocol === "file:"
+      ? "http://127.0.0.1:8000"   // desenvolvimento local direto
+      : "";                        // produção: URL relativa
+
+  Em produção (URL relativa = ""), todas as chamadas são feitas para o
+  mesmo domínio/porta do frontend. Ex: fetch(`/login`, ...).
+  O Nginx então captura essas rotas e faz proxy para o backend:
+
+    location ~ ^/(login|logout|cadastrar|...|pdf) {
+        proxy_pass http://${BACKEND_HOST}:8000;
+    }
+
+  Isso resolve o problema de CORS: o browser só fala com o nginx (mesmo
+  domínio), e o nginx faz a ponte com o backend internamente.
+
+DOCKERFILE DO FRONTEND
+  FROM nginx:alpine
+  COPY index.html /usr/share/nginx/html/
+  COPY nginx.conf /tmp/nginx.conf.template
+  CMD: usa envsubst para substituir ${BACKEND_HOST} no nginx.conf
+       em tempo de inicialização do container, depois sobe o nginx.
+
+FORMULÁRIO DE AVALIAÇÃO
+  Estrutura em 5 fatores:
+    F1 — Fidelidade        (3 perguntas Likert 1-6)
+    F2 — Erros Factuais    (Sim/Não + natureza + gravidade, condicional)
+    F3 — Concisão          (2 perguntas Likert 1-6)
+    F4 — Cobertura         (grid 11 seções × escala 0-4)
+    F5 — Completude        (2 perguntas Likert 1-6)
+    Global                 (uso clínico + tempo de avaliação + comentários)
+
+  Barra de progresso mostra quantos resumos restam.
+  Painel lateral opcional mostra os PDFs do prontuário original.
+
+=========================================================
+PARTE 3 — DOCKER COMPOSE (uso local / servidor próprio)
+=========================================================
+
+  docker-compose.yml define dois serviços:
+
+  backend:
+    - Monta volumes locais: outputs/, PDFs/, backups/, e um volume Docker
+      nomeado "backend_data" para o SQLite e usuarios.json (persistência).
+    - Healthcheck: testa GET / a cada 10s; frontend só sobe quando backend
+      estiver healthy.
+    - Variáveis de ambiente lidas do .env.
+
+  frontend:
+    - BACKEND_HOST=backend → nginx faz proxy para http://backend:8000
+      (resolução de nome pelo Docker internal DNS)
+    - Porta: APP_PORT (padrão 8080) exposta para o host.
+    - depends_on: espera o backend ficar healthy.
+
+  Para usar localmente:
+    cp .env.example .env
+    # preencher SMTP se quiser e-mail
+    docker compose up --build
+
+=========================================================
+PARTE 4 — PROBLEMA DO DEPLOY NO RAILWAY
+=========================================================
+
+O RAILWAY NÃO USA DOCKER COMPOSE
+  O Railway implanta cada serviço separadamente a partir do Dockerfile de
+  cada pasta. Ele NÃO lê o docker-compose.yml. Portanto toda a lógica de
+  depends_on, volumes compartilhados e rede interna do Compose não funciona
+  automaticamente.
+
+PROBLEMA PRINCIPAL: BACKEND_HOST
+  No Docker Compose local, BACKEND_HOST=backend funciona porque o Docker
+  cria uma rede interna e "backend" resolve para o IP do container.
+
+  No Railway, cada serviço tem um hostname interno no formato:
+    <nome-do-servico>.railway.internal
+
+  Então na variável de ambiente do serviço de frontend no Railway, você
+  precisa colocar:
+    BACKEND_HOST=<nome-exato-do-servico-backend>.railway.internal
+
+  Se o serviço de backend se chamar "backend" no Railway, seria:
+    BACKEND_HOST=backend.railway.internal
+
+  ATENÇÃO: Railway usa IPv6 no private networking. O nginx por padrão
+  resolve nomes em IPv4. Se a resolução falhar, adicionar no nginx.conf:
+    resolver 2001:4860:4860::8888 valid=30s;
+  Ou usar a variável Railway RAILWAY_PRIVATE_DOMAIN do backend.
+
+PROBLEMA SECUNDÁRIO: VOLUMES / DADOS
+  No Railway, os containers não têm acesso ao filesystem local da máquina.
+  Os dados que precisam existir:
+    - outputs/          → resumos .txt gerados pelo converter_docx.py
+    - PDFs/             → prontuários originais
+    - backups/          → gerado automaticamente
+    - avaliacoes.db     → gerado automaticamente
+    - usuarios.json     → copiado para dentro da imagem ou em volume
+
+  Os diretórios outputs/ e PDFs/ precisam estar DENTRO DA IMAGEM Docker
+  do backend (copiados via COPY no Dockerfile) ou em um volume Railway
+  persistente montado no container.
+
+  Atualmente o Dockerfile do backend faz apenas:
+    COPY . .
+  Ou seja, se outputs/ e PDFs/ existirem na pasta backend/ ao buildar,
+  eles entram na imagem. Isso pode funcionar mas é pesado (PDFs grandes).
+
+  Para Railway com volume:
+  - Criar um Railway Volume e montá-lo em /app/data ou /app/outputs
+  - Fazer upload dos PDFs e outputs por SSH/CLI do Railway
+
+PROBLEMA TERCIÁRIO: DNS / DOMÍNIO CUSTOMIZADO
+  Se alguém pediu para configurar "zona DNS", é porque você quer acessar
+  o sistema por um domínio seu (ex: resumos.incor.usp.br) em vez da URL
+  padrão do Railway (ex: resumos-alta-frontend.up.railway.app).
+
+  O que fazer no DNS do domínio:
+    1. No Railway: Settings do serviço frontend → Custom Domain → adicionar
+       o domínio desejado → Railway mostra um CNAME target (ex:
+       resumos-alta-frontend.up.railway.app)
+    2. No painel DNS do seu registrar/provedor (Registro.br, Cloudflare,
+       etc.), criar um registro:
+         Tipo:  CNAME
+         Nome:  resumos (ou @ para raiz, ou www)
+         Valor: <o CNAME que o Railway mostrou>
+    3. Aguardar propagação DNS (pode levar de minutos a 24h)
+    4. O Railway provisiona HTTPS automaticamente via Let's Encrypt
+
+  O frontend não precisa saber qual é o domínio. O que precisa estar certo
+  é o BACKEND_HOST interno do nginx, que nunca muda (é sempre o endereço
+  interno do Railway).
+
+=========================================================
+PARTE 5 — RESUMO DO QUE ESTÁ FUNCIONANDO E DO QUE NÃO ESTÁ
+=========================================================
+
+FUNCIONANDO NO RAILWAY:
+  ✓ Backend (FastAPI/Uvicorn) sobe e responde em /
+  ✓ A URL pública do backend está acessível
+
+NÃO INTEGRADO:
+  ✗ Frontend não consegue chegar no backend via proxy nginx
+    → Causa provável: BACKEND_HOST está errado ou vazio na variável de
+      ambiente do serviço frontend no Railway
+
+  ✗ Dados (outputs/, PDFs/) podem não estar no container do backend
+    → O Dockerfile precisa copiar esses arquivos ou usar Railway Volume
+
+=========================================================
+PARTE 6 — CHECKLIST PARA RESOLVER O DEPLOY NO RAILWAY
+=========================================================
+
+[ ] 1. No Railway, checar o nome exato do serviço backend (ex: "backend")
+[ ] 2. No serviço frontend do Railway → Variables → adicionar:
+        BACKEND_HOST = backend.railway.internal
+        (substituir "backend" pelo nome real do serviço)
+[ ] 3. Confirmar que os arquivos outputs/ existem dentro da imagem do
+        backend (buildar com eles na pasta backend/ antes de fazer push)
+[ ] 4. Se PDFs/ for grande demais para a imagem, criar Railway Volume e
+        fazer upload separado
+[ ] 5. Para domínio customizado:
+        Railway → frontend service → Settings → Custom Domain → Add
+        Copiar o CNAME gerado e criar registro no DNS do domínio
+[ ] 6. Testar acessando a URL pública do frontend e abrindo DevTools
+        (F12 → Network) para ver se as chamadas /login, /resumos etc.
+        estão retornando 200 ou dando erro de rede/CORS
+
+=========================================================
+ARQUITETURA RESUMIDA
+=========================================================
+
+  [Browser] ──HTTP──> [Nginx container - Railway frontend service]
+                           |
+                     Proxy (nginx.conf)
+                           |
+                           v
+                 [FastAPI container - Railway backend service]
+                           |
+                     ┌─────┴──────┐
+                 SQLite         outputs/
+                (avaliacoes.db)  PDFs/
+                usuarios.json    backups/
+
+=========================================================
+FIM DO DOCUMENTO
+=========================================================

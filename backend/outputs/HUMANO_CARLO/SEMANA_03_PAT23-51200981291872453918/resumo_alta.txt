@@ -1,0 +1,44 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- Hipertensão Arterial Sistêmica
+- Diabetes Mellitus
+- Ex tabagista parou há mais de 30 anos
+- Episódios de sinusite prévios
+- Cirurgias prévias: Vasectomia
+2) Dados da Internação
+Data de [entrada] admissão: 26/06/2019
+Data de alta: 28/06/2019
+Permanência em UTI?
+- Não
+- Motivo da internação:  Paciente refere que há 3 dias apresentou quadro de dor torácica opressiva associado a palpitações e melhora espontânea após. Esse fenômeno se repetiu com as mesmas características mais uma vez. Foi internado ontem no PS INCOR. O ECG tem alterações da repolarização inespecíficas e os marcadores de necrose miocárdica normais. Desde a internação assintomático.
+Diagnóstico da Internação:
+- Angina Instável
+3) Exames da Internação
+- Cateterismo Cardíaco 27/06/2019: Tronco da Coronária Esquerda (TCE): sem lesões obstrutivas. Artéria DA: Contorna o ápice do VE, com lesão segmentar de 80% no terço proximal. Também apresenta lesão focal de 70% em seu terço médio. Primeiro ramo diagonal (Dg1): Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Segundo ramo diagonal (Dg2): Pequena importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Terceiro ramo diagonal (Dg3): Pequena importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Artéria CX: Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Primeiro ramo marginal esquerdo (MgE1): Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Segundo ramo marginal esquerdo (MgE2): Grande importância anatômica, com lesão focal de 90% no óstio. Artéria CD: Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Artéria descendente posterior direita (DP): Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Primeiro ramo ventricular posterior direito (VP1): Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Dominância: Direita. Padrão Obstrutivo: Com padrão obstrutivo biarterial
+4) Terapia Medicamentosa
+Medicação prévia: Metformina, Losartana, Hidroclorotiazida, Selozok
+Medicação durante a internação: AAS, atorvastatina, metoprolol, losartana, prasugrel, soro fisiológico
+5) Terapia Intervencionista
+- 27/06/2019:
+ - Angioplastia da artéria Descendente Anterior (ADA) com implante de dois stents farmacológicos (INSPIRON 3.0X33mm , BIOMIME
+3.0X13mm)
+- Angioplastia da artéria 2a Marginal Esquerda (AMgE2) com implante de stent farmacológico (INSPIRON 3.0X19mm).
+6) Dispositivos
+-
+7 Situação funcional na alta
+- Bem sem queixas. Pulso radial presente  e perfusão do membro superior direito normal. FC:64 bpm, PA 130x80 mmHg
+Coração: BRNF S/S
+Pulmonar : MV+ bilateralmente sem RA
+Abdome: nada digno de nota
+MMII: sem edemas
+8) Status laboratorial na alta
+- Laboratório 28/06/2019: Hemoglobina 14.2 g/dL Hematócrito 40% Leucócitos 9690/mm³ Plaquetas 198000/mm³ CK-MB Massa 2.1 ng/mL Ureia 31 Creatinina 1.09 mg/dL Sódio 141 mEq/L Potássio 3.9 mEq/L
+9) Prescrição de Alta
+- Não descrito
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não descrito

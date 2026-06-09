@@ -1,0 +1,63 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Febre reumática - dupla lesão mitral (insuficiência mitral > estenose mitral)
+- Hipertensão arterial sistêmica
+- Diabetes mellitus tipo 2
+- Fibrilação atrial crônica em uso de anticoagulação
+- Acidente vascular encefálico isquêmico em 2016 - discreta afasia de expressão sequelar
+- Etilismo (6 garrafas de cerveja desde os 13 anos, quase todos os dias; atualmente somente nos finais de semana)
+- Ex-tabagismo
+2) Dados da Internação
+Data de [entrada] admissão: 31/01/2019
+Data de alta: 09/02/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de correção de valvopatia mitral.
+Diagnóstico da Internação:
+- Pós-operatório de troca de valva mitral por prótese biológica número 31 (01/02/2019)
+- Fibrilação atrial intermitente
+3) Exames da Internação
+- Biópsia (04/02/2019): valva mitral (insuficiência com estenose): fibrose densa e difusa, proliferação de vasos muscularizados e degeneração mucóide e calcificação moderadas e multifocais em estroma valvar que, associadas às alterações macroscópicas, são consistentes com sequela de doença reumática crônica. Deposição focal de fibrina em superfície ulcerada em área de calcificação em cúspide anterior e fibrose moderada em endocárdio de músculos papilares.
+- Eletrocardiograma (05/02/2019): sinusal com extrassístoles supraventriculares.
+- Eletrocardiograma: bloqueio atrioventricular de primeiro grau e extrassístoles supraventriculares. Bloqueio atrioventricular avançado?
+- Ecocardiograma transtorácico (06/02/2019): prótese mitral normofuncionante, com insuficiência central mínima. Pressão sistólica da artéria pulmonar 38. Insuficiência tricúspide moderada.
+- Holter 24 horas (07/02/2019): frequência cardíaca com nº de batimentos de 89434, frequência cardíaca mínima de 35 bpm, frequência cardíaca média de 70 bpm e frequência cardíaca máxima de 130 bpm. Arritmia ventricular: não se registrou atividade ectópica ventricular.
+Arritmia supra ventricular: nº total de extrassístoles atriais de 236808,  extrassístoles atriais/hora de 1035, pares de 2099, taquicardias de 770, a mais rápida com 3 batimentos a 171 bpm e a mais longa com 16 batimentos a 133 bpm. Extrassístoles atriais frequentes, isoladas, com pares, episódios de taquicardia atrial não sustentadas com até 16 batimentos, com frequentes batimentos atriais bloqueados, com frequentes batimentos e com condução intraventricular aberrante (contagem subestimada pelo sistema).
+Condução atrioventricular: em ritmo sinusal, a condução atrioventricular manteve intervalo PR em torno de 0,19 s.
+Condução intra-ventricular: em ritmo sinusal, a condução intraventricular (QRS = 0,10 s) não mostrou modificações significativas.
+Repolarização ventricular: a repolarização ventricular não apresentou modificações significativas.
+Sintomas: o paciente não fez anotações no diário, o paciente realizou o exame internado.
+4) Terapia Medicamentosa
+Medicação prévia: Enalapril.
+Medicação durante a internação: Dobutamina, Nitroprussiato, Cefuroxima, Omeprazol, Dipirona, Furosemida, Lidocaína, Prednisona, Enoxaparina, Varfarina.
+5) Terapia Intervencionista
+- 01/02/2019: troca de valva mitral por prótese biológica número 31. Sem intercorrências. Tempo de circulação extracorpórea 1h23. Tempo de anóxia 1h12.
+6) Dispositivos
+- Dreno pleural direito
+- Dreno mediano
+- Fio de marcapasso em ventrículo direito
+- Cateter venoso central em veia jugular interna direita
+- Pressão arterial invasiva em artéria radial direita
+- Sonda vesical de demora
+- Acesso venoso periférico
+7 Situação funcional na alta
+Assintomático. Hemodinamicamente estável. Eupneico em ar ambiente. Sem intercorrências nas últimas 24 horas.
+Pressão arterial 120x70 mmHg. Frequência cardíaca 71 bpm
+Bom estado geral, boa perfusão periférica. Turgência jugular negativa. Refluxo hepatojugular negativo.
+Murmúrio vesicular audível, sem ruídos adventícios.
+Ritmo cardíaco regular, em 2 tempos, sopro perfil de prótese. Ferida operatória em bom aspecto, sem saída de secreção.
+Abdome flácido, indolor.
+Membros inferiores sem edema, panturrilhas livres.
+8) Status laboratorial na alta
+- 08/12/2019: hemoglobina 11,5 / leucócitos 8 / plaquetas 177000 / ureia 28 / creatinina 1,12 / sodio 142 / potássio 3,2 / magnésio 2,0 / proteína C reativa 90,32 / cálcio ionizado 1,21
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Encaminhado à UNVAL em 15 dias
+- Optamos por deixar com anticoagulação oral pela instabilidade atrial - rever anticoagulação e reconciliação em ambulatório.

@@ -1,0 +1,37 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão Arterial Sistêmica há 1 mês
+- Hiperplasia Prostática Benigna
+- Ex-etilista social
+2) Dados da Internação
+Data de [entrada] admissão: 04/03/2018
+Data de alta: 06/02/2018
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Paciente relata dor torácica típica há cerca de 1 ano, desencadeada por esforços. Mantém angina CCS 2. Refere que desde então vem cursando com dispneia progressiva, atualmente CF II-III, associada a DPN e ortopneia. Nega edemas, síncope, nega sintomas em repouso ou outras queixas. No momento, assintomático, estável clinicamente, vem para realização de CATE amanhã.
+Diagnóstico da Internação:
+- Internação eletiva para angioplastia por doença arterial coronariana
+3) Exames da Internação
+- ECG 05/03/2018: Anormal, não clinicamente significativo .
+4) Terapia Medicamentosa
+Medicação prévia: Doxazosina; Finasterida; Atenolol; AAS; Atorvastatina; Anlodipino
+Medicação durante a internação: AAS, Clopidogrel
+5) Terapia Intervencionista
+- 05/03/2018: Angioplastia da artéria Coronária Direita (ACD) com implante de 02 stents farmacológicos guiada e controlada por ultrassom intracoronário (IVUS).
+6) Dispositivos
+-
+7 Situação funcional na alta
+- Paciente clinicamente estável, confortável em ar ambiente. Sem queixas no momento. Sem hematoma ou complicações no sítio de punção.
+Peso 94 kg, altura 172 cm. Frequência cardíaca: 65 bpm; frequência respiratória: 18 irpm; saturação: 96% em ar ambiente; pressão arterial: 130x80 mmHg. Bom estado geral, acianótico, anictérico, orientado no tempo e espaço, hidratado e corado. Ritmo cardíaco regular em dois tempos, bulhas normofonéticas, sem sopros. Turgência jugular ausente. Murmúrio vesicular universalmente audível, sem ruídos adventícios. Abdome atípico, indolor, fígado impalpável. Membros sem edemas.
+8) Status laboratorial na alta
+- Laboratório 05/03/2018: CKMB Massa 1,2 ng/mL Troponina I Inferior a 0.006 ng/mL
+9) Prescrição de Alta
+- Descrita prescrição de Prasugrel
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não decrito

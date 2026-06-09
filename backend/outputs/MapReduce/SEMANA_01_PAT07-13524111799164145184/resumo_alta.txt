@@ -1,0 +1,108 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Doença de Parkinson  
+Constipação intestinal crônica (com retirada de fecaloma 2× em 2017)  
+Disautonomia com síncopes  
+Transtorno bipolar (em uso de lítio)  
+Insuficiência mitral por prolapso com ruptura de cordoalhas  
+Etilismo (rum diário, cessado há 6 meses)  
+Fecaloma (removido duas vezes em 2017)  
+Hiperatividade detrusora neurogênica  
+Fibrilação atrial  
+Diabetes Mellitus tipo 2 (registrado como dispositivo)  
+Sem alergia conhecida  
+
+Cirurgias prévias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 09/08/2017  
+Data de alta: 20/08/2017  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Dispneia de pequeno esforço secundária à insuficiência mitral por prolapso com ruptura de cordas tendíneas, evoluindo para necessidade de cirurgia valvar mitral; seguida de internação pós‑operatória para plástica/reconstrução da válvula mitral com revascularização miocárdica (ponte de safena à coronária direita) e manejo de complicações como disfagia e sangramento difuso.
+
+Diagnóstico da Internação:  
+Insuficiência mitral por prolapso com ruptura de cordoalhas  
+Insuficiência mitral  
+Valvulopatia mitral  
+Dispneia  
+Plástica de válvula mitral (ressecção quadrangular com técnica de duplo Teflon)  
+Revascularização miocárdica  
+Disfagia (dificuldade de deglutição)  
+Sangramento difuso (sangramento em campo após saída de CEC)  
+
+3) Exames da Internação
+[09/08/2017] Radiografia de Tórax: Área cardíaca aumentada + discreta congestão pulmonar.  
+[11/08/2017] Ecocardiograma transesofágico intraoperatório – PRÉ‑CEC:  
+Função sistólica biventricular preservada, fração de ejeção ≈ 60 % (VN ≥ 52 %).  
+Valva mitral com espessamento discreto, mobilidade preservada, prolapso da cúspide posterior (segmentos P1 e P2) com corda rota.  
+Valvas tricúspide e aórtica sem anormalidades significativas; refluxo discreto na tricúspide.  
+Septo atrial íntegro, ausência de trombos, sem derrame pericárdico.  
+Cirurgia realizada: plástica da cúspide posterior.  
+[11/08/2017] Ecocardiograma transesofágico pós‑CEC:  
+Função sistólica biventricular preservada, fração de ejeção ≈ 60 %.  
+Valva mitral com espessamento discreto, sinais de plástica da cúspide posterior; insuficiência de grau discreto no Doppler.  
+Demais achados mantidos.  
+[11/08/2017] Radiografia de Tórax (pós‑operatório): Área cardíaca aumentada + discreta congestão pulmonar.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Losartana, Lítio, Prolopa, Sinvastatina  
+
+Medicação durante a internação:  
+Albumina, Carbonato de Lítio, Cefuroxima, Clonazepam, CNO₂, DDAVP, Dexametasona, Dobutamina, Furosemida, Nipride, Nitric Oxide, Ondansetrona, Pramipexol, Prolopa, Sifrol, Teofilina, Transamin, Vesomini  
+
+5) Terapia Intervencionista
+11/08/2017 – Plástica da válvula mitral com ressecção quadrangular e técnica de duplo Teflon, associada à revascularização miocárdica (ponte de safena à coronária direita).  
+12/08/2017 – Continuação/acompanhamento da plástica valvar e revascularização miocárdica.  
+
+6) Dispositivos
+CVC VJID – 11/08/2017  
+PAi ARD – 11/08/2017  
+Diabetes Mellitus tipo 2 – 11/08/2017 (registrado como dispositivo)  
+MP VD – 11/08/2017  
+
+7) Situação funcional na alta
+Paciente eupneico, hidratado, anictérico, acianótico, com marcha festinante típica de Parkinson, disartria, bom raciocínio e memória, orientado, dificuldade para se levantar sozinho, pulmões claros, abdome sem visceromegalias, membros inferiores com varizes discretas e edema, pulsos palpáveis, frequência cardíaca 68 bpm, pressão arterial 12/7 a 11/7 cm Hg, saturação de oxigênio 96 %.  
+
+8) Status laboratorial na alta
+Lab 15/08/2017  
+Hb 9,4 g/dL  
+Ht 29 %  
+Leucócitos 12 400 /mm³ (neutrófilos 80 %)  
+Plaquetas 154 000 /mm³  
+Na⁺ 140 mmol/L  
+K⁺ 3,3 mmol/L  
+Ca²⁺ 1,14 mmol/L  
+Cl⁻ 107 mmol/L  
+Lactato 13 mg/dL  
+INR 1,1  
+Relação 0,85  
+pH 7,45  
+pCO₂ 38,9 mmHg  
+pO₂ 36,1 mmHg  
+Bicarbonato 26,7 mmol/L  
+BE +3,1  
+Ureia 101 mg/dL  
+Creatinina 1,54 mg/dL  
+PCR 38,49 mg/L  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Solicitar acompanhamento fonoaudiológico.  
+Orientado a comprar iogurte para facilitar a alimentação.  
+Iniciado suplemento nutricional.  
+Aceita dieta oral.  
+
+Seguimento:  
+não consta

@@ -1,0 +1,93 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Miocardiopatia chagásica (classe funcional I, fração de ejeção ≈ 30 % – 2014)  
+Marcapasso de dupla câmara (AV definitivo) implantado em 2007 (bloqueio trifascicular) – troca de gerador em 24/09/2016, plastia da caixa por granuloma infectado  
+Granuloma infectado no local do marcapasso (necessitou retirada de fio verde)  
+Fibrilação atrial paroxística, em anticoagulação oral (CHADSVASC 4)  
+Hipotireoidismo  
+Hipertensão arterial sistêmica  
+Bloqueio trifascicular (diagnóstico em 2007)  
+
+Cirurgias / procedimentos prévios: implante de marcapasso DDD (2007), troca de gerador (24/09/2016).  
+
+Alergias: não consta  
+
+Vícios (tabagismo, etilismo, uso de drogas): não consta  
+
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 04/01/2017  
+Data de alta: 17/01/2017  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Infecção da loja de marcapasso com extrusão de eletrodo e granuloma infectado, associada a choque cardiogênico, insuficiência renal aguda, hepatite isquêmica, hipernatremia e necessidade de ventilação mecânica em contexto de miocardiopatia chagásica grave.
+
+Diagnóstico da Internação:  
+Extrusão de eletrodo de marcapasso com infecção da bolsa  
+Granuloma infectado na incisão de marcapasso  
+Miocardiopatia chagásica (EF ≈ 20 %)  
+Hepatite isquêmica (TGO 1873, INR 4,0) – em recuperação  
+Choque cardiogênico – pós‑parada cardiorrespiratória  
+Parada cardiorrespiratória revertida (ritmo FV/assistolia, 1 choque, 3 ciclos, 8 min)  
+Hipoxemia (suspeita em diversos dias)  
+Plastia de bolsa de marcapasso com exteriorização do gerador  
+Insuficiência renal aguda – estágio AKIN III  
+Distúrbio hidroeletrolítico – hipernatremia (Na 151)
+
+3) Exames da Internação
+06/01/2017 – Ecocardiograma transtórtico (ECO TT):  
+  “Ventrículo esquerdo apresenta função sistólica diminuída à custa de acinesia em parede(s) inferior e septal, além de hipocinesia das demais. A fração de ejeção foi estimada em 20 % (VN ≥ 54%). Não foi possível análise da função diastólica. Ventrículo direito apresenta hipocinesia discreta. Movimentação atípica do septo ventricular. Eletrodo de marca‑passo em câmaras cardíacas direitas. Insuficiência mitral importante. PSAP 28.”
+08/01/2017 – Ultrassonografia pulmonar:  
+  “USG de pulmão a beira leito evidencia congestão pulmonar em bases.”
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Carvedilol; Enalapril; Espironolactona; Furosemida; Levotiroxina; Marevam; Marevan; Omeprazol.
+
+Medicação durante a internação:  
+Adrenalina; Amiodarona; Bicarbonato de sódio; Ciprofloxacino; Cloreto de cálcio; Cálcio; Dobutamina; Fentanil; Furosemida; G50 %; Glicose 50 %; Heparina não fracionada; Midazolam; Nipride; Noradrenalina; Potássio; Sulfato de magnésio; Tramal; Vasopressina; Xarope de potássio.
+
+5) Terapia Intervencionista
+Plastia de lead de marcapasso – 03/01/2017  
+Plastia de lead de marcapasso com exteriorização do gerador – 05/01/2017  
+Exteriorização do gerador de marcapasso com limpeza de lead e extrusão do sistema – 05/01/2017, 06/01/2017, 10/01/2017  
+Exteriorização do gerador de marcapasso (sem limpeza) – 05/01/2017, 14/01/2017  
+Ressuscitação cardiopulmonar (RCP) com 3 ciclos de 8 min – 05/01/2017  
+RCP com 1 choque e 3 ciclos de 8 min – 05/01/2017  
+Inserção de cateter venoso central (CVC VJE) – 17/01/2017
+
+6) Dispositivos
+Implante de marcapasso definitivo atrioventricular (DDD) – 2007 e 12‑17 jan 2017  
+Troca de gerador de marcapasso – 24/09/2016  
+Cateter venoso central (CVC) via jugular externa – 07/01/2017 a 11/01/2017 e 12/01/2017 a 17/01/2017  
+Procedimento de Acesso Intermitente – ARE – 08/01/2017 a 11/01/2017  
+Sonda vesical de demora (SVD) – 08/01/2017 a 10/01/2017, 12/01/2017, 15/01/2017  
+Sonda nasogástrica (SNE) – 09/01/2017  
+Eletrodo de marcapasso (extrusado) – 13/01/2017
+
+7) Situação funcional na alta
+Paciente de 71 anos, peso 48 kg, geral pálido, hidratado, anictérico, acianótico; neurológico hipoativo, orientado; cardiovascular ritmo regular, FC 100 bpm, PAM 50 mmHg, em uso de dobutamina; respiratório com ventilação mecânica+, O₂ 2 L/min, SatO₂ 95 %; digestório em jejum, abdome flácido, indolor; extremidades sem edema, frias, pulsos periféricos diminuídos; presença de curativo na loja de marcapasso.
+
+8) Status laboratorial na alta
+Distúrbio hidroeletrolítico – Na 151  
+Hepatite isquêmica – TGO 1873, INR 4,0  
+Lactato V 15  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter jejum devido risco de isquemia mesentérica.  
+
+Seguimento:  
+Solicitar avaliação da equipe de cuidados paliativos e iniciar cuidados de conforto;  
+Substituir enoxaparina por heparina não fracionada profilática;  
+Reduzir furosemida para 2 amp 8/8 h e trocar diluição das drogas para soro glicosado.

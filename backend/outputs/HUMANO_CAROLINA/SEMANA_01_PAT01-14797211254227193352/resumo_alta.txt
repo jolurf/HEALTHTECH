@@ -1,0 +1,43 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Tetralogia de Fallot
+- Pós-operatório tardio de Blalock-Taussig modificado a direita (1996 - 5 meses)
+- Pós-operatório tardio de correção total (1997 - 1a 10m)
+- Residual: insuficiência pulmonar acentuada, dilatação acentuada do ventrículo direito e átrio direito, sem disfunção.
+2) Dados da Internação
+Data de [entrada] admissão: 20/08/2021
+Data de alta: 23/08/2021
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Piora progressiva de classe funcional, com dor torácica tipo pontada após esforços físicos, mas com discreta melhora da frequência, e dispneia aos moderados esforços. Internação para realização de ressonância magnética e definição de conduta/cirurgia.
+Diagnóstico da Internação:
+3) Exames da Internação
+- Sem
+4) Terapia Medicamentosa
+Medicação prévia: Bisoprolol, Ramipril, Anticoncepcional oral
+Medicação durante a internação: Enalapril, Furosemida, Bisacodil, Bisoprolol
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+- Clinicamente estável, sem queixas. Chorosa à  avaliação, pois relata que está com sobrinho e pai internados em outros hospitais e deseja ficar junto deles. Diurese e evacuações presentes.
+Frequência cardíaca 96bpm. Saturação periférica de oxigênio 97% em ar ambiente.
+Bom estado geral, corada, hidratada, acianótica, anictérica, afebril
+Precórdio sem abaulamentos, impulsões ou frêmitos
+Murmúrio vesicular presente bilateral, sem ruídos adventícios, sem sinais de desconforto, eupneica
+Ritmo cardíaco regular, em 2 tempos, bulhas normofonéticas, sopro sistólico 3+/6+ e sopro diastólico 3+/4+ em BEEA, com irradiação para dorso, B2 desdobrada
+Abdome globoso, flácido, indolor, fígado a 1cm do rebordo costal direito
+Extremidades sem edema. Pulsos com amplitude normal nos 4 membros, simétricos. Boa perfusão capilar.
+8) Status laboratorial na alta
+- Sem
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Orientados sinais de alarme para retorno ao PS.
+10 Orientações de seguimento
+- Devido a grande fila de espera para o exame internado, devido funcionamento de apenas 1 aparelho na instituição, com limitação de exames diários, com paciente estável clinicamente, sem sinais de alarme, optado pela alta hospitalar com exame ambulatorial, já marcado para dezembro deste ano. Solicitamos remarcar consulta do ambulatório para janeiro, de forma que ressonância já tenha laudo e decisão cirúrgica possa ser tomada com mais informações.

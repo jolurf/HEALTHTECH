@@ -1,0 +1,70 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- TV mitral em 07/08/2013 -> Prótese biológica braile n° 29
+- Comissurotomia Mitral em 2005
+- DRGE
+- Colesteatoma do ouvido médio - Mastoidectomia radical à esquerda
+-  Colecistectomia por vídeo em 2018
+-  Má circulação na perna (SIC) - com indicação cirúrgica
+- Transtorno de Ansiedade Generalizado
+2) Dados da Internação
+Data de [entrada] admissão: 07/10/2023
+Data de alta: 27/10/2023
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Relata piora progressiva da dispneia desde agosto/2023, atualmente para pequenos esforços (CF III), que piora em ortostase. Desde aproximadamente 20/09/2023 relata estar com palpitações, que geraram agravamento da dispneia. Devido a isso, ficou internada do dia 26/09-28/09, porém relata não ter tido melhora das palpitações e da dispneia após a alta hospitalar. Nos últimos três dias, está com dor abdominal difusa, que teve início súbito durante a madrugada do dia 05/10/2023, piora com a alimentação e ao exercer movimentos mínimos, associado a náuseas e lentificação do hábito intestinal. Nega dor torácica. Nega síncope.
+Diagnóstico da Internação:
+- Estenose mitral importante de etiologia reumática -> Disfunção prótese
+tipo estenose
+- Insuficiência Cardíaca descompensada em perfil B por FAARV 
+- TEP PESI II (baixo risco):
+3) Exames da Internação
+- Ecocardiograma transtorácico (07/10/2023): fração de ejeção do ventrículo esquerdo de 45%, com movimento paradoxal do septo ventricular. O ventrículo direito apresentava hipocinesia moderada. Não foi possível avaliar a função diastólica. A valva mitral apresentava prótese biológica com espessamento, calcificação e imagem sugestiva de trombo, associada a importante redução da mobilidade dos folhetos. O gradiente diastólico máximo entre átrio esquerdo e ventrículo esquerdo foi estimado em 27 mmHg e o gradiente médio em 16 mmHg. O PHT foi estimado em 212 ms (valor de referência < 130 ms). Não foi observado refluxo significativo. A valva aórtica apresentava fusão comissural, espessamento das cúspides e redução da abertura valvar, compatíveis com comprometimento reumático. O gradiente sistólico máximo entre ventrículo esquerdo e aorta foi estimado em 14 mmHg. O estudo Doppler e o mapeamento de fluxo em cores demonstraram insuficiência aórtica de grau moderado. A valva tricúspide apresentava dilatação do anel valvar e redução da superfície de coaptação das cúspides. O estudo Doppler e o mapeamento de fluxo em cores demonstraram insuficiência tricúspide importante. A pressão sistólica da artéria pulmonar foi estimada em 47 mmHg pelo Doppler (valor normal < 35 mmHg). A veia cava inferior media 26 mm de diâmetro e apresentava variação respiratória inferior a 50%.
+- ECG (07/10/23): ritmo irregularmente irregular sem ondas P. FC 168 bpm.
+Angiotomografia de Tórax 07/10/2023:Dilatação das câmaras direitas, além de hipertrofia e sinais de sobrecarga do ventrículo direito. O átrio esquerdo encontrava-se dilatado, com presença de volumoso trombo em seu interior, estendendo-se da parede posterior à aurícula esquerda e à bioprótese valvar em posição mitral. O tronco pulmonar apresentava calibre normal, sem falhas de enchimento. A artéria pulmonar direita apresentava calibre aumentado, sem falhas de enchimento proximais. Nos ramos lobares e segmentares direitos, observou-se falha de enchimento central na artéria lobar inferior e nos ramos dos segmentos basais anterior e medial. Os demais ramos apresentavam calibres normais. A artéria pulmonar esquerda apresentava calibre normal, sem falhas de enchimento. Os ramos lobares e segmentares esquerdos apresentavam calibres preservados, sem evidências de falhas de enchimento.
+- Urocultura (07/10/23): Negativa
+- Hemocultura (07/10/23): Negativa
+
+Angiotomografia de abdome (09/10/23): Tronco celíaco e artérias mesentérica superior, renais e mesentérica inferior pérvias. Artéria esplênica com formação aneurismática sacular no terço médio, medindo 0,9 cm. Achados adicionais: dilatação das veias gonadais, com ectasia das varizes parauterinas; pequena quantidade de líquido perihepático; dilatação das veias cava inferior e hepáticas; sinais de shunt portossistêmico.
+Tomografia de abdome (09/10/23): Fígado de dimensões normais, com esteatose do parênquima. Shunt portossistêmico com alteração perfusional no segmento VIII. Veias hepáticas e veia cava inferior ingurgitadas, sugestivas de regime congestivo. Comparativamente com a TC de 07/10/2023, houve resolução do derrame pleural bilateral. Os demais achados permanecem inalterados.
+- Ecocardiograma transesofágico intraoperatório (19/10/2023): Pré-CEC: Função sistólica do ventrículo esquerdo diminuída às custas de hipocinesia difusa (FEVE = 0,45). Ventrículo direito apresenta hipocinesia moderada. Prótese biológica com espessamento, calcificação e imagem sugestiva de trombo, com importante redução da mobilidade de seus folhetos. Gradiente diastólico máximo AE-VE estimado em 12 mmHg e médio em 7 mmHg. Valva aórtica apresenta fusão comissural, espessamento de suas válvulas e redução da abertura valvar compatíveis com comprometimento reumático. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Valva tricúspide apresenta dilatação do anel valvar (46 mm de diâmetro) e redução da superfície de coaptação de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante. Septo atrial íntegro. Presença de imagem ecogênica compatível com trombo em apêndice atrial esquerdo e outra imagem atapetando todo o teto do átrio esquerdo compatível com trombo. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 35 mmHg (VN < 35 mmHg). Cirurgia realizada: Troca valvar mitral biológica. Pós-CEC: Função sistólica do ventrículo esquerdo diminuída às custas de hipocinesia difusa (FEVE = 0,40). Ventrículo direito apresenta hipocinesia discreta. Prótese biológica em posição mitral normofuncionante, com refluxo periprotético mínimo. Gradiente sistólico máximo AE-VE estimado em 6 mmHg e médio em 3 mmHg. Valva tricúspide apresenta dilatação do anel valvar e redução da superfície de coaptação de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Presença de imagem ecogênica em apêndice atrial medindo 18 x 9 mm, podendo corresponder a trombo. Não observadas imagens ecogênicas em interior de átrio esquerdo. Demais achados mantidos em relação ao exame pré-CEC.
+- Anatomopatológico de Trombo no Átrio esquerdo (20/10/2023(: Trombos mistos em organização.
+
+- Anatomopatológico de Prótese Valvar em posição mitral (20/10/2023): Calcificação dos folhetos da prótese. Fragmentos de tecido conjuntivo com discreto infiltrado inflamatório linfo-histiocitário.
+- Ecocardiograma transtorácico (23/10/23): FE 50% - VE com hipocinesia difusa e VD com hipocinesia discreta. Mitral: PB com insuficiência central mínima e GDm 4mmHg. Aórtica: fibrocalcificação discreta com insuficiência de grau moderado. IT importante. PSAP 36mmHg - em uso de drogas vasoativas.
+- Tomografia de Tórax (24/10/23): Esternorrafia metálica com bom alinhamento dos fragmentos ósseos. Discreto borramento e densificação da gordura pré e retroesternais com discreto enfisema subcutâneo associado. Há pequena quantidade de líquido coletado na região retroesternal, com pequenas bolhas gasosas associadas. Achados comumente encontrados em pós operatórios recentes de cirurgias torácicas.
+- Ecocardiograma transtorácico (27/10/2023): Seio Aórtico 29 mm Átrio Esquerdo 46 mm Ventrículo Direito basal 33 mm Ventrículo Direito Médio 23 mm Septo 7 mm Parede Posterior 7 mm DDVE 50 mm DSVE 37 mm Índice de Massa 63 g/m² FE 51% (Teicholz). Aumento importante de átrio esquerdo. O volume do átrio esquerdo medido pela regra de Simpson foi estimado em 50 ml/m² (valor normal < 34 ml/m²). Demais câmaras de tamanhos normais. Comentários: ventrículo esquerdo apresenta espessura miocárdica preservada e função sistólica reduzida às custas de hipocinesia difusa, mais acentuada no septo. Avaliação da função diastólica do ventrículo esquerdo prejudicada devido à valvopatia mitral. Septo ventricular com movimentação assincrônica. Ventrículo direito apresenta hipocinesia discreta. Ventrículos: prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente diastólico máximo AE-VE estimado em 12 mmHg e médio em 4 mmHg. O PHT foi estimado em 84 ms (VN < 130 ms). Valva mitral: apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Valva aórtica: apresenta dilatação do anel valvar e redução da superfície de coaptação de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante. Valva tricúspide: apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva pulmonar: seios aórticos, aorta ascendente e arco aórtico com diâmetros e fluxo normais. Aorta: pericárdio com aspecto ecocardiográfico normal.
+4) Terapia Medicamentosa
+Medicação prévia: Enalapril, carvedilol, espironolactona, furosemida, sertralina, amitriptilina, prometazina, omeprazol
+Medicação durante a internação: Deslanosídeo, furosemida, sulfato de magnésio, carvedilol, cefuroxima, vancomicina, Dobutamina, noradrenalina, vasopressina, enoxaparina, ácido fólico, omeprazol, amiodarona, simeticona, bromoprida, hidroclorotiazida, heparina, teofilina, dipirona, cloreto de sódio, sacarato hidróxido férrico, mupirocina creme, fibrinogenio, complexo protrombínico, nistatina creme vaginal, cloreto de potássio, lactulose, sertralina, ceftriaxona, metronidazol
+5) Terapia Intervencionista
+- 19/10/23 Retroca valvar mitral (biológica n° 31) e trombectomia atrial
+esquerda
+6) Dispositivos
+- TOT n° 7,5
+- Cateter Venoso Central em VJID 
+- Cateter de Pressão Arterial Invasiva em Artéria Radial Direita
+- Dreno Pleural Direito
+- Dreno Mediastinal
+- 2 fios de MP
+- Sonda Vesical de Demora
+7 Situação funcional na alta
+- Paciente em leito de enfermaria, hemodinamicamente estável sem DVA, eupneica em ar ambiente. Avaliada hoje pela equipe da cirurgia plástica, sem secreção da esternotomia à expressão. Boa tolerância à dieta por via oral, evacuação presente. Mantém quadro de fibrilação atrial, porém com FC controlada. Nega dispneia ou ortopneia, tolerando decúbito zero. 
+Sinais vitais: PA 90x60 mmHg | FC 60 bpm | SatO2 93% em ar ambiente. Dispositivos: acesso central em AJID. Geral: Corada, hidratada, eupneica, acianótica, anictérica, afebril. Neurológico: Sem sedação, ECG 15, PIFR. ACV: Bulhas arrítmicas, normofonéticas, sem sopros audíveis. AR: MV+ bilateral reduzido em hemitórax direito, sem ruídos adventícios, eupneica. TGI: Abdome flácido, sem massas ou VCM palpáveis, RHA presente. Extremidades: Boa perfusão periférica, TEC < 3 s, sem edema de MMII.
+8) Status laboratorial na alta
+- Laboratório 27/10/2023 - Hemoglobina 9,5 g/dL Hematócrito 29% Leucócitos 9190/mm³ Plaquetas 229.000/mm³ Ureia 45 mg/dL Creatinina 1,33 mg/dL Sódio 143 mEq/L Potássio 3.8 mEq/L Magnésio 1.9 mg/dL PCR 8,4 mg/L BNP 183 pg/mL
+9) Prescrição de Alta
+- amiodarona 200mg 2xd, atenolol 25mg 2xd, furosemida 1cp 1xd, omeprazol 20mg 1xd, sertralina 50mg1xd, amitriptilina 50mg 1xd;
+10 Orientações de alta para o paciente
+- Oriento sobre fisioterapia motora e respiratória no pós-operatório;
+- Oriento necessidade do uso regular de DOAC, como paciente deseja fazer o
+uso da medicação;
+- Retorno agendado com equipe da válvula ambulatorialmente;
+- Retorno no ambulatório de curativos em 1 semana da alta hospitalar;
+10 Orientações de seguimento
+- Avaliar ambulatorialmente sobre a reversão do ritmo cardíaco após 4 semanas
+de anticoagulação;

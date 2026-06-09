@@ -1,0 +1,66 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Uso crônico de cocaína (há 10 anos) – 12/12/2017, 13/12/2017  
+Uso crônico de maconha (há 10 anos) – 12/12/2017, 13/12/2017  
+Ex‑tabagista (20 maços‑ano) – 12/12/2017, 13/12/2017  
+
+Não há informações sobre cirurgias prévias, alergias, internações prévias ou prática de exercícios físicos.
+
+2) Dados da Internação
+Data de admissão: 12/12/2017  
+Data de alta: 13/12/2017  
+Permanência em UTI? não  
+Motivo da internação: Dor torácica precordial irradiada para membro superior esquerdo após uso de cocaína, acompanhada de vômitos e síncope, levando à internação.  
+Diagnóstico da Internação: Infarto Agudo do Miocárdio com elevação do segmento ST (IAMCST) anterior extenso.
+
+3) Exames da Internação
+13/12/2017 – Eletrocardiograma (ECG): Ritmo sinusal, supra de ST de V1‑V5, DI e aVL. FC 72, com Q e inversão de T.  
+12/12/2017 – Cateterismo coronariano: Obstrução de artéria descendente anterior (DA) proximal, inserção de 2 stents. Fechamento de Dg durante procedimento, necessário balão.  
+[sem data] – Ecocardiograma: Fração de ejeção (FE) 36 %, câmaras de tamanho normal, acinesia apical, parede septal anterior e segmento médio da parede anterior, além de hipocinesia do septo inferior. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. IM mínima e IAo mínima.
+
+4) Terapia Medicamentosa
+Medicação prévia: não consta  
+Medicação durante a internação:  
+AAS  
+clopidogrel  
+diltiazem  
+enoxaparin  
+sinvastatina  
+tirofiban  
+tridil  
+
+5) Terapia Intervencionista
+12/12/2017 – Angioplastia da artéria descendente anterior (DA) com implantação de 2 stents.
+
+6) Dispositivos
+12/12/2017 – Stent coronariano (2 unidades).
+
+7) Situação funcional na alta
+Paciente em leito, sem queixas, diurese presente, sem evacuação ainda. Sinais vitais: PA 104/50 mmHg, FC 83 bpm, SatO₂ 94 %, sem sinais de esforço respiratório. Ausculta cardíaca sem sopros, uso de Tridil 5 ml/h. Equimose pequena em região de introdutor, sem sangramento ativo.
+
+8) Status laboratorial na alta
+13/12/2017 (exames mais próximos da alta)  
+Hb 14,4 g/dL  
+Leucócitos 13 080 /mm³  
+Plaquetas 230 000 /mm³  
+CK 86 U/L  
+Troponina > 50 ng/mL  
+Ureia 21 mg/dL  
+Creatinina 0,96 mg/dL  
+Na⁺ 139 mmol/L  
+K⁺ 3,9 mmol/L  
+PCR 172 mg/L  
+Mg²⁺ 2,2 mg/dL  
+
+9) Prescrição de Alta
+não consta
+
+10) Orientações de alta
+Para o paciente:  
+Retornar para serviço de origem.  
+
+Seguimento:  
+não consta

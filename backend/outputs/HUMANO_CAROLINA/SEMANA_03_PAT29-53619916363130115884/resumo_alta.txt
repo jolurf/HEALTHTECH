@@ -1,0 +1,67 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Insuficiência cardíaca com fração de ejeção reduzida - miocardiopatia dilatada de etiologia à esclarecer
+- Valvoplastia mitral em 2016 por dupla disfunção mitral
+- Síncope desliga-liga de alto risco
+- Internação em julho de 2018 por insuficiência cardíaca descompensada em perfil B
+- Hipertensão arterial sistêmica
+- Diabetes mellitus tipo 2
+- Ex-tabagista de 16 anos/maço, parou em 2002
+- Hérnia discal - cirurgia em 2004
+2) Dados da Internação
+Data de [entrada] admissão: 01/10/2018
+Data de alta
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para implante de terapia de ressincronização cardíaca.
+Diagnóstico da Internação:
+-  Pós-operatório de implante de marcapasso cardíaco atriobiventricular - ressincronizador (02/10/2018)
+- Insuficiência renal aguda - cardiorrenal tipo II?
+- Diarreia persistente
+3) Exames da Internação
+- Eletrocardiograma: terapia de ressincronização cardíaca normofuncionante (DDD modo VAT)
+- Eletrocardiograma pós-implante: estímulo artificial presente, com captura ventricular após estímulo sinusal espontâneo.
+- Ecocardiograma transtorácico (11/10/2018): seio aórtico 26 / átrio esquerdo 40 / ventrículo direito basal 46 / ventrículo direito médio 35 / septo ventricular 9 / parede posterior do ventrículo esquerdo 8 / diâmetro diastólico do ventrículo esquerdo 56 / diâmetro sistólico do ventrículo esquerdo 47 / fração de ejeção 30%.
+Ventrículos: ventrículo esquerdo apresenta hipertrofia excêntrica e função sistólica diminuída à custa de hipocinesia difusa. Não foi possível análise da função diastólica. Ventrículo direito apresenta hipocinesia discreta. Movimentação paradoxal do septo ventricular. Eletrodo de marca passo em câmaras cardíacas direitas.
+Valva mitral: espessamento valvar discreto, com redução da mobilidade de sua cúspide posterior (sinais
+de plastia prévia). O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado.
+Valva aórtica: apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva tricúspide: falha de coaptação entre suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante.
+Valva pulmonar: apresenta sinais indiretos de hipertensão arterial pulmonar.
+Aorta: seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais.
+Pericárdio: pericárdio com aspecto ecocardiográfico normal.
+Pressão sistólica em artéria pulmonar estimada pelo Doppler em 45 mmHg. A pressão sistólica da artéria pulmonar pode estar subestimada pela falha de coaptação da valva tricúspide. A pressão sistólica da artéria pulmonar pode estar subestimada pela presença de disfunção sistólica do ventrículo direito. A veia cava inferior mede 26 mm, com variação respiratória menor que 50%. Observado a presença de ascite.
+- Ultrassom de abdome total (11/10/2018): Fígado de dimensões aumentadas e ectasias das veias hepáticas, que pode estar associado a hepatopatia congestiva. Moderada ascite no abdome superior. Aorta ateromatosa. Volumoso derrame pleural à direita.
+4) Terapia Medicamentosa
+Medicação prévia: Omeprazol, Digoxina, Bisoprolol, Furosemida, Losartana, Hidralazina, Espironolactona, Isossorbida.
+Medicação durante a internação: Furosemida, Digoxina, Losartana, Hidralazina, Mononitrato de Isossorbida, Espironolactona, Bisoprolol, Omeprazol, Dobutamina, Zolpidem, Nitroprussiato, Enoxaparina, Insulina NPH, relaxante muscular, Lactulose, Hidroclorotiazida, Gliclazida, Pomada de óxido de zinco vitaminado, Captopril.
+5) Terapia Intervencionista
+- 02/10/2018: implante de marcapasso cardíaco atriobiventricular (ressincronizador). Pós-operatório com necessidade de Dobutamina e estadia em UTI.
+6) Dispositivos
+- Tubo orotraqueal
+- Cateter nasal de oxigênio
+- Pressão arterial invasiva em artéria radial direita
+- Cateter venoso central em veia femoral esquerda
+- Acesso venoso periférico
+7 Situação funcional na alta
+Nega dispneia e tolera bem o decúbito.
+Pressão arterial 110x0. Frequência cardíaca 72. Saturação periférica de oxigênio 96%.
+Refluxo hepatojugular negativo. Turgência jugular positiva.
+Extremidades bem perfundidas.
+Ritmo cardíaco regular, 2 tempos, bulhas normofonéticas, sem sopros.
+Murmúrio vesicular presente, sem ruídos adventícios.
+Abdome flácido.
+Membros inferiores sem edemas.
+8) Status laboratorial na alta
+- 19/10/2018: hemoglobina 8,1 / leucócitos 6550 / plaquetas 327000 / ureia 163 / creatinina 1,42 / sódio 136 / potássio 4,5 / magnésio 2,8 / proteína C reativa 7,63 / cálcio ionizado 1,25
+9) Prescrição de Alta
+- Losartana 25mg 12/12h
+- Furosemida 40mg 1 comprimido ao dia
+10 Orientações de alta para o paciente
+- Retorno precoce no ambulatório em uma semana
+10 Orientações de seguimento
+- Sem

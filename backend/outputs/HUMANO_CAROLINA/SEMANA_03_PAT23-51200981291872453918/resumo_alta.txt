@@ -1,0 +1,43 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Ex-tabagista (parou há mais de 30 anos)
+- Vasectomia
+2) Dados da Internação
+Data de [entrada] admissão: 25/06/2019
+Data de alta: 28/06/2019
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Há 3 dias apresentou dor torácica opressiva associada a palpitações e melhora espontânea. Esse fenômeno se repetiu com as mesmas características mais uma vez.
+Diagnóstico da Internação:
+- Angina instável
+3) Exames da Internação
+- Eletrocardiograma: alterações da repolarização inespecíficas.
+- Cateterismo cardíaco esquerdo (27/06/2019): artéria descendente anterior com lesão segmentar de 80% no terço proximal. Também apresenta lesão focal de 70% em seu terço médio. Segundo ramo marginal esquerdo (MgE2) com lesão focal de 90% no óstio.
+4) Terapia Medicamentosa
+Medicação prévia: Metformina, Losartana, Hidroclorotiazida, Selozok.
+Medicação durante a internação: Ácido acetilsalicílico, Atorvastatina, Tartarato de Metoprolol, Losartana, Prasugrel, Solução Fisiológica a 0,9%.
+5) Terapia Intervencionista
+- 27/06/2019: angioplastia da Artéria Descendente Anterior (ADA) com implante de dois stents farmacológicos (INSPIRON 3.0X33 , BIOMIME .0X13mm), com sucesso. Angioplastia da artéria 2a Marginal Esquerda (AMgE2) com implante de stent farmacológico (INSPIRON 3.0X19mm), com sucesso.
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Paciente bem, sem queixas.
+Pulso radial presente e perfusão do membro superior direito normal.
+Frequência cardíaca 64 bpm
+Pressão arterial 130 x 80 mmHg
+Bulhas rítmicas e normofonéticas, sem sopros.
+Murmúrio vesicular presente bilateralmente, sem ruídos adventícios
+Abdome sem nada digno de nota.
+Membros inferiores sem edemas.
+8) Status laboratorial na alta
+- 28/06/2019: hemoglobina 14,2 / leucócitos 9690 / plaquetas 198000 / CK-MB massa 2,1 / ureia 31 / creatinina 1,09 / sódio 141 / potássio 3,9.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

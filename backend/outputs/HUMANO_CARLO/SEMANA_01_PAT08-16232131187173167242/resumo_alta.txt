@@ -1,0 +1,38 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): Ablação de Fibrilação Atrial, Hipertensão Arterial Sistêmica, Dislipidemia
+2) Dados da Internação
+Data de [entrada] admissão: 06/02/2019
+Data de alta: 19/02/2019
+Permanência em UTI?
+- Sim
+Motivo da internação: 
+Não descrito
+Diagnóstico da Internação: 
+- Aneurisma de Aorta + Insuficiência Aórtica
+- Vasoplegia na UTI
+- Trombose Venosa Profunda em  veias tibiais posteriores a direita
+3) Exames da Internação
+4) Terapia Medicamentosa
+Medicação prévia: Não descrito
+Medicação durante a internação: Dobutamina, noradrenalina, vasopressina, furosemida, fenitoína, omeprazol, albumina, vitamina C, vitamina B1, hidrocortisona, dipirona, ipratrópio, AAS, lamotrigina, enoxaparina, prednisona, cloreto de potássio, betametasona pomada, ciprofloxacino
+5) Terapia Intervencionista
+06/02/2019 -  Cirurgia de Bentall de Bonno Biologico Tubo n° 30 + Valvula Ao PB n° 25
+6) Dispositivos
+- Cateter Venoso Central Veia Subclávia Direita
+- Cateter de Pressão Arterial Invasiva em Radial Direita
+- Dreno Mediano
+- Tubo Orotraqueal
+- Fio de Marcapasso
+7 Situação funcional na alta
+Sem descrição na evolução no dia da alta
+8) Status laboratorial na alta
+- Laboratório 19/02/2019: Hemoglobina de 9,8 g/dL Hematócrito de 30% Leucócitos de 11.770/mm³  Plaquetas de 246.000/mm³ Glicose de 106 mg/dL Ureia de 29 mg/dL Creatinina de 1,09 mg/dL  Sódio de 138 mEq/L Potássio de 3,6 mEq/L Proteína C reativa de 50,65 mg/L, INR de 0,9 TTPA de 29,7 s.
+9) Prescrição de Alta
+Não descrito
+10 Orientações de alta para o paciente
+- Alta para acompanhamento ambulatorial
+10 Orientações de seguimento
+Não descrito

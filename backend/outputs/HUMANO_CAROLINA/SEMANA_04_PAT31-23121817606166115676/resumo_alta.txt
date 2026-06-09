@@ -1,0 +1,74 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo:
+Diagnósticos prévios (Antecedentes Patológicos):
+- Incluir informações descritas no item “#AP”, “#Antecedentes Pessoais”, “#Antecedentes Patológicos” ou “#Comorbidades”.
+- Incluir vícios do paciente (como tabagismo, etilismo, uso de drogas)
+- Incluir cirurgias prévias realizadas
+- Incluir alergias
+- Incluir informações sobre internações prévias relatadas
+- Não incluir medicamentos
+- Não incluir resultados anormais de exames realizados
+- Não incluir prática de exercícios físicos
+2) Dados da Internação
+Data de [entrada] admissão
+Data de alta
+Permanência em UTI?
+- Colocar “sim” se houve permanência em UTI; colocar “não” se não houve permanência em UTI
+Motivo da internação:
+- Incluir informações descritas na “#HPMA”, “#HMA”, “#História Mórbida Atual”, “#História Pregressa da Moléstia Atual”.
+- Deve ser resumido, com as informações mais relevantes, para que não fique muito extenso
+Diagnóstico da Internação:
+- Incluir informações descritas no campo “#HD” ou “#Hipóteses Diagnósticas”
+- Listar diagnósticos que foram sendo detectados durante a internação
+- Não incluir diagnósticos prévios
+- Pós-operatório na internação pode ser colocado como diagnóstico
+- Hipóteses diagnósticas devem ser colocadas, mantendo o ponto de interrogação após caso não haja certeza do diagnóstico (exemplo: hemorragia digestiva alta - gastrite erosiva?”)
+3) Exames da Internação
+- Incluir somente exames realizados durante a internação
+- Sempre colocar a data do exame quando disponível
+- Colocar o resultado dos exames de forma completa como está descrito, não resumir nem abreviar
+- Não incluir exames que foram apenas solicitados (“solicitei exame XXXX”)
+- Não incluir exames de sangue, exceto se forem culturas (como hemocultura, urocultura, etc.)
+- Cada exame deve ser descrito individualmente. Por exemplo, não misturar resultados de dois exames de ecocardiogramas em um único item
+- Se um exame foi mencionado na evolução e também houver um documento separado com o laudo deste mesmo exame: preferir sempre o laudo descrito na evolução médica. No entanto, no caso do resultado do exame não ter sido descrito em prontuário, deverão ser retiradas as informações completas do documento separado correspondente àquele exame.
+4) Terapia Medicamentosa
+- Colocar apenas o nome do medicamento, não incluir posologia nem a via de administração
+- Negação não deve ser incluído (exemplo: “não usa IECA” - simplesmente não escrever nada)
+- Não colocar medicamentos prescritos na alta (ou seja, prescritos para o paciente tomar em casa)
+Medicação prévia: medicamentos tomados pelo paciente antes da internação.
+- Colocar medicamentos que o paciente já tomava antes de internar
+- Incluir os medicamentos descritos em “#MUC”, “#Medicamentos em uso”, “#Medicamentos de uso contínuo” ou “Em uso”
+Medicação durante a internação: medicamentos que foram dados ao paciente durante a internação.
+- Colocar apenas os medicamentos que o paciente recebeu de fato durante a internação - que tenha sido descrito em prontuário após “prescrevo XXXX” ou que esteja descrito no documento de prescrição médica (nesse caso incluir apenas os medicamentos administrados “de horário” ou “contínuo”, excluindo medicamentos “se necessário” ou “a critério médico”).
+5) Terapia Intervencionista
+- Procedimentos invasivos realizados durante a internação
+- Exemplos; cirurgia, angioplastia, implante de dispositivo
+- Não incluir procedimentos não invasivos que tenham sido realizados - exemplo: irrigação vesical
+- Atenção ao que realmente é procedimento: “Fios de marcapasso” diferente de “marcapasso”
+- Sempre mencionar a data em que o procedimento foi realizado
+6) Dispositivos
+- Dispositivos que foram implantados no paciente durante a internação
+- Exemplos: sonda vesical de demora, cateter venoso central, cateter de pressão arterial invasiva, sonda nasoenteral
+- Incluir apenas os que de fato foram implantados
+7 Situação funcional na alta
+- Usar para este campo a evolução médica mais próxima da alta hospitalar
+- Incluir as informações contidas no item “#Atual” da última evolução médica
+- Incluir as informações descritas no item “#Exame físico” de forma completa da última evolução médica
+8) Status laboratorial na alta
+- Incluir os exames laboratoriais com a data mais próxima da alta hospitalar (de preferência no mesmo dia da alta hospitalar) - ou seja, puxar o último laboratorial disponível, mesmo que não seja no dia da alta
+- Não colocar exames laboratoriais que não tenham a data mencionada
+9) Prescrição de Alta
+- Colocar os medicamentos que foram prescritos na alta hospitalar para uso domiciliar
+- Incluir a via de administração do medicamento e a posologia
+- Poderá ser utilizado o documento referente a “receituário”
+- Incluir os medicamentos que foram prescritos e descritos na evolução no item “#Conduta”
+- Não colocar nada caso o paciente tenha falecido ou transferido para outro hospital
+10 Orientações de alta para o paciente
+- Nesse campo devem ser listadas apenas as orientações dadas na alta hospitalar que tenham sido direcionadas ao paciente - provavelmente estarão mencionadas no item “#Conduta” da última evolução médica
+- Exemplos: restrição hídrica, cuidados com ferida operatória, consultas futuras agendadas, exames pendentes, sinais de alarme, etc.
+- Não incluir neste campo informações destinadas a outros médicos
+10 Orientações de seguimento
+- Neste campo deverão ser incluídas as orientações específicas e direcionadas à profissionais de saúde quanto ao seguimento do paciente
+- Não incluir neste campo informações destinadas ao paciente

@@ -1,0 +1,67 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hemorragia subaracnoide aneurismática em 2017
+- Hipertensão arterial sistêmica
+- Tabagista
+2) Dados da Internação
+Data de [entrada] admissão: 30/12/2020
+Data de alta: 04/01/2021
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Infarto agudo do miocárdio
+Diagnóstico da Internação:
+- Infarto agudo do miocárdio com supradesnivelamento do segmento ST de parede anterior - Killip 2
+- Fibrilação atrial de alta resposta ventricular em 31/12/2020 - cardiovertida com Amiodarona
+- Pericardite peri-infarto
+3) Exames da Internação
+- Cateterismo cardíaco (30/12/2020): artéria coronária descendente anterior com lesão de 100% no terço médio.
+- Eletrocardiograma: supradesnivelamento do segmento ST parede anterior extenso
+- Eletrocardiograma: supradesnivelamento do segmento ST em todas as derivações
+- Eletrocardiograma (31/12/2020): fibrilação atrial RVA - supradesnível parede inferior e anterior (DI - AVR - isoelétrico)- ausência de infra do segmento PR
+- Eletrocardiograma: ritmo sinusal
+- Ecocardiograma transtorácico (01/01/2021): Ventrículo esquerdo apresenta função sistólica diminuída à custa de acinesia em toda região apical e septo . A fração de ejeção foi estimada em 35%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva mitral: Apresenta tracionamento apical de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva aórtica: Apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta ascendente (segmento tubular) não visibilizada de forma adequada para análise.
+Arco aórtico não visibilizado.
+Pericárdio com aspecto ecocardiográfico normal.
+Não foi possível estimar a PSAP devido ao jato mínimo da insuficiência tricúspide.
+Exame realizado na beira do leito, com dificuldades técnicas.
+- Tomografia computadorizada de tórax (01/01/2021): Ateromatose inclusive coronariana. Estruturas vasculares do mediastino com trajeto e diâmetro normais. Lâmina líquida pericárdica. Traqueia e brônquios-fonte pérvios, de calibre preservado. Ausência de linfonodomegalias mediastinais. Leve espessamento de paredes brônquicas. Leve espessamento de septos interlobulares esparso pelos pulmões, sugestivo de congestão. Atelectasias laminares esparsas. Alguns diminutos nódulos pulmonares menores que 0,5 cm e sem calcificação evidente esparsos bilateralmente, inespecíficos, achado freqüente e geralmente desprovido de significado clínico. Discreto derrame pleural bilateral determinando atelectasias restritivas do parênquima pulmonar adjacente. Espondilose dorsal. Achados abdominais: sinais de esteatose hepática e formação hipoatenuante ovalada cortical renal esquerda, incaracterística.
+- Ecocardiograma transtorácico (04/01/2021): Ventrículo esquerdo apresenta função sistólica reduzida à custa de acinesia da região apical e do segmento médio do septo, além de hipocinesia do segmento médio da parede anterior. A fração de ejeção foi estimada em 30%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva mitral: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva aórtica: apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva tricúspide: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Aorta ascendente (segmento tubular) não visibilizada de forma adequada para análise.
+Pericárdio com aspecto ecocardiográfico normal.
+Sinais de contraste espontâneo no ventrículo esquerdo .
+Pressão sistólica em artéria pulmonar estimada pelo Doppler em 35 mmHg. A veia cava inferior mede 17 mm e apresenta colabamento inspiratório > 50%. Exame realizado na beira do leito, com dificuldades técnicas.
+4) Terapia Medicamentosa
+Medicação prévia: Losartana, Anlodipino.
+Medicação durante a internação: Cloreto de sódio 0,9%, Omeprazol, Clopidogrel, Ácido acetilsalicílico, Atorvastatina, Amiodarona, Colchicina, Nicotina, Carvedilol, Betametasona, Enalapril, Enoxaparina, Espironolactona.
+5) Terapia Intervencionista
+- Angioplastia coronariana (30/12/2020): angioplastia de artéria coronária descendente anterior com stent farmacológico, sem lesões residuais.
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Assintomático. Nega dor precordial, palpitações, tontura ou dispneia. Eliminações presentes. Ingesta via oral mantida. Deambulando.
+Bom estado geral. Corada, hidratada, anictérica, acianótica.
+Pressão arterial 100/78 mmHg. Frequência cardíaca 80 bpm. Tempo de enchimento capilar menor que 3 segundos. Saturação periférica de oxigênio 98% em ar ambiente.
+Murmúrio vesicular presente, sem ruídos adventícios.
+Ritmo cardíaco regular, em 2 tempos, bulhas normofonéticas. Refluxo hepatojugular negativo.
+Abdome inocente.
+Membros inferiores sem edemas ou sinais de trombose venosa profunda. Pulsos presentes.
+8) Status laboratorial na alta
+- 04/01/2021: hemoglobina 13,3 / leucócitos 7000 / plaquetas 162000 / ureia 34 / creatinina 1,23 / magnésio 1,9 / proteína C reativa 33,6 / sódio 139 / potássio 3,9 /
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Retorno ambulatorial na Aterosclerose.
+- Encaminhado ao ambulatório de cessação de tabagismo

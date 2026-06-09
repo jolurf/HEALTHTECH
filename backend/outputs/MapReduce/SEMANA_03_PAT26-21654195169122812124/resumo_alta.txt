@@ -1,0 +1,96 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Estenose mitral – 14/08/2014  
+Presença de prótese de válvula cardíaca – 14/08/2014  
+Troca valvar mitral com prótese biológica (modelo P.Bio 31, implantada em 2002) – 10/02/2016 a 21/02/2016  
+Hipertensão arterial sistêmica – 10/02/2016 a 21/02/2016  
+Dislipidemia – 10/02/2016 a 21/02/2016  
+Varizes de membros inferiores – 10/02/2016 a 21/02/2016  
+História familiar de cardiopatia (mãe) – 12/02/2016  
+Não tabagista – 16/02/2016  
+Não etilista – 16/02/2016  
+Não uso de drogas ilícitas – 16/02/2016  
+
+Cirurgias prévias: troca valvar mitral bioprostética (implantada em 2002).  
+Alérgias: não consta.  
+Internações prévias relatadas: não consta.  
+
+2) Dados da Internação
+Data de admissão: 2016‑02‑10  
+Data de alta: 2016‑02‑21  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Disfunção da prótese mitral com dispneia progressiva (≈ 2 anos), ortopneia, edema de membros inferiores e síncope, levando à internação eletiva para troca da válvula mitral; complicações pós‑operatórias incluindo insuficiência respiratória aguda e traqueobronquite.  
+
+Diagnóstico da Internação:  
+Disfunção/estenose da prótese mitral  
+Troca de prótese mitral bioprostética (eletiva)  
+Doença arterial coronariana unilateral  
+Bradicardia pós‑betabloqueador  
+Fibrilação atrial pós‑operatório  
+Insuficiência renal aguda (incluindo reversão)  
+Infecção (tratamento empírico com Ceftazidima)  
+Traqueobronquite  
+Insuficiência respiratória aguda pós‑operatória  
+
+3) Exames da Internação
+12/02/2016 – Radiografia de tórax: congestão/derrame bibasal  
+13/02/2016 – Radiografia de tórax: congestão/derrame bibasal  
+14/02/2016 – Radiografia de tórax: Congestão  
+19/02/2016 – Radiografia de tórax: Cardiomegalia, Congestão pulmonar, DP bilateral discreto  
+12/02/2016 – ECG: ritmo próprio: RS com FC de 70 bpm, PR no limite superior do normal e BIRD  
+18/02/2016 – ECG: flutter atrial  
+
+(Exames laboratoriais de sangue foram omitidos, pois o template solicita apenas culturas ou exames específicos.)  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+AAS, Atenolol, Digoxina, Furosemida, Omeprazol, Sinvastatina, Ácido acetilsalicílico  
+
+Medicação durante a internação:  
+Ceftazidima, Cefuroxima, Dobutamina, Furosemida, Hemoderivados, Ipratrópio, Lactulona, Noradrenalina, Potássio, Prednisona, Ringer lactato, Ácido aminocapróico  
+
+5) Terapia Intervencionista
+Troca de prótese biológica mitral – 10/02/2016 a 20/02/2016  
+Drenagem mediastinal e pleural (unilateral ou bilateral) – 11/02/2016, 12/02/2016, 14/02/2016, 16/02/2016  
+Implante de marcapasso ventricular de dois fios – 11/02/2016, 12/02/2016, 14/02/2016, 16/02/2016  
+Retirada de gerador de marcapasso – 15/02/2016  
+Implante de cateter arterial radial direito – 11/02/2016, 12/02/2016, 14/02/2016, 16/02/2016  
+Implante de cateter venoso central (CVC) jugular interna esquerda – 11/02/2016, 12/02/2016, 14/02/2016, 16/02/2016  
+Aferese de plaquetas (1 unidade/sessão) – 18/02/2016, 19/02/2016  
+
+6) Dispositivos
+Prótese mitral bioprostética (implante valvar) – 16/02/2016  
+Marcapasso de dois fios no ventrículo direito – 11/02/2016 (mantido)  
+Acesso periférico intra‑arterial (PAI) radial direito – 11/02/2016  
+Cateter venoso central (CVC) jugular interna esquerda – 11/02/2016  
+Dreno mediano e drenos pleurais bilateral (direito e esquerdo) – 11/02/2016  
+
+7) Situação funcional na alta
+Paciente afebril, eupneico, com estertores grosseiros nas bases pulmonares, sem congestão, ritmo cardíaco regular, sem sopros, atrito pericárdico monofásico, abdômen flácido e indolor, sem sinais de trombose nos membros inferiores.  
+
+8) Status laboratorial na alta
+20/02/2016  
+Hb: 9,4 g/dL  
+Ht: 30 %  
+Leucócitos: 8 090 /mm³  
+Plaquetas: 140 000 /mm³  
+Ureia: 49 mg/dL  
+Creatinina: 1,02 mg/dL  
+Sódio: 136 mmol/L  
+Potássio: 4,6 mmol/L  
+Magnésio: 1,2 mg/dL  
+PCR: 53 mg/L  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente: não consta  
+
+Seguimento: não consta

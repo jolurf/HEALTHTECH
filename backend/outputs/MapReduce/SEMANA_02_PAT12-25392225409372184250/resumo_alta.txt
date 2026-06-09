@@ -1,0 +1,57 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Insuficiência Cardíaca Congestiva (20/07/2011)  
+Diarréia e gastroenterite infecciosa presumível (05/01/2019)  
+Doador de rim (21/01/2019)  
+Exame e observação por outras razões especificadas (21/01/2019)  
+Doador de outros órgãos ou tecidos (06/02/2019)  
+Coração transplantado (27/02/2019)  
+Falência ou rejeição de transplante de rim (19/07/2019)  
+Miocardiopatia Chagásica (14/02/2020)  
+
+Vícios, cirurgias prévias, alergias, internações prévias, prática de exercícios físicos e demais informações não constam nos dados fornecidos.
+
+2) Dados da Internação
+Data de admissão: 14/02/2020  
+Data de alta: 14/02/2020  
+Permanência em UTI? não  
+Motivo da internação: Eletiva para biópsia endomiocárdica (14/02/2020)  
+Diagnóstico da Internação: não consta  
+
+3) Exames da Internação
+não consta  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Azatioprina  
+Diltiazem  
+Omeprazol  
+Pred (Prednisona)  
+Propranolol  
+Sinvastatina  
+Tacrolimus  
+Vitamina D3  
+Medicação durante a internação: não consta  
+
+5) Terapia Intervencionista
+Biópsia endomiocárdica em 13/02/2020  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Bom estado geral, lúcido, hemodinamicamente estável, eupneico em ar ambiente sem dessaturação. Glasgow 15; ausculta cardíaca B1B2 normofonéticas, rítmicas, sem sopros; FC 74 bpm; PA 120 x 80 mmHg; frequência respiratória 20 irpm; abdômen sem alterações; extremidades quentes, bem perfundidas, sem edema ou cianose.  
+
+8) Status laboratorial na alta
+não consta  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente: não consta  
+
+Seguimento: não consta

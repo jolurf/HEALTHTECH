@@ -1,0 +1,58 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Insuficiência mitral importante por prolapso em cúspide posterior (P2) com rotura de cordoalhas
+- Doença de Parkinson há 6 anos
+- Constipação intestinal importante
+- Episódios de síncope atribuídos a disautonomia
+- Hiperatividade Detrusora Neurogênica
+- Transtorno bipolar - última crise em janeiro, com quadro psicótico, estava sem medicação
+- Ex-etilista (ingestão de rum diariamente, parou há seis meses)
+2) Dados da Internação
+Data de [entrada] admissão: 09/08/2017
+Data de alta: 20/08/2017
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Dispneia aos pequenos esforços com início em março de 2017. Apresenta insuficiência mitral importante por prolapso que evoluiu com rotura de cordoalhas, com indicação cirúrgica.
+Diagnóstico da Internação:
+- Pós-operatório de plástica valva mitral (ressecção quadrangular com a técnica de duplo teflon) e revascularização miocárdica (ponte veia safena para artéria descendente anterior)
+- Disfagia no pós-operatório - introduzido Pramipexol, evoluindo com melhora da deglutição.
+3) Exames da Internação
+- Radiografia de tórax: área cardíaca aumentada e discreta congestão pulmonar.
+- Eletrocardiograma (10/08/2017) bloqueio atrioventricular de primeiro grau.
+- Ecocardiograma transesofágico intraoperatório (11/08/2017):
+> Pré-circulação extracorpórea: função sistólica biventricular preservada. A fração de ejeção foi estimada em 60%. Valva mitral com espessamento discreto, mobilidade preservada, apresentando prolapso da cúspide posterior (segmentos P1 e P2), com corda rota relacionada a esta cúspide. Valvas tricúspide sem anormalidades significantes e com refluxo discreto. Valvas aórtica sem anormalidades significantes. Septo atrial íntegro. Ausência de trombos em átrios e seus respectivos apêndices. Ausência de derrame pericárdico.
+> Pós-circulação extracorpórea: função sistólica biventricular preservada. A fração de ejeção foi estimada em 60%. Valva mitral com espessamento discreto, mobilidade preservada, com sinais de plástica da cúspide posterior. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Demais achados mantidos em relação ao exame pré-CEC.
+- Biópsia (14/08/2017): segmento de cúspide valvar com fibrose e acúmulo de material mucoide no estroma, difusos.
+- Eletrocardiograma (14/08/2017): bloqueio divisional ântero-superior.
+4) Terapia Medicamentosa
+Medicação prévia: losartana, sinvastatina, prolopa BD, vesomni, carbonato de lítio, clonazepam.
+Medicação durante a internação: atorvastatina, clister de glicerina, omeprazol, levodopa + benserazida, carbonato de lítio, vesomni, clonazepam, furosemida, cristaloides, albumina, transamin, DDAVP, dobutamina, nipride, cefuroxima, sinvastatina, heparina, cloreto de potássio, óleo mineral, bisacodil, codeína, pramipexol, ácido acetilsalicílico, dipirona, ondansetrona, dexametasona, hidrocortisona, teofilina, hidroclorotiazida.
+5) Terapia Intervencionista
+- 11/08/2017: plástica de valva mitral (ressecção quadrangular com a técnica de duplo teflon) e revascularização miocárdica (ponte veia safena para artéria descendente anterior). Sangramento difuso em campo após saída de circulação extracorpórea. Tempo de circulação extracorpórea de 1h43min. Tempo de anóxia de 1h14min.
+6) Dispositivos
+- Cateter venoso central em veia jugular interna direita
+- Pressão arterial invasiva em artéria radial direita
+- Marcapasso em ventrículo direito
+- Dreno mediano
+- Tubo orotraqueal
+- Cateter nasal de oxigênio
+- Sonda vesical de demora
+7 Situação funcional na alta
+Eupneico, hidratado, anictérico e acianótico.
+Tem marcha festinante, típica do Parkinson. Tem ainda disartria com repetições de sílabas. Tem bom raciocínio e memória. Está bem orientado no tempo e espaço. Tem dificuldade de se levantar sozinho da cama. Tem boa comunicação e está cooperativo. Sem déficits localizados.
+Ritmo cardíaco regular. Frequência cardíaca 68 bpm. Sopro sistólico mitral +++.
+Pulmões claros.
+Abdome sem visceromegalias.
+Membros inferiores com varizes discretas e edema +. Pulsos palpáveis.
+8) Status laboratorial na alta
+- 18/08/2017: Hemoglobina 10,3 / Leucócitos 13450 / Bastonetes 4% / Plaquetas 208000 / Ureia 56 / Creatinina 1,01 / Sódio 140 / Potássio 3,3 / Ferro 37 / Albumina 3,0 / Ferritina 404
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Autorizado viagem de avião.
+10 Orientações de seguimento
+- Pelo neurologista: Pramiprexol deve ser aumentado 0,25mg por semana até 1 mg 2xd.

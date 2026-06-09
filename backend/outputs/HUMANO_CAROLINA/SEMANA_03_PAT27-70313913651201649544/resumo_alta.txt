@@ -1,0 +1,53 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Miocardiopatia chagásica - atualmente em classe funcional I
+- Marcapasso em 2017 por bloqueio trifascicular. Troca de gerador em fevereiro de 2015 e plastia de loja do marcapasso em setembro de 2015.
+- Granuloma infectado: retirada de fio verde (?) e tratamento com antibiótico
+- Fibrilação atrial em anticoagulação: CHADSVASC 4.
+- Hipotireoidismo
+- Hipertensão arterial sistêmica
+2) Dados da Internação
+Data de [entrada] admissão: 03/01/2017
+Data de alta
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Infecção de loja do marcapasso com extrusão de eletrodo
+Diagnóstico da Internação:
+- Pós-operatório de plastia de loja de marcapasso com exteriorização de gerador (05/01/2016)
+- Parada cardiorrespiratória em sala de recuperação anestésica revertida (ritmo de fibrilação ventricular/assistolia) - 1 choque e 3 ciclos (8 minutos) em 05/01/2016 - hipoxemia?
+- Choque cardiogênico pós-parada cardiorrespiratória
+- Hepatite isquêmica
+- Insuficiência renal aguda - AKIN III
+- Distúrbios hidroeletrolíticos - hipernatremia
+3) Exames da Internação
+- Ultrassom doppler venoso de membro superior direito (04/01/2017): não há evidências de sinais de trombose venosa profunda e tromboflebite.
+- Ultrassom doppler venoso de membro superior esquerdo (04/01/2017): não há evidências de sinais de trombose venosa profunda e tromboflebite.
+- Ecocardiograma transtorácico (06/01/2017): Ventrículo esquerdo apresenta função sistólica diminuída à custa de acinesia em parede (s) inferior e septal, além de hipocinesia das demais. A fração de ejeção foi estimada em 20%. Não foi possível análise da função diastólica. Ventrículo direito apresenta hipocinesia discreta. Movimentação atípica do septo ventricular. Eletrodo de marca passo em câmaras cardíacas direitas. Insuficiência mitral importante. Pressão sistólica da artéria pulmonar 28mmHg.
+- Ultrassom de abdome total (09/01/2017): Fígado com forma, contornos e dimensões normais. Parênquima hepático com ecogenicidade finamente heterogênea, inespecífica. Veias hepáticas e porta com calibre normal. Vesícula biliar repleta, hidrópica, paredes finas e conteúdo anecogênico, sem cálculos. Vias biliares intra e extra-hepáticas sem sinais de dilatação. Pâncreas com forma, dimensões e ecotextura normais. Baço com dimensões e ecogenicidade preservadas. Rins tópicos, com forma, contornos e dimensões normais. Parênquima renal com espessura e ecogenicidade preservadas. Aorta abdominal com trajeto e calibre preservados. Bexiga com balão de sonda vesical no seu interior.
+4) Terapia Medicamentosa
+Medicação prévia: Carvedilol, Enalapril, Omeprazol, Levotiroxina, Furosemida, Espironolactona, Marevan.
+Medicação durante a internação: Ciprofloxacino, Omeprazol, Heparina, Dobutamina, Noradrenalina, Vasopressina, Adrenalina, Furosemida, Ringer lactato, Cálcio, Bicarbonato de sódio, Sulfato de Magnésio, Soro Glicosado, Tramadol, Amiodarona, Furosemida, Cloreto de Potássio, Dipirona, L-tiroxina sódica, Lactulose, Hidrocortisona, Pomada de óxido de zinco vitaminado, Morfina, Brometo de N-butil-hioscina
+5) Terapia Intervencionista
+- 05/01/2016: plastia de loja de marcapasso com exteriorização de gerador
+6) Dispositivos
+- Tubo orotraqueal
+- Cateter venoso central em veia jugular esquerda
+- Pressão arterial invasiva em artéria radial direita
+- Sonda vesical de demora
+- Acesso venoso periférico em membro superior esquerdo
+- Cateter nasal de oxigênio
+- Sonda nasoenteral
+7) Situação funcional na alta
+- Óbito
+8) Status laboratorial na alta
+- Óbito
+9) Prescrição de Alta
+- Óbito
+10 Orientações de alta para o paciente
+- Óbito
+10 Orientações de seguimento
+- Óbito

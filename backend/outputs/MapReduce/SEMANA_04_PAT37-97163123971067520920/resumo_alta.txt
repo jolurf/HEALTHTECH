@@ -1,0 +1,107 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão arterial sistêmica (há 5 anos)  
+Dislipidemia (há 5 anos)  
+Dislipidemia (sem especificação de tempo)  
+Ex‑tabagista (70 a.m., cessou há 12 anos)  
+Ex‑etilista pesado (etilismo pesado)  
+Hanseníase multibacilar (forma Virchowiana) – descoberta há 4 anos, tratamento há 2 anos  
+Hipertensão portal (suspeita)  
+Hiperplasia prostática benigna (HPB) (suspeita)  
+Aneurisma da aorta  
+Aneurisma dissecante da aorta  
+Choque cardiogênico  
+Hepatite B (interrogada)  
+Sedentarismo  
+
+(Não foram informadas cirurgias prévias, alergias, internações prévias ou outras informações solicitadas.)
+
+2) Dados da Internação
+Data de admissão: 2020‑04‑15  
+Data de alta: 2020‑04‑26  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Dispneia e desconforto respiratório associados a dissecção focal da aorta ascendente com aneurisma, evoluindo para dissecção aórtica tipo A (crônica e, posteriormente, aguda) com insuficiência aórtica grave, dor retroesternal e insuficiência cardíaca de perfil C.
+Diagnóstico da Internação:  
+Dissecção focal da aorta ascendente torácica  
+Dissecção aórtica Stanford A crônica  
+Dissecção aórtica Stanford A aguda (pós‑operatória)  
+Aneurisma / dilatação aneurismática da aorta ascendente torácica (até 8,4 cm)  
+Insuficiência aórtica importante  
+Insuficiência mitral moderada  
+Insuficiência tricúspide discreta  
+Disfunção sistólica difusa do ventrículo esquerdo de grau importante  
+Insuficiência cardíaca, perfil C  
+Ausência de estenose coronariana significativa nos segmentos avaliáveis  
+Ectasia do tronco da artéria pulmonar  
+Derrame pericárdico pequeno  
+Derrame pleural bilateral pequeno  
+Enfisema pulmonar centrolobular e parasseptal  
+Opacidades em vidro fosco com espessamento septal liso  
+Hérnias umbilical e inguinal bilaterais  
+Espessamento da parede vesical  
+Parada cardiorrespiratória (PCR) durante IOT (ciclos de RCP)  
+Hipocalemia (K = 2,9 mmol/L)  
+
+3) Exames da Internação  
+14/04/2020 – Angiotomografia de Aorta Torácica:  
+  “Tortuosidades e alongamentos arteriais difusos, associadas a irregularidades parietais e placas parietais predominantemente calcificadas, inferindo degeneração aterosclerótica. Dissecção focal da aorta ascendente torácica, com flap intimal de localização supracoronariana, extensão superior ≈ 5,0 cm, sem envolvimento dos seios coronarianos ou do tronco braquiocefálico. Não há trombo intramural. Dilatação aneurismática da aorta ascendente torácica (calibre de até 8,4 cm). Pequena imagem de adição focal na parede anteromedial da aorta descendente torácica (≈ 0,5 cm) compatível com úlcera aterosclerótica. Dilatação aneurismática das artérias ilíacas comuns. Ectasia do tronco da artéria pulmonar (3,6 cm). Pequeno derrame pericárdico (espessura máxima 1,0 cm). Pequeno derrame pleural bilateral. Discreto enfisema pulmonar centrolobular e parasseptal. Opacidades em vidro fosco com espessamento septal liso nas bases pulmonares. Pequenas hérnias umbilical e inguinal bilateral. Bexiga de paredes espessadas.”
+15/04/2020 – Angiografia de coronárias por tomografia computadorizada:  
+  “Circulação coronariana com dominância direita. Tronco de coronária esquerda sem redução luminal. Artéria descendente anterior, primeira diagonal, diagonalis, circunflexa, primeira marginal, coronária direita, descendente posterior e ventricular posterior com múltiplas placas difusas e redução luminal discreta. Acentuada tortuosidade coronária e múltiplas ectasias. Impressão diagnóstica: ausência de redução luminal coronariana significativa nos segmentos avaliáveis.”
+14/04/2020 – Ecocardiograma transtorácico:  
+  “FE 30 %; AE 52 mm; septo 11 mm; PP 10 mm; DDVE 70 mm; DSVE 60 mm; acinesia basal inferior e anterolateral. Aneurisma de aorta ascendente (seios aórticos 48 mm, junção sinotubular 46 mm, aorta ascendente 81 mm, arco aórtico 34 mm). Dissecção de aorta tipo A. Insuficiência aórtica de grau importante. Insuficiência mitral de grau moderado. Insuficiência tricúspide de grau discreto. Comprometimento sistólico difuso do ventrículo esquerdo de grau importante.”
+14/04/2020 – AngioTC Aorto Torácica (relato complementar):  
+  “Dissecção focal da aorta ascendente torácica, flap intimal supracoronariano, extensão superior ≈ 5,0 cm, sem envolvimento dos seios coronarianos ou tronco braquiocefálico. Dilatação aneurismática da aorta ascendente torácica (calibre de até 8,2 cm). Dilatação aneurismática das artérias ilíacas comuns. Ectasia do tronco da artéria pulmonar (3,6 cm).”
+21/04/2020 – ECG:  
+  “FAARV (Fibrilação atrial de resposta ventricular rápida).”
+19/04/2020 – Hemocultura:  
+  “Parcialmente negativa.”
+19/04/2020 – Urocultura:  
+  “Negativa.”
+
+(Outros exames citados (TC de coronárias, Culturas, etc.) já foram incluídos ou não apresentaram resultados adicionais.)
+
+4) Terapia Medicamentosa  
+Medicação prévia:  
+  Captopril; Furosemida; Sinvastatina  
+Medicação durante a internação:  
+  Adrenalina; Amiodarona; Beriplex; Bisoprolol; Cefuroxima; Diurético; Dobuta; Dobutamina; Esmolol; Fentanil; Furosemida; G50; HCTZ; Heparina de baixo peso molecular; Magnésio; Metoprolol; Midazolan; Morfina; Noradrenalina; Tazocin; Vaso; Vasopressina  
+
+5) Terapia Intervencionista  
+17/04/2020 – Bentall de Bono: reconstrução da raiz da aorta com tubo valvulado biológico nº 25  
+20/04/2020 – Inserção de cateter arterial (PAi)  
+20/04/2020 – Inserção de cateter venoso central (CVC)  
+16/04/2020 – Ressuscitação cardiopulmonar (RCP/RCE) – ciclo de RCE durante IOT  
+26/04/2020 – Ressuscitação cardiopulmonar (RCP/RCE) – 7 ciclos  
+26/04/2020 – Desfibrilação com 150 J  
+26/04/2020 – Intubação sem intercorrência  
+26/04/2020 – Expansão volêmica  
+26/04/2020 – Reposição intravenosa de potássio  
+
+6) Dispositivos  
+Dreno mediano: 17/04/2020; 19/04/2020; 20/04/2020; 21/04/2020  
+Cateter arterial (PAi): 17/04/2020; 19/04/2020; 20/04/2020; 21/04/2020  
+Cateter venoso central (CVC): 17/04/2020; 19/04/2020; 20/04/2020; 21/04/2020  
+AVP MSD: 17/04/2020; 19/04/2020; 20/04/2020; 21/04/2020  
+
+7) Situação funcional na alta  
+
+“Paciente apresentava fibrilação ventricular evoluindo para arritmia, foi intubado e submetido a suporte avançado de vida até óbito.”  
+
+8) Status laboratorial na alta  
+25/04/2020 – Potássio sérico: 2,9 mmol/L (hipocalemia)  
+
+(Não foram relatados outros exames laboratoriais próximos à alta.)
+
+9) Prescrição de Alta  
+
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente: não consta  
+
+Seguimento: não consta

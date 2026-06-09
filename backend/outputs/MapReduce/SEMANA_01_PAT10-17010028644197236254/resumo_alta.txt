@@ -1,0 +1,92 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Estenose mitral (doença valvar mitral reumática com lesão dupla – estenose e insuficiência mitral)  
+Fibrilação atrial permanente  
+Acidente Vascular Cerebral isquêmico (≈ 2018, com leve disartria)  
+Hipotireoidismo crônico (> 10 anos)  
+Tabagismo – negativo  
+Etilismo – negativo  
+
+Não foram informadas cirurgias prévias, alergias, internações prévias ou prática de exercícios físicos.
+
+2) Dados da Internação
+Data de admissão: 2023‑06‑05  
+Data de alta: 2023‑06‑16  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Estenose mitral importante de provável etiologia reumática, sintomática (classe funcional III/IV), com insuficiência mitral significativa, admitida para troca valvar mitral.
+
+Diagnóstico da Internação:  
+Dupla lesão mitral (estenose mitral importante e insuficiência mitral importante)  
+Etiologia da lesão mitral incerta (degenerativa calcífica ou reumática)  
+Troca valvar mitral por prótese biológica nº 27  
+Lesão renal aguda KDIGO estágio II pós‑operatório  
+Fibrilação atrial pós‑operatória, revertida com amiodarona  
+
+3) Exames da Internação
+05/06/2023 – ECG: ritmo de FA  
+12/06/2023 – Ecocardiograma transtorácico (ECOTT): FE preservada, PSA 46, prótese biológica mitral normofuncionante.  
+13/06/2023 – ECG: ritmo de FA  
+12/06/2023 – Ecocardiograma transesofágico: FE 60 %, PSA 31, prótese biológica mitral normofuncionante.  
+14/06/2023 – ECG: ritmo de FA  
+14/06/2023 – ECG: ritmo sinusal (pós‑introdução de amiodarona)  
+12/06/2023 – ECOTT (pós‑OP): FE 60 %, PSA 31, prótese biológica mitral normofuncionante. Derrame pericárdico discreto sem sinais de restrição ao enchimento ventricular. Derrame pleural à esquerda.  
+16/06/2023 – Ecocardiograma transtorácico (ECOTT): Ae 40, Ao 31, SS 10, PP 10, VE 45x31, PSAP 33, FEVE 59 %. Valva mitral com prótese biológica com espessura e mobilidade preservadas, insuficiência central mínima. Gradiente diastólico máximo AE‑VE 6 mmHg, médio 4 mmHg. Derrame pericárdico discreto, sem restrição ao enchimento ventricular.  
+14/06/2023 – Eletrocardiograma (ECG): ritmo sinusal (pós‑introdução de amiodarona)  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Buclina, Complexo B, Digoxina, Furosemida, Levotiroxina, Metoprolol, Paroxetina, Rivotril, Varfarina  
+
+Medicação durante a internação:  
+Albumina, Amiodarona, Buclina, Ca, Cálcio, Cefuroxima, Complexo B, Digoxina, Dobutamina, Enoxaparina, Fibrinogênio, Furosemida, HCTZ, Hidroxizina, Insulina Regular, Levotiroxina, Magnésio EV, Metoprolol, Noradrenalina, Octaplex, Paroxetina, Protamina, Rivotril, Sulfato de Magnésio, Varfarina, Y  
+
+5) Terapia Intervencionista
+06/06/2023 – Troca da valva mitral por prótese biológica nº 27 (com sutura de patch de pericárdio no anel posterior)  
+13/06/2023 – Retirada de SVD e cateter venoso central (CVC)  
+
+6) Dispositivos
+2 fios MP no ventrículo direito (VD)  
+Cateter venoso central (veia jugular direita)  
+PAI ARE  
+AVP MSD  
+SVD  
+TOT nº 7,0  
+Prótese biológica mitral  
+
+7) Situação funcional na alta
+Paciente acordado, orientado, estável hemodinamicamente, eupneico em ar ambiente, afebril, pressão arterial 105 x 65 mmHg, frequência cardíaca 81 bpm, SpO₂ 95 %. Sem sopros, pulmões com crepitações bilaterais, abdômen flácido e indolor, extremidades bem perfundidas, sem sinais de trombose venosa profunda. Ferida cirúrgica limpa e seca, sem sinais de infecção.
+
+8) Status laboratorial na alta (16/06/2023)
+Hb 12,8 g/dL  
+Leucócitos 9 940 /mm³  
+Plaquetas 257 000 /mm³  
+Uréia 40 mg/dL  
+Creatinina 1,01 mg/dL  
+Na⁺ 141 mmol/L  
+K⁺ 3,4 mmol/L  
+PCR 31 mg/L  
+INR 1,0  
+TTPA 0,97  
+Gasometria venosa: pH 7,44, O₂ 81 %, BIC 31,4 mmol/L, Lactato venoso 18 mg/dL  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Encaminhar para fisioterapia motora por fraqueza prévia de membros inferiores.  
+Manter Hidroxizina por lesões cutâneas (iniciado em 14/06) por 5 dias.  
+Manter anticoagulação oral com Varfarina (0,5 mg 1×/dia) e Enoxaparina 1 mg/kg SC 1×/dia, ajustada por clearance.  
+Continuar Amiodarona VO 200 mg 2×/dia para manutenção do ritmo sinusal.  
+Família deve agendar transporte para alta.  
+
+Seguimento:  
+Vigilância hemodinâmica.  
+Avaliar reintrodução de Metoprolol para controle da frequência cardíaca.

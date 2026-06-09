@@ -1,0 +1,78 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: feminino  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Dupla lesão mitral  
+Dupla lesão aórtica  
+Hipertensão arterial pulmonar secundária  
+Agitação psicomotora  
+Alergia (negativa)  
+Febre reumática  
+
+2) Dados da Internação
+Data de admissão: 2016‑05‑10  
+Data de alta: 2016‑05‑20  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Dispneia progressiva há 5 anos, piorando aos pequenos esforços, com episódios de descompensação pulmonar e crises convulsivas tônico‑clônicas recentes; internação eletiva para realização de ecocardiografia transesofágica (ECO‑TE).
+Diagnóstico da Internação:  
+Lesão mitral dupla com dissociação clínico‑ecocardiográfica  
+Lesão mitral dupla sem dissociação relatada  
+Lesão aórtica dupla  
+Hipertensão pulmonar secundária  
+Agitação psicomotora pós‑midazolam durante ECO‑TE  
+Tentativa de valvuloplastia mitral por balão  
+Tamponamento cardíaco após tentativa de punção do septo interatrial  
+Tamponamento cardíaco pós‑tentativa de valvoplastia por balão  
+Drenagem de derrame pericárdico (225 ml drenados)  
+Pericardite pós‑punção pericárdica  
+
+3) Exames da Internação
+10/05/2016 – Tomografia Computadorizada de Crânio:  
+  Parênquima cerebral com coeficientes de atenuação normais. Cisterna basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média. Não há sinais de hemorragias intracranianas agudas intra ou extra axiais.
+
+4) Terapia Medicamentosa
+Medicação prévia (antes da internação):  
+  5‑diphosphocoline, Anticonvulsivante manipulado, Digoxina, Espironolactona, Furosemida, Penicilina benzatina, Rhelora, Topiramato  
+Medicação durante a internação:  
+  Ceftriaxona, Digoxina, Midazolam, Noradrenalina  
+
+5) Terapia Intervencionista
+13/05/2016 – Ecocardiograma transesofágico (ECO‑TE)  
+15/05/2016 – Valvoplastia por balão da valva mitral (tentativa)  
+16/05/2016 – Plastia da valva mitral por cateter  
+17/05/2016 – Valvoplastia por balão da valva mitral (tentativa)  
+17/05/2016 – Intubação orotraqueal  
+17/05/2016 – Drenagem pericárdica (punção com dreno)  
+17/05/2016 – Tamponamento cardíaco após tentativa de punção do septo interatrial  
+18/05/2016 – Valvoplastia por balão da valva mitral (tentativa associada à transposição do septo interatrial)  
+18/05/2016 – Drenagem pericárdica (dreno pericárdico, removido 19/05/2016)  
+19/05/2016 – Retirada de cateter pigtail e introdutor pericárdico  
+
+6) Dispositivos
+PAI em acesso radial  
+CVC em acesso femoral  
+Dreno pericárdico de pigtail com portovac  
+Sonda vesical de demora (SVD)  
+Intubação orotraqueal (IOT)  
+
+7) Situação funcional na alta
+Paciente está hemodinamicamente estável, em ventilação espontânea sem uso de O₂, afebril, com pericardite pós‑punção pericárdica; exame físico mostra sopros cardíacos e sem edema.
+
+8) Status laboratorial na alta
+18/05/2016: Leucócitos 19 950 mm³, Plaquetas 253 000 mm³, Troponina 0,70 ng/mL, CPK 119 U/L, Ureia 38 mg/dL, Creatinina 0,67 mg/dL, PCR 16 mg/L, Cálcio 1,08 mmol/L, TTPA 27 seg, Relação TTPA/Tr 1,01  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientada quanto a sinais de alarme; deve chamar a equipe se apresentarem.  
+Permanecer em repouso deitada por 1 hora após a retirada de dispositivos.  
+Sugerido controle radiográfico e/ou ecocardiográfico do derrame pericárdico após a drenagem.  
+
+Seguimento:  
+Contatar GOPA para agendamento de cirurgia das valvas mitral e aórtica; caso não haja encaixe, programar reinternação posterior.  
+Solicitar ecocardiograma após 24 horas da retirada do dreno pericárdico e iniciar prednisona se houver derrame ou persistência de pericardite.

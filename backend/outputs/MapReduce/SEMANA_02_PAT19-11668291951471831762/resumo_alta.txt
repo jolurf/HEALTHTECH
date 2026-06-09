@@ -1,0 +1,97 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão Arterial Sistêmica (HAS) – diagnóstico recorrente entre 26/10/2021 e 05/11/2021.  
+Doença Renal Crônica em Diálise – em tratamento há 1 ano, em programa ambulatorial de transplante, com diurese residual, fístula arteriovenosa.  
+Doença Arterial Coronária – lesões triarterial (80 % proximal, 90 % médio, 95 % distal) diagnosticada em 31/10/2021.  
+
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2021‑10‑26  
+Data de alta: 2021‑11‑05  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Revascularização coronariana eletiva (CABG) indicada por angina estável CCS II, dispneia ao esforço e doença arterial coronariana triarterial com lesão proximal, associada à avaliação para transplante renal e queixa de claudicação intermitente.
+
+Diagnóstico da Internação:  
+Doença Arterial Coronária (triarterial, com doença da artéria proximal)  
+Angina estável (CCS II)  
+Claudicação Intermitente  
+Hipertensão Arterial Sistêmica  
+Doença Renal Crônica em diálise  
+Hipocinesia ventricular esquerda  
+Revascularização do miocárdio (cirurgia com 3 pontes) – pós‑operatório  
+Anemia (Hb 6,9 g/dL em 31/10/2021)  
+
+3) Exames da Internação
+27/10/2021 – Tomografia Computadorizada de alta resolução de tórax:  
+  “Ateromatose esparsa e acentuada em território coronariano. Estruturas vasculares do mediastino com calibre externo preservado. Não se caracterizam linfonodomegalias mediastinais. Linfonodos calcificados no hilo pulmonar esquerdo de aspecto residual. Traqueia e brônquios principais com calibre normal. Leve espessamento difuso das paredes brônquicas. Acentuação das silhuetas bronquiolares. Nota‑se ectasia de alguns brônquios nos campos pulmonares inferiores. Focos de enfisema pulmonar parasseptal esparsos e bilaterais. Discretas opacidades subpleurais e lineares esparsas e bilaterais compatíveis com atelectasias laminares / estrias residuais. Micronódulos pulmonares medindo até 0,3 cm esparsos por ambos os pulmões, alguns calcificados (residuais) e outros sem calcificação evidente, incaracterísticos ao método. Não há derrame pleural bilateral. Sinais de leve ginecomastia bilateral. Alterações degenerativas da coluna vertebral, com leve redução da altura anterior de corpos vertebrais dorsais inferiores. Imagem hipoatenuante no rim esquerdo parcialmente visualizado neste estudo.”
+04/10/2021 – Ecocardiograma (primeiro laudo):  
+  “FE 50 %. Ventrículo esquerdo apresenta hipertrofia miocárdica de grau importante e função sistólica reduzida.”
+04/10/2021 – Ecocardiograma (segundo laudo):  
+  “FE 50 %. Ventrículo esquerdo apresenta hipertrofia miocárdica de grau importante e função sistólica reduzida, à custa de acinesia da parede inferior (segmentos médio e basal), além de hipocinesia da parede inferolateral (segmentos médio e basal).”
+Cateterismo externo (data não especificada, registro de 2020 e 2021):  
+  “DA 80 % proximal, 90 % médio e 95 % distal. MGE1 de 60 % médio, CD 95 % distal ulcerada; DP e VP 70 % em ambos. VEHipo difusa.”
+Hemocultura (data não especificada):  
+  “Culturas de sangue periférico e de SVD coletadas ontem parcialmente negativas.”
+01/11/2021 – Culturas:  
+  “Urocultura – negativa / Sangue periférico – parcial negativa / Cateter – parcial negativa.”
+
+4) Terapia Medicamentosa
+Medicação prévia (antes da internação):  
+AAS, Anlodipino, Atorvastatina, Calcitriol, Furosemida, Hidróxido férrico, Metoprolol, Sinvastatina, Ácido acetilsalicílico  
+
+Medicação durante a internação:  
+AAS, Anlodipino, Atenolol, Atorvastatina, Calcio, Calcitriol, Dobutamina, Eritropoietina, Furosemida, Heparina não fracionada, Hidróxido férrico, HNF, Metoprolol, Noradrenalina, Protamina, Sinvastatina, Ácido acetilsalicílico  
+
+5) Terapia Intervencionista
+Revascularização miocárdica (cirurgia de ponte de safena / CABG): 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 31/10/2021, 01/11/2021, 02/11/2021  
+Implante de cateter venoso central (VJID): 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 01/11/2021  
+Implante de cateter arterial radial (Jelco): 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 01/11/2021  
+Dreno mediastinal: 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 01/11/2021  
+Dreno pleural (incluindo lado direito quando especificado): 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 01/11/2021  
+Implante de fio de marca‑passo (2 fios): 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 01/11/2021  
+Safenectomia (remoção de veia safena) com curativo em perna esquerda: 27/10/2021, 28/10/2021  
+Fístula arteriovenosa em membro superior direito: data não especificada (registrada como procedimento)
+
+6) Dispositivos
+Fístula arteriovenosa – 26/10/2021  
+Fístula arteriovenosa (membro superior direito) – 03/11/2021  
+Cateter venoso central – 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 31/10/2021, 01/11/2021, 02/11/2021, 03/11/2021  
+Cateter arterial radial (Jelco) – 27/10/2021, 28/10/2021, 29/10/2021, 30/10/2021, 31/10/2021, 01/11/2021, 02/11/2021, 04/11/2021, 05/11/2021  
+Dreno mediastinal – 27/10/2021, 28/10/2021, 30/10/2021, 31/10/2021, 01/11/2021, 02/11/2021  
+Dreno pleural – 27/10/2021, 28/10/2021, 30/10/2021, 31/10/2021, 01/11/2021, 02/11/2021  
+Fio de marca‑passo (único) – 29/10/2021  
+Fio de marca‑passo (2 fios) – 28/10/2021, 30/10/2021, 31/10/2021, 01/11/2021, 02/11/2021  
+Fio de marca‑passo ventricular (2 fios) – 02/11/2021  
+
+7) Situação funcional na alta
+Paciente no 9º pós‑operatório de revascularização miocárdica, sem uso de drogas vasoativas, realizou hemodiálise matinal sem intercorrências, cicatriz cirúrgica com bom aspecto, aceita dieta, exame físico com neurocognitivo consciente, ausculta cardíaca sem sopros, pulmões com murmúrio vesicular bilateral, abdômen plano e indolor, membros inferiores simétricos, sem edema, pulsos cheios, curativo em perna esquerda pós‑safenectomia.
+
+8) Status laboratorial na alta
+01/11/2021 – Culturas: Urocultura – negativa; Sangue periférico – parcial negativa; Cateter – parcial negativa.  
+04/11/2021: Hb 8,6 g/dL; Ht 27 %; Leucócitos 8.540 /mm³; Plaquetas 401.000 /mm³; Troponina 1.015 ng/mL; Ureia 80 mg/dL; Creatinina 6,43 mg/dL; Sódio 140 mmol/L; Potássio 4,3 mmol/L; TGO 23 U/L; TGP 23 U/L; Gama‑GT 32 U/L; Fosfatase Alcalina 81 U/L; Magnésio 2 mg/dL; B‑T 0,34 µg/L; B‑D 0,11 µg/L; B‑I 0,23 µg/L; PCR 114,5 mg/L; Cálcio iônico 1,24 mmol/L.  
+05/11/2021: Hb 8,8 g/dL; Ht 27 %; Leucócitos 9.680 /mm³; Plaquetas 476.000 /mm³; Troponina 495 ng/mL; Cálcio iônico 1,26 mmol/L.
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter uso regular das medicações prescritas durante a internação.  
+Comparecer à hemodiálise em clínica externa (Suzano) na terça‑feira, 09/11, às 11:30.  
+Retorno ambulatorial em 30 dias para acompanhamento.  
+Em caso de sintomas cardiovasculares (dor torácica, dispneia, palpitações), procurar pronto‑socorro imediatamente.  
+
+Seguimento:  
+Agendar hemodiálise em clínica externa (Suzano) para 09/11 às 11:30.  
+Marcar consulta de retorno ambulatorial em 30 dias.

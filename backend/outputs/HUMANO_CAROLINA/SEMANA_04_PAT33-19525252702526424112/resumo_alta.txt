@@ -1,0 +1,44 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana triarterial
+- Disfunção ventricular grave
+- Diabetes mellitus não insulino-dependente (diagnóstico em 2018)
+- Obesidade
+- Apneia do sono (sem uso de CPAP)
+2) Dados da Internação
+Data de [entrada] admissão: 26/06/2019
+Data de alta: 03/07/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de revascularização do miocárdio.
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de revascularização miocárdica (27/06/2019)
+3) Exames da Internação
+- Sem
+4) Terapia Medicamentosa
+Medicação prévia: Carvedilol, Enalapril, Furosemida, Metformina, Ácido acetilsalicílico, Atorvastatina.
+Medicação durante a internação: Omeprazol, Cefuroxima, Dipirona, Ácido acetilsalicílico, Dobutamina, Tridil, Carvedilol, Atorvastatina, Pomada anticoagulante a base de heparina, Enalapril, Atenolol.
+5) Terapia Intervencionista
+- 27/06/2019: cirurgia de revascularização miocárdica - ponte mamária para artéria descendente anterior, safena para primeiro ramo marginal esquerdo, safena para segundo ramo diagonal.
+6) Dispositivos
+- Dreno mediano
+- Dreno pleural esquerdo
+- Cateter nasal de oxigênio
+- Fio de marcapasso
+- Cateter venoso central
+- Sonda vesical de demora
+7 Situação funcional na alta
+Mantém-se assintomático. Sem queixas. Sem intercorrências durante à noite.
+8) Status laboratorial na alta
+- 03/07/2019: hemoglobina 11,5 / leucócitos 7160 / plaquetas 273000 / ureia 43 / creatinina 0,99 / sódio 143 / potássio 4,2 / magnésio 2,4 / proteína C reativa 87,16
+9) Prescrição de Alta
+- Atorvastatina 2 comprimidos à noite
+10 Orientações de alta para o paciente
+- Orientado quanto ao repouso
+- Procurar pronto-socorro do InCor, se intercorrências
+10 Orientações de seguimento
+- Sem

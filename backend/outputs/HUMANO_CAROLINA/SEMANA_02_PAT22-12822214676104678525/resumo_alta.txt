@@ -1,0 +1,48 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Síndrome de Takotsubo
+- Arterite temporal
+- Trombose venosa profunda prévia
+- Sangramento ocular
+- Diabetes mellitus tipo 2
+2) Dados da Internação
+Data de [entrada] admissão: 15/03/2018
+Data de alta: 23/03/2018
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Desconforto precordial e dispneia.
+Diagnóstico da Internação:
+- Tromboembolismo pulmonar agudo
+- Infecção de trato urinário
+3) Exames da Internação
+- Ecocardiograma transtorácico (15/03/2018):
+Ventrículos: ventrículo esquerdo apresenta função sistólica preservada, com fração de ejeção estimada em 60%. Não foi possível análise de função diastólica. Ventrículo direito apresenta disfunção sistólica moderada. A velocidade sistólica máxima do anel tricúspide lateral medida pelo Doppler tecidual (S ́) foi estimada em 6 cm/s.
+Valva mitral: calcificação do anel valvar de grau mínimo. O estudo Doppler e mapeamento com fluxo em
+cores demonstraram insuficiência de grau discreto.
+Valva aórtica: apresenta sinais de fibrocalcificação mínima, com mobilidade preservada de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva tricúspide: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Observação: exame realizado na beira do leito, com dificuldades técnicas.
+- Eletrocardiograma (19/03/2018): normal.
+- Ultrassom doppler venoso de membro inferior esquerdo (20/03/2018): Ausência de sinais de trombose venosa profunda aguda nos segmentos acessíveis. Segmentos venosos avaliados com calibre discretamente reduzido, inespecífico, podendo ser decorrente de sequelas de trombose recanalizadas.
+- Ultrassom doppler venoso de membro inferior direito (20/03/2018): Ausência de sinais de trombose venosa profunda aguda nos segmentos acessíveis. Sequelas de trombose nos segmentos venosos acessíveis.
+4) Terapia Medicamentosa
+Medicação prévia: Prelone, Trayenta, Amryl, Synthroid, Glifage, Ictus.
+Medicação durante a internação: Omeprazol, Enoxaparina, L-tiroxina sódica, Prednisona, Levofloxacino, Simeticona, Cloreto de potássio, Furosemida, Bromazepam, Carvedilol, Óleo mineral, Trayenta, Glifage, Glimepirida.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+- Sem
+8) Status laboratorial na alta
+- 21/03/2018: hemoglobina 12,5 / leucócitos 4770 / plaquetas 168000 / ureia 37 / creatinina 0,66 / sódio 139 / potássio 4,3 / proteína C reativa 9,34 / TSH 0,739 / INR 0,9
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

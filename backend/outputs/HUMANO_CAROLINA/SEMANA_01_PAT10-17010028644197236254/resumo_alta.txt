@@ -1,0 +1,62 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Dupla lesão mitral (estenose mitral importante e insuficiência mitral moderada a importante) - de etiologia reumática? degenerativa calcífica?
+- Fibrilação atrial permanente
+- Acidente vascular encefálico isquêmico aproximadamente em 2018 - como sequela tem leve disartria.
+- Hipotireoidismo - há mais de 10 anos tem o diagnóstico.
+2) Dados da Internação
+Data de [entrada] admissão: 05/06/2023
+Data de alta: 16/06/2023?
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de troca valvar mitral.
+Diagnóstico da Internação:
+- Pós-operatório de troca de valva mitral por prótese biológica Nº 27 (06/06/2023)
+- Fibrilação atrial de alta resposta ventricular revertida com introdução de Amiodarona (iniciado via oral em 12/06/2023) - em ritmo sinusal após
+- Lesão renal aguda - KDIGO II - pré-renal? insulto cirúrgico? necrose intersticial aguda? Creatinina basal 0,91 -> 1,92 no pós-operatório. Em melhora de função renal após redução de diureticoterapia.
+- Rash cutâneo - em melhora com anti-histamínico
+3) Exames da Internação
+- Ecocardiograma transesofágico (06/06/2023):
+> Pré-circulação extracorpórea: observado aumento biatrial de grau importante. Função biventricular preservada (0,65). Valva mitral apresenta fusão comissural, espessamento de suas cúspides e redução importante de sua abertura valvar, compatíveis com acometimento reumático. A área valvar mitral mediu 1,3 cm2 pela planimetria tridimensional. Observada retração importante das cúspides determinando falha de coaptação central com insuficiência de grau importante. Valva aórtica apresenta aspecto normal de suas válvulas, com refluxo central de grau mínimo. Valva tricúspide apresenta espessura e movimentação normais de suas cúspides, com dilatação do anel (medindo 45 mm) e redução da superfície de coaptação,determinando insuficiência central de grau moderado. Septo interatrial íntegro. Ausência de trombos em átrios e em seus respectivos apêndices. Conexão venosa pulmonar normal. A pressão sistólica de artéria pulmonar foi estimada em 40 mmHg.
+> Pós-circulação extracorpórea: função biventricular preservada (0,65). Prótese biológica em posição mitral com abertura preservada de seus folhetos, com refluxo central mínimo. A área do orifício efetivo da prótese foi estimada em 2,6 cm2, com gradiente diastólico médio átrio esquerdo-ventrículo esquerdo de 3 mmHg. Demais achados mantidos em relação ao exame pré-circulação extracorpórea.
+- Biópsia (07/06/2023): segmento de valva mitral: valvopatia crônica com calcificação e neovascularização. Aspecto morfológico compatível com etiologia reumática.
+- Ecocardiograma transtorácico (12/06/2023): fração de ejeção 60%. Pressão sistólica da artéria pulmonar 31. Prótese biológica mitral normofuncionante. Derrame pericárdico discreto sem sinais de restrição ao enchimento ventricular. Derrame pleural à esquerda.
+- Eletrocardiograma admissional: ritmo de fibrilação atrial.
+- Eletrocardiograma (14/06/2023): ritmo sinusal (após introdução de Amiodarona).
+- Ecocardiograma transtorácico (15/06/2023): átrio esquerdo 40 / aorta 31 / septo ventricular 10 / parede posterior 10 / ventrículo esquerdo 45x31 / pressão sistólica da artéria pulmonar 33 / fração de ejeção do ventrículo esquerdo 59%. Valva mitral com prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente diastólico máximo átrio esquerdo-ventrículo esquerdo estimado em 6mmHg e médio em 4mmHg. O PHT foi estimado em 112 ms. Derrame pericárdico discreto. Ausência de sinais de restrição ao enchimento ventricular.
+4) Terapia Medicamentosa
+Medicação prévia: digoxina, furosemida, metoprolol, levotiroxina, paroxetina, buclina, complexo B, rivotril, varfarina.
+Medicação durante a internação: levotiroxina, bromazepam, furosemida, tartarato de metoprolol, digoxina, omeprazol, cloridrato de paroxetina, octaplex, fibrinogênio, cálcio, protamina, dobutamina, cefuroxima, dipirona, mupirocina, soro glicosado, insulina regular, noradrenalina. ringer lactato, amiodarona, hidroclorotiazida, furosemida, heparina, loratadina, sulfato de magnésio, hidrocortisona, simeticona, difenidramina, enoxaparina, hidroxizina, varfarina
+5) Terapia Intervencionista
+- 06/06/2023: troca de valva mitral por prótese biológica Nº 27. Por conta de IMC reduzido associado à calcificação extensa do anel valvar, foi suturado um patch de pericárdio no anel posterior mitral para redução do risco de disjunção atrioventricular. Tempo de circulação extracorpórea de 1h38min. Tempo de anóxia de 1h02min.
+6) Dispositivos
+- Dreno mediano
+- 2 fios de marcapasso no ventrículo direito
+- Cateter venoso central em veia jugular direita
+- Pressão arterial invasiva em artéria radial esquerda
+- Acesso venoso periférico em membro superior direito
+- Sonda vesical de demora
+- Tubo orotraqueal
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Acordada, orientada. Sem queixas ativas no momento. Estável hemodinamicamente, sem drogas vasoativas. Eupneica em ar ambiente. Afebril. Proteína C reativa em queda, sem uso de antibiótico. Sem
+intercorrências nas últimas 24h.
+Pressão arterial 105x65mmHg. Frequência cardíaca 81bpm. Saturação periférica de oxigênio 95%.
+Consciente e orientada, anictérica, acianótica, corada, hidratada.
+Ritmo regular, bulhas normofonéticas, 2 tempos, sem sopros.
+Murmúrio vesicular presente bilateral, creptos bibasais bilateral.
+Abdome flácido, indolor à palpação, ruídos hidroaéreos presentes.
+Extremidades bem perfundidas. Tempo de enchimento capilar inferior a 3 segundos. Pulsos amplos e simétricos, sem sinais de trombose venosa profunda.
+Ferida operatória limpa e seca. Sem sinais flogísticos. Sem instabilidade de esterno.
+8) Status laboratorial na alta
+- 16/06/2023: hemoglobina 12,8 / leucócitos 9940 / plaquetas 257000 / ureia 40 / creatinina 1,01 / sódio 141 / potássio 3,4 / proteína C reativa 31 / INR 1,0 / lactato 16.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

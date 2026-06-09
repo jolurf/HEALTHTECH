@@ -1,0 +1,113 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Estenose mitral com insuficiência  
+Febre reumática  
+Amigdalite recorrente  
+Fibrilação atrial paroxística  
+Hepatite C  
+Ex‑fumante (30 anos, cessou há 3 anos)  
+Ex‑consumidor de álcool (30 anos, cessou há 3 anos)  
+Ex‑usuário de crack (cessou há 3 anos)  
+Queimadura no flanco e região inguinal esquerda  
+Toracotomia esquerda  
+
+Não consta informações sobre alergias, cirurgias prévias adicionais ou internações prévias relatadas.
+
+2) Dados da Internação
+Data de admissão: 2019‑10‑30  
+Data de alta: 2019‑11‑13  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Troca de valva mitral por etiologia reumática (inclui período pós‑operatório).  
+Instabilidade hemodinâmica com arritmia cardíaca (fibrilação atrial ou bradiarritmia) necessitando vasopressores.  
+Complicação reumática com necessidade de troca de terapia biológica.  
+Queda de própria altura no banheiro, com sonolência, sem trauma craniano aparente.  
+
+Diagnóstico da Internação:  
+Doença da valva mitral de etiologia reumática  
+Fibrilação atrial (inclui registro de infusão contínua de amiodarona)  
+Instabilidade hemodinâmica  
+Uso de vasopressores  
+Ansiedade (possível abstinência)  
+Bradiarritmia atrial  
+Troca de valva mitral por toracotomia lateral com circulação extracorpórea (CEC)  
+Ecocardiograma com fração de ejeção de 60 %  
+Doença reumática – necessidade de troca biológica  
+
+3) Exames da Internação
+30/10/2019 – Tomografia Computadorizada de Tórax:  
+  Técnica: Aquisição volumétrica no plano axial.  
+  Laudo: Estruturas vasculares mediastinais de calibre normal e contornos regulares. Traqueia e brônquios principais permeáveis e de calibre normal. Brônquios lobares e segmentares de calibre normal. Não há linfonodomegalias. Coração de morfologia e dimensões normais. Hilos pulmonares de configuração e dimensões normais. Parênquima pulmonar com coeficientes de atenuação habituais. Vascularização pulmonar de distribuição e calibre normais. Pleura de aspecto normal. Estruturas ósseas, musculares e planos gordurosos de morfologia e densidade normais.  
+01/11/2019 – Raio‑X de Tórax:  
+  Raio‑X Tórax de 01/11 mostra Swan‑Ganz bem posicionado e ausência de intercorrências.  
+Data não consta – Ecocardiograma:  
+  ECO com FE 60 %.  
+11/11/2019 – Eletrocardiograma:  
+  ECG evidenciando FA com FC 139 bpm, reavaliado após 15 min, FC 90 bpm.  
+11/11/2019 – Tomografia Computadorizada de Crânio:  
+  Aquisição volumétrica no plano axial. Parênquima cerebral com coeficientes de atenuação normais. Cisterna basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média.  
+11/11/2019 – Tomografia Computadorizada de Crânio (segundo laudo):  
+  s/ sinais de sangramento.  
+11/11/2019 – Ecocardiograma transtorácico:  
+  Prótese mitral sem disfunção Grad max 7 e med 2. FE 62 %; AO 31; AE 46; S 9; PP 9; DDVE 48; DSVE 32. IAo mod.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Amiodarona  
+Furosemida  
+Varfarina  
+
+Medicação durante a internação:  
+Amiodarona  
+Cefuroxima  
+Clexane  
+Diurético  
+Dobutamina  
+Fludrocortisona  
+Furosemida  
+Heparina  
+Heparina de baixo peso molecular  
+Hidroclorotiazida  
+Hidrocortisona  
+Insulina  
+Marevan  
+Noradrenalina  
+Norepinefrina  
+Potássio  
+Quetiapina  
+Ringer Lactato  
+Varfarina  
+Vasopressina  
+
+5) Terapia Intervencionista
+Troca de valva mitral (prótese biológica nº 29) por toracotomia lateral com circulação extracorpórea – 31/10/2019, 02/11/2019, 03/11/2019  
+
+6) Dispositivos
+CVC‑JD – 01/11/2019, 04/11/2019  
+Swan‑JD – 01/11/2019  
+PAi‑MSD – 01/11/2019  
+SVD – 01/11/2019  
+AVP‑MSD – 01/11/2019  
+Dreno – 01/11/2019  
+Prótese mitral – 31/10/2019  
+
+7) Situação funcional na alta
+Paciente em leito, eupneico, estável clínica e hemodinamicamente, sem dor torácica ou dispneia. Boa perfusão, PA 90 x 60 mmHg, FC 52 bpm, Sat 98 %. Abdômen plano, indolor, sem edemas ou sinais de trombose venosa profunda.  
+
+8) Status laboratorial na alta
+13/11/2019 – INR: 2,2  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente:  
+Retorno ambulatorial em 15 dias e teste de perfusão em 7 dias.  
+
+Seguimento:  
+não consta

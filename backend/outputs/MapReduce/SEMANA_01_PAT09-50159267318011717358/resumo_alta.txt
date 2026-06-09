@@ -1,0 +1,75 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Pré‑eclâmpsia (inclui gestação anterior)  
+Hipertensão gestacional (inclui diagnóstico na última gestação)  
+Hipotireoidismo  
+Parto cesáreo recente com sangramento volumoso (12 dias pós‑parto) – cirurgia obstétrica (cesariana)  
+Infarto agudo do miocárdio (não principal)  
+Vícios: não consta  
+Cirurgias prévias: cesariana (parto cesáreo)  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2023‑06‑08  
+Data de alta: 2023‑06‑15  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Puerpera 12 dias pós‑cesárea com sangramento vaginal volumoso, histórico de pré‑eclâmpsia e hipertensão gestacional, apresentando dor torácica típica, elevação do segmento ST e marcadores cardíacos elevados, diagnosticada como MINOCA (infarto do miocárdio sem obstrução coronariana) por dissecção coronária espontânea. Avaliação da cicatriz de cesariana com secreção sero‑hemática espessada. Manutenção da função renal.
+Diagnóstico da Internação:  
+Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST (IAMCSST)  
+MINOCA (infarto miocárdico com artérias coronárias não obstruídas)  
+MINOCA – Dissecção coronária espontânea  
+Hipóteses diagnósticas: miocardite, dissecção coronariana, vasoespasmo coronariano?  
+
+3) Exames da Internação
+08/06/2023 – ECG: ECG com evidência de supradesnivelamento de segmento ST em paredes inferior, lateral e dorsal.  
+08/06/2023 – CATE: Artéria DA contorna o ápice do VE, com lesão segmentar de 50 % no terço médio. Demais artérias sem lesões obstrutivas.  
+08/06/2023 – Ventriculografia: Disfunção sistólica global leve, com hipocinesia na parede anterior. Valva mitral competente.  
+08/06/2023 – Troponina: Tropo: 35544.  
+08/06/2023 – Cateterismo coronariano: Artéria DA contorna o ápice do VE, com lesão segmentar de 50 % no terço médio. Demais artérias sem lesões obstrutivas. Ventriculografia: Disfunção sistólica global leve, valva mitral competente.  
+08/06/2023 – Ecocardiograma: FE: 55 %, hipocinesia dos segmentos médio e basal da parede lateral. VD sem disfunção. IMi disc.  
+08/06/2023 – Eletrocardiograma: ECG com 2 h de dor: supra de 1,5 mm em região latero‑dorsal, 1 mm em parede inferior. ECG INCOR: melhora do supra, ARV latero‑dorsal + ESVV. Novo ECG à admissão com evidência de redução do supra.  
+09/06/2023 – Angiotomografia de coronárias: Circulação coronariana com dominância direita. Tronco de coronária esquerda sem redução luminal. Artéria Descendente Anterior contorna o ápice cardíaco, sem redução luminal significativa. Ramos diagonais de fino calibre e avaliação limitada. Artéria Circunflexa sem redução luminal proximal; segmento fino após primeira marginal. Primeira marginal com afilamento focal proximal, sem lesões focais associadas, dilatação pós‑estenótico. Artéria coronária direita sem redução luminal proximal; artéria descendente posterior sem redução luminal. Escore total de cálcio coronariano = 0.  
+09/06/2023 – RNM Cardíaca: Achados consistentes com infarto agudo do miocárdio transmural, com áreas de no‑reflow / obstrução microvascular. Câmaras cardíacas com dimensões preservadas. Disfunção sistólica discreta do ventrículo esquerdo. Presença de edema no segmento inferolateral médio.  
+09/06/2023 – AngioTC de coronárias: Escore total de cálcio coronariano de zero. Área de afilamento focal proximal da artéria primeira marginal com componente de dilatação pós‑estenótico e sem lesões associadas; aspecto sugestivo de dissecção coronariana focal. Realce tardio de padrão isquêmico nos segmentos supridos por seus ramos, com imagens hipodensas subendocárdicas, indicando infarto com componente de obstrução microvascular.  
+09/06/2023 – Hemograma: HI: Hb 11,5 g/dL | Leuco 9 400 /mm³ | Sem ATB.  
+09/06/2023 – Função renal: Ur 13 mg/dL | Creat 0,62 mg/dL.  
+
+4) Terapia Medicamentosa
+Medicação prévia: Captopril  
+Medicação durante a internação (deduplicada):  
+  AAS, amlodipino, Anlodipino, Aspirina, Atenolol, Atorvastatina, Beta‑bloqueador, Captopril, clopidogrel, Cálcio, DAPT, Enalapril, Enoxaparina, Hidroclorotiazida, Ivabradina, Magnésio, Metoprolol, morfina, Potássio, tridil  
+
+5) Terapia Intervencionista
+08/06/2023 – Cateterismo coronariano diagnóstico  
+08/06/2023 – Angioplastia coronária com balão (porta‑balão)  
+12/06/2023 – Angioplastia coronária com balão (porta‑balão)  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente lúcida, orientada, assintomática, bom estado geral, anicterica, afebril, sem sinais de insuficiência respiratória. Ausculta cardíaca com ritmo regular, sem sopros, tempo de ejeção < 3 s. Extremidades bem perfundidas, sem edema, hematoma de punção radial em reabsorção.  
+
+8) Status laboratorial na alta
+08/06/2023 – Troponina: Tropo 35544  
+
+9) Prescrição de Alta
+Clopidogrel  
+Captopril (IECA)  
+Beta‑bloqueador (ex.: Metoprolol)  
+DAPT (dupla terapia antiplaquetária)  
+
+Posologia e via de administração não especificadas nos documentos disponíveis.  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Retorno ambulatorial de MINOCA em 30 dias.  
+
+Seguimento:  
+não consta

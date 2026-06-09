@@ -1,0 +1,58 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- Hipertensão Arterial Sistêmica
+- Diabetes Mellitus
+- Cefaleia de característica migranosa, 1x/mês
+- Laqueadura prévia
+- Alergia à captopril
+2) Dados da Internação
+Data de [entrada] admissão: 27/05/2020
+Data de alta: Não descrito, última evolução do dia 29/05/2020 sem menção à alta hospitalar, sem mais evoluções disponíveis
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Paciente refere que no dia 20/05/2020 após realizar rotação da cabeça
+surgiu uma cefaleia holocraniana e cervicalgia de forte intensidade, 10/10,
+pulsátil, de instalação súbita, atingindo seu pico em menos de um minuto, com
+tontura giratória, náuseas e vômitos e fraqueza em membros superiores e
+inferiores bilateralmente. A cefaleia se mantém contínua desde então, sem
+melhora com uso de analgésicos, sem fonofobia e fotofobia. Chegou a procurar
+atendimento médico em UPA em três ocasiões, refere que lá sempre apresentava
+PAS em torno de 200 mmHg, recebia analgesia e alta em todas as ocasiões. Hoje
+se consultou em neurologista particular que orientou buscar PS e dessa forma
+vieram direto para o Incor.
+Diagnóstico da Internação:
+- HSA - aneurismática? por dissecção vertebral?
+3) Exames da Internação
+- Tomografia e  Angiotomografia de  crânio 26/05/2020: Acentuado afilamento do calibre na artéria vertebral direita imediatamente após a emergência, associado a interrupção na progressão do contraste na porção distal de V3, sugestiva de dissecção da mesma com oclusão. Observa-se reenchimento de V4, que apresenta-se com irregularidades parietais em todo seu trajeto. Aneurisma sacular de contorno bilobulado na transição dos segmentos cavernoso e clinóideo da artéria carótida interna direita, com orientação superior e medial. Apresenta colo de 0,4 cm, distância dômus-colo de 0,6 cm e maior eixo transverso do domo de 0,9 cm. Aneurisma sacular na transição dos segmentos cavernoso e clinóideo da
+artéria carótida interna esquerda, com orientação medial. Apresenta colo de 0,3 cm, distância dômus-colo de 0,5 cm e maior eixo.
+
+- Ressonância Magnética de Crânio 27/05/2020: Material hemático preenche alguns sulcos corticais parietais posteriores da alta e média convexidade e occipitais bilaterais (hemorragia subaracnoide).
+Focos com hipersinal em T2/ FLAIR na substância branca periventricular, sem realce pelo meio de contraste endovenoso ou restrição à difusão, inespecíficos, porém comumente relacionados a gliose/ microangiopatia. Restante do parênquima encefálico com características anatômicas e sinal normal.
+Sistema ventricular apresenta morfologia e dimensões normais. Cisternas basais, fissuras encefálicas e sulcos corticais de aspecto normal para a faixa etária. Não há evidências de lesões isquêmicas agudas. Ausência de realces anômalos pós-contraste. Oclusão do segmento V3 da artéria vertebral direita, notando-se reenchimento de V4, possivelmente retrogradamente, que apresenta calibre afilado e algumas irregularidades parietais. Aneurisma sacular de contornos regulares no segmento paraoftálmico da artéria carótida interna direita, com orientação superolateral. Tem colo de 0,3 cm, distância dômus-colo de 0,8 cm e maior eixo transverso do domo de 1,3 cm. Aneurisma sacular no segmento paraoftálmico da artéria carótida interna esquerda, com orientação medial e contornos regulares. Tem colo estreito de difícil caracterização, distância dômus-colo de 0,6 cm e maior eixo transverso do domo de 0,4 cm. Outro pequeno aneurisma sacular no segmento paraoftálmico da carótida interna esquerda, com orientação superolateral. Mede cerca de 0,2 cm. Aneurisma sacular na trifurcação do segmento M1 da artéria cerebral média esquerda, com orientação anterior. Mede cerca de 0,2 cm. Demais segmentos intracranianos das artérias carótidas internas e das artérias vertebrais de calibre, fluxo, trajeto e contornos preservados. Demais artérias cerebrais anteriores, médias e posteriores e artéria basilar de trajeto, calibre e fluxo preservados. Calibre e fluxo preservado nos grandes seios venosos durais, e no sistema venoso superficial e profundo de drenagem encefálica de calibre e fluxo preservados.
+Não há sinais de trombose venosa.
+
+- Angioressonância Magnética de Crânio 27/05/2020: Oclusão do segmento V3 da artéria vertebral direita, notando-se reenchimento de V4, possivelmente retrogradamente, que apresenta calibre afilado e algumas irregularidades parietais. Aneurisma sacular de contornos regulares no segmento paraoftálmico da artéria carótida interna direita, com orientação superolateral. Tem colo de 0,3 cm, distância dômus-colo de 0,8 cm e maior eixo transverso do domo de 1,3 cm. Aneurisma sacular no segmento paraoftálmico da artéria carótida interna esquerda, com orientação medial e contornos regulares. Tem colo estreito de difícil caracterização, distância dômus-colo de 0,6 cm e maior eixo transverso
+do domo de 0,4 cm. Outro pequeno aneurisma sacular no segmento paraoftálmico da carótida interna
+esquerda, com orientação superolateral. Mede cerca de 0,2 cm. Aneurisma sacular na trifurcação do segmento M1 da artéria cerebral média esquerda, com orientação anterior. Mede cerca de 0,2 cm.
+Demais segmentos intracranianos das artérias carótidas internas e das artérias vertebrais de calibre, fluxo, trajeto e contornos preservados.
+4) Terapia Medicamentosa
+Medicação prévia: Losartana, Anlodipino
+Medicação durante a internação: losartana, nimodipino, lactulose, hidralazina, bisacodil, clorpromazina, dipirona
+5) Terapia Intervencionista
+-
+6) Dispositivos
+-
+7 Situação funcional na alta
+- Não descrito, última evolução do dia 29/05/2020 sem menção à alta hospitalar, sem mais evoluções disponíveis.
+8) Status laboratorial na alta
+- Último exame laboratorial disponível, dia 29/05/2020: Sódio 138 mEq/L Potássio 4,3 mEq/L
+9) Prescrição de Alta
+- Não descrito, última evolução do dia 29/05/2020 sem menção à alta hospitalar, sem mais evoluções disponíveis
+10 Orientações de alta para o paciente
+- Não descrito, última evolução do dia 29/05/2020 sem menção à alta hospitalar, sem mais evoluções disponíveis
+10 Orientações de seguimento
+- Não descrito, última evolução do dia 29/05/2020 sem menção à alta hospitalar, sem mais evoluções disponíveis

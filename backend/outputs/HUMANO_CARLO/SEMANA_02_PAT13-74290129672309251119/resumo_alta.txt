@@ -1,0 +1,39 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo:
+Diagnósticos prévios (Antecedentes Patológicos): 
+     IAMSST 06/2017
+Hipertensão Arterial Sistêmica
+Ex- tabagista 25 anos/maço
+2) Dados da Internação
+Data de [entrada] admissão: 20/10/2027
+Data de alta: 22/10/2017
+Permanência em UTI?
+Não
+Motivo da internação:
+Paciente encaminhada após IAM em 06/17. Informa que nunca apresentou desconforto torácico ou dispneia até evento isquêmico. Atualmente informa Angina CCS 2 com duração aproximada de 10 minutos , apresenta também sintomas ocasionais ao repouso. Nega dispneia associada ao quadro bem como demais sintomas. Refere melhora angina após uso de medicação, CCS1, nega dispnéia, ortopnéia, DPN, síncope, refere tontura ao se levantar. Reunião da Hemodinâmica em 5 de outubro de 2017, o caso foi discutido e ACEITO para ICP de MgE com reavaliação da ACD (houve dúvida quanto à presença de lesão obstrutiva pré-aneurisma de CD). Internação eletiva para Angioplastia.
+Diagnóstico da Internação: 
+
+IAM em 06/2017 com lesão de MgE
+3) Exames da Internação
+Cateterismo cardíaco 21/10/2017: Injeção seletiva evidenciando lesão de 100% na artéria CIRCUNFLEXA seu terço PROXIMAL (OCLUSÂO CRÔNICA) .Angiografia da artéria coronária direita evidenciou-se lesão de 50% no 1/3 médio, imediatamente antes de dilatação
+aneurismática da artéria.
+4) Terapia Medicamentosa
+Medicação prévia: 
+Omeprazol, AAS, Clopidogrel, Carvedilol, Enalapril, Atorvastatina, Isossorbida
+Medicação durante a internação:  ranitidina, solução fisiológica, clopidogrel, AAS, atorvastatina, enalapril, isossorbida, carvedilol
+5) Terapia Intervencionista
+- Angioplastia da artéria circunflexa com implante de 02 stents convencionais 21/10/2017
+6) Dispositivos
+-
+7 Situação funcional na alta
+-
+8) Status laboratorial na alta
+- Laboratório 24/10/2017: CK-MB Massa 4.1 ng/mL
+9) Prescrição de Alta
+Não descrito
+10 Orientações de alta para o paciente
+-  Alta hospitalar com acompanhamento ambulatorial
+10 Orientações de seguimento
+-

@@ -1,0 +1,57 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Estenose aórtica importante
+- Aneurisma de aorta ascendente
+- Doença renal crônica não dialítica
+- Hipertensão arterial sistêmica (desde os 28 anos)
+- Gota
+- Cirurgias ortopédicas (mão em 1988, com parada cardiorrespiratória; menisco)
+2) Dados da Internação
+Data de [entrada] admissão: 06/05/2019
+Data de alta: 14/05/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de troca valvar
+Diagnóstico da Internação:
+- Pós-operatório de troca valvar aórtica e interposição tubo dacron (07/05/2019)
+3) Exames da Internação
+- Biópsia (08/05/2019): valva aórtica (estenose): fibrose densa e difusa, infiltrado inflamatório linfomononuclear moderado e focal, proliferação de vasos muscularizados ou de paredes finas, degeneração mucóide moderada e difusa e calcificação intensa com metaplasia óssea em estroma valvar que, em associação com as alterações macroscópicas, são compatíveis com sequela de doença reumática crônica.
+- Biópsia (08/05/2019): fragmentos de aorta ascendente (aneurisma): fragmentos de artéria elástica exibindo degeneração mucóide moderada e difusa em túnica média, fibrose discreta e focal em túnicas média e íntima e hipertrofia da túnica média em arteríolas de vasa vasorum em adventícia.
+- Ecocardiograma transtorácico (14/05/2019): seio aórtico 38mm / átrio esquerdo 40mm / ventrículo direito basal 40mm / ventrículo direito médio 29mm / septo ventricular 11mm / parede posterior do ventrículo esquerdo 11mm / diâmetro diastólico do ventrículo esquerdo 46mm / diâmetro sistólico do ventrículo esquerdo 29mm / fração de ejeção 67% (Teicholz).
+Câmaras Cardíacas: Câmaras cardíacas de tamanhos normais.
+Ventrículos: Ventrículo esquerdo apresenta função sistólica preservada e aumento da espessura relativa de parede sugestivo de remodelamento concêntrico, não sendo observadas alterações na mobilidade segmentar de parede. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva mitral: Calcificação do anel valvar de grau mínimo. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva aórtica: Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central de grau discreto. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 20 mmHg e médio em 9 mmHg.
+Valva tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Tubo protético em aorta ascendente medindo 30mm de diâmetro.
+Pericárdio: Derrame pericárdico discreto. Ausência de sinais de restrição ao enchimento ventricular.
+Pressão sistólica em artéria pulmonar estimada pelo Doppler em 37 mmHg.
+4) Terapia Medicamentosa
+Medicação prévia: Clortalidona, Alopurinol, Enalapril
+Medicação durante a internação: Solução de glicose, Dobutamina, Enalapril, Cloreto de potássio, Furosemida, Omeprazol, Dipirona, Enoxaparina, Varfarina
+5) Terapia Intervencionista
+- 07/05/2019: cirurgia de troca valvar e interposição tubo dacron
+6) Dispositivos
+- Dreno mediano
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Estável e assintomático, sem queixas ou intercorrências desde ontem. Deambulando. Aceitando dieta via oral. Eliminações fisiológicas preservadas.
+Bom estado geral, lúcido e orientado em tempo e espaço, corado, hidratado, anictérico, acianótico, afebril, eupneico.
+Pressão arterial 100x60 mmHg. Frequência cardíaca 80 bpm.
+Ritmo cardíaco regular em 2 tempos, bulhas normofonéticas, sem sopros. Tempo de enchimento capilar menor que 3 segundos. Turgência jugular negativa. Refluxo hepatojugular negativo.
+Murmúrio vesicular sem ruídos adventícios.
+Abdome inocente
+Extremidades bem perfundidas, sem edemas
+8) Status laboratorial na alta
+- 14/05/2019: hemoglobina 13,8 / leucócitos 9530 / plaquetas 235000 / ureia 48 / creatinina 1,40 / sódio 136 / potássio 4,2 / magnésio 2,2 / proteína C reativa 62,11 / cálcio ionizado 1,11 / lactato venoso 12
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Tempo de protrombina em 7 dias

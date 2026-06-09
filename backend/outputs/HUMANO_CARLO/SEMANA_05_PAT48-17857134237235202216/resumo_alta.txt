@@ -1,0 +1,39 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+     - HAS
+- Diabetes Mellitus
+- AVE prévio 2011 - sem sequelas
+2) Dados da Internação
+Data de [entrada] admissão: 23/03/2018
+Data de alta: 04/04/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Refere quadro de dor precordial, há aproximadamente 06 meses, associada a esforços. atualmente CCS III, e a refeição, estresse. Realizou cintilografia ambulatorial de alto risco, encaminhado para CATE eletivo. Encaminhado após CATE eletivo, para avaliação intra hospitalar de revascularização miocárdica pela equipe de coronárias.
+Diagnóstico da Internação:
+- Internação para Cirurgia de Revascularização Miocárdica por Doença Arterial Coronariana Triarterial
+3) Exames da Internação
+- Ecocardiograma transtorácico 23/03/2018: Seio Aórtico Átrio Esquerdo 36 mm Ventrículo Direito Basal 31 mm Ventrículo Direito Médio 31 mm Septo 9 mm Parede Posterior 9 mm DDVE 46 mm DSVE 30 mm IMVE 72 g/m² FE 55%Câmaras cardíacas de tamanhos normais. Ventrículo esquerdo apresenta espessura normal e função sistólica preservada apesar de acinesia em segmento basal da parede ínfero-lateral e inferior, além de hipocinesia do segmento apical da parede anterior. Achados de Doppler compatíveis com alteração de relaxamento ventricular esquerdo. Ventrículo direito apresenta função sistólica normal. Calcificação do anel valvar de grau mínimo. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Valva aórtica trivalvular com sinais de fibrocalcificação moderado, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo VE-Ao estimado em 20 mmHg e médio em 14 mmHg. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais. Pericárdio com aspecto ecocardiográfico normal. 
+
+- Ultrassom com doppler de carótidas 23/03/2018: Artérias carótidas comuns, internas e externas de trajeto preservado. Placas ateromatosas parietais calcificadas e hipoecogênicas difusas ao longo de todo o trajeto vascular, predominantes nos bulbos e emergências das carótidas internas. Espessura médio-intimal pré bulbar à direita 0,9 mm e à esquerda 0,8 mm. Ao ecodoppler observa-se espectrovelocimetria conservada dos vários segmentos analisados, com pico de velocidade sistólica e diastólica máximos dentro dos limites normais. Artérias vertebrais com fluxo anterógrado conservado. Nota-se artéria vertebral esquerda filiforme, achado que pode corresponder a dominância pela artéria vertebral direita. Ateromatose carotídea bilateral. Estenose inferior a 50% nas artérias carótidas internas. Artérias vertebrais sem sinais de lesão estenosante significativa.
+- Ecocardiograma transtorácico 03/04/2018: Seio Aórtico 34 mm Átrio Esquerdo 36 mm Ventrículo Direito Basal 29 mm Ventrículo Direito Médio 22 mm Septo 11 mm Parede Posterior 11 mm DDVE 43 mm DSVE 29 mm IMVE 87 g/m² FE 60%. Câmaras cardíacas de tamanhos normais. Ventrículo esquerdo apresenta aumento da espessura relativa de parede sugestivo de remodelamento concêntrico e função sistólica preservada apesar de acinesia em parede(s) septal (segmento basal) e inferior (segmento basal). Índices de função diastólica normais. Ventrículo direito apresenta função sistólica normal. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo VE-Ao estimado em 28 mmHg e médio em 16 mmHg. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Aorta ascendente mede 35 mm. Pericárdio com espessura normal e aumento mínimo do líquido. Não foi possível estimar a PSAP devido dificuldade técnica em alinhar o feixe do Doppler ao jato da insuficiência tricúspide.
+4) Terapia Medicamentosa
+Medicação prévia: Captopril, Anlodipino, AAS, Glimepirida, Sinvastatina
+Medicação durante a internação: Dobutamina, noradrenalina, vasopressina, tridil, cefuroxima, enoxaparina, AAS, atorvastatina, enalapril, hidroclorotiazida, atenolol, omeprazol, dipirona, furosemida, Insulina Humana Intermediária, Metformina, heparina,
+5) Terapia Intervencionista
+- 29/03/2018: Cirurgia de Revascularização Miocárdica com CEC - MaE-ADA + Sf-DP e Sf-Mg1
+6) Dispositivos
+- Cateter Venoso Central em Veia Jugular Interna Direita, Dreno mediano, Dreno Pleural esquerdo, Fio de Marcapasso no VD, Cateter de Pressão Arterial Invasiva em Radial Esquerda, Sonda Vesical de Demora
+7 Situação funcional na alta
+- Paciente evolui estável clinicamente bem e sem queixas. Relata sono e apetite preservados e funções excretórias presentes. FO: limpa, seca e sem sinais flogísticos, sem curativo oclusivo, sem sinais de deiscência ou infeccioso. Paciente aceita participar do estudo THE FAMOURS. Oriento paciente seguir com uso da medicação para DM bem como seu controle via ambulatorial em UBS. Ao exame físico: BEG, hidratado, corado, AA MV+ SIM S/RA B1 hipo. sopro sistólico ejetivo mais audivel FAo, irradia para furcula, pico mesossistolico 2+/6, b2 hipofonetica Abdome globoso, flácido, inocente. Extremidades sem edema FO: Limpa, seca, sem deiscência e sem sinais infecciosos em externo ou safena.
+8) Status laboratorial na alta
+- Laboratório 02/04/2018: Hemoglobina 13.1 g/dL Hematócrito 38% Leucócitos 5230/mm³ Plaquetas 142.000/mm³ Ureia 39 mg/dL Sódio 140 mEq/L Potássio 4.2 mEq/L Magnésio 2.00 mg/dL Proteína C Reativa (PCR 62.18 mg/L Cálcio Ionizado 1.24 mMol/L
+9) Prescrição de Alta
+-
+10 Orientações de alta para o paciente
+-
+10 Orientações de seguimento
+- Oriento seguir e controlar DM em UBS de origem.

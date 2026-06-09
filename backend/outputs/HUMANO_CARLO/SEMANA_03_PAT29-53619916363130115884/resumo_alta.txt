@@ -1,0 +1,52 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+-  HAS 
+- Diabetes Mellitus Tipo 2 
+- Ex-tabagista 16 anos-maço (parou em 2002)
+- Hérnia discal:  operado em 2004
+- Miocardiopatia dilatada etiologia a/e - RNM FEVE 13%
+- Valvoplastia mitral (2016) - dupla disfunção mitral (H. Santa cruz-SP)
+- Síncopes desliga-liga de alto risco, EEF (09/18): sem indução de arritmia ventricular
+- Internação em julho de 2018 por Insuficiência Cardíaca Descompensada em perfil B
+2) Dados da Internação
+Data de [entrada] admissão: 01/10/2018
+Data de alta: 19/10/2018
+Permanência em UTI?
+-Sim
+Motivo da internação:
+Paciente em acompanhamento com equipe da IC, com sintomas refratários ao tratamento clínico, mesmo após otimização terapêutica internada, mantendo CF III, investigada em internação recente por síncope de alto risco com EEF, negativo para arritmias ventriculares. Por presença de BRE (QRS 160ms) e refratariedade clínica, indicado implante de ressincronizador, sem CDI. Paciente internada eletivamente  para implante de ressincronizador cardíaco.
+Diagnóstico da Internação:
+- Internação eletiva para implante de ressincronizador cardíaco
+- Insuficiência cardíaca perfil C
+- Insuficiência Renal Aguda Cardiorrenal tipo 2 
+- Intolerância à Captopril devido tosse
+3) Exames da Internação
+- Ecocardiograma transtorácico 11/10/2018: Raiz da Aorta 26 mm Átrio Esquerdo 40 mm Ventrículo Direito Basal 46 mm Ventrículo Direito médio 35 mm Septo 9 mm Parede Posterior 8 mm DDVE 56 m DSVE 47 mm Índice de Massa 105 g/m² FE 30%.  Aumento moderado do ventrículo direito, aumento discreto do ventrículo esquerdo, aumento discreto dos átrios direito e esquerdo. Ventrículo esquerdo apresenta hipertrofia excêntrica e função sistólica diminuída à custa de hipocinesia difusa, não foi possível análise da função diastólica. Ventrículo direito apresenta hipocinesia discreta, com movimentação paradoxal do septo ventricular. Presença de eletrodo de marca-passo em câmaras cardíacas direitas. Valva mitral com espessamento discreto, com redução da mobilidade de sua cúspide posterior, com sinais de plastia prévia; o estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Valva aórtica apresenta aspecto e movimentação normais de suas válvulas, o estudo Doppler e mapeamento com fluxo em cores são normais. Valva tricúspide com falha de coaptação entre suas cúspides, o estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante. Valva pulmonar apresenta sinais indiretos de hipertensão arterial pulmonar. Seios aórticos, aorta ascendente e arco aórtico com diâmetros e fluxo normais. Pericárdio com aspecto ecocardiográfico normal. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 45 mmHg (valor normal menor que 35 mmHg); a pressão sistólica em artéria pulmonar pode estar subestimada pela falha de coaptação da valva tricúspide e pela presença de disfunção sistólica do ventrículo direito. A veia cava inferior mede 26 mm, com variação respiratória menor que 50%. Observada a presença de ascite.
+- Ultrassom de Abdome Total com doppler colorido 11/10/2018: Fígado de dimensões aumentadas, parênquima hepático com ecogenicidade preservada. Veias hepáticas e veia cava inferior ectasiadas, com fluxo presente característico ao Doppler, que pode estar associado à congestão. Veia porta com calibre normal, com fluxo presente hepatopetal ao Doppler. Vesícula biliar hipodistendida, com conteúdo anecogênico. Vias biliares intra e extra-hepáticas sem sinais de dilatação. Pâncreas com forma, dimensões e ecotextura normais, não se observa dilatação do ducto pancreático principal. Baço com dimensões e ecogenicidade preservadas. Rins tópicos, com forma, contornos e dimensões normais, parênquima renal com espessura e ecogenicidade preservadas, não se observam imagens sugestivas de cálculos ou dilatação do sistema coletor. Aorta abdominal ateromatosa, com trajeto e calibre preservados nos segmentos acessados. Bexiga vazia. Moderada quantidade de líquido livre perihepático e periesplênico. Volumoso derrame pleural à direita. Conclusão: fígado de dimensões aumentadas e ectasias das veias hepáticas, que pode estar associado à hepatopatia congestiva. Moderada ascite no abdome superior. Aorta ateromatosa. Volumoso derrame pleural à direita.
+4) Terapia Medicamentosa
+Medicação prévia: Omeprazo, digoxina, bisoprolol, furosemida, losartana,a hidralazina, espironolactona, isossorbida
+Medicação durante a internação: Dobutamina, zolpidem, nipride, furosemida, digoxina, isossorbida, losartana, espironolactona, hidralazina, bisoprolol, omeprazol, inalação com cloreto de sódio, relaxante muscular HC, enoxaparina, insulina NPH, hidroclorotiazida, oxido de zinco vitaminado pomada, captopril
+5) Terapia Intervencionista
+
+- 02/10/2018  implante Marcapasso ABIV (Ressincronizador cardíaco)
+6) Dispositivos
+- Cateter de pressão arterial invasiva em artéria radial direita
+- Cateter Venoso Central em Veia Femoral Esquerda
+- Sonda Vesical de Demora
+7 Situação funcional na alta
+- Paciente de difícil comunicação. A mesma vem recusando Furosemida IV e
+Captopril desde a sua introdução, sem avisar a equipe médica. Nega dispneia e
+tolera bem o decúbito. Paciente fica nervosa quando digo que as medicações prescritas são
+importantes para o seu tratamento e que inclusive a equipe da Nefrologia havia sugerido o aumento de dose de Furosemida. A mesma perde a paciência e refere que a Furosemida foi a causadora de sua lesão renal e que prescrevemos medicações que fazem mal. Mesmo explicando para a mesma sobre as indicações de todas as medicações feitas, a mesma não aceita as informações dadas.
+Frequência cardíaca 72 bpm, saturação de oxigênio 96%. Refluxo hepatojugular ausente, turgência jugular presente. Extremidades bem perfundidas. Ritmo cardíaco regular em dois tempos, bulhas normofonéticas, sem sopros. Murmúrio vesicular presente, sem ruídos adventícios. Abdome flácido. Membros inferiores sem edemas.
+8) Status laboratorial na alta
+- Laboratório 19/10/2018: Hemoglobina 8,1 g/dL Hematócrito 24% Leucócitos 6550/mm³ Plaquetas 327.000/mm³ Ureia 163 mg/dL Creatinina 1.42 mg/dL Sódio 136 mEq/L Potássio 4.5 mEq/L Magnésio 2.8 mg/dL PCR 7.63 mg/L Calcio Ionizado 1.5 mMol/L
+9) Prescrição de Alta
+- Alta hospitalar com medicações prescritas + Losartana 25 mg 12/12h e Furosemida 1 comprimido ao dia;
+10 Orientações de alta para o paciente
+-  Retorno precoce no ambulatório em uma semana.
+10 Orientações de seguimento
+- Não descrito

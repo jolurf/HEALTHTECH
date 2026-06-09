@@ -1,0 +1,89 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus  
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 27/12/2015  
+Data de alta: 06/01/2016  
+Permanência em UTI? não  
+Motivo da internação: Gastrectomia total com reconstrução em Y‑Roux por adenocarcinoma gástrico diferenciado (corpo gástrico).  
+Diagnóstico da Internação:  
+Adenocarcinoma gástrico diferenciado do corpo gástrico  
+Adenocarcinoma gástrico pouco diferenciado (incl. microtubular) localizado no corpo gástrico e a 5 cm do cárdia  
+Lesão deprimida gástrica  
+Pangastrite erosiva leve  
+Pólipos gástricos sésseis  
+Neoplasia gástrica  
+Estado pós‑operatório de gastrectomia total  
+
+3) Exames da Internação
+18/12/2015 – Endoscopia digestiva alta: lesão deprimida gástrica em parede posterior do corpo. Tatuagem na tinta nanquim em sua porção proximal. Pangastrite erosiva leve. Pólipos sésseis em corpo e fundo.  
+04/12/2015 – Anátomo‑patológico: adenocarcinoma microtubular pouco diferenciado, permeativo na mucosa, sem invasão de submucosa.  
+18/12/2015 – Colonoscopia: pólipo sub‑pediculado, 10 mm, com superfície avermelhada e pontos de fibrina, em cólon sigmoide. Raros óstios diverticulares no cólon ascendente.  
+Data não especificada – Biópsia de congelação: margens cirúrgicas livres.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+ARA  
+Hidroclorotiazida  
+Losartana  
+Metformina  
+Rosuvastatina  
+Medicação durante a internação:  
+Albumina  
+Cefuroxima  
+Clexane  
+Morfina  
+
+5) Terapia Intervencionista
+28/12/2015 – Gastrectomia total com linfadenectomia 1‑9 e reconstrução em Y‑Roux.  
+28/12/2015 – Gastrectomia total com linfadenectomia 1‑9, colecistectomia e reconstrução em Y‑Roux.  
+28/12/2015 – Colecistectomia isolada.  
+28/12/2015 – Drenos de flanco direito (coto duodenal) e esquerdo (anastomose jejuno‑esofágica) colocados.  
+06/01/2016 – Retirada de dreno JP esquerdo.  
+28/12/2015 e 29/12/2015 – Analgesia peridural contínua.  
+04/01/2016 – Cateter de peridural para analgesia.  
+29/12/2015 – Biópsia de congelação intraoperatória (margens livres).  
+02/01/2016 – Teste de azul de metileno (via oral) – resultado negativo.  
+06/01/2016 – Retirada de SNE.  
+
+6) Dispositivos
+Dreno flanco direito – 28/12/2015, 29/12/2015.  
+Dreno flanco esquerdo – 28/12/2015, 29/12/2015.  
+Sonda nasogástrica de evacuação (SNE) – 28/12/2015, 29/12/2015, 06/01/2016.  
+Bomba de morfina – 29/12/2015, 31/12/2015.  
+Dreno duodenal (vigia coto duodenal) – 28/12/2015.  
+Dreno esofágico‑jejunal (vigia anastomose esôfago‑jejunal) – 28/12/2015.  
+Cateter de peridural – 04/01/2016.  
+Dreno JP esquerda – 06/01/2016.  
+
+7) Situação funcional na alta
+Paciente está bem, em dieta enteral, alimentando‑se oralmente em pequenas quantidades, sem ruídos respiratórios anormais, coração com bulhas normais, abdome plano e flácido, incisão com pouca secreção serosa.
+
+8) Status laboratorial na alta
+não consta  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter Clexane profilático e medidas mecânicas para profilaxia de TVP;  
+Usar cinta abdominal;  
+Manter gelo na região sacral e soro glicosado;  
+Estimular ingestão de água por via oral;  
+Dieta enteral iniciada em 31/12/2015, dieta pastosa para gastrectomizado total;  
+Evitar dieta oral até melhora;  
+Continuar bomba de morfina conforme necessidade.  
+
+Seguimento:  
+não consta

@@ -1,0 +1,84 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Taquiarritmia (episódio em maio 2016)  
+HDL baixo  
+Talassemia  
+Elevação de ferritina (possível reposição inadvertida de ferro)  
+Neoplasia de pele – melanoma (múltiplas excéreses)  
+Acidente automobilístico  
+
+Vícios, cirurgias prévias, alergias, internações prévias e prática de exercícios físicos: não consta  
+
+2) Dados da Internação
+Data de admissão: 2016‑08‑29  
+Data de alta: 2016‑09‑05  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Palpitações com teste ergométrico positivo e investigação coronariana (cateterismo e/ou cintilografia) evidenciando doença arterial coronariana grave, com indicação de revascularização cirúrgica; doença arterial coronariana com lesão coronária significativa/extensa, risco de isquemia e comprometimento de múltiplas artérias coronárias (incluindo histórico de taquiarritmia), encaminhada para revascularização cirúrgica.  
+
+Diagnóstico da Internação:  
+Doença Arterial Coronariana – múltiplas lesões coronárias (incluindo lesão 80 % da artéria descendente anterior, lesões múltiplas, doença grave e doença complexa com calcificação distal)  
+Hipoperfusão miocárdica – cintilografia miocárdica com queda de fração de ejeção no esforço, alto risco  
+Pós‑operatório de revascularização cirúrgica coronariana  
+
+3) Exames da Internação
+03/09/2016 – Rx tórax: Sem congestão.  
+03/09/2016 – Radiografia de tórax: Sem congestão.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+AAS  
+atenolol  
+atorvastatina  
+bromazepam  
+ácido acetilsalicílico  
+
+Medicação durante a internação:  
+AAS  
+bisacodil  
+dobutamina  
+furosemida  
+noradrenalina  
+Ácido fólico  
+
+5) Terapia Intervencionista
+Cateterismo coronariano – 30/08/2016  
+Cateterismo coronariano – 31/08/2016  
+Cateterismo coronariano – 01/09/2016  
+Revascularização cirúrgica coronariana – 30/08/2016  
+Revascularização cirúrgica coronariana – 01/09/2016  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente em 6º pós‑operatório, assintomático, hidratado, eupneico, afebril, consciente e orientado. Sinais vitais estáveis, edema leve em membros inferiores, cicatriz de safenectomia sem sinais de inflamação, sem instabilidade torácica.  
+
+8) Status laboratorial na alta
+K⁺ = 3,9 – 4,1  
+Lactato = 15 – 26  
+SvO₂ = 72,4 % – 86,6 %  
+Glicemia = 88 – 182  
+TCA = 162 – 111  
+Ht = 34 % – 28 %  
+BH = + 2500 ml  
+Bs = – 590 ml  
+Hemoderivados = não recebeu  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientado a procurar pronto‑socorro caso febre ou sinais de alarme.  
+
+Seguimento:  
+Retorno ambulatorial em 30 dias para reavaliação e acompanhamento conjunto com Hematologia.  
+Acompanhamento conjunto pela Hematologia; solicitar exames de controle para o retorno.  
+Avaliar inclusão no Protocolo THE FAMOUS R3 Cardio.

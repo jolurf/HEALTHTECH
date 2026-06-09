@@ -1,0 +1,75 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Doença Isquêmica Crônica do Coração  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus tipo 2  
+Acidente Vascular Cerebral (AVC) prévio 2011 sem sequelas  
+Doença Arterial Coronária triarterial  
+Vícios (tabagismo, etilismo, uso de drogas): não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 23/03/2018  
+Data de alta: 04/04/2018  
+Permanência em UTI? sim  
+Motivo da internação: Dor precordial de esforço há ~6 meses (CCS III, atualmente CCS I) com evidência de isquemia em cintilografia de alto risco e risco coronariano elevado, encaminhada para cateterismo coronariano eletivo e avaliação intrahospitalar de revascularização miocárdica, com possibilidade de cirurgia coronariana.  
+Diagnóstico da Internação:  
+Doença Arterial Coronária crônica.  
+Doença Arterial Coronária (DAC) triarterial com indicação de revascularização cirúrgica.  
+Doença Arterial Coronária (DAC) triarterial.  
+Lesão suspeita de carcinoma basocelular (CBC).  
+
+3) Exames da Internação
+22/03/2018 – Cateterismo coronariano (CATE): CD 100 % no ostio, DA 90 % terço médio, CX de pequena importância com irregularidades.  
+30/03/2018 – RX TORÁX: OK.  
+
+4) Terapia Medicamentosa
+Medicação prévia (antes da internação):  
+AAS; Anlodipina; Captopril; GLIMEPERIDA; Glimepirida; ISOSSORBIDA; Sinvastatina; Ácido acetilsalicílico.  
+
+Medicação durante a internação:  
+AAS; Anlodipina; Atenolol; Atorvastatina; Captopril; Cefuroxima; Dobutamina; Enalapril; Glimepirida; ISOSSORBIDA; METFORMINA; Noradrenalina; SINVASTATINA; Tridil; Vasopressina; Ácido acetilsalicílico.  
+
+5) Terapia Intervencionista
+22/03/2018 – Cateterismo cardíaco (CATE) realizado.  
+29/03/2018 – Revascularização miocárdica com circulação extracorpórea (CEC).  
+
+6) Dispositivos
+Cateter venoso central (CVC) jugular direita – inserido em 29/03/2018 (mantido até 02/04/2018).  
+Dreno mediano e pleural esquerdo – inserido em 29/03/2018 (mantido até 02/04/2018).  
+Fio de marcapasso no ventrículo direito – inserido em 29/03/2018 (mantido até 02/04/2018).  
+Pressão arterial invasiva (PAi) direita – inserido em 29/03/2018 (mantido até 02/04/2018).  
+Sonda vesical de demora (SVD) – inserida em 29/03/2018 (mantida até 02/04/2018).  
+
+7) Situação funcional na alta
+Paciente afebril, pressão arterial 100‑110/60‑70 mmHg, frequência cardíaca 81‑103 bpm, bem‑estar geral hidratado e corado, sopro sistólico ejetivo audível em foco aórtico irradiando para fúrcula, abdômen globoso, flácido e inocente, extremidades sem edema, feridas limpas e sem sinais de infecção.  
+
+8) Status laboratorial na alta
+Hb: 14,3‑12,5 g/dL  
+Ht: 44‑39 %  
+Lactato: 8‑25 mg/dL  
+K⁺: 3,8‑3,9 mmol/L  
+TCA: 112‑137 s  
+Diurese: 1000 mL  
+BH: + 3010 mL  
+BS: – 380 mL  
+Sem hemoderivados  
+Recebeu 4300 mL de cristaloide  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientado a seguir e controlar a diabetes mellitus em unidade básica de saúde, mantendo a medicação prescrita.  
+
+Seguimento:  
+Solicitar novo ecocardiograma transtorácico (ECO TT) pós‑cirurgia;  
+Solicitar fisioterapia motora após suspensão de heparina;  
+Checar exames e programar alta para quarta‑feira.

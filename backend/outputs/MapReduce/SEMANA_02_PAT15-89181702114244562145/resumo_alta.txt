@@ -1,0 +1,52 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos): não consta  
+
+2) Dados da Internação
+Data de admissão: 2019‑06‑03  
+Data de alta: 2019‑06‑10  
+Permanência em UTI? sim  
+Motivo da internação: Revascularização miocárdica (cirurgia cardíaca) – procedimentos realizados entre 03/06/2019 e 08/06/2019.  
+Diagnóstico da Internação:  
+Doença Isquêmica Crônica do Coração – 03/06/2019  
+Pós‑operatório de cirurgia cardíaca – 08/06/2019  
+
+3) Exames da Internação
+[03/06/2019] Cintilografia miocárdica: “Num exame de rotina TE sugestivo e cintilografia miocardica  hipocaptação transitoria de pequema extensão na porção distal das paredes anrteror, anteroseptal e no apice do VE associado a pequeno componente hipocaptação persistente. FE VE 70% repo s stresse 60%.”  
+[08/06/2019] ECG: “ECG sinusal e sem alterações.”  
+[08/06/2019] Radiografia de Tórax: “Rx Tórax controle.”  
+
+4) Terapia Medicamentosa
+Medicação prévia: não consta  
+Medicação durante a internação:  
+Atenolol  
+Cefuroxima  
+
+5) Terapia Intervencionista
+03/06/2019 – Revascularização miocárdica (incl. cirurgia de revascularização miocárdica)  
+05/06/2019 – Revascularização miocárdica (incl. cirurgia de revascularização miocárdica)  
+06/06/2019 – Revascularização miocárdica (incl. cirurgia de revascularização miocárdica) – 2º pós‑operatório  
+06/06/2019 – Remoção de SVD, drenos e fio MP  
+08/06/2019 – Cirurgia cardíaca  
+
+6) Dispositivos
+05/06/2019 – Dreno mediano  
+05/06/2019 – Dreno pleural esquerdo  
+
+7) Situação funcional na alta
+Paciente estável, muito bem.  
+
+8) Status laboratorial na alta
+Labs: NDN  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente:  
+Alta hospitalar à critério clínico.  
+
+Seguimento:  
+não consta

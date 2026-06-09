@@ -1,0 +1,40 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão Arterial Sistêmica
+- Diabetes Mellitus
+2) Dados da Internação
+Data de [entrada] admissão: 27/12/2015
+Data de alta: Última evolução 06/01/2015 sem menção de alta
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Paciente interna eletivamente para gastrectomia por CA gástrico, diagnosticado em exame de EDA.
+Diagnóstico da Internação:
+- Internação eletiva para gastrectomia por CA gástrico.
+3) Exames da Internação
+- Anatomopatológico de produto de gastrectomia total com linfadenectomia 28/12/2015: Material de estômago, gânglios da cadeia 6, gânglios da artéria hepática e jejuno. Adenocarcinoma tubular moderadamente diferenciado da região fúndica, face gástrica posterior (lesão mede 2,0x1,5cm). Padrão focal com células em anel de sinete (menos de 5% da neoplasia). Infiltração neoplásica focal até camada submucosa. Margens cirúrgicas proximal e distal livres de neoplasia. Ausência de neoplasia em 19 linfonodos dissecados na pequena curvatura e 11 na grande curvatura. Ausência de neoplasia em linfonodos designados como "cadeia 6" e "gânglio da artéria hepática". Invasão angiolinfática não detectada. Invasão perineural presente focalmente na submucosa. Gastrite crônica de intensidade moderada a acentuada, com áreas de atrofia e de metaplasia intestinal, em fundo, corpo e antro. Fragmento designado como "margem distal do esôfago" revestido por mucosa gástrica do cárdia. Presença de artefatos de pinçamento. Ausência de neoplasia. Fragmento designado como "jejuno" representado por parede de intestino delgado sem particularidades. Ausência de neoplasia em fragmentos submetidos previamente a cortes de congelação.
+- Anatomopatológico de produto de gastrectomia (avaliação de margem cirúrgica) 28/12/2015: Margem cirúrgica proximal livre de neoplasia.
+- Anatomopatológico de vesícula biliar 28/12/2015: Vesícula biliar com congestão vascular e marginação de leucócitos na serosa. Mucosa sem particularidades. Ausência de neoplasia. 
+
+- Relatório de citologia oncótica de líquido ascítico 28/12/2015: Citologia negativa para células neoplásicas. Citocentrifugados inflamatórios, com discreto predomínio de células mononucleares.
+4) Terapia Medicamentosa
+Medicação prévia: Aradois, Metformina, Rosuvastatina, hidroclorotiazida
+Medicação durante a internação: Albumina, cefuroxima, azul de metileno, morfina, losartana, hidroclorotiazida, clister de glicerina,   brometo de n-butil-hioscina, metoclopramida, omeprazol, dipirona, enoxaparina,  solução fisiológica de ringer, tramadol, cloreto de potássio, cloreto de sódio
+5) Terapia Intervencionista
+- 28/12/2015: GASTRECTOMIA TOTAL + COLECISTECTOMIA + LINFADENECTOMIA 1-9 COM RECONSTRUÇÃO EM Y-ROUX CONGELAÇÃO: AUSÊNCIA DE MARGENS COMPROMETIDAS A 5 CM DA LESÃO
+6) Dispositivos
+- Dreno flanco direito orientado para coto duodenal
+- Dreno flanco esquerdo orientado para anastomose jejuno-esofágica
+7 Situação funcional na alta
+Última evolução de 06/01/2015: Paciente bem, tomou dieta enteral até hoje cedo e terminou. Está se alimentando VO em pequenas quantidades várias vezes. Pulmões MV+ sem RA. Coração BRNF. Abdome plano, flácido, RHA+, sem DB, incisão com pouco de secreção serosa no meio da incisão, que foi explorado com pinças, com saída de líquido seroso da subcutânea em pequena quantidade. Dreno de JP à esquerda com secreção serosa.
+8) Status laboratorial na alta
+- Laboratório 05/01/2015: INR 0.9 Hemoglobina 11.3 g/dL Hematócrito 32% Leucócitos 5790/mm³ Plaquetas 313.000/mm³
+9) Prescrição de Alta
+- Sem menção de alta na última evolução dia 06/01/2015
+10 Orientações de alta para o paciente
+- Sem menção de alta na última evolução dia 06/01/2015
+10 Orientações de seguimento
+- Sem menção de alta na última evolução dia 06/01/2015

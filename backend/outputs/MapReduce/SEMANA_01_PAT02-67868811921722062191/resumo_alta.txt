@@ -1,0 +1,71 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos): não consta  
+
+2) Dados da Internação
+Data de admissão: 2018‑10‑05  
+Data de alta: 2018‑10‑08  
+Permanência em UTI? não  
+Motivo da internação:  
+  Infarto Agudo do Miocárdio com supradesnivelamento do segmento ST (STEMI) em 05/10/2018 e 06/10/2018; avaliação de doença arterial coronariana (angio‑TC) associada a queixa de cervicalgia mecânica em 08/10/2018.  
+Diagnóstico da Internação:  
+Infarto Agudo do Miocárdio com supradesnivelamento do segmento ST (STEMI) – 05/10/2018 (ínfero‑lateral) e 06/10/2018 (anterior e inferior).  
+Doença arterial sem dissecção – 08/10/2018.  
+Cervicalgia mecânica – 08/10/2018.  
+
+3) Exames da Internação
+05/10 – Cateterismo: Lesão 100% 1/3 distal/ colateral (grau I): CD → DA.  
+05/10 – ECOTT: (LAUDOPROVIS[ORIO): FEVE: 50%; apresenta aumento atrial; apresenta uma acinesia de toda a parede apical.  
+06/10/2018 – ECG: ECG – mantém supra de ST anterior e inferior (mesmo padrão desde admissão InCor).  
+08/10/2018 – AngioTC: Realizou angioTC hoje que mostra DA afilada a partir do terço médio, sem, no entanto, caracterizar dissecção ou placa aterosclerótica.  
+08/10/2018 – Angiotomografia de coronárias (laudo completo):  
+Circulação coronariana com dominância direita.  
+Tronco de Coronária Esquerda sem redução luminal.  
+Artéria Descendente Anterior contorna o ápice cardíaco. Apresenta-se difusamente afilada nos terços médio‑distal, sem caracterização evidente de placa aterosclerótica.  
+Artéria Primeira diagonal de grande importância, sem redução luminal.  
+Artéria Segunda diagonal de pequena importância, sem redução luminal.  
+Artéria Diagonalis de pequena importância, sem redução luminal.  
+Artéria Circunflexa sem redução luminal.  
+Artéria Primeira Marginal de moderada importância, sem redução luminal.  
+Artéria Segunda Marginal de grande importância, sem redução luminal.  
+Artéria Terceira Marginal de grande importância, sem redução luminal.  
+Artéria Coronária Direita sem redução luminal.  
+Artérias Marginais Direitas (2), ambas de moderada importância, sem redução luminal.  
+Artéria Descendente Posterior de grande importância, ramo da artéria coronária direita, sem redução luminal.  
+Artéria Ventricular Posterior de moderada importância, ramo da artéria coronária direita, sem redução luminal.  
+Escore total de cálcio de zero.  
+Impressão Diagnóstica: Ausência de redução luminal coronariana significativa relacionada a aterosclerose (estenose discreta < 50 %).  
+
+4) Terapia Medicamentosa
+Medicação prévia: não consta  
+Medicação durante a internação:  
+Anticoagulação  
+DAPT (terapia antiplaquetária dupla)  
+Relaxante muscular HC  
+Tridil  
+
+5) Terapia Intervencionista
+05/10 – Cateterismo diagnóstico  
+06/10/2018 – Trombólise  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente afebril, frequência cardíaca 57‑70 bpm, pressão arterial 115‑138/63‑84 mmHg, eupneico, GCS 15, sem rigidez de nuca ou déficits focais, sem edema de membros inferiores.  
+
+8) Status laboratorial na alta
+não consta  
+
+9) Prescrição de alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Aguardar resultados da pesquisa de trombofilias.  
+
+Seguimento:  
+não consta

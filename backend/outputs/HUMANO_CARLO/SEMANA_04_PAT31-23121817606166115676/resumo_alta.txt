@@ -1,0 +1,39 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+-  Usuário de cocaína e maconha há 10 anos
+- Ex- tabagista de 20 maços-ano
+2) Dados da Internação
+Data de [entrada] admissão: 12/12/2017
+Data de alta: 13/12/2017
+Permanência em UTI?
+- Não
+Motivo da internação:
+Paciente usuário de maconha e cocaína, com uso de grande quantidade de cocaína há 5 dias, iniciou dor torácica há 3 dias com dor precordial irradiada para MSE, intermitente, após uso de droga, sem sinais de baixo débito, sem dispnéia, sem náuseas e vômitos. Há 2 dias, dor contínua, forte intensidade, com episódios de vômitos e um episódio de síncope. Deu entrada em PS de Carapicuíba, há 1 dia (11/12) às 8h, com mais de 10h de dor contínua, iniciada ao repouso pós uso de droga. ECG de entrada: ritmo sinusal, Supra de ST de V1-V5, DI e avL. Realizada HD de IAM com supra, sem alterações de ausculta (Killip I), interrogado vasoespasmo. Realizou ataque de clopidogrel e AAS, optado por não realização de trombólise pelo tempo de 10h. Iniciado tridil EV, enoxaparina dose plena, sinvastatina
+e diltiazem. Encaminhado para o InCor dia 12/12, dando entrada às 16h30, em uso de tridil 16 ml/h, com dor de intensidade 3/10. Exames descritos na transferência: tropo de 12/12: 8.78, CKMB 12/12: 644, Cr 0.8, Hb 14 ECG de entrada: ritmo sinusal, FC 72, supra de ST de V1-V5, com Q e inversão de T.
+Diagnóstico da Internação:
+- IAM com Supra de ST anterior extenso (V1-V5, DI e aVL)
+3) Exames da Internação 
+
+- Cateterismo Cardíaco 12/12/2017 - Sem laudo: Obstrução de DA proximal.
+- Ecocardiograma 13/12/2017: FE 36%, câmaras de tamanho normal, acinesia apical, parede septal
+anterior e segmento médio da parede anterior, além de hipocinesia do septo inferior. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. IM mínima e IAo mínima.
+4) Terapia Medicamentosa
+Medicação prévia: -
+Medicação durante a internação: Tridil, Tirofiban, AAS, Clopidogrel, Atorvastatina, Enoxaparina, Omeprazol
+5) Terapia Intervencionista
+- 12/12/2017: Angioplastia de DA com 2 Stents. Fechamento de Dg durante procedimento, necessário balão.
+6) Dispositivos
+- Introdutor femoral
+7 Situação funcional na alta
+Paciente no leito, sem queixas. Diurese presente, ainda não evacuou. Realizou cateterismo ontem sem intercorrências. Introdutor retirado na parte da noite. Bom estado geral, lúcido e orientado no tempo e espaço. Normocorado. Pressão arterial 104x50 mmHg, saturação de oxigênio 94%, frequência respiratória 14 irpm, frequência cardíaca 83. Aparelho respiratório: murmúrio vesicular presente bilateralmente, sem ruídos adventícios, sem sinais de esforço. Aparelho cardiovascular: bulhas rítmicas normofonéticas em 2 tempos, sem sopros, em uso de tridil 5 mililitros por hora, tempo de enchimento capilar menor que 3 segundos. Abdome flácido, indolor, sem visceromegalias, sem massas. Membros inferiores: pequena equimose em região de introdutor, sem sangramento ativo em membro inferior direito, pulsos presentes, amplos e simétricos, sem empastamento de panturrilha.
+8) Status laboratorial na alta
+- 13/12/2017: Hb 14,4 / LEuco 13080 / Plaquetas 230000 / CK 86 / Tropo >50 / Ureia 21 / Creatinina 0,96 / Na 139 / K 3,9 / PCR 172 / Mg 2,2
+9) Prescrição de Alta
+- Não descrito
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Retorno ao hospital de origem

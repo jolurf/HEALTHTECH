@@ -1,0 +1,50 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+HAS
+Obesidade
+Ex tabagista
+Psoríase
+Alergia a Iodo
+2) Dados da Internação
+Data de [entrada] admissão: 16/01/2019
+Data de alta: 01/02/2019
+Permanência em UTI?
+- Sim
+Motivo da internação: 
+Paciente portador de psoríase, em investigação de Angina CCS III e dispnéia limitante e possível DAC. Programação de cateterismo cardíaco após dessensibilização para iodo por relato de alergia.
+Diagnóstico da Internação: 
+Doença Arterial Coronariana Triarterial
+3) Exames da Internação 
+
+- Tomografia Computadorizada de Abdome Total (17/01/2019): Fígado de dimensões e contornos preservados, com atenuação homogênea. Não há dilatação das vias biliares. Baço, pâncreas e adrenais sem particularidades. Rins tópicos, de dimensões normais. Prováveis cistos corticais renais bilaterais. Não se evidenciam imagens de cálculos ou hidronefrose. Ausência de linfonodomegalias ou de líquido livre na cavidade peritoneal. Bexiga com pequena repleção e conteúdo líquido homogêneo. Ateromatose aortoilíaca. Diminuta hérnia umbilical com conteúdo adiposos e sem sinais inflamatórios agudos. Divertículos cólicos sem sinais inflamatórios agudos. Apêndice cecal de aspecto habitual. Espondilose dorsal.
+
+- Cateterismo Cardíaco (21/01/2019): Tronco da Coronária Esquerda (TCE): sem lesões obstrutivas. Artéria DA: Atinge o ápice do VE, com lesão focal de 95% no óstio. Apresenta também lesão focal de 70% em terço médio. Primeiro ramo diagonal (Dg1): Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Segundo ramo diagonal (Dg2): Moderada importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Terceiro ramo diagonal (Dg3): Pequena importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Artéria CX: Grande importância anatômica, com lesão focal de 80% no terço médio. Primeiro ramo marginal esquerdo (MgE1): Pequena importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Segundo ramo marginal esquerdo (MgE2): Pequena importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Terceiro ramo marginal esquerdo (MgE3): Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Artéria CD: Grande importância anatômica, com lesão focal de 50% no terço médio. Artéria descendente posterior direita (DP): Grande importância anatômica, com lesão focal de 50% no terço proximal. Primeiro ramo ventricular posterior direito (VP1): Grande importância anatômica, sem lesões obstrutivas, mas com irregularidades parietais. Circulação colateral ausente. Dominância: Direita Padrão Obstrutivo: Com padrão obstrutivo triarterial.
+
+- Ultrassonografia com doppler de carótidas 22/01/2019: Carótidas comuns, internas e externas de trajeto preservado. Foco hiperecogênico parietal no bulbo esquerdo, podendo corresponder a calcificação. Espessura médio-intimal pré bulbar à direita 0,79 mm e à esquerda 0,74 mm. Ao ecodoppler observa-se espectrovelocimetria conservada dos vários segmentos analisados, com pico de velocidade sistólica e diastólica máximos dentro dos limites normais. Artérias vertebrais com fluxo anterógrado conservado. Foco hiperecogênico parietal no bulbo esquerdo, podendo corresponder a calcificação. Artérias vertebrais sem sinais de lesão estenosante significativa.
+- Ecocardiograma transtorácico 28/01/2019: Raiz da Aorta 35 mm AE 40 mm Ventriculo Direito Basal 33 mm Ventriculo Direito Médio 21 mm Septo 12 mm Parede Posterior 11 mm DDVE 49 mm DSVE 31 mm FE 66% Indice de Massa 100 g/m². Câmaras Cardíacas de tamanhos normais. Comentários Ventrículo esquerdo apresenta função sistólica preservada e aumento da espessura relativa de parede sugestivo de remodelamento concêntrico, não sendo observadas alterações na mobilidade segmentar de parede. Achados de Doppler compatíveis com alteração de relaxamento ventricular esquerdo. Ventrículo direito apresenta função sistólica normal. Ventrículos Apresenta aspecto e movimentação normais de suas cúspides. Estudo Doppler e mapeamento com fluxo em cores são normais. Valva Mitral Apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Aórtica Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Tricúspide Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Pulmonar Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais. Aorta Pericárdio com aspecto ecocardiográfico normal. Pericárdio Exame de difícil realização técnica.
+4) Terapia Medicamentosa
+Medicação prévia: Não descrito
+Medicação durante a internação: Prednisona, Ranitidina, loratadina, losartana, AAS, Atorvastatina, Montelucaste, Anlodipino, Furosemida, Dipirona, Insulina NPH, paracetamol, omeprazol, metoprolol, heparina
+5) Terapia Intervencionista
+- Cirurgia de Revascularização Miocárdica com Circulação Extracorpórea - Mamária-DA, Safena-1° Diagonal, Safena Descendente Posterior Direito 23/01/2019
+6) Dispositivos
+- Cateter de Pressão Arterial Invasiva (não descrita topografia)
+- Dreno (não descrita topografia)
+7) Situação funcional na alta
+
+Estável, assintomático, ferida operatória sem alterações e laboratório ok.
+8) Status laboratorial na alta
+
+- Laboratório 31/01/2019 - Hemoglobina 11,5 g/dL Hematócrito 34% Leucócitos 7650/mm³ Plaquetas 344.000/mm³ Ureia 94 mg/dL Creatinina 2,05 mg/dL Sódio 136 mEq/L Potássio 3,8 mEq/L Proteina C Reativa (PCR) 80,83 mg/L
+9) Prescrição de Alta
+
+Não descrito
+10 Orientações de alta para o paciente
+
+Não descrito
+10 Orientações de seguimento
+- Neste campo deverão ser incluídas as orientações específicas e direcionadas à profissionais de saúde quanto ao seguimento do paciente
+- Não incluir neste campo informações destinadas ao paciente

@@ -1,0 +1,52 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Infarto agudo do miocárdio em julho de 2025 sem terapia de reperfusão
+- Hipertensão arterial sistêmica
+- Diabetes mellitus
+- Gota
+- Etilismo (parou há 4 meses)
+- Erisipela de repetição
+- Edema de membro inferior esquerdo de longa data
+2) Dados da Internação
+Data de [entrada] admissão: 10/07/2016
+Data de alta: 19/07/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Revascularização miocárdica
+Diagnóstico da Internação:
+- Pós-operatório de revascularização miocárdica com circulação extracorpórea (artéria mamária-artéria descendente anterior, veia safena-artéria marginal, veia safena-artéria coronária direita)
+3) Exames da Internação
+- Sem
+4) Terapia Medicamentosa
+Medicação prévia: ácido acetilsalicílico, clopidogrel, atorvastatina, carvedilol, enalapril, metformina, isossorbida, alopurinol, ranitidina.
+Medicação durante a internação: atorvastatina, alopurinol, cloridrato de ranitidina, dobutamina, cristaloide, antifibrinolítico, pantoprazol, cefuroxima, dipirona, furosemida, ácido acetilsalicílico, noradrenalina, heparina, hidroclorotiazida, hidrocortisona, sulfato ferroso, epoetina alfa ou beta, colchicina, omeprazol, metformina, carvedilol, enoxaparina.
+5) Terapia Intervencionista
+- 11/07/2016: cirurgia de revascularização miocárdica com circulação extracorpórea (anastomoses: artéria mamária-artéria descendente anterior, veia safena-artéria marginal, veia safena-artéria coronária direita). Sangramento anastomose veia safena-artéria coronária direita discreto. Tempo de circulação extracorpórea de 57 minutos. Tempo de anóxia de 37 minutos.
+6) Dispositivos
+- Tubo orotraqueal
+- Cateter venoso central em veia jugular interna direita
+- Pressão arterial invasiva em artéria radial direita
+- Sonda vesical de demora
+- Dreno mediano
+- Dreno pleural esquerdo
+7 Situação funcional na alta
+Segue bem no leito, sem queixas. Nega dor. Nega dispneia. Nega náuseas. Boa aceitação alimentar.
+Bom estado geral, corado, hidratado, eupneico
+Sem sinais de congestão direita ou esquerda
+Pulsos amplos, simétricos, regulares
+Ritmo regular, bulhas normofonéticas sem sopros. Pressão arterial 100x60mmHg e FC 102bpm
+Murmúrio vesicular presente bilateralmente, sem ruídos adventícios.
+Membro inferior esquerdo sem edema, sem sinais de trombose venosa profunda. Membro inferior direito com edema 4+/4 crônico. Pulsos finos simétricos em ambos os membros superiores. Diversos tofos gotosos em interfalangeanas e cotovelo.
+Secreção sanguinolenta espessa após expressão da ferida operatória de esternotomia. Sem leucocitose ou elevação de PCR. Afebril.
+8) Status laboratorial na alta
+- 18/07/2016: Hemograma 9,4 / Leucócitos 10610 / Plaquetas 532000 / Ureia 70 / Creatinina 1,29 / Sódio 137 / Potássio 3,9 / Magnésio 1,70 / Proteína C Reativa 221 / INR 1,1 / Cálcio ionizado 1,17
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Retorno em 1 semana no ambulatório de curativos para avaliar ferida operatória.
+10 Orientações de seguimento
+- Sem

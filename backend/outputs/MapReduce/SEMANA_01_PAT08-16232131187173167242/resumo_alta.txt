@@ -1,0 +1,98 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Aneurisma da aorta torácica, sem ruptura – 13/02/2017  
+Dor torácica (não principal) – 09/11/2018  
+Cirurgia de Bentall de Bono modificada (inclui implante de válvula aórtica TVAo nº 25) – 06/02/2019  
+Fibrilação atrial – ablação prévia – 12/02/2019 a 14/02/2019  
+Hipertensão arterial sistêmica – 12/02/2019 a 14/02/2019  
+Dislipidemia – 12/02/2019 a 14/02/2019  
+
+Vícios, alergias, internações prévias, prática de exercícios e outras informações não constam.
+
+2) Dados da Internação
+Data de admissão: 06/02/2019  
+Data de alta: 19/02/2019  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Pós‑operatório de cirurgia Bentall (Bentall de Bono/modificada) com instabilidade hemodinâmica, convulsões, vasoplegia, atelectasia bilateral, fraqueza geral e necessidade de suporte ventilatório (CNO₂ e VNI) associado a dieta oral líquida. Também havia aneurisma da aorta torácica sem ruptura, indicação para a cirurgia Bentall.
+
+Diagnóstico da Internação:  
+Instabilidade hemodinâmica  
+Convulsões  
+Derrame pericárdico discreto (sem repercussão hemodinâmica)  
+Estado pós‑cirúrgico de Bentall de Bono (modificada)  
+Vasoplegia  
+Atelectasia bilateral  
+Deiscência de cicatriz esternal  
+Procedimento cirúrgico Bentall de Bono  
+
+3) Exames da Internação
+07/02/2019 – Ecocardiograma: Derrame pericárdico discreto sem repercussão na hemodinâmica, função  
+08/02/2019 – Ecocardiograma: Eco 08/02 observou função biventricular preservada, PBAo funcionante com grad médio de 13mmhg, IT discreta a moderada e PSAP 40mmhg, sem outras alterações  
+13/02/2019 – Radiografia de tórax: rx leve infiltrado bilateral com atelectasia  
+13/02/2019 – Eletrocardiograma: ecg ritmo sinusal, sem alterações agudas  
+12/02/2019 – Radiografia de tórax: rx de ontem melhor, menos atelectasia  
+14/02/2019 – Eletrocardiograma: sinusal, sem alterações agudas  
+14/02/2019 – Ecocardiograma: função biventricular preservada  
+14/02/2019 – Radiografia de tórax: melhora do padrão respiratório e do rx  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Fenitoina  
+Lamotrigina  
+
+Medicação durante a internação:  
+Ácido acetilsalicílico (AAS)  
+Dobutamina  
+Enoxaparina  
+Fenitoina  
+Furosemida  
+Heparina  
+Hidrocortisona  
+Lamotrigina  
+Lasix  
+Noradrenalina  
+Potássio  
+Prednisona  
+Vasopressina  
+
+5) Terapia Intervencionista
+07/02/2019 – Cirurgia de Bentall (implante de tubo biológico n° 30 e válvula aórtica biológica n° 25)
+
+6) Dispositivos
+Cateter venoso central (CVC) – VSD (07/02/2019) e SCV direito (08/02/2019)  
+Balão intra‑aórtico (PAI/PAi) – 07/02/2019 e 08/02/2019  
+Dreno mediano – 07/02/2019  
+Dispositivo de válvula aórtica (DVA) – 09/02/2019  
+Sonda nasogástrica (SNE) – 09/02/2019  
+Cateter de oxigênio – 11/02/2019  
+Prótese valvar aórtica (Bentall) – 06/02/2019  
+
+7) Situação funcional na alta
+Paciente vigil, lúcida, orientada, deambulando com menos auxílio, hemodinamicamente estável, ECG sinusal, sem alterações agudas, função biventricular preservada, padrão respiratório melhorado, ainda dependente de cateter nasal, fisioterapia diária.
+
+8) Status laboratorial na alta
+PCR elevado  
+Leucócitos estáveis  
+Creatinina 1,22 (ontem)  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter fisioterapia diária;  
+Uso de cateter nasal conforme necessidade;  
+Observar sinais de infecção.  
+
+Seguimento:  
+Retorno com enoxaparina;  
+Manter prednisona;  
+Aguardar exames laboratoriais;  
+Suporte clínico conforme necessidade.

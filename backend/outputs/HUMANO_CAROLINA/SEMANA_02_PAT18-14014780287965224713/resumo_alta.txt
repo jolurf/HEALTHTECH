@@ -1,0 +1,53 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Acidente vascular encefálico isquêmico em novembro de 2017
+- Ateromatose carotídea
+- Diabetes mellitus
+- Hipertensão arterial sistêmica
+- Dislipidemia
+- Ex-tabagista (alta carga) - parou há 25 anos
+- Ex-etilista
+- Doença arterial coronariana triarterial
+2) Dados da Internação
+Data de [entrada] admissão: 29/09/2019
+Data de alta: 10/10/2019?
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Cirurgia de revascularização do miocárdio em contexto eletivo
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de revascularização do miocárdio (30/09/2019)
+3) Exames da Internação
+- Radiografia de tórax: sinais de congestão.
+- Tomografia computadorizada de tórax (08/10/2019): derrame pleural bilateral, atelectasia em bases, sem consolidações.
+- Ecocardiograma transtorácico (09/10/2019): fração de ejeção do ventrículo esquerdo 50%.
+4) Terapia Medicamentosa
+Medicação prévia: sem
+Medicação durante a internação: Dobutamina, Insulina NPH, Noradrenalina, Quetiapina, Ácido acetilsalicílico, Atorvastatina, Furosemida, Heparina, Atenolol, Omeprazol, Enoxaparina, Enalapril, Furosemida.
+5) Terapia Intervencionista
+- 01/10/2019: cirurgia de revascularização do miocárdio (ponte mamária esquerda para artéria coronária descendente anterior e ponte de safena para marginal)
+6) Dispositivos
+- Acesso venoso central em veia jugular interna direita
+- Pressão arterial invasiva em artéria radial direita
+- Dreno mediano
+- Dreno pleural esquerdo
+- Tubo orotraqueal
+- Ventilação não invasiva
+7 Situação funcional na alta
+Refere tosse seca. Sem novos episódios de dispneia. Nega dor em ferida operatória Nega palpitações ou algum outro sintoma.
+Lúcido, orientado e corado.
+Ritmo cardíaco regular, sem sopros.
+Murmúrio vesicular diminuído em bases, sem ruídos adventícios.
+Ferida operatória sem sinais de infecção
+Membros inferiores sem edema.
+8) Status laboratorial na alta
+- 10/10/2019: hemoglobina 9,9 / leucócitos 11650 / plaquetas 389000 / ureia 71 / creatinina 1,88 / sódio 143 / potássio 4,2 / proteína C reativa 13,86
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

@@ -1,0 +1,90 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus tipo 2  
+Tabagismo (ex‑fumante, 16 anos, cessou em 2002)  
+Hérnia de disco (operado em 2004)  
+Estenose mitral  
+Insuficiência cardíaca congestiva  
+Síncope (a esclarecer)  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 02/10/2018  
+Data de alta: 19/10/2018  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Insuficiência cardíaca descompensada avançada (classe funcional III) com síncope de alto risco, associada a miocardiopatia dilatada, síndrome cardiorrenal tipo 2, necessidade de suporte inotrópico (dobutamina) e indicação de implante de marcapasso/ressinc.
+Diagnóstico da Internação:  
+Insuficiência Cardíaca avançada (classe funcional III)  
+Miocardiopatia dilatada com fração de ejeção ≈ 30 %  
+Valvopatia mitral secundária (dupla disfunção mitral, pós‑valvoplastia mitral)  
+Síncope de alto risco (EEFs sem indução de arritmia ventricular)  
+Bloqueio de ramo esquerdo (BRE)  
+Insuficiência Renal Aguda (IRA) – em melhora  
+Diabetes Mellitus  
+Insuficiência Cardíaca direita  
+Insuficiência tricúspide moderada  
+Síndrome Cardiorrenal tipo 2 – em melhora  
+Implante de marcapasso (ressinc)  
+Diarréia persistente  
+Pós‑operatório de transplante renal (TRC)  
+Pós‑operatório em UTI prolongado com necessidade de Dobutamina  
+
+3) Exames da Internação
+03/10/2018 – ECG: TRC normofuincionante (DDD modo VAT)  
+08/10/2018 – ECG: ECG ritmo de marca‑passo com ritmo regular  
+10/10/2018 – ECG: ECG pos implante: estímulo artificial presente, com captura ventricular após estímulo sinusal espontâneo.  
+12/10/2018 – Ultrassonografia Doppler de abdome: Checo USG doppler de abdome, com sinais de hepatopatia congestiva e ascite.  
+12/10/2018 – Ecocardiograma transtorácico (ECOTT): Checo ECOTT com sinais de colabamento de veia cava < 50 %, com FEVE 30 %.  
+15/10/2018 – Culturas parciais: Culturas parciais negativas  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Bisoprolol; Digoxina; Espironolactona; Furosemida; Hidralazina; Isossorbida; Losartana; Omeprazol  
+
+Medicação durante a internação:  
+Antidiarréico; Beta‑bloqueador; Bisoprolol; Captopril; Digoxina; Dobutamina; Espironolactona; Furosemida; HCTZ; Hidralazina; Insulina; Isossorbida; Losartana; Nipride; Omeprazol; Relaxante Muscular; Vasodilatadores; Zolpidem  
+
+5) Terapia Intervencionista
+Implante de ressincronizador cardíaco (TRC) – 02/10/2018 e 19/10/2018  
+Inserção de cateter arterial (PAI) em braço direito – 02/10/2018  
+Inserção de cateter venoso central (CVC) em veia femoral esquerda – 02/10/2018  
+Inserção de AVP – 02/10/2018  
+Implante de marcapasso ressincronizador (Ressinc) – 02/10/2018 e 13/10/2018  
+
+6) Dispositivos
+Dispositivo de terapia de ressincronização cardíaca (CRT) – 02/10/2018  
+Cateter arterial (PAI) no braço direito – 02/10/2018  
+Cateter venoso central (CVC) na veia femoral esquerda – 02/10/2018  
+Prótese valvar aórtica (AVP) – 02/10/2018  
+Marcapasso ressíncrono (CRT) – 02/10/2018 e 13/10/2018  
+
+7) Situação funcional na alta
+Paciente com pressão arterial 110/??, frequência cardíaca 72 bpm, saturação 96 %, sem edema nos membros inferiores, abdome flácido, exame físico sem alterações significativas; paciente de difícil comunicação, recusa alguns medicamentos.
+
+8) Status laboratorial na alta
+Hb: 8,7 g/dL  
+Creatinina (Cr): 1,79 mg/dL  
+Uréia (Ur): 163 mg/dL  
+Potássio (K): 4,2 mmol/L  
+Magnésio (Mg): 1,6 mg/dL  
+PCR: 25 mg/L  
+Lactato: 10 mmol/L  
+BIC: 22 mmol/L  
+
+9) Prescrição de Alta
+Losartana 25 mg – via oral, a cada 12 h  
+Furosemida 1 comprimido – via oral, ao dia  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Retorno ao ambulatório em uma semana.  
+
+Seguimento:  
+Seguimento com a nefrologia.

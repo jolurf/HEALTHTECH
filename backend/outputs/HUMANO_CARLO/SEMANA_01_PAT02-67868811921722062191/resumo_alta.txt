@@ -1,0 +1,38 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+Não descrito
+2) Dados da Internação
+Data de [entrada] admissão 05/10/2018
+Data de alta
+Permanência em UTI?
+Sim
+Motivo da internação:
+Não descrito
+Diagnóstico da Internação:
+Infarto agudo do Miocárdio com supra ST ínfero-lateral Killip 1, trombolisado no Grajaú com critério de reperfusão e delta T de 8 horas
+3) Exames da Internação 
+Cateterismo( 05/10/2018 ): Lesão 100% 1/3 distal/ colateral ( grau I): CD-> DA
+
+Ecocardiograma transtorácico (05/10/2018) LAUDOPROVISÓRIO: FEVE: 50%; apresenta aumento Atrial e apresenta uma acinesia de toda a parede apical
+Angiotomografia de coronárias (08/10/2018): DA afilada a partir do terço médio, sem, no entanto, caracterizar dissecção ou placa aterosclerótica.
+4) Terapia Medicamentosa
+Medicação prévia: medicamentos tomados pelo paciente antes da internação. 
+Não descrita
+Medicação durante a internação: Relaxante Muscular HC, enoxaparina, Tridl, AAS, Clopidogrel
+5) Terapia Intervencionista
+6) Dispositivos
+-
+7 Situação funcional na alta
+Paciente queixa de cervicalgia de característica mecânica. Ao exame BEG, LOTE, eupneica. Neuro: GCS 15, sem rigidez de nuca ou deficts focais. MV+ simetrico sem RA. Eupneica em AA,
+BCRNF ss FC 72. Sem complicações em sitio de punção ARD Sem edema de mmii.
+8) Status laboratorial na alta
+Laboratório 09/10/2025 - Hemoglobina 10,6 g/dL  Hematócrito 34% Leucocitos 12080/mm³ Plaquetas 368.000/mm³ CK-MB Massa 0,32 ng/mL Troponina I 7,83 ng/mL Ureia 29 mg/dL Creatinina 0.83 mg/dL Sódio 137 mEq/L Potássio 5.5 mEq/L
+9) Prescrição de Alta
+Não descrita
+10 Orientações de alta para o paciente
+Não descrito
+10 Orientações de seguimento
+Não descrito

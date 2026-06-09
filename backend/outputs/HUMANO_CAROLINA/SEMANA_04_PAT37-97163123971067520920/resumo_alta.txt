@@ -1,0 +1,70 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo:
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão arterial sistêmica há 5 anos
+- Dislipidemia
+- Ex-tabagista de 70 maços/ano (cessou há 12 anos)
+- Ex-etilista pesado
+- Sedentarismo
+- Hiperplasia prostática benigna?
+- Hanseníase multibacilar virchowiana descoberta há 4 anos em tratamento no Hospital de Clínicas há 2 anos
+2) Dados da Internação
+Data de [entrada] admissão: 14/04/2020
+Data de alta: óbito 26/04/2020
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Encaminhado da ecocardiografia devido achado no ecocardiograma transtorácico de aneurisma de aorta ascendente, dissecção de aorta tipo A e insuficiência aórtica de grau importante. Relata precordialgia tipo aperto em região retroesternal, moderada intensidade, iniciado em repouso, piora progressiva há 4 meses acompanhado de dispneia com piora progressiva. Hoje relata dispneia paroxística noturna, dor retroesternal com irradiação para dorso hoje pela manhã com melhora da dispneia no momento.
+Diagnóstico da Internação:
+- Dissecção aórtica Stanford A crônica
+- Insuficiência aórtica importante
+- Insuficiência cardíaca descompensada em perfil C
+- Parada cardiorrespiratória durante intubação orotraqueal em 16/04/2020 - retorno à circulação espontânea em um ciclo de reanimação cardiopulmonar
+- Pós-operatório de cirurgia de Bentall de Bono, reconstrução de raiz de aorta com tubo valvulado biológico número 25 (17/04/2020)
+3) Exames da Internação
+- Ecocardiograma transtorácico (14/04/2020): fração de ejeção 30%, átrio esquerdo 52, septo 11, parede posterior 10, diâmetro diastólico do ventrículo esquerdo 70, diâmetro sistólico do ventrículo esquerdo 60, acinesia basal inferior e anterolateral. Aneurisma de Aorta Ascendente (seios aórticos 48 mm, junção sinotubular 46 mm, aorta ascendente 81 mm, arco aórtico 34 mm). Dissecção de Aorta tipo A. Insuficiência aórtica de grau importante.Insuficiência mitral de grau moderado. Insuficiência tricúspide de grau discreto. Comprometimento sistólico difuso do ventrículo esquerdo de grau importante.
+- Angiotomografia aorto torácica (14/04/2020): Dissecção focal da aorta ascendente torácica, com flap intimal de localização supracoronariana, com extensão superior por cerca de 5,0 cm, sem envolvimento dos seios coronarianos ou do tronco braquiocefálico. Não há evidência de trombo intramural. Determina
+dilatação aneurismática da aorta ascendente torácica (calibre de até 8,2 cm), achado que pode estar relacionado ao relato ecocardiográfico de insuficiência aórtica. Dilatação aneurismática das artérias ilíacas comuns. Demais segmentos da aorta torácica e abdominal de calibres preservados. Ectasia do tronco da artéria pulmonar (mede 3,6 cm), achado que pode estar relacionado a algum grau de hipertensão arterial pulmonar. Pequeno derrame pleural bilateral. Discreto enfisema pulmonar centrolobular e parasseptal com predomínio em campos pulmonares médios e superiores. Tênues opacidades em vidro fosco associados a espessamento septal liso mais evidente nas bases pulmonares, além de segmentos posterior do lobo superior direito e apicoposterior do lobo superior esquerdo, que podem corresponder a algum grau de congestão.
+- Eletrocardiograma: fibrilação atrial de alta resposta ventricular
+- Urocultura (19/04/2020): negativa
+- Hemo central (19/04/2020): parcial neg
+- Biópsia (22/04/2020): Valva aórtica: degeneração mucoide e fibrose moderadas e difusas, metaplasia adiposa e calcificação discreta e focal em estroma valvar.
+- Biópsia (22/04/2020): produto de correção cirúrgica de dissecção crônica em aorta ascendente: dissecção crônica, com degeneração mucóide moderada a intensa, áreas de necrose laminar, fibrose e infiltrado inflamatório linfomononuclear discreto e focal em túnica média de artéria elástica, acompanhada de fibrose densa e difusa em adventícia. Aterosclerose com calcificação e fibrose em placas ateromatosas, em superfície de dissecção em parede de artéria elástica.
+- Ecocardiograma transtorácico (22/04/2020):
+Ventrículos: Ventrículo esquerdo apresenta função sistólica diminuída à custa de acinesia em paredes
+inferior, septal, além de hipocinesia das demais paredes. A fração de ejeção do ventrículo esquerdo foi estimada em 35%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva mitral: Calcificação do anel valvar de grau discreto. O estudo Doppler e mapeamento com fluxo em
+cores demonstraram insuficiência de grau moderado.
+Valva aórtica: Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 20 mmHg e médio em 13 mmHg.
+Valva tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: arco aórtico não visibilizado. Apresenta tubo protético normoposicionado em aorta ascendente.
+Pericárdio: aspecto ecocardiográfico normal.
+Exame realizado na beira do leito, com dificuldades técnicas. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 40 mmHg.
+4) Terapia Medicamentosa
+Medicação prévia: Captopril, Furosemida, Sinvastatina.
+Medicação durante a internação: Morfina, Esmolol, Tartarato de Metoprolol, Fentanil, Midazolam, Dobutamina, Noradrenalina, Furosemida, Adrenalina, Cefuroxima, Piperacilina+Tazobactama, Amiodarona, Bromazepam, Hidroclorotiazida, Omeprazol, Fitomenadiona (vitamina K1), Dipirona, Ácidos graxos + vitaminas A e E emulsão tópica, Hidrocortisona, Cloreto de potássio.
+5) Terapia Intervencionista
+- 17/04/2020: cirurgia de Bentall de Bono, reconstrução de raiz de aorta com tubo valvulado biológico número 25. Sem intercorrências. Tempo de circulação extracorpórea 2h. Tempo de anóxia 1h30.
+6) Dispositivos
+- Ventilação não invasiva
+- Tubo orotraqueal
+- Sonda vesical de demora
+- Dreno mediano
+- Pressão arterial invasiva em artéria radial direita
+- Cateter venoso central em veia jugular interna direita
+- Acesso venoso periférico em membro superior direito
+- Acesso venoso periférico em membro superior esquerdo
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+- Óbito
+8) Status laboratorial na alta
+- Óbito
+9) Prescrição de Alta
+- Óbito
+10 Orientações de alta para o paciente
+- Óbito
+10 Orientações de seguimento
+- Óbito

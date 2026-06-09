@@ -1,0 +1,39 @@
+1) Dados do Paciente
+Nome completo: Data de nascimento:
+Sexo:
+Diagnósticos prévios (Antecedentes Patológicos):
+- DAC crônica
+-  IAMSSST (2014) >> ATC CX com implante de stent farmacológico
+- Pré-Diabetes
+- Dislipidemia DLP
+- Prótese quadril direito (2011)
+2) Dados da Internação
+Data de [entrada] admissão: 16/09/2019
+Data de alta: 23/09/2019
+Permanência em UTI?
+Não
+Motivo da internação:
+Assintomático do ponto de vista cardiovascular. Caso discutido com hemodinâmica e aceito para ATC de DA com 2 stents farmacológicos (Tronco da Coronária Esquerda para Descendente Anterior + DA terço médio). Interna para procedimento eletivo.
+Diagnóstico da Internação:
+Doença Arterial coronariana Crônica
+Infecção de Trato Gastrointestinal - Diarreia + Febre
+3) Exames da Internação
+4) Terapia Medicamentosa
+Medicação prévia:  AAS, Clopidogrel, Rosuvastatina, Neblock e Glifage XR
+Medicação durante a internação: Ceftriaxona, Metronidazol, AAS, Clopidogrel, Atorvastatina, Neblock
+5) Terapia Intervencionista
+- Angioplastia do Tronco coronário Esquerdo para artéria Descendente Anterior (TCE- ADA) com implante de 1 stent farmacológico (INSPIRON 3,0x23mm).
+- Angioplastia da artéria Descendente Anterior (ADA) com implante de 1 stent farmacológico (PROMUS PREMIER 2,5X24mm).
+6) Dispositivos
+7 Situação funcional na alta 
+
+Paciente evolui assintomático, nega novos episódios de diarréia. Ao exame: BEG, consciente, orientado,eupneico, anictérico, acianótico AC: RCR 2T S/ sopros AP: MV+ bilateralmente S/RA. Abdome: Indolor à palpação Local de punção: Femural à direita, sem sinais de hematoma, sem frêmitos. MMII: Sem edemas. Sem sinais TVP
+8) Status laboratorial na alta
+- Laboratório 23/09/2019: Hemoglobina 12,4 g/dL Leucócitos 8380/mm² Plaquetas 224000/mm³ Ureia 24 mg/dL Creatnina 0,91 mg/dL Sódio 140 mEq/L Potássio 4,1 mE1/L Magnésio 1,9 mg/dL Proteina C Reativa (PCR) 17.18 mg/L
+9) Prescrição de Alta
+-
+10 Orientações de alta para o paciente
+- Orientações gerais
+- Manter medicamentos de uso contínuo
+10 Orientações de seguimento
+- Encaminhamento para unidade UNCOR em 30 dias

@@ -1,0 +1,98 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Dissecção de aorta (ascendente e descendente)  
+Aneurisma da aorta (associado à dissecção)  
+Colite isquêmica  
+Doença arterial coronariana com 2 infartos agudos prévios (último há 7 anos)  
+Aneurisma cerebral (tratamento conservador) – há 2 anos  
+Trombose venosa profunda de membro inferior esquerdo – há 3 anos  
+Hipertensão arterial sistêmica (HAS)  
+Diabetes mellitus  
+Dislipidemia  
+Hipotireoidismo  
+Tuberculose (ex‑TBG)  
+Tireoidectomia prévia / ex‑tireoidectomia  
+Hipotensão  
+Acidente isquêmico transitório / AVC isquêmico prévio (incerto)  
+Obesidade  
+Ex‑tabagismo (cessado há 20 anos)  
+Cirurgias prévias: tireoidectomia (ex‑tireoidectomia)  
+Alergias: não consta  
+Internações prévias: não consta  
+Vícios: ex‑tabagismo (cessado há 20 anos)  
+
+2) Dados da Internação
+Data de admissão: 2016‑08‑13  
+Data de alta: 2016‑08‑25  
+Permanência em UTI? sim  
+Motivo da internação:  
+Isquemia colônica com segmento necrótico de ~15 cm no cólon transverso (suspeita de colite isquêmica/AA vascular).  
+Dissecção de aorta ascendente tipo A (Stanford A, DeBakey I) com extensão descendente, dor torácica de 15 dias, evoluindo para cirurgia de substituição da aorta ascendente.
+Diagnóstico da Internação:  
+Dissecção de aorta tipo A (Stanford A, DeBakey I)  
+Colite isquêmica (incl. suspeita)  
+Doença da aorta ascendente  
+Aneurisma da aorta ascendente (diâmetro máximo 46 mm)  
+Ectasia da aorta abdominal infrarrenal (até 3 cm na bifurcação)  
+AA Vascular? (suspeita)
+
+3) Exames da Internação
+11/08/2016 – Ecocardiograma transtorácico:  
+  “FEVE 67%, VE 53x33, SI/PP 10/9, AE 41, PSAP 31. Sem alterações segmentares, VD sem disfunção. VaAo com insuficiência discreta a moderada. Medidas da aorta: seios aórticos 36 mm, aorta ascendente 45 mm, arco aórtico 25 mm. Visualizada lâmina de dissecção na raiz aórtica (≈0,8 cm do plano valvar), no arco aórtico, aorta descendente torácica e porção abdominal.”
+11/08/2016 – ECG: “ECG sem sinais de isquemia coronariana aguda, marcadores de necrose miocárdica (1º set) negativos. Função renal preservada.”
+12/08/2016 – Colonoscopia:  
+  “Após lavagem com SF 0,9 % 1000 ml, identifica‑se segmento colônico necrótico, acinzentado, circunferencial, com discreta diminuição da luz, aproximadamente 15 cm de extensão, localizado no cólon transverso distal. Mucosa hiperemiada, friável, com focos de hemorragia petequiais nas extremidades. Cólons descendente, sigmoide e reto sem anormalidade.”
+12/08/2016 – Angio‑TC da aorta (Angiotomografia):  
+  “Extensa dissecção de aorta tipo A de Stanford, com flap de dissecção iniciando no plano da raiz, envolvendo os seios não coronariano e coronariano direito, inclusive óstio da artéria coronária direita, estendendo‑se à emergência das artérias ilíacas. Maior diâmetro 4,6 cm no segmento ascendente proximal. Origem da luz verdadeira: carótida comum esquerda, subclávia esquerda, vertebral esquerda e mesentérica superior. Luz falsa: tronco celíaco e artéria mesentérica inferior. Flap insinua‑se na origem do tronco braquiocefálico. Artérias renais originam‑se de ambas as luzes. Espessamento parietal do cólon ascendente, com densificação dos planos gordurosos adjacentes, possivelmente relacionado à isquemia.”
+12/08/2016 – CATE: “DA 50%p.”
+15/08/2016 – Tomografia Computadorizada de Abdômen Total:  
+  “Fígado de dimensões normais, contornos regulares e parênquima homogêneo. Vesícula biliar de aspecto normal. Baço de dimensões normais, contornos regulares. Pâncreas de forma, contornos e dimensões normais. Rins de dimensões normais, parênquima com atenuação habitual; pequena calcificação na pelve renal direita, possivelmente vascular. Ateromatose aortoilíaca. Espessamento parietal do cólon ascendente, com densificação dos planos gordurosos adjacentes, provavelmente relacionado a quadro recente de colite isquêmica ou pós‑manipulação. Não há coleções abdominais. Bexiga com pequena repleção e balão de sonda no interior.”
+21/08/2016 – Hemograma: “Hb 8,3 g/dL, Ht 26 %, leucócitos 15 060 /mm³, neutrófilos 72 %.”
+22/08/2016 – Laboratorial: “Hb 8,4 g/dL, Ht 26 %, leucócitos 14 890 /mm³, plaquetas 423 000 /mm³, urina 11 (mL), creatinina 0,68 mg/dL, Na⁺ 142 mmol/L, K⁺ 3,6 mmol/L, PCR 65,9 mg/L.”
+23/08/2016 – Radiografia de tórax (controle): “Sinais de congestão e imagem compatível com derrame pleural esquerdo mínimo.”
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  AAS; anlodipina; ciprofloxacino; enalapril; glibenclamida; metronidazol.
+Medicação durante a internação:  
+  ciprofloxacino; complexo protrombínico; DDAVP; diuréticos; dobutamina; estatina; levotiroxina; metoprolol; metronidazol; nipride; NORA; plaquetas; tazocin.
+
+5) Terapia Intervencionista
+13/08/2016 – Second Look para melhor delimitação de área isquêmica de cólon.  
+13/08/2016 – Correção de dissecção de aorta.  
+14/08/2016 – SNG (sacação de sonda nasogástrica).  
+16/08/2016 – Substituição da aorta ascendente com tubo de Dacron, hemiarco, implante de stent Braile 30 × 30 × 150 mm via arco aórtico e plástica da valva aórtica.
+
+6) Dispositivos
+Sonda Vesical de Demora (SVD) – 13/08/2016  
+Cateter Venoso Central (CVC) em Veia Jugular Interna – 13/08/2016, 16/08/2016, 18/08/2016, 19/08/2016, 20/08/2016, 21/08/2016  
+Pressão Arterial Invasiva (PAI) – 13/08/2016, 16/08/2016, 18/08/2016, 19/08/2016, 20/08/2016, 21/08/2016  
+Acesso Venoso Periférico (AVP) em Membro Superior Esquerdo – 16/08/2016, 18/08/2016, 19/08/2016, 20/08/2016, 21/08/2016  
+Dreno Mediastinal – 16/08/2016, 18/08/2016, 19/08/2016, 20/08/2016, 21/08/2016  
+Monitor de Pressão Epicárdico – 16/08/2016, 18/08/2016, 19/08/2016, 20/08/2016, 21/08/2016  
+Monitor de Pressão (MP) em Ventrículo Direito – 18/08/2016  
+Stent Braile 30 × 30 × 150 mm no arco aórtico – 16/08/2016, 20/08/2016  
+Tubo de Dacron para substituição da aorta ascendente – 16/08/2016  
+
+7) Situação funcional na alta
+Paciente assintomático, sem queixas de dor, hidratado, hipocorado (2+/4+), sem edemas, sem sinais de trombose venosa profunda, ausculta pulmonar com estertores crepitantes mínimos, sopro sistólico +/6+ em foco aórtico, Glasgow 15, sinais vitais estáveis.
+
+8) Status laboratorial na alta
+22/08/2016: Hb 8,4 g/dL; Ht 26 %; leucócitos 14 890 /mm³; plaquetas 423 000 /mm³; urina 11 (mL); creatinina 0,68 mg/dL; Na⁺ 142 mmol/L; K⁺ 3,6 mmol/L; PCR 65,9 mg/L.
+
+9) Prescrição de Alta
+não consta
+
+10) Orientações de alta
+Para o paciente:  
+Alta hospitalar.  
+Retorno ao ambulatório de cardiologia geral em 30 dias.  
+Foi discutida a introdução de estatina; demais medicações mantidas.  
+Paciente sem sinais de congestão.  
+Solicitar exames de rotina.
+
+Seguimento:  
+Agendar consulta de retorno no ambulatório de cardiologia geral dentro de 30 dias para reavaliação clínica e de exames complementares.

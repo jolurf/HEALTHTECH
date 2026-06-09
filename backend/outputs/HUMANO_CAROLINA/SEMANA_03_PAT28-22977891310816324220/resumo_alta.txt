@@ -1,0 +1,70 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana
+- 2 infarto agudos do miocárdios prévios - último há 7 anos
+- Aneurisma cerebral há 2 anos - tratamento conservador
+- Trombose venosa profunda de membro inferior esquerdo há 3 anos
+- Hipertensão arterial sistêmica
+- Diabetes mellitus
+- Dislipidemia
+- Hipotireoidismo
+- Obesidade
+- Acidente isquêmico transitório/Acidente vascular encefálico isquêmico prévio?
+- Ex-tabagista
+2) Dados da Internação
+Data de [entrada] admissão: 11/08/2016
+Data de alta: 25/08/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Dissecção de aorta ascendente e descendente (Stanford A, DeBackey 1)
+Diagnóstico da Internação:
+- Dissecção de aorta ascendente e descendente (Stanford A, DeBackey 1)
+- Colite isquêmica?
+- Pós-operatório de laparotomia exploratória por suspeita de aneurisma de aorta (12/08/2026).
+- Pós-operatório de cirurgia de substituição aorta ascendente interposição com tubo de dacron com hemiarco + implante de stent braile via arco aórtico + plástica da valva aórtica (16/08/2016)
+3) Exames da Internação
+- Ecocardiograma transtorácico (11/08/2016): fração de ejeção do ventrículo esquerdo 67%, ventrículo esquerdo 53x33, septo interventricular 10, parede posterior 9, átrio esquerdo 41, pressão sistólica da artéria pulmonar 31. Sem alterações segmentares. Ventrículo direito sem disfunção. Valva aórtica com insuficiência discreta a moderada. Medidas da aorta: seios aórticos 36 mm, aorta ascendente 45 mm, arco aórtico 25 mm. Visualizada lâmina de dissecção na raiz aórtica (aproximadamente 0,8 cm do plano valvar), no arco aórtico, aorta descendente torácica e porção abdominal.
+- Angiotomografia de aorta (12/08/2016): extensa dissecção de aorta tipo A de Stanford, com flap de dissecção que se inicia no plano da raiz, envolvendo os seios não coronariano e coronariano direito, inclusive acometendo o óstio da artéria coronária direita, estendendo-se a emergência das artérias ilíacas. Maior diâmetro de 4,6 cm no segmento ascendente proximal da aorta torácica. Originam-se da luz verdadeira: artérias carótida comum esquerda, subclávia esquerda, vertebral esquerda e mesentérica superior. Originam-se da luz falsa: tronco celíaco e artéria mesentérica inferior. O flap insinua-se na origem do tronco braquiocefálico, que tem origem principalmente da luz falsa. As artérias renais originam-se de ambas as luzes. Espessamento parietal do cólon ascendente, com densificação dos planos gordurosos adjacentes, devendo estar relacionado a isquemia e "sofrimento".
+- Colonoscopia (12/08/2016): após lavagem com soro fisiológico 0,9% 1000ml, pode-se identificar segmento colônico necrótico, acinzentado, circunferencial, com discreta diminuição da luz. Esta área possui cerca de 15 cm de extensão e sua localização provável é o cólon transverso distal. Nota-se ainda mucosa hiperemiada, friável, com focos de hemorragia petequiais, nas extremidades do segmento descrito. Cólons descendente, sigmoide e reto sem anormalidade.
+- Cateterismo cardíaco (12/08/2016): lesão de artéria descendente anterior 50% proximal.
+- Tomografia de abdome total (15/08/2016): espessamento parietal do cólon ascendente, com densificação dos planos gordurosos adjacentes provavelmente relacionado a quadro recente de colite isquêmica ou pós manipulação. Tal espessamento e densificação da gordura adjacente se encontra
+comparativa menor/mais discreto em relação a TC abdome anterior.
+- Biópsia (16/08/2016): fragmentos de aorta: dissecção em organização, com presença de acúmulos de material mucoide na camada média.
+- Radiografia de tórax (23/08/2016): sinais de congestão e imagem compatível com derrame pleural esquerdo mínimo.
+4) Terapia Medicamentosa
+Medicação prévia: Enalapril, Anlodipino, Glibenclamida, Ácido acetilsalicílico.
+Medicação durante a internação: Metronidazol, Ciprofloxacino, Ringer Lactato, Noradrenalina, Bromazepam, DDAVP, Dobutamina, Fluoxetina, Piperacilina e Tazobactama, Enoxaparina, L-tiroxina sódica, Furosemida, Hidrocortisona, Dipirona, Omeprazol, Ácido acetilsalicílico, Atorvastatina, Lactulose, Tartarato de Metoprolol.
+5) Terapia Intervencionista
+- 12/08/2016: laparotomia exploratória por suspeita de aneurisma de aorta. Intra-operatório: identificação de discreta palidez de região segmentar de cólon sigmóide, não havendo, no entanto, presença inequívoca e evidente de isquemia cólica, tampouco delimitação precisa de tal área de palidez.
+- 16/08/2016: cirurgia de substituição aorta ascendente, Interposição com tubo de dacron com hemiarco. Implante de stent braile 30x30x150 via arco aórtico. Plástica da valva aórtica. Tempo de circulação extracorpórea de 1h41min. Tempo de anóxia 1h27. Apresentou sangramento em campo.
+6) Dispositivos
+- Cateter nasal de oxigênio
+- Sonda vesical de demora
+- Sonda nasogástrica
+- Cateter venoso central em veia jugular interna direita
+- Pressão arterial invasiva em artéria radial direita
+- Acesso venoso periférico em membro superior esquerdo
+- Dreno em mediastino
+- Marcapasso epicárdico em ventrículo direito
+- Tubo orotraqueal
+7) Situação funcional na alta
+Paciente mantém-se assintomática. Sem queixas de dor. Eliminações presentes.
+Bom estado geral, lúcida e orientada em tempo e espaço, hidratada, hipocorada, afebril, bem perfundida.
+Escala de coma de Glasgow 15. Sem déficit focal.
+Murmúrio vesicular audível, estertores crepitantes mínimos em bases. Saturação periférica de oxigênio 95% em ar ambiente.
+Ritmo cardíaco regular em 2 tempos, sopro sistólico +/6+ em foco aórtico.
+Abdome globoso, flácido, indolor à palpação, sem massas, ruídos hidroaéreos presentes.
+Extremidades sem edemas, sem sinais de trombose venosa profunda, bem perfundida.
+Ferida operatória sem sinais de infecção.
+8) Status laboratorial na alta
+- 22/08/2016: hemoglobina 8,4 / leucócitos 14890 / plaquetas 423000 / ureia 11 / creatinina 0,68 / sódio 142 / potássio 3,6 / proteína C reativa 65,9.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Retorno no ambulatório de Cardiologia Geral em 30 dias.
+10 Orientações de seguimento
+- Sem

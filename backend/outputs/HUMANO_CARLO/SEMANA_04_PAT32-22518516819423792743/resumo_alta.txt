@@ -1,0 +1,40 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- HAS 
+- Dislipidemia
+- Tabagista Ativo
+- Obeso
+2) Dados da Internação
+Data de [entrada] admissão: 06/11/2018
+Data de alta: 13/11/2018
+Permanência em UTI?
+-  Sim
+Motivo da internação:
+- Dor típica às 14 horas de 05/11. Procurou, após 3 horas, um pronto-socorro de outro serviço, onde foi diagnosticado com infarto agudo do miocárdio, porém recebeu alta hoje sem estratificação, sem trombólise, com melhora da dor e orientação de procurar cardiologista eletivamente. Observação: não trouxe relatório externo (evasão?). Deu entrada neste serviço às 21:30 horas de hoje, 06/11, referindo dispnéia importante e leve desconforto torácico que permaneceu desde então. Na entrada realizou eletrocardiograma que evidenciou supradesnivelamento ântero septal. Referindo dispnéia importante, com melhora parcial após morfina e inalação com A + B (broncoespasmo?).
+Diagnóstico da Internação:
+- Infarto Agudo do Miocárdio com Supra de ST Ântero Septal evoluído Killip 2
+- Broncoespasmo?
+3) Exames da Internação
+- Cateterismo Cardíaco 06/11/2018: Angioplastia de DA proximal com 02 stents.  Mg sub ocluída, CD toda doente com 70% distal, CX com oclusão crônica
+- Ecocardiograma Transtorácico 07/11/2018: Ventrículo esquerdo apresenta função sistólica diminuída à custa de acinesia em toda a região apical e na parede septal, no segmento médio. A fração de ejeção foi estimada em 35% (valor normal maior ou igual a 52%). Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Valva mitral apresenta aspecto e movimentação normais de suas cúspides. Estudo Doppler e mapeamento com fluxo em cores são normais. Valva aórtica apresenta sinais de fibrocalcificação mínima, com mobilidade preservada de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva tricúspide apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais. Aorta ascendente, no segmento tubular, não visualizada de forma adequada para análise. Arco aórtico não visibilizado. Pericárdio com aspecto ecocardiográfico normal. Exame realizado à beira do leito, com dificuldades técnicas e janela ecocardiográfica de qualidade limitada.
+4) Terapia Medicamentosa
+Medicação prévia: Não descrito
+Medicação durante a internação: AAS, Clopidogrel, Atorvastatina, Carvedilol, Enalapril, Espironolactona, omeprazol, Heparina, cloreto de potássio, furosemida
+5) Terapia Intervencionista
+- 06/11/2018: Angioplastia de 02 stents em DA proximal.
+6) Dispositivos
+-
+7 Situação funcional na alta
+- Última evolução 12/11/2018: Paciente hemodinamicamente estável assintomático sem queixas, em
+fase de reabilitação, sem DVA. Regular estado geral, lúcido e orientado no tempo e espaço, saturação de oxigênio 99%, frequência cardíaca 78, pressão arterial 108/70. Ausculta cardiovascular com ritmo cardíaco regular em dois tempos, bulhas normofonéticas, sem sopro, frequência cardíaca 78. Ausculta respiratória com murmúrio vesicular mantido, sem ruídos adventícios, saturação de oxigênio 99%, frequência respiratória 16. Abdome globoso às custas do panículo adiposo, não palpo visceromegalia. Extremidades bem perfundidas, sem edema, sem sinais de tromboembolismo venoso.
+8) Status laboratorial na alta
+- 13/11/2018: Hemoglbina 13.4 g/dL Hematócrito 43% Leucócitos 9110/mm³ Plaquetas 119.000/mm³ CKMB 1,8 ng/mL Troponina I 14.33 ng/mL Glicose 108 mg/dL Ureia 52 mg/dL Sódio 136 mEq/L Magnésio 2.2 mg/dL Proteína C Reativa (PCR) 68.18 mg/L
+9) Prescrição de Alta
+- Não descrito
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não descrito

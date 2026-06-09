@@ -1,0 +1,56 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Angina Instável  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus  
+Ex‑tabagista (parou há mais de 30 anos)  
+Vasectomia (cirurgia prévia)  
+Vícios: ex‑tabagista  
+Alergias: não consta  
+Internações prévias: não consta  
+
+2) Dados da Internação
+Data de admissão: 26/06/2019  
+Data de alta: 28/06/2019  
+Permanência em UTI? não  
+Motivo da internação:  
+  Angina instável manifestada por dor torácica opressiva, palpitações, ECG com alterações inespecíficas de repolarização e marcadores de necrose normais, com indicação de angioplastia coronária e implante de stents nas artérias descendente anterior e circunflexa.  
+Diagnóstico da Internação:  
+Angina instável  
+Lesões biarteriais tratadas com stents farmacológicos (pós‑angioplastia)  
+
+3) Exames da Internação
+28/06/2019 – ECG: sem alterações  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Hidroclorotiazida  
+Losartana  
+Metformina  
+Selozok  
+Medicação durante a internação: não consta  
+
+5) Terapia Intervencionista
+27/06/2019: Implante de stents farmacológicos nas lesões biarteriais da artéria descendente e marginal esquerda via acesso radial.  
+28/06/2019: Implante de stents farmacológicos nas artérias descendente anterior e circunflexa via angioplastia coronária.  
+
+6) Dispositivos
+27/06/2019 e 28/06/2019: Stent farmacológico nas artérias descendente anterior e circunflexa.  
+
+7) Situação funcional na alta
+Paciente bem, sem queixas, pulso radial presente, perfusão normal, frequência cardíaca 64 bpm, pressão arterial 130/80 mmHg, sem edema nos membros inferiores, exame pulmonar com murmúrio vesicular bilateral sem ruídos adventícios, abdômen sem alterações.  
+
+8) Status laboratorial na alta
+CK‑MB: normal  
+Creatinina pós‑procedimento: 1,09 mg/dL  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente: não consta  
+
+Seguimento: não consta

@@ -1,0 +1,44 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- IAM em 2017
+- Hipertensão Arterial Sistêmica
+- Diabetes Mellitus
+- Dislipidemia
+2) Dados da Internação
+Data de [entrada] admissão: 30/10/2018
+Data de alta: 06/11/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente interna eletivamente para cirurgia de revascularização miocárdica por doença arterial coronariana
+Diagnóstico da Internação:
+- Internação eletiva para cirurgia de revascularização miocárdica
+3) Exames da Internação
+- Ecocardiograma transtorácico 01/11/2018: Ventrículo esquerdo apresenta função sistólica diminuída às custas de aparente acinesia nas paredes inferior e inferolateral (janela ecocardiográfica muito limitada). A fração de ejeção foi estimada em 45%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Ventrículos. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Valva Mitral. Apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo VE-Ao estimado em 18 mmHg. Valva Aórtica. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Tricúspide. Apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Pulmonar. Aorta ascendente (segmento tubular) não visualizada de forma adequada para análise. Aorta. Pericárdio com espessura normal e aumento mínimo do líquido. Pericárdio. Exame realizado na beira do leito, com dificuldades técnicas (janela ecocardiográfica muito limitada). Paciente em decúbito dorsal exclusivo, em uso de drogas vasoativas e com drenos.
+
+- Ecocardiograma transtorácico 02/11/2018: Ventrículo esquerdo apresenta função sistólica diminuída às custas de acinesia nas paredes inferior e inferolateral. A fração de ejeção foi estimada em 45%.. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Ventrículos. Apresenta aspecto e movimentação normais de suas cúspides. Estudo Doppler e mapeamento com fluxo em cores são normais. Valva Mitral. Apresenta sinais de fibrocalcificação mínima, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo VE-Ao estimado em 20 mmHg. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Aórtica. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Tricúspide. Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais. Aorta. Pericárdio com aspecto ecocardiográfico normal. Pericárdio. Ausência de sinais de hipertensão pulmonar.
+4) Terapia Medicamentosa
+Medicação prévia: losartana, anlodipina, hidroclorotiazida, metformina, gliblencamida, sinvastatina, atenolol + clortalidona
+Medicação durante a internação: Dobutamina, cefuroxima, bromazepam, dipirona, furosemida,heparina, sinvastatina, AAS, omeprazol, metformina, cloreto de ptoássio, atenolol insulina NPH
+5) Terapia Intervencionista
+- 31/10/2018: Cirurgia de Revascularização Miocárdica com Circulação Extracorpórea ((Ma -DA, Saf -Mg, Saf -VP).
+6) Dispositivos
+- Tubo Orotraqueal
+- Cateter Venoso Central em Veia Jugular Interna Direita
+- Dreno Mediano
+- Dreno pleural esquerdo
+- Fio de Marcapasso no VE
+- Cateter de Pressão Arterial invasiva em Artéria Radial Esquerda
+7 Situação funcional na alta
+-  Paciente assintomático, hemodinamicamente estável, eupneico em AA. Deambulando. PA: 130/80. FC: 84 bpm. Sat: 98% em AA. Ao exame: Bom estado geral, vigil, orientado, boa perfusão capilar periférica. TJ -, RHJ-. AR: MVAU, sem RA. ACV: RCR, 2T, BNF, sem sopro. FO em bom aspecto sem saida de secreção. ABD: flácido, indolor. MMII: Sem edema, panturrilhas livres. FO em bom aspecto sem saída de secreção.
+8) Status laboratorial na alta
+- - Laboratório 05/11/2018: Hemoglobin 11.6 g/dL Hematócrito 35% Leucócitos 4960/mm³ Plaquetas 166000/mm³ Ureia 65 mg/dL Creatinina 1.22 mg/dL Sódio 145 mEq/L Potássio 3.1 mEq/L Magnésio 2.00 mg/dL Proteína C Reativa (PCR) 86.82 mg/L BNP 374 pg/mL
+9) Prescrição de Alta
+-
+10 Orientações de alta para o paciente
+-
+10 Orientações de seguimento
+- Alta hospitalar com encaminhamento para UBS/AME cardiologia

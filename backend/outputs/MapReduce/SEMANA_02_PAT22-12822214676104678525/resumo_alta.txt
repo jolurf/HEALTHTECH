@@ -1,0 +1,81 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Síndrome de Takotsubo  
+Arterite temporal  
+Trombose venosa profunda prévia (inclui episódios sem complicação e com hemorragia ocular)  
+Alergia a X  
+Infarto agudo do miocárdio não especificado  
+Dor precordial  
+Angina instável  
+Broncopneumonia não especificada  
+Embolia pulmonar sem cor pulmonale agudo  
+Diabetes Mellitus tipo 2  
+Hemorragia ocular  
+
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: Alergia a X  
+Internações prévias relatadas: não consta  
+(medicações não incluídas nesta seção)  
+
+2) Dados da Internação
+Data de admissão: 2018‑03‑16  
+Data de alta: 2018‑03‑23  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Dispneia e desconforto precordial com suspeita de tromboembolismo pulmonar (agudo/subagudo) e, concomitantemente, suspeita de síndrome de Takotsubo e arterite temporal.  
+
+Diagnóstico da Internação:  
+Tromboembolismo pulmonar agudo e subagudo (combinação)  
+Síndrome de Takotsubo  
+Arterite temporal  
+
+3) Exames da Internação
+AngioTC: Falha de enchimento centrais e periféricas estendendo das artérias pulmonares principais às segmentares de todo o pulmão direito superior esquerdo compatível com tromboembolismo pulmonar agudo. Também visualizados sinais de tromboembolismo pulmonar crônico no lobo inferior esquerdo (falhas de enchimento, calcificações periféricas, redução do calibre das artérias lobares e segmentares).  
+AngioTC TEP: Mesmo relato descrito acima (falha de enchimento compatível com tromboembolismo pulmonar agudo e sinais crônicos no lobo inferior esquerdo).  
+Ecocardiograma (31/01/2017): AE:31, VE:40x26, FE: 65%, Imi d.  
+ECG (20/03/2018): inalterado.  
+Ecocardiograma transtorácico: ECOTT na rotina.  
+Ecocardiograma transtorácico (31/01/2017): AE:31, VE:40x26, FE: 65%, Imi d.  
+Eletrocardiograma: ECG:15, PIFR, sem deficits funcionais.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+amryl, glifage, ictus, Prelone, syntroid, trayenta, xarelto  
+
+Medicação durante a internação:  
+amryl, Anticoagulante, carvedilol, clexane, Furosemida, glifage, Glimepirida, ictus, Levofloxacin, Levofloxacina, Prednisona, Prelone, syntroid, trayenta  
+
+5) Terapia Intervencionista
+não consta  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente acordou com pouca disposição, utiliza andador, refere desconforto precordial e dispneia, pressão arterial 100/60 mmHg, sem sudorese, apresentando apenas cansaço.  
+
+8) Status laboratorial na alta
+Hb: 12,5 g/dL  
+Ht: 39 %  
+Leucócitos: 4 770 /mm³  
+Ureia: 37 mg/dL  
+Creatinina: 0,66 mg/dL  
+Sódio: 139 mEq/L  
+Potássio: 4,3 mEq/L  
+PCR: 9,34 mg/L  
+TSH: 0,739 µUI/mL  
+(exames de 21/03/2018)  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente: não consta  
+
+Seguimento: não consta

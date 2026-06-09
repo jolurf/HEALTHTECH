@@ -1,0 +1,40 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Sem
+2) Dados da Internação
+Data de [entrada] admissão: 05/02/2019
+Data de alta: sem
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para abordagem cirúrgica
+Diagnóstico da Internação:
+- Pós-operatório de Bentall de Bonno biológico tubo n° 30 + válvula aórtica prótese biológica n° 25
+3) Exames da Internação
+- Biópsia (06/02/2019): fragmentos de aorta ascendente com aneurisma: presença de acúmulos de material mucoide na camada média.
+- Biópsia (06/02/2019): valva aórtica: valvopatia crônica com intensa fibrose. Área focal com infiltrado inflamatório a mononucleares e calcificação.
+- Ecocardiograma transtorácico (07/02/2019): ventrículo esquerdo apresenta função sistólica preservada, não sendo observadas alterações na mobilidade segmentar de parede. A fração de ejeção foi estimada em 60%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Eletrodo de marca passo em câmaras cardíacas direitas. Valva mitral: apresenta aspecto e movimentação normais de suas cúspides. Estudo Doppler e mapeamento com fluxo em cores são normais.Valva aórtica: prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 20mmHg. Valva tricúspide: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores são normais. Aorta: aorta ascendente de difícil visualização. Pericárdio: pericárdio com espessura normal e aumento mínimo do líquido, sem características patológicas. Ausência de sinais de restrição ao enchimento ventricular. Exame realizado na beira do leito, com dificuldades técnicas. Paciente sob ventilação mecânica. Paciente em uso de drogas vasoativas.
+- Ecocardiograma transtorácico (08/02/2019): Ventrículo esquerdo apresenta função sistólica preservada, não sendo observadas alterações na mobilidade segmentar de parede. A fração de ejeção foi estimada em 60%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Valva mitral: apresenta aspecto e movimentação normais de suas cúspides. Estudo Doppler e mapeamento com fluxo em cores são normais. Valva aórtica: Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 24 mmHg e médio em 13 mmHg. Valva tricúspide: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto a moderado. Aorta: aorta ascendente (segmento tubular) não visibilizada de forma adequada para análise. Pericárdio: pericárdio com aspecto ecocardiográfico normal. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 40 mmHg. Exame realizado na beira do leito, com dificuldades técnicas. Paciente em uso de drogas vasoativas.
+4) Terapia Medicamentosa
+Medicação prévia: sem.
+Medicação durante a internação: furosemida, dobutamina, noradrenalina, vasopressina, omeprazol, albumina, vitamina C, vitamina B1, fenitoína, hidrocortisona, dipirona.
+5) Terapia Intervencionista
+- 06/02/2019: Bentall de Bonno biológico tubo n° 30 + válvula aórtica prótese biológica n° 25. Sem intercorrências.
+6) Dispositivos
+- Cateter venoso central em veia subclávia direita
+- Pressão arterial invasiva em artéria radial direita
+- Dreno mediano
+- Tubo orotraqueal
+7 Situação funcional na alta
+- Sem
+8) Status laboratorial na alta
+- Sem
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+-  Sem
+10 Orientações de seguimento
+-  Sem

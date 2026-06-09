@@ -1,0 +1,55 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Último parto cesáreo há 12 dias com relato de sangramento volumoso
+- Pré-eclâmpsia em gestação anterior
+- Hipertensão gestacional em gestação anterior
+- Hipotireoidismo
+2) Dados da Internação
+Data de [entrada] admissão: 08/06/2023
+Data de alta: 15/06/2023
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Encaminhada ao INCOR proveniente do HU com diagnóstico de infarto agudo do miocárdio com supradesnivelamento do segmento ST. Refere dor torácica em aperto, iniciada em repouso, de forte intensidade, com irradiação para membro superior esquerdo e mandíbula, iniciada hoje por volta das 14h00. Procurou HU, onde realizou eletrocardiograma com evidência de supradesnivelamento de segmento ST em paredes inferior, lateral e dorsal. Feito ácido acetilsalicílico 300mg e morfina 2mg. Trazida ao INCOR, admitida hemodinamicamente estável, sem droga vasoativa, mantendo dor, intensidade 5/10. Realizado novo eletrocardiograma à admissão com evidência de redução do supra. Aberto porta-balão imediatamente.
+Diagnóstico da Internação:
+- Infarto agudo do miocárdio sem doença arterial coronariana obstrutiva
+> Supradesnivelamento do segmento ST de parede ínfero-lateral-dorsal - Killip I
+> Angiotomografia de coronária sugestiva de dissecção espontânea de coronária
+3) Exames da Internação
+- Eletrocardiograma (08/06/2023): ritmo sinusal, frequência cardíaca 100bpm, sem supradesnivelamento do segmento ST.
+- Cateterismo cardíaco (08/06/2023): artéria descendente anterior contorna o ápice do ventrículo esquerdo, com sinal de dissecção de 50% no terço médio. Demais artérias sem lesões obstrutivas.
+- Ventriculografia (08/06/2023): disfunção sistólica global leve, com hipocinesia na parede anterior. Valva mitral competente.
+- Ecocardiograma transtorácico (08/06/2023): fração de ejeção 55%, hipocinesia dos segmentos médio e basal da parede lateral. Ventrículo direito sem disfunção. Insuficiência mitral discreta.
+- Ressonância magnética cardíaca (09/06/2023): achados consistentes com infarto agudo do miocárdio
+transmural, com áreas de no-reflow / obstrução microvascular. Câmaras cardíacas com dimensões preservadas. Disfunção sistólica discreta do ventrículo esquerdo. Presença de edema no segmento inferolateral médio.
+- Angiotomografia de coronárias (09/06/2023): Escore total de cálcio coronariano de zero. Área de afilamento focal proximal da artéria primeira marginal com componente de dilatação pós-estenótico e sem lesões associadas. Seu aspecto por imagem é inespecífico, mas comporta a possibilidade de dissecção coronariana focal no contexto apresentando. Coexiste realce tardio de padrão isquêmico nos
+segmentos miocárdicos supridos por seus ramos, com imagem hipodensas junto à face subendocárdica, achados que podem traduzir a presença de infarto com componente de obstrução microvascular.
+- Eletrocardiograma (12/06/2023): extrassístoles ventriculares. Extrassístoles supraventriculares. Alterações de repolarização ventricular.
+4) Terapia Medicamentosa
+Medicação prévia: captopril
+Medicação durante a internação: nitroglicerina, clopidogrel, ácido acetilsalicílico, atorvastatina, anlodipino, enalapril, omeprazol, enoxaparina, tartarato de metoprolol, ivabradina, carbonato de magnésio, gluconato de cálcio, lactulose, lanolina + vaselina, cloreto de potássio, hidroclorotiazida, levotiroxina, atenolol.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Paciente em leito de enfermaria, lúcida e orientada, assintomática.
+Controles estáveis
+Bom estado geral, anictérica, acianótica, afebril, sem drogas vasoativas
+Murmúrio vesicular bilateralmente distribuído, sem ruídos adventícios, em ar ambiente.
+Ritmo cardíaco regular em 2 tempos, bulhas normofonéticas, sem sopros. Tempo de enchimento capilar menor que 3 segundos.
+Extremidades bem perfundidas, sem edema.
+Hematoma em sítio de punção radial direita, em reabsorção e sem sopro.
+8) Status laboratorial na alta
+- 16/06/2023: Hemoglobina 12,6 / Leucócitos 6370 / Plaquetas 449000 / Ureia 24 / Creatinina 0,87 / Sódio 138 / Potássio 4,7 / Magnésio 2,2 / Proteína C Reativa 13
+9) Prescrição de Alta
+- Dupla antiagregação plaquetária
+- Inibidor da enzima conversora de angiotensina
+- Betabloqueador
+10 Orientações de alta para o paciente
+- Retorno no ambulatório em 30 dias
+10 Orientações de seguimento
+- Sem

@@ -1,0 +1,64 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão arterial sistêmica
+- Insuficiência aórtica importante por dilatação da aorta ascendente
+2) Dados da Internação
+Data de [entrada] admissão: 15/02/2021
+Data de alta: 20/02/2021
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de troca de valva aórtica e correção de aneurisma
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de Bentall de Bono (prótese mecânica nº 23) (16/02/2021)
+3) Exames da Internação
+- Tomografia computadorizada de tórax (15/02/2021): Placas ateromatosas esparsas na aorta e território coronariano. Aumento do calibre da aorta em sua porção ascendente medindo 6,3 cm. Demais estruturas vasculares do mediastino com calibre externo preservado. Linfonodos mediastinais e hilares de dimensões preservadas. Não se caracterizam linfonodomegalias mediastinais. Pequena hérnia gástrica hiatal. Lâmina líquida pericárdica. Demais estruturas mediastinais preservadas. Traqueia e brônquios principais permeáveis e de calibre normal. Bandas parenquimatosas esparsas nos campos pulmonares inferiores. Demais porções do parênquima pulmonar sem alterações de significado clínico. Espaços pleurais virtuais. Alterações degenerativas da coluna dorsal.
+Biópsia (16/02/2021): valva aórtica (insuficiência): fibrose e degeneração mucóide moderadas e difusas, calcificação moderada e  focal e infiltrado inflamatório linfomononuclear discreto e focal em estroma  valvar, com reatividade endotelial superficial (ver nota). Pesquisas histoquímicas de fungos e bactérias, incluindo bacilos álcool-ácido- resistentes, negativas (métodos de grocott, brown-hopps e ziehl-neelsen). Estudo imuno-histoquímico- foram consideradas as áreas de infiltrado inflamatório: -treponema pallidum: negativo.
+Biópsia (16/02/2021): produto de correção cirúrgica de aneurisma em aorta ascendente: aortite crônica, representada por destruição de fibras elásticas e infiltrado  inflamatório linfomonoplasmocitário moderado e multifocal, contendo esparsas células gigantes, acompanhados de fibrose moderada em túnicas média e adventícia (ver nota e estudo imuno-histoquímico). Ausência de granulomas e necrose. Pesquisas histoquímicas de fungos e bacilos álcool-ácido-resistentes negativas (métodos de grocott e ziehl-neelsen). Estudo imuno-histoquímico - foram consideradas as áreas de infiltrado inflamatório: -treponema pallidum- negativo.
+- Ecocardiograma transesofágico (16/02/2021):
+Pré-circulação extracorpórea: Função sistólica biventricular preservada (FEVE=0,65). Valva aórtica apresenta falha de coaptação dos seus folhetos devido dilatação do anel e insuficiência de grau importante. Valva mitral sem anormalidades significativas e refluxo discreto. Valva tricúspide sem anormalidades significativas e refluxo discreto. Medidas da aorta: seios aórticos 40 mm e aorta ascendente 61 mm. Septo atrial íntegro. Ausência de imagens de trombos ou massas intracavitárias.
+Pós-circulação extracorpórea: Função sistólica biventricular preservada (FEVE=0,65). Prótese aórtica sem anormalidades significativas e sem refluxo. Medidas da aorta: seios aórticos 28 mm, junção sinotubular 26 mm e aorta ascendente (Tubo de Dácron) 27 mm. Demais achados mantidos em relação ao exame pré-CEC.
+- Ecocardiograma transtorácico (18/02/2021): seio aórtico 28mm / átrio esquerdo 44mm / ventrículo direito basal 33mm / ventrículo direito médio 23mm / septo ventricular 9mm / parede posterior do ventrículo esquerdo 9mm / diâmetro diastólico do ventrículo esquerdo 54mm / diâmetro sistólico do ventrículo esquerdo 42mm / fração de ejeção do ventrículo esquerdo 44% (Teicholz).
+Câmaras Cardíacas: Aumento moderado de átrio esquerdo. Aumento discreto do ventrículo esquerdo. Demais câmaras de tamanhos normais.
+Ventrículos: Ventrículo esquerdo apresenta hipertrofia miocárdica excêntrica e função sistólica reduzida à custa de hipocinesia difusa. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Movimentação atípica do septo ventricular.
+Valva Mitral: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva Aórtica: Prótese mecânica sem alterações estruturais e mobilidade preservada. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 13 mmHg e médio em 6 mmHg.
+Valva Tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva Pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Tubo protético aorta ascendente normoposicionado, mede 27 mm.
+Pericárdio: Pericárdio com aspecto ecocardiográfico normal.
+Pressão sistólica em artéria pulmonar estimada pelo Doppler em 43 mmHg (VN < 35 mmHg).
+4) Terapia Medicamentosa
+Medicação prévia: Furosemida, Losartana, Espironolactona.
+Medicação durante a internação: Protamina, Albumina, Ipsilon, Nitroprussiato de sódio, Dobutamina, Omeprazol, Cefuroxima, Dipirona, Mupirocina, Anlodipino, Enoxaparina, Varfarina, Atenolol.
+5) Terapia Intervencionista
+- 16/02/2021: cirurgia de Bentall de Bono (prótese mecânica nº 23). Sem intercorrências cirúrgicas. Tempo de circulação extracorpórea de 1h28. Tempo de anóxia de 1h12. Dreno mediastinal direcionado para a pleura direita. Realização de bloqueio anestésico do plano transverso torácico com Ropivacaína.
+6) Dispositivos
+- Tubo orotraqueal
+- Dreno mediastinal
+- Cateter venoso central em veia jugular interna direita
+- Pressão arterial invasiva em artéria radial direita
+- Ventilação não invasiva
+7 Situação funcional na alta
+Paciente com boa evolução. Evoluindo sem intercorrências. Deambulando. Sem queixas durante a avaliação. Eupneica em ambiente.
+Bom estado geral, corada, hidratada, anictérica, acianótica, afebril.
+Frequência cardíaca 68 bpm. Pressão arterial 120x70 mmHg.
+Bulhas rítmicas normofonéticas (presença de "click" metálico em foco aórtico).
+Murmúrio vesicular presente, sem ruídos adventícios. Eupneica em ar ambiente.
+Abdome globoso, flácido, sem visceromegalia, ruídos hidroaéreos abolidos.
+Extremidades com boa perfusão periférica, pulsos palpáveis e simétricos, e ausência de sinais de trombose venosa profunda.
+Ferida operatória sem curativo, limpa e seca.
+8) Status laboratorial na alta
+- 20/02/2021: hemoglobina 10,3 / leucócitos 7340 / plaquetas 205000 / ureia 17 / creatinina 0,7 / sódio 142 / potássio 4,5 / proteína C reativa 108,4 / INR 1,6 / TTPA 42,8 segundos.
+9) Prescrição de Alta
+- Enoxaparina 40mg 12/12h por 7 dias
+- Varfarina 5mg
+- Atenolol 25mg 1 vez ao dia
+- Anlodipino 5mg 12/12h
+10 Orientações de alta para o paciente
+- Retorno em 1 semana para realização de tempo de protrombina
+10 Orientações de seguimento
+- Retorno na unidade 0335

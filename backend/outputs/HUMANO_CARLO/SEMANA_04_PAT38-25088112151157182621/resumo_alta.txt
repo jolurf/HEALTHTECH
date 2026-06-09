@@ -1,0 +1,44 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- ICFER 30% presumidamente isquêmica
+- HAS
+- DM2 não insulinodependente
+- IAM prévio (não sabe data) -> sem relato de dor torácica
+- Doença Renal Crônica
+2) Dados da Internação
+Data de [entrada] admissão: 28/07/2023
+Data de alta: 13/08/2023
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Paciente vem encaminhado do HC, com história de perda de consciência súbita ao esforço, precedido de dispneia, taquicardia e mal-estar. O filho (não profissional da saúde) que acompanhava não detectou pulso e iniciou compressões no local. Admitido em sala de emergência do HC, já consciente, lúcido e orientado após retorno de consciência, sem dispneia, angina e com perfusão normal. O paciente apresenta há 3 anos 3-4 episódios de síncope, sendo a maior parte relacionada ao esforço (subir escadas) com perda de consciência súbita. Há 3 anos, paciente relata que surgiram dispneia aos esforços, ortopneia e edema de membros inferiores. Relatou episódios prévios semelhantes (atual 3° episódio de síncope, último há 1 ano).
+Diagnóstico da Internação:
+Síncope de alto risco em investigação-> 2 TVNS no Holter (Excluído TEP/ tropo negativa)
+Doença Renal Crônica agudizada (Cr basal 4,7/ CKD-EPI 12--> provavelmente associada a exame contrastado
+3) Exames da Internação
+- Eletrocardiograma (29/07/23): Ritmo sinusal / BAV 1° grau / atraso de condução pelo rama esquerdo
+- Ecocardiograma (31/07/23): Disfunção ventricular importante FEVE 25% com discinesias; Insuficiência Mitral Moderada; Ectasia Aorta 37 mm
+
+- Cateterismo Cardíaco 03/08/23: DA 90% médio Dg2 90% p CX 70% p CD 70% óstio
+4) Terapia Medicamentosa
+Medicação prévia: Furosemida, Espironolactona, Carvedilol, Hidralazina, Monocordil, Rosuvastatina, AAS
+Medicação durante a internação: AAS, Clopidogrel, Atorvastatina, hidralazina, mononitrato de isossorbida, carvedilol, furosemida, insulina NPH, heparina, bicarbonato de sódio
+5) Terapia Intervencionista
+Angioplastia de Dg1 08/08/23
+Implante de CDI 11/08/23
+6) Dispositivos
+-
+7 Situação funcional na alta
+- Paciente estavel hemodinamicamente, sem DVA, em ar ambiente. Realizou implante de CDI subcutâneo sem intercorrências. Troca de curativo sem sangramento importante. Sem sinais de estimulação do CDI. Refere episódios de soluço após alimentação.
+BEG, LOTE. ACV: RCR, BNF, 2T, sopro sistólico regurgitativo FMi (2+/6+) TEC < 3 s. AP: MVUD, sem RA. FO inframamaria e subxifoidea com curativo oclusivo sem sinais de complicação, sem sangramento importante.
+8) Status laboratorial na alta
+- Laboratório 12/08/2023 - Hemoglobina 10,4 g/dL, hematócrito 32%, leucócitos 7930/mm³, plaquetas 145000/mm³, ureia 173 mg/dL, creatinina 5,53 mg/dL, sódio 140 mEq/L, potássio 5,1 mEq/L, magnésio 2,5 mg/dL, proteína C reativa 4,5 mg/L, cálcio ionizado 1,26 mmol/L.
+9) Prescrição de Alta
+- Não descrito
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não descrito

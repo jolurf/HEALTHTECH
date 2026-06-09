@@ -1,0 +1,49 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Insuficiência cardíaca com fração de ejeção levemente reduzida - hipertensiva?
+- Diabetes mellitus sem uso de insulina
+- Hipertensão arterial sistêmica
+- Dislipidemia
+- Sobrepeso
+- Transtorno de ansiedade generalizada
+2) Dados da Internação
+Data de [entrada] admissão: 29/10/2021
+Data de alta: 01/11/2021
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Encaminhada da hemodinâmica para avaliação no pronto-socorro por desconforto respiratório em cateterismo eletivo. Paciente com queixa de piora da dispneia desde a última consulta ambulatorial (classe funcional III-IV) com dor torácica atípica, nem sempre relacionada aos esforços. Solicitado cateterismo eletivo para avaliação e durante procedimento, após receber 100ml de soro, paciente apresentou piora de dispneia, sem tolerar decúbito, com taquipneia importante, sendo constatado crepitações até ápice pulmonar.
+Diagnóstico da Internação:
+- Edema agudo de pulmão hipertensivo
+3) Exames da Internação
+- Sem
+4) Terapia Medicamentosa
+Medicação prévia: Ácido acetilsalicílico, Anlodipino, Atorvastatina, Carvedilol, Enalapril, Espironolactona, Furosemida, Metformina, Glibenclamida, Omeprazol, Sertralina.
+Medicação durante a internação: Tridil, Furosemida, Ácido acetilsalicílico, Atorvastatina, Enalapril, Carvedilol, Espironolactona, Sertralina, Omeprazol, Enoxaparina.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Cateter nasal de oxigênio
+- Ventilação não invasiva
+7 Situação funcional na alta
+Paciente em leito de retaguarda, vigil, orientada, estável hemodinamicamente, eupneica e confortável em ar ambiente, tolerando decúbito, sem queixa de dispneia ou dor torácica. Evoluiu com melhora clínica nas últimas 24 horas. Sem novas intercorrências.
+Pressão arterial 135 x 75 mmHg. Frequência cardíaca 67 bpm. Saturação periférica de oxigênio 94% em ar ambiente. Afebril. Temperatura máxima 36,6ºC.
+Bom estado geral, corada, hidratada, anictérica, eupneica.
+Murmúrio vesicular presente bilateralmente, estertores crepitantes em base pulmonar esquerda, sem sinais de desconforto respiratório, eupneica.
+Ritmo cardíaco regular em 2 tempos, sopro ejetivo mesossistólico em foco aórtico +2/+6, segunda bulha presente, normofonéticas, sem sopros. Turgência jugular negativa. Tempo de enchimento capilar menor que 3 segundos.
+Abdome globoso, flácido, ruídos hidroaéreos presentes, indolor a palpação.
+Membros inferiores Sem edema, sem sinais de trombose venosa profunda, extremidades quentes e bem perfundidas.
+8) Status laboratorial na alta
+- 31/10/2021: hemoglobina 12,6 / leucócitos 9100 / plaquetas 231000 / ureia 57 / creatinina 1,15 / magnésio 2,0 / proteína C reativa 9,4.
+9) Prescrição de Alta
+- Furosemida 40mg 2 vezes ao dia
+- Atorvastatina 20mg 1 comprimido via oral 1 vez ao dia
+10 Orientações de alta para o paciente
+- Orientado retorno ao departamento de origem
+- Orientado sinais ou sintomas de alarme e retorno se intercorrências
+- Retorno ambulatorial em 30 dias
+10 Orientações de seguimento
+- Mantida programação de cateterismo via ambulatorial

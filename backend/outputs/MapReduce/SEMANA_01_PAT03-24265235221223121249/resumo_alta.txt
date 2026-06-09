@@ -1,0 +1,82 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Doença arterial coronariana crônica – 21/06/2019, 17/09/2019  
+Infarto agudo do miocárdio – 30/07/2019  
+Dislipidemia – 30/07/2019, 17/09/2019  
+Pré‑diabetes – 17/09/2019  
+Prótese de quadril direita – 2011  
+
+Vícios: não consta  
+Cirurgias prévias: implante de prótese de quadril direita (2011)  
+Alergias: não consta  
+Internações prévias: não consta  
+
+2) Dados da Internação
+Data de admissão: 2019‑09‑17  
+Data de alta: 2019‑09‑23  
+Permanência em UTI? não  
+
+Motivo da internação:  
+Angioplastia coronária eletiva com implantação de 2 stents farmacológicos (artéria descendente anterior, TCE + DA).  
+Enterocolite bacteriana / suspeita de infecção do trato gastrointestinal (colite pseudomembranosa) com febre, diarreia e PCR elevado.  
+
+Diagnóstico da Internação:  
+2019‑09‑17 – Doença arterial coronariana crônica com lesão ostial e proximal da artéria descendente anterior.  
+2019‑09‑17 – HD.  
+2019‑09‑20 – CATE eletivo com intervenção – 2 stents farmacológicos (TCE + DA).  
+2019‑09‑20 – Infecção gastrointestinal: infecção do trato gastrointestinal e colite pseudomembranosa.  
+2019‑09‑22 – Enterocolite bacteriana (febre, diarreia, PCR elevado).  
+
+3) Exames da Internação
+19/09/2019 – ECTOSCOPIA: Glasgow 15; ACV: B1B2 normofonéticas, rítmicas, sem sopros. FC 104 bpm. PA 130 x 80 mmHg; TJ -; AR: MV+ em AHT s/RA. FR 18 irpm. SpO₂ 94% a/a; ABD: atípico, RHA normoativos, flácido, depressível, indolor; EXT: quentes e bem perfundidas, sem edema ou cianose, região da punção arterial em femoral D sem abaulamento, sem sopros, sem frêmitos, com boa evolução.  
+21/09/2019 – PCR: PCR alto, de 128.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+AAS  
+Clopidogrel  
+Glifage XR  
+Neblok  
+Rosuvastatina  
+
+Medicação durante a internação:  
+AAS  
+Ceftriaxone  
+Clopidogrel  
+Glifage XR  
+Metronidazol  
+Neblok  
+Rosuvastatina  
+
+5) Terapia Intervencionista
+17/09/2019 – Angioplastia coronária com implantação de 2 stents farmacológicos (TCE + DA).  
+16/09/2019 – Angioplastia coronária com implantação de 2 stents farmacológicos (TCE + DA).  
+20/09/2019 – Angioplastia coronária com implantação de 2 stents farmacológicos (TCE + DA).  
+18/09/2019 – Angioplastia coronária com implantação de 2 stents farmacológicos (TCE + DA).  
+22/09/2019 – Angioplastia coronária (sem intercorrências).  
+
+6) Dispositivos
+2 stents farmacológicos (TCE + DA) implantados em 16/09/2019.  
+
+7) Situação funcional na alta
+Paciente consciente, orientado, eupneico, anictérico, acianótico. Ausculta cardíaca com ritmo regular, 2 tempos, sem sopros. Pulso arterial bilateralmente presente, sem ruídos adventícios. Abdome indolor à palpação. Local de fêmur direito sem sinais de hematoma ou frêmitos. Membros inferiores sem edemas e sem sinais de trombose venosa profunda.  
+
+8) Status laboratorial na alta
+PCR em queda (17, 75) – data próxima da alta (não especificada).  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Alta hospitalar com orientações gerais.  
+Encaminhamento para unidade UNCOR em 30 dias.  
+Manter medicamentos de uso contínuo.  
+
+Seguimento:  
+Solicito novos LAB´s – Curva de PCR.

@@ -1,0 +1,82 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Estenose aórtica  
+Estenose mitral  
+Doença Renal Crônica não dialítica  
+Hipertensão arterial sistêmica  
+Gota  
+Cirurgias ortopédicas (mão e menisco)  
+Aneurisma de aorta ascendente  
+
+Vícios: não consta  
+Alergias: não consta  
+Cirurgias prévias realizadas: cirurgias ortopédicas (mão e menisco)  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 07/05/2019  
+Data de alta: 14/05/2019  
+Permanência em UTI? não  
+
+Motivo da internação:  
+Estenose aórtica importante associada a aneurisma de aorta ascendente, requerendo avaliação e cirurgia de troca valvar aórtica com interposição de tubo de Dacron.
+
+Diagnóstico da Internação:  
+Estenose aórtica importante – 07/05/2019  
+Aneurisma de aorta ascendente – 07/05/2019  
+Pós‑operatório de troca valvar aórtica com interposição de Dacron – 09/05/2019  
+Troca valvar aórtica com interposição de tubo de Dacron – 08/05/2019 a 14/05/2019 (varias intervenções)  
+Fibrilação atrial paroxística relacionada ao pós‑operatório cirúrgico – 14/05/2019  
+
+3) Exames da Internação
+20/03/2018 – Ecocardiograma: “ae 43 s 12 pp12 ve 55x65 FE 65% gradiente sistólico 75 mm/hg e médio em 45 mm/hg, área valvar 1,0 cm, seio aórticos 37, junção sinotubular 34 mm, aorta ascendente 54, arco aórtico 38 mm”.
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Alopurinol  
+Clortalidona  
+Enalapril  
+
+Medicação durante a internação:  
+Dobutamina  
+Enalapril  
+Fósforo  
+Potássio  
+Varfarina  
+
+5) Terapia Intervencionista
+08/05/2019 – Troca valvar aórtica com interposição de tubo de Dacron  
+09/05/2019 – Troca valvar aórtica com interposição de prótese de Dacron  
+10/05/2019 – 3ª troca valvar aórtica com interposição de tubo de Dacron  
+11/05/2019 – Troca valvar aórtica com interposição de tubo de Dacron  
+12/05/2019 – Troca valvar aórtica com interposição de tubo de Dacron  
+13/05/2019 – 4ª troca valvar aórtica com interposição de tubo de Dacron  
+14/05/2019 – Troca valvar aórtica com interposição de tubo de Dacron  
+
+6) Dispositivos
+08/05/2019 – Dreno mediastinal  
+10/05/2019 e 11/05/2019 – Tubo de Dacron (graft) implantado durante troca valvar aórtica  
+
+7) Situação funcional na alta
+Paciente estável, assintomático, deambulando, aceitando dieta via oral, eliminações fisiológicas preservadas.  
+Exame físico: PA 100 x 60 mmHg, FC 80 bpm, sem sopros, sem edema, abdômen inocente.
+
+8) Status laboratorial na alta
+11/08/2019: fósforo 1,6 mg/dL; PCR 111 mg/L; potássio 3,6 mmol/L; magnésio 2,10 mg/dL; ureia 80 mg/dL; sódio 140 mmol/L.
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientado quanto ao uso de varfarina.  
+Orientado sobre alta hospitalar, uso da medicação de uso contínuo e necessidade de acompanhamento ambulatorial.  
+
+Seguimento:  
+Solicitar novo laboratório, radiografia de tórax e ecocardiograma.  
+Iniciar reposição hídrica de 1000 mL de solução de Ringer lactato até novo controle ecocardiográfico.

@@ -1,0 +1,62 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Doença Isquêmica Crônica do Coração / Doença Arterial Coronária (Coronariopatia, DAC)  
+Angina Pectoris  
+Hipertensão Arterial Sistêmica (HAS)  
+Hiperplasia Prostática Benigna (HPB)  
+Ex‑etilista social (histórico de etilismo)  
+Tabagismo (negado)  
+
+2) Dados da Internação
+Data de admissão: 05/03/2018  
+Data de alta: 06/03/2018  
+Permanência em UTI? não  
+
+Motivo da internação:  
+Angina estável (CCS II) com dispneia progressiva, encaminhada para cateterismo e angioplastia coronária percutânea.
+
+Diagnóstico da Internação:  
+Angina estável CCS II  
+Hipertensão arterial sistêmica  
+Hiperplasia prostática benigna  
+
+3) Exames da Internação
+05/03/2018 02:03 – ECG: Anormal, não clinicamente significativo.  
+05/03/2018 16:37 – ECG: Anormal, não clinicamente significativo.  
+06/03/2018 10:56 – ECG: Anormal, não clinicamente significativo.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+AAS, Anlodipino, Atenolol, Atorvastatina, Doxazosina, Finasterida  
+
+Medicação durante a internação: não consta  
+
+5) Terapia Intervencionista
+Angioplastia coronária percutânea com implante de stents SYNERGY everolimus‑eluting nas artérias coronárias direitas – 05/03/2018  
+
+6) Dispositivos
+Stent SYNERGY everolimus‑eluting nas artérias coronárias direitas (terço médio 4.0 × 24 mm e distal 2.75 × 32 mm) – 05/03/2018  
+
+7) Situação funcional na alta
+Paciente lúcido, orientado, com frequência cardíaca 65 bpm, pressão arterial 130/80 mmHg, saturação 96 %, sem edemas, abdômen atípico e indolor, fígado impalpável.  
+
+8) Status laboratorial na alta
+CKMB 05/03/2018 00:01 h: 2,0 ng/ml (VR até 3,8 ng/ml)  
+Troponina I 05/03/2018 00:01 h: 0,006 ng (VR até 0,04 ng)  
+CPK 05/03/2018 00:01 h: 115 U/L (VR até 192 U/L)  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientado a ler o TCLE.  
+Alta com seguimento ambulatorial, com prescrição de prasugrel.  
+
+Seguimento:  
+não consta

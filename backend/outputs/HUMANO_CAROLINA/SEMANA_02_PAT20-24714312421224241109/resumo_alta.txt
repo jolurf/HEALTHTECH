@@ -1,0 +1,65 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Dupla lesão mitral importante de etiologia reumática - classe funcional II
+- Febre reumática
+- Amigdalites de repetição
+- Fibrilação atrial paroxística em uso de anticoagulação
+- Hepatite C
+- Queimadura em flanco e inguinal esquerda
+- Toracotomia esquerda
+- Ex-tabagista de 30 anos/maço - cessou há 3 anos
+- Ex-etilista
+- Ex-usuário de crack - cessou há 3 anos
+2) Dados da Internação
+Data de [entrada] admissão: 30/10/2019
+Data de alta: 13/11/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de troca valvar mitral
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de troca valvar mitral por prótese biológica nº 29 por toracotomia lateral com circulação extracorpórea (31/10/2019)
+- Fibrilação atrial de alta resposta ventricular
+- Bradicardia sinusal
+3) Exames da Internação
+- Tomografia computadorizada de tórax (31/10/2019): Estruturas vasculares mediastinais de calibre normal e contornos regulares. Traqueia e brônquios principais permeáveis e de calibre normal. Brônquios lobares e segmentares de calibre normal. Não há linfonodomegalias. Coração de morfologia e dimensões normais. Hilos pulmonares de configuração e dimensões normais. Parênquima pulmonar com coeficientes de atenuação habituais. Vascularização pulmonar de distribuição e calibre normais. Pleura de aspecto normal. Estruturas ósseas, musculares e planos gordurosos de morfologia e densidade normais.
+- Biópsia de valva mitral (31/10/2019): Fibrose densa e difusa, proliferação de vasos muscularizados, infiltrado inflamatório linfomononuclear discreto e focal e calcificação moderada e focal em estroma valvar, hipertrofia moderada em cardiomiócitos e fibrose moderada em endocárdio de músculos papilares que, associados às alterações macroscópicas, são sugestivos de sequela de doença reumática crônica.
+- Broncoscopia (31/10/2019): exame endoscópico sem alterações relevantes. Cânula duplo lúmen bem locada.
+- Ecocardiograma transesofágico (31/10/2019):
+Pré-circulação extracorpórea: função sistólica biventricular preservada (fração de ejeção do ventrículo esquerdo estimada em 0,65). Valva mitral apresenta sinais de fusão comissural, espessamento de suas cúspides e redução da abertura valvar compatíveis com comprometimento reumático importante. O anel mitral mede 38x39mm. Gradiente diastólico máximo átrio esquerdo-ventrículo esquerdo estimado em 7 mmHg e médio em 3 mmHg. Área valvar estimada em 1,1 cm2. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante. Valva aórtica espessada e bivalvularizada devido à fusão de aspecto reumático das válvulas não coronariana com coronariana direita) com redução discreta da abertura global. Área valvar estimada pela planimetria 3D estimada em 1,7 cm2. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto a moderado.  Valva tricúspide sem anormalidades significantes e com refluxo moderado. Septo atrial íntegro.  Ausência de trombos em apêndices atriais.
+Pós-circulação extracorpórea: exame não solicitado pelo cirurgião.
+- Eletrocardiograma: fibrilação atrial com frequência cardíaca de 139bpm.
+- Ecocardiograma transtorácico (11/11/2019): prótese mitral sem disfunção, gradiente máximo 7 e médio 2. Fração de ejeção do ventrículo esquerdo 62%. Raiz aórtica 31 / átrio esquerdo AE 46 / septo ventricular 9 / parede posterior 9 / diâmetro diastólico do ventrículo esquerdo 48 / diâmetro sistólico do ventrículo esquerdo 32. Insuficiência aórtica moderada.
+- Tomografia computadorizada de crânio (11/11/2019): sem sinais de sangramento.
+4) Terapia Medicamentosa
+Medicação prévia: Furosemida, Amiodarona, Varfarina.
+Medicação durante a internação: Dobutamina, Noradrenalina, Soro glicosado, Insulina, Cefuroxima, Dipirona, Omeprazol, Amiodarona, Vasopressina, Hidrocortisona, Furosemida, Hidroclorotiazida, Heparina, Bromazepam, Fludrocortisona, Cloreto de Potássio, Quetiapina, Varfarina, Enoxaparina, Atenolol.
+5) Terapia Intervencionista
+- 31/10/2019: cirurgia de troca valvar mitral por prótese biológica nº 29 por toracotomia lateral com circulação extracorpórea
+6) Dispositivos
+- Cateter venoso central em veia jugular direita
+- Cateter swan-ganz em veia jugular direita
+- Pressão arterial invasiva em membro superior direito
+- Sonda vesical de demora
+- Acesso venoso periférico em membro superior direito
+- Dreno
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Eupneico em ar ambiente. Estável clinicamente e hemodinamicamente. Sem intercorrências no período. Sem dor torácica ou dispneia. Sem mais queixas no momento.
+Boa perfusão
+Pressão arterial 90 x 60 mmHg. Frequência cardíaca 52 bpm. Saturação periférica de oxigênio 98% em ar ambiente.
+Murmúrio vesicular presente bilateralmente, sem ruídos adventícios.
+Bulhas rítmicas e normofonéticas, sopro perfil de prótese.
+Abdome plano, indolor. Dieta via oral.
+Sem edemas ou sinais de trombose venosa profunda.
+8) Status laboratorial na alta
+- 13/11/2019: hemoglobina 12,1 / leucócitos 16040 / plaquetas 333000 / ureia 64 / creatinina 1,25 / sódio 139 / potássio 4,0 / magnésio 2,1 / proteína C reativa 14,58 / cálcio ionizado 1,19.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Retorno ambulatorial em 15 dias
+10 Orientações de seguimento
+- Sem

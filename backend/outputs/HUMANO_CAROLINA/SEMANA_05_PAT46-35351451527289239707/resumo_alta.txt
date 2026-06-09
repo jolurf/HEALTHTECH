@@ -1,0 +1,70 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Dupla lesão mitral - dissociação clínico-ecocardiográfica
+- Dupla lesão aórtica
+- Hipertensão arterial pulmonar secundária
+2) Dados da Internação
+Data de [entrada] admissão: 10/05/2016
+Data de alta: 20/05/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de ecocardiograma transesofágico .
+Diagnóstico da Internação:
+- Pós-operatório de tentativa de valvuloplastia mitral por balão + tamponamento cardíaco após tentativa de punção do septo interatrial (17/05/2016)
+- Pós-drenagem de derrame pericárdico (17/05/2016)
+- Pericardite pós-punção pericárdica
+3) Exames da Internação
+- Ecocardiograma transtorácico (10/05/2016): seio aórtico 29mm / átrio esquerdo 33mm / ventrículo direito médio 20mm / septo ventricular 9mm / parede posterior do ventrículo esquerdo 9mm / diâmetro diastólico do ventrículo esquerdo 42mm / diâmetro sistólico do ventrículo esquerdo 26mm / fração de ejeção do ventrículo esquerdo 69% (Teicholz).
+Câmaras Cardíacas: Câmaras cardíacas de tamanhos normais.
+Ventrículos: Ventrículo esquerdo apresenta função sistólica preservada e aumento da espessura relativa de parede sugestivo de remodelamento concêntrico, não sendo observadas alterações na mobilidade segmentar de parede. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva Mitral: Apresenta fusão comissural, espessamento de suas cúspides e redução da abertura valvar compatíveis com comprometimento reumático moderado. Gradiente diastólico máximo átrio esquerdo-ventrículo esquerdo estimado em 14 mmHg e médio em 6 mmHg. Área valvar estimada em 1,1 cm2. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva Aórtica: Apresenta sinais de fibrocalcificação moderada com redução da mobilidade de suas válvulas Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 53 mmHg e médio em 30 mmHg. Área valvar estimada pela Equação de continuidade em 1,4 cm2. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado.
+Valva Tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais.
+Pericárdio: Pericárdio com aspecto ecocardiográfico normal.
+Ecocardiograma transesofágico não realizado por agitação psicomotora, apesar da administração da dose máxima preconizada de sedativo.
+- Tomografia computadorizada de crânio (10/05/2016): Parênquima cerebral com coeficientes de atenuação normais. Cisterna basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média. Não há sinais de hemorragias intracranianas agudas intra ou extra axiais.
+- Ecocardiograma transesofágico (13/05/2016): átrio esquerdo 31 / septo 9 / parede posterior 9/ diâmetro diastólico do ventrículo esquerdo 42 / diâmetro sistólico do ventrículo esquerdo 27/ fração de ejeção do ventrículo esquerdo 66% / ventrículo direito normal. Valva mitral: gradiente diastólico médio átrio esquerdo-ventrículo esquerdo estimado em 5 mmHg + área valvar estimada em 1,3 cm2 (Escore Wilkins: 6), presença de insuficiência discreta. Valva aórtica: apresenta sinais de fibrocalcificação moderada com redução da mobilidade de suas válvulas, gradiente médio em 25 mmHg, área valvar em 1,4 cm2, insuficiência de grau moderado.
+- Ecocardiograma transtorácico (17/05/2016): Avaliação ecocardiográfica transtorácica na sala de hemodinâmica após início do procedimento valvar intervencionista (após tentativa de punção transeptal) com paciente em decúbito dorsal exclusivo, em uso de ventilação mecânica. Exame realizado em caráter de urgência, com limitações técnicas, direcionado para avaliação de derrame pericárdico/tamponamento. Presença de derrame pericárdico discreto (pós-procedimento e após drenagem pericárdica). Ausência de sinais de restrição ao enchimento ventricular. Ventrículo esquerdo apresenta função sistólica preservadas. A fração de ejeção do ventrículo esquerdo foi estimada em 60%. Ventrículo direito apresenta função sistólica normal. Análise dos fluxos transvalvares não realizada devido às limitações técnicas.
+- Ecocardiograma transtorácico (17/05/2016): Exame realizado na beira do leito, em caráter de urgência, com dificuldades técnicas, direcionado para avaliação de derrame pericárdico após drenagem pericárdica. Paciente sob ventilação mecânica e em uso de drogas vasoativas. Ventrículo esquerdo apresenta função sistólica preservada. A fração de ejeção foi estimada em 60%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Não foi possível análise de contratilidade segmentar e de fluxos transvalvares por limitação de janela acústica. Pericárdio com aspecto ecocardiográfico normal. A veia cava inferior mede 16mm com colapsibilidade respiratória menor que 50%.
+- Ecocardiograma transtorácico (18/05/2016): Exame realizado na beira do leito, com dificuldades técnicas. Paciente em decúbito dorsal exclusivo. Ventrículo esquerdo apresenta função sistólica preservada, não sendo observadas alterações na mobilidade segmentar de parede. Fração de ejeção estimada em 60%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica preservada. Análises dos fluxos transvalvares prejudicadas por limitação de janelas ecocardiográficas. Avaliação funcional da valva mitral prejudicada. Ausência de derrame pericárdico.
+- Ecocardiograma transtorácico (20/05/2016): seio aórtico 29mm / átrio esquerdo 31mm / ventrículo direito médio 20mm / septo ventricular 9mm / parede posterior do ventrículo esquerdo 9mm / diâmetro diastólico do ventrículo esquerdo 42mm / diâmetro sistólico do ventrículo esquerdo 27mm / fração de ejeção 66% (Teicholz).
+Câmaras Cardíacas: Câmaras cardíacas de tamanhos normais.
+Ventrículos: Ventrículo esquerdo apresenta função sistólica e espessura miocárdica preservadas, não sendo observadas alterações na mobilidade segmentar de parede. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal.
+Valva Mitral: Apresenta fusão comissural, espessamento de suas cúspides e redução da abertura valvar compatíveis com comprometimento reumático moderado. Gradiente diastólico máximo átrio esquerdo-ventrículo esquerdo estimado em 11 mmHg e médio em 5 mmHg. Área valvar estimada em 1,1 cm2. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Valva Aórtica: Apresenta fusão comissural, espessamento de suas cúspides e redução da abertura valvar compatíveis com comprometimento reumático moderado. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 57 mmHg e médio em 32 mmHg. Área valvar estimada pela Equação de continuidade em 1,5 cm2. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto a moderado.
+Valva Tricúspide: Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo.
+Valva Pulmonar: Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais.
+Aorta: Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais.
+Pericárdio: Pericárdio com aspecto ecocardiográfico normal.
+- Eletrocardiograma: infra de PR discreto.
+4) Terapia Medicamentosa
+Medicação prévia: Furosemida, Digoxina, Espironolactona, Penicilina G Benzatina, anticonvulsivante manipulado (topiramato + 5-diphosphocoline + rhelora).
+Medicação durante a internação: Furosemida, Espironolactona, Digoxina, Penicilina G Benzatina, Topiramato, Cloridrato de Ondansetrona, Glicose 50%, Metoclopramida, Noradrenalina, Cefuroxima, Pantoprazol, Dipirona, Ceftriaxona, Enoxaparina.
+5) Terapia Intervencionista
+- 17/05/2016: tentativa de valvuloplastia mitral por balão
+- 17/05/2016: drenagem de derrame pericárdico 225ml
+6) Dispositivos
+- Pressão arterial invasiva em radial esquerda
+- Cateter venoso central em femoral esquerda
+- Dreno de pigtail em pericárdio e portovac
+- Sonda vesical de demora
+- Tubo orotraqueal
+7 Situação funcional na alta
+Paciente apresentou quadro de dor retroesternal, com irradiação para região cervical esquerda, durante a madrugada, com piora ao decúbito dorsal e com a inspiração profunda. Sem queixas. Nega febre.
+Frequência cardíaca 80 bpm. Frequência respiratória 20 irpm. Pressão arterial 100 x 60 mmHg.
+Bom estado geral, consciente, orientada, acianótica, sem edemas.
+Murmúrio vesicular normal, sem ruídos adventícios.
+Ritmo cardíaco regular, em 2 tempos, com algumas extrassístoles supraventriculares. Turgência jugular negativa. Segunda bulha hiperfonética. Sopro sistólico em foco mitral 2+/6+ (Gallavardin - aumento da intensidade após batimento extra-sistólico) e ruflar diastólico em foco mitral 1+/6+ (acentuado com exercício físico); sopro mesossistólico ejetivo em foco aórtico (3+/6+), com irradiação para região de fúrcula esternal e restante do precórdio, sopro protodiastólico aspirativo em foco aórtico acessório.
+8) Status laboratorial na alta
+- 20/05/2016: hemoglobina 12,4 / leucócitos 8880 / plaquetas 167000 / ureia 31 / creatinina 0,84 / sódio 141 / potássio 3,8 / magnésio 1,8 / proteína C reativa 23,25 / RNI 1,1 / TTPA 27,4 segundos / cálcio ionizado 1,22 / CK-MB 0,2 / troponina 0.113.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

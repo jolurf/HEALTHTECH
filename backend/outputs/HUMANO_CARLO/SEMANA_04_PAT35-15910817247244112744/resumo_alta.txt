@@ -1,0 +1,40 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- HAS
+- Epilepsia (cisto aracnóide)
+- DAC (IAM 2019 -> Cate 2019 ATC Cx; Cate 2020 ATC Dglis).
+- Gota
+2) Dados da Internação
+Data de [entrada] admissão: 02/06/2023
+Data de alta: 07/06/2023
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente refere dor anginosa típica aos esforços, associada à dispneia. Paciente refere que acorda com dor torácica. Nega outras queixas
+Diagnóstico da Internação:
+- Angina Instável de alto risco (angina em crescendo)
+3) Exames da Internação
+- Cateterismo Cardíaco 03/06/2023: TCE e DA SLO / CX e MgE1 com stents prévios / MgE3 70% proximal / VPE 60% proximal / CD pequena importância 90% distal.
+
+- Ecocardiograma transtorácico 03/06/2023: FEVE 55% com hipocinesia de parede inferolateral e segmento basal inferior, sem sinais de HP.
+4) Terapia Medicamentosa
+Medicação prévia: Ácido valpróico, Levetiracetam, Alopurinol, Enalapril, Rosuvastatina, Succinato de Metoprolol, Vastarel, Clopidogrel, AAS
+Medicação durante a internação: Atorvastatina, Levetiracetam, Ácido valpróico, alopurinol, enalapril, AAS, clopidogrel, enoxaparina, omeprazol, vastarel, succinato de metoprolol
+5) Terapia Intervencionista
+- 03/06/2023: Tentativa de angioplastia de MgE3, sem êxito em implante de stent, com dissecção tipo 4 local.
+- 05/06/2023: Angioplastia de MgE3 com sucesso (DES) e sem intercorrências
+6) Dispositivos
+-
+7 Situação funcional na alta
+Paciente segue estável hemodinamicamente, sem DVA e confortável do ponto de vista respiratório, sem queixas. Sítio de punção sem sinais de complicação. Consciente e orientado, sem déficits focais. Estável sem DVA. 2 BRNF sem sopros.  MV+ sem RA. Eupneico em repouso. Normoxêmico em ar ambiente. Abdome normotenso e indolor, sem VCM. Sem sinais de infecção, sangramento ou trombose
+8) Status laboratorial na alta
+- Laboratório 07/06/2023: Hemoglobina 16 g/dL Hematócrito 46% Leucócitos 11000/mm³ Plaquetas 225.000/mm³ Troponina I 154 ng/L Ureia 25 mg/dL Creatinina 0,87 mg/dL Magnésio 2,1 mg/dL
+9) Prescrição de Alta
+- DAPT por 1 ano + Atorvastatina 80 mg 1x/dia
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não descrito

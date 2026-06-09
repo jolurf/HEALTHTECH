@@ -1,0 +1,83 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Aneurisma da artéria subclávia (HSA) – 2017  
+Hipertensão arterial sistêmica  
+Tabagismo  
+Infarto agudo transmural da parede anterior do miocárdio  
+
+Não há informações sobre cirurgias prévias, alergias, internações prévias ou prática de exercícios físicos.
+
+2) Dados da Internação
+Data de admissão: 30/12/2020  
+Data de alta: 04/01/2021  
+Permanência em UTI? não  
+
+Motivo da internação:  
+Infarto agudo do miocárdio anterior com supradesnivelamento do segmento ST (IAM‑CSST), Killip classe II, associado a pericardite pós‑infarto e fibrilação atrial.
+
+Diagnóstico da Internação:  
+Lesão coronária do terço médio  
+Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST – parede anterior, Killip II  
+Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST – parede inferior, Killip II (suspeito)  
+Pericardite peri‑infarto  
+Fibrilação Atrial Pós‑Infarto (FAARV) – cardiovertida com amiodarona  
+Hipercolesterolemia  
+
+3) Exames da Internação
+30/12/2020 – Cateterismo cardíaco: DA 100 % lesão terço médio – ATC stent farmacológico. Sem lesões residuais.  
+30/12/2020 – ECG: Supra ST parede anterior extenso.  
+31/12/2020 – ECG: Fibrilação atrial RVA – supradesnivel parede inferior e anterior (DI – AVR – isoelétrico) – ausência de infra de PR.  
+01/01/2021 – ECG: supra todas derivações + atrito pericárdico na ausculta.  
+01/01/2021 – Tomografia Computadorizada de Tórax: Aquisição volumétrica, sem contraste venoso. Técnica ateromatose inclusive coronariana. Estruturas vasculares do mediastino com trajeto e diâmetro normais. Lâmina líquida pericárdica. Traqueia e brônquios de calibre preservado. Ausência de linfonodomegalias mediastinais. Leve espessamento de paredes brônquicas. Leve espessamento de septos interlobulares esparso, sugestivo de congestão. Atelectasias laminares esparsas. Nódulos pulmonares < 0,5 cm, sem calcificação, inespecíficos. Discreto derrame pleural bilateral com atelectasias restritivas adjacentes. Espondilose dorsal. Sinais de esteatose hepática e formação hipoatenuante ovalada cortical renal esquerda, incarcacterística.  
+02/01/2021 – ECG: necrose + supra ST parede anterior extenso.  
+02/01/2021 – Ecocardiograma: Ecocardiograma de controle com FEVE 35 %.  
+03/01/2021 – ECG: onda Q + supra ST parede anterior extenso.  
+30/12/2020 – ECOTT: FEVE 35 %, acinesia apical e septal, IM discreta, pericárdio sem derrame.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Anlodipino  
+Losartana  
+
+Medicação durante a internação:  
+AAS  
+Amiodarona  
+Atorvastatina  
+Carvedilol  
+Colchicina  
+DAPT  
+Enalapril  
+Espironolactona  
+IECA  
+Nicotina  
+Omeprazol  
+
+5) Terapia Intervencionista
+30/12/2020 – Implante de stent farmacológico (angioplastia coronária).  
+31/12/2020 – Cardioversão com amiodarona.  
+
+6) Dispositivos
+Stent farmacológico – 30/12/2020.  
+
+7) Situação funcional na alta
+Paciente assintomático, deambulando, afebril, pressão arterial 100/78 mmHg, frequência cardíaca 80 bpm, SpO₂ 98 % em ar ambiente, sem edema nos membros inferiores, exame cardíaco sem alterações relevantes, abdome inocente.
+
+8) Status laboratorial na alta
+03/01/2021: Hb 13,3 g/dL; Leucócitos 7 000 /mm³; Uréia 34 mg/dL; Creatinina 1,23 mg/dL; PCR 33,6 mg/L; Potássio 3,9 mmol/L; Sódio 139 mmol/L.  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Retorno ambulatorial na Aterosclerose.  
+Encaminhamento ao ambulatório de cessação de tabagismo.  
+
+Seguimento:  
+Retorno ambulatorial para controle de aterosclerose.  
+Encaminhar ao ambulatório de cessação de tabagismo.

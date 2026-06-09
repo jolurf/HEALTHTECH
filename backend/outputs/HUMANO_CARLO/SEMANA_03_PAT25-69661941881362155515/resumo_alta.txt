@@ -1,0 +1,45 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- IAMSSST em maio de 2019.
+- Angina CCS I
+- Cirurgia para correção de hérnia inguinal e prostatectomia por história de
+neoplasia não documentada há cerca de 5 anos;
+- Ex-tabagista (parou há 20 anos), baixa carga.
+- Ex-etilista (baixa carga);
+2) Dados da Internação
+Data de [entrada] admissão: 21/10/2019
+Data de alta: Em evolução de 30/10/2019, sem menção de alta, escrito em programação de alta amanhã, porém sem evolução do dia 31/10/2019.
+Permanência em UTI?
+- Sim
+Motivo da internação: 
+Paciente com Doença Arterial Coronariana multiarterial e lesão proximal importante em DA, evoluiu assintomático (porém, autolimitado) após evento coronariano agudo em maio de 2019 sem terapia de reperfusão, internado eletivamente para cirugia revascularização miocárdica. Refere ser orientado pelo gopa suspender IECA, diminuir dose de atenolol 25 mg 12/12h.
+Diagnóstico da Internação:
+Internação para Cirurgia de Revascularização Miocárdica por Doença Arterial Coronariana Multiarterial
+Pericardite pós Cirurgia de Revascularização Miocárdica
+3) Exames da Internação
+- Ecocardiograma transtorácico 25/10/2019: Ventrículo esquerdo com função sistólica diminuída à custa de acinesia da parede anterior (segmento médio) e septo (segmentos médios). A fração de ejeção foi estimada em 45% (VN>=52%). Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Movimentação atípica do septo ventricular. Ventrículos apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto a moderado. Valva Mitral apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva Aórtica apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva Tricúspide Aorta ascendente (segmento tubular) não visibilizada de forma adequada para análise. Aorta Pericárdio com aspecto ecocardiográfico normal. Pericárdio Não foi possível estimar a PSAP devido dificuldade técnica em alinhar o feixe do Doppler ao jato da insuficiência tricúspide. Exame realizado na beira do leito, com dificuldades técnicas.
+4) Terapia Medicamentosa
+Medicação prévia: Atenolol, AAS, Atorvastatina e Clopidogrel (suspenso há 8 dias)
+Medicação durante a internação: Dobutamina, Noradrenalina, prednisona, cefuroxima, insulina, omeprazol, dipirona, AAS, carvedilol, furosemida, atorvastatina, clopidogrel, heparina, enoxaparina
+5) Terapia Intervencionista
+- Cirurgia de Revascularização Miocárdica Incompleta: Mamária Interna Esquerda-Descendente Anterior, Safena-2° Marginal Esquerdo, lesões residuais em Coronária Direita e Diagonal.
+6) Dispositivos
+- Dreno Mediano
+- Dreno Pleural Esquerdo 
+- Fio de Marcapasso
+- Tubo Orotraqueal
+7 Situação funcional na alta
+- Em última evolução disponível do dia 30/10/2019: 
+Paciente assintomático nega dor em ferida operatória nega dispneia
+Glasgow 15; ACV: B1B2 normofonéticas, rítmicas, sem atrito pericárdico. FC 95 bpm. PA 100x60 mmHg ; TJ -; RHJ -; Aparelho Respiratório: MV Diminuído basais SRA. FR 18 irpm. SpO2 95% em ar ambiente; Abdome: atípico, RHA normativos, flácido, depressível, indolor; Extremidades: quentes e bem perfundidas, sem edema ou cianose; Ferida operatória esternal: bom aspecto, seca, sem sinais flogísticos; sem sinais de instabilidade do esterno; Ferida operatória da safenectomia: bom aspecto, seca, sem sinais flogísticos.
+8) Status laboratorial na alta
+- 30/01/2019: Hemoglobina 10.5 g/dL Hematócrito 31% Leucócitos 15490/mm³ Plaquetas 303.000/mm³ Ureia 45 mg/dL Creatinina 1.02 mg/dL Proteína C Reativa (PCR) 14.42 mg/dL
+9) Prescrição de Alta
+- Em evolução de 30/10/2019, sem menção de alta, escrito em programação de alta amanhã, porém sem evolução do dia 31/10/2019. Não descrita prescrição de alta.
+10 Orientações de alta para o paciente
+- Em evolução de 30/10/2019, sem menção de alta, escrito em programação de alta amanhã, porém sem evolução do dia 31/10/2019. Não descritas orientações de alta.
+10 Orientações de seguimento
+- Em evolução de 30/10/2019, sem menção de alta, escrito em programação de alta amanhã, porém sem evolução do dia 31/10/2019. Não descritas orientações de seguimento.

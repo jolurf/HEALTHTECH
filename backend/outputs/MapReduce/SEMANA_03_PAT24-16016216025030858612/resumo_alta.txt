@@ -1,0 +1,70 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão Arterial Sistêmica  
+Diabetes Mellitus  
+Cefaleia Migrânea  
+Laqueadura Tubária (cirurgia)  
+Alergia a captopril  
+
+2) Dados da Internação
+Data de admissão: 2020‑05‑27  
+Data de alta: 2020‑05‑29  
+Permanência em UTI? não  
+Motivo da internação: Cefaleia súbita e intensa associada a náuseas, vômitos e fraqueza bilateral após rotação de cabeça, com suspeita de dissecção vertebral.  
+Diagnóstico da Internação:  
+Hemorragia subaracnoide (possível origem aneurismática)  
+Dissecção da artéria vertebral direita  
+Aneurismas saculares das artérias carótidas internas (direita e esquerda)  
+
+3) Exames da Internação
+26/05/2020 – TC + AngioTC de crânio:  
+  “Acentuado afilamento do calibre na artéria vertebral direita imediatamente após a emergência, associado a interrupção na progressão do contraste na porção distal de V3, sugestiva de dissecção da mesma com oclusão. Observa‑se reenchimento de V4, que apresenta irregularidades parietais em todo seu trajeto. Aneurisma sacular de contorno bilobulado na transição dos segmentos cavernoso e clinóideo da artéria carótida interna direita, com orientação superior e medial. Apresenta colo de 0,4 cm, distância dômus‑colo de 0,6 cm e maior eixo transverso do domo de 0,9 cm. Aneurisma sacular na transição dos segmentos cavernoso e clinóideo da artéria carótida interna esquerda, com orientação medial. Apresenta colo de 0,3 cm, distância dômus‑colo de 0,5 cm e maior eixo transverso do domo de 0,4 cm.”  
+26/05/2020 – Líquido Cefalorraquidiano (LCR):  
+  “LCR: 3 células (39 % linf / 23 % mon / 38 % neut); 4160 hemácias; xantocrômico; PT 31; glicose 46 mg/dL; lactato 40,5 mg/dL.”  
+28/05/2020 – Líquido Cefalorraquidiano (LCR):  
+  “LCR: 3 células (39 % linf / 23 % mon / 38 % neut); 4160 hemácias; xantocrômico; PT 31; glicose 46 mg/dL; lactato 40,5 mg/dL.”  
+28/05/2020 – Ressonância Magnética (RNM):  
+  “Sugestivo de dissecção de vertebral, mas sem achado que confirme. Sugerido realizar vessel wall.”  
+28/05/2020 – Urina 1:  
+  “PROT: 0,52 mg/dL (nr < 0,1); HB LIVRE: +++; LEUCO: 3000; ERITROCIT: 1 000 000 (paciente menstruada).”  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Amlodipino  
+Losartana  
+Medicação durante a internação:  
+Clorpromazina  
+
+5) Terapia Intervencionista
+não consta  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente vigil, orientada, pouco colaborativa, força muscular grau V nos quatro membros, sem alterações de linguagem, presença de sinal de Kernig positivo e rigidez de nuca, sem déficits sensoriais ou motores adicionais.  
+
+8) Status laboratorial na alta
+28/05/2020:  
+Hemoglobina (HB): 13,5 g/dL  
+Hematócrito (HT): 41 %  
+Leucócitos: 7 440 /mm³  
+Plaquetas: 192 000 /mm³  
+Ureia (UR): 34 mg/dL  
+Creatinina (CR): 0,96 mg/dL  
+Sódio (NA): 138 mmol/L  
+Potássio (K): 3,9 mmol/L  
+INR: 1,0  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente:  
+não consta  
+
+Seguimento:  
+não consta

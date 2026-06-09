@@ -1,0 +1,55 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença pulmonar obstrutiva crônica
+- Ex-tabagista
+- Dissecção crônica de aorta ascendente (Stanford A)
+- Insuficiência aórtica discreta a moderada
+2) Dados da Internação
+Data de [entrada] admissão: 17/01/2019
+Data de alta
+Permanência em UTI?
+- Colocar “sim” se houve permanência em UTI; colocar “não” se não houve permanência em UTI
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de aorta
+Diagnóstico da Internação:
+- Pós-operatório de troca de aorta ascendente com tubo supra-coronariano + interposição de Dacron + troca valvar aórtica prótese biológica número 21 + plastia tricúspide (18/01/2019)
+- Taquicardia supraventricular no primeiro dia pós-operatório - fibrilação atrial intermitente
+- Delirium hiperativo no primeiro dia pós-operatório
+- Traqueobronquite
+3) Exames da Internação
+- Ecocardiograma transesofágico (18/01/2019):
+Pré-circulação extracorpórea: Ventrículo esquerdo apresenta função sistólica preservada, não sendo observadas alterações na mobilidade segmentar de parede. A fração de ejeção foi estimada em 65%. Ventrículo direito apresenta função sistólica normal. Valva mitral apresenta espessamento valvar discreto, com mobilidade normal de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva aórtica apresenta movimentação normal e espessamento discreto de suas válvulas. Falha de coaptação entre suas válvulas. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Valva tricúspide apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Medidas da aorta: seios aórticos 40 mm, junção sinotubular 38 mm, aorta ascendente 67 mm. Septo atrial íntegro. Não visibilizados trombos ou massas intracavitárias.
+- Biópsia (21/01/2019): produto de correção cirúrgica de dissecção crônica em aorta ascendente: dissecção crônica em parede de artéria elástica, com hematoma em organização em superfície delaminada, fibrose e degeneração mucóide moderadas em túnica média e fibrose adventicial moderada e difusa. Aterosclerose, com fibrose e calcificação em placas ateromatosas, em parede de artéria elástica.
+- Biópsia (21/01/2019): valva aórtica (insuficiência): alterações degenerativas em estroma valvar, representadas por degeneração mucóide intensa e difusa, metaplasia adiposa multifocal, fibrose discreta e focal e calcificação moderada. área focal de reatividade endocárdica. Proliferação filiforme constituída por tecido conjuntivo avascular na face ventricular de um dos folhetos valvares, morfologicamente compatível com excrescência de lambl.
+- Eletrocardiograma: sem alterações isquêmicas novas.
+- Radiografia de tórax: sem alterações.
+4) Terapia Medicamentosa
+Medicação prévia: Atenolol, Ácido acetilsalicílico, Anlodipino, Enalapril, Atorvastatina, Alenia.
+Medicação durante a internação: Cefuroxima, Omeprazol, Dipirona, Furosemida, Dobutamina, Noradrenalina, Hidrocortisona, Amiodarona, Lactulose, Ceftriaxona, Metoprolol.
+5) Terapia Intervencionista
+- 18/01/2019: troca de aorta ascendente com tubo supracoronariano + interposição de Dacron + troca valvar aórtica prótese biológica número 21 + plastia tricúspide (18/01/2019)
+6) Dispositivos
+- Cateter nasal de oxigênio
+- Cateter venoso central em veia jugular interna direita
+- Dreno mediano
+- Sonda vesical de demora
+- Fio de marcapasso
+- Sonda nasogástrica
+- Cateter duplo lúmen em veia jugular interna direita
+7 Situação funcional na alta
+Paciente deitada no leito, estável hemodinamicamente e com bom padrão respiratório. Manteve ritmo sinusal durante a tarde de ontem, mas hoje retornou para fibrilação atrial de alta resposta  ventricular, com necessidade de duas doses de ataque de amiodarona. Diurese presente sob estímulo diurético com balanço hídrico levemente negativo. Afebril.
+Ritmo cardíaco irregular, sugestivo de fibrilação atrial. Tempo de reperfusão capilar menor que 3 segundos.
+Pressão arterial média 94 a 66 mmHg. Frequência cardíaca 148 a 64 bpm.
+Sons respiratórios reduzidos em bases. Eupneica em uso de cateter nasal.
+Abdome globoso, sem sinais de defesa. Sem evacuar e com boa aceitação de dieta branda.
+8) Status laboratorial na alta
+- 25/01/2019: hemoglobina 8,2 / leucócitos 7880 / plaquetas 58000 / CK-MB 1,2 / troponina 0.268 / CPK 75 / ureia 58 / creatinina 1,36 / TGO 20 / TGP 24 / fosforo 3,6 / magnésio 1,6 / bilirrubina total 0,28 / bilirrubina direta 0,12 / bilirrubina indireta 0,16 / proteína C reativa 17,01
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

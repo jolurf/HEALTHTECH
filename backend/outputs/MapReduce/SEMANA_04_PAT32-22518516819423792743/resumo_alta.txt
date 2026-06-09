@@ -1,0 +1,69 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão arterial sistêmica  
+Dislipidemia  
+Tabagismo ativo  
+Obesidade  
+
+(não há informações sobre cirurgias prévias, alergias, internações prévias ou prática de exercícios físicos)  
+
+2) Dados da Internação
+Data de admissão: 07/11/2018  
+Data de alta: 12/11/2018  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Infarto Agudo do Miocárdio (IAM) anterosseptal / supra‑anterosseptal.
+Diagnóstico da Internação:  
+Infarto agudo do miocárdio com supradesnivelamento do segmento ST (Killip 2), localização anterosseptal.  
+Broncoespasmo (suspeita).  
+Intervenção coronária percutânea da artéria descendente anterior proximal.  
+Lesões residuais nas coronárias: circunflexa, marginal e diagonal.  
+Função ventricular esquerda: fração de ejeção 35 %.  
+Acinesia da região apical.  
+
+3) Exames da Internação
+[06/11/2018] Cateterismo coronariano: CATE (06/11) SEM LAUDO - IMPRESSÃO: Porta‑balão 60 min devido à desconforto resp ATC - 02 Stents em DA proximal Lesões residuais imp ¿ Mg subocluída / CD toda doente com 70 % distal / CX ¿ oclusão crônica - TRIarterial (400 ml Contraste / Via radial ).
+
+4) Terapia Medicamentosa
+Medicação prévia: não consta  
+Medicação durante a internação:  
+Captopril  
+Carvedilol  
+DAPT  
+Enalapril  
+Espironolactona  
+Furosemida  
+
+5) Terapia Intervencionista
+Cateterismo coronariano com implante de 2 stents na artéria descendente anterior proximal – 06/11/2018.
+
+6) Dispositivos
+Amplatzer Vascular Plug – 07/11/2018.
+
+7) Situação funcional na alta
+Paciente hemodinamicamente estável, assintomático, em fase de reabilitação, sem dor torácica.  
+Exame físico: saturação 99 %, frequência cardíaca 78 bpm, pressão arterial 108/70 mmHg, sem sopro, extremidades bem perfundidas, sem edema, sem sinais de tromboembolismo venoso; abdômen globoso, sem visceromegalia.
+
+8) Status laboratorial na alta
+Hematólogico / Infeccioso: Hb 13,6 g/dL; Ht 42 %; Leucócitos 8.690 /mm³; Plaquetas 106.000 /mm³.  
+Renal / Metabólico: Ureia 71 mg/dL; Creatinina 1,42 mg/dL; Cálcio iônico 2,2 mmol/L; Na⁺ 140 mmol/L; Mg²⁺ 2,2 mmol/L.  
+
+(dados referentes ao exame mais próximo da alta)
+
+9) Prescrição de Alta
+não consta
+
+10) Orientações de alta  
+
+Para o paciente: não consta  
+
+Seguimento:  
+Discutir abordagem de lesões residuais;  
+Manter paciente monitorizado em observação;  
+Acompanhar curva de marcadores de necrose miocárdica (MNMs);  
+Aguardar ecocardiograma transtorácico (TT);  
+Reduzir dose de furosemida com vigilância da função renal (em piora após cateterismo);  
+Suporte clínico conforme necessidade.

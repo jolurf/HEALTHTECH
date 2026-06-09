@@ -1,0 +1,45 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+Síndrome de Takotsubo, Arterite temporal, TVP prévia complicou com sangramento ocular e suspenso xarelto
+2) Dados da Internação
+Data de [entrada] admissão: 16/03/2018
+Data de alta: 21/03/2018
+Permanência em UTI? 
+- Não
+Motivo da internação:
+Hoje acordou com pouca disposição. Anda com andador. Depois refere um
+desconforto precordial e dispneia e PA 100/60. Nega tosse ou sudorese. No
+momento somente cansaço
+Diagnóstico da Internação:
+- Tromboembolismo Pulmonar agudo e subagudo
+- Infecção Urinária
+3) Exames da Internação 
+
+- Ecocardiograma transtorácico 16/03/2018: Ventrículo esquerdo apresenta função sistólica preservada, com fração de ejeção estimada em 60% (VN >= 54%). Não foi possível análise de função diastólica. Ventrículo direito apresenta disfunção sistólica moderada. A velocidade sistólica máxima do anel tricúspide lateral medida pelo Doppler tecidual (S ́) foi estimada em 6 cm/s (valor normal > 9,5 cm/seg). Calcificação do anel valvar de grau mínimo. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Apresenta sinais de fibrocalcificação mínima, com mobilidade preservada de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Exame realizado na beira do leito, com dificuldades técnicas.
+
+- Eletrocardiograma 19/03/2018: ECG normal
+
+- Ultrassonografia de membros inferior esquerdo 20/03/2018: Veias femoral comum, femoral profunda (terço proximal), femoral, poplítea, tibiais anteriores, tibiais posteriores e fibulares pérvias e compressíveis às manobras, com calibre discretamente reduzido. Ao Doppler observa-se perviedade dos segmentos avaliados, com fluxo fásico. O aumento da ecogenicidade e da espessura do tecido subcutâneo na perna, notadamente no terço distal (provável edema/processo inflamatório), determina atenuação do feixe sonoro posterior, reduzindo a sensibilidade do método na avaliação dos segmentos venosos infrageniculares.Ausência de sinais de trombose venosa profunda aguda nos segmentos acessíveis. Segmentos venosos avaliados com calibre discretamente reduzido, inespecífico, podendo ser decorrente de sequelas de trombose recanalizadas.
+
+- Ultrassonografia de membro inferior direito 20/03/2018: Veias femoral comum, femoral, poplítea, tibiais anteriores e tibiais posteriores pérvias e compressíveis às manobras, com calibre acentuadamente reduzido e com espessamento parietal. Veias femorais profundas e fibulares de difícil caracterização ao método. Ao Doppler observa-se pervidade dos segmentos avaliados, com fluxo fásico. O aumento da ecogenicidade e da espessura do tecido subcutâneo na perna, notadamente no terço distal (provável edema/processo inflamatório), determina atenuação do feixe sonoro posterior, reduzindo a sensibilidade do método na avaliação dos segmentos venosos infrageniculares. Ausência de sinais de trombose venosa profunda aguda nos segmentos acessíveis. Sequelas de trombose nos segmentos venosos acessíveis.
+- Angiotomografia protocolo TEP (sem data descrita): AngioTC Tep: Falha de enchimento centrais e periféricas estendendo das artérias pulmonares principais às segmentares de todo o pulmão direito superior esquerdo compatível com tromboembolismo pulmonar agudo. Foram também visualizados sinais de tromboembolismo pulmonar crônico no lobo inferior esquerdo caracterizados por falhas de enchimento, calcificações periféricas e redução do calibre das artérias lobares e segmentares. Falha de enchimento centrais e periféricas estendendo das artérias pulmonares principais às segmentares de todo o pulmão direito superior esquerdo compatível com tromboembolismo pulmonar agudo. Foram também visualizados sinais de tromboembolismo pulmonar crônico no lobo inferior esquerdo caracterizados por falhas de enchimento, calcificações periféricas e redução do calibre das artérias lobares e segmentares. Falha de enchimento centrais e periféricas estendendo das artérias pulmonares principais às segmentares de todo o pulmão direito superior esquerdo compatível com tromboembolismo pulmonar agudo. Foram também visualizados sinais de tromboembolismo pulmonar crônico no lobo inferior esquerdo caracterizados por falhas de enchimento, calcificações periféricas e redução do calibre das artérias lobares e segmentares.
+4) Terapia Medicamentosa
+Medicação prévia: Prelone, trayenta, amryl (glimeprida), syntroid, glifage, ictus (carvedilol)
+Medicação durante a internação: omeprazol, enoxaparina, levotiroxina, prednisona, furosemida, simeticona, cloreto de potássio, glimepirida, bromazepam, óleo mineral, carvedilol, glifage, trayenta, levofloxacino
+5) Terapia Intervencionista
+6) Dispositivos
+-
+7 Situação funcional na alta
+Não descrito
+8) Status laboratorial na alta
+- Laboratório 21/03/2018: Hemoglobina 12.5 g/dL Hematócrito 39% Leucócitos 4770/mm³ Plaquetas 168.000/mm³ Ureia 37 mg/dL Creatinina 0,66 mg/dL Sódio 139 mEq/L Potássio 4.3 mEq/L Proteína C Reativa (PCR) 9.34 mg/L TSH 0.739 μUI/mL INR 0.9
+9) Prescrição de Alta
+
+Não descrito
+10) Orientações de alta para o paciente
+Não descrito
+10 Orientações de seguimento
+Não descrito

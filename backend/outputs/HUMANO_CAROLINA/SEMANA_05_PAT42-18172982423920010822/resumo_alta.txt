@@ -1,0 +1,46 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Adenocarcinoma pouco diferenciado no corpo gástrico a 5cm da cárdia
+- Hipertensão arterial sistêmica
+- Diabetes mellitus
+2) Dados da Internação
+Data de [entrada] admissão: 27/12/2015
+Data de alta: 07/01/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de gastrectomia total com reconstrução em Y-roux
+Diagnóstico da Internação:
+- Pós-operatório de gastrectomia total com colecistectomia, linfadenectomia e reconstrução em Y-roux (28/12/2025)
+3) Exames da Internação
+- Biópsia (28/12/2015): Produto de gastrectomia total com linfadenectomia: Adenocarcinoma tubular moderadamente diferenciado da região fúndica, face gástrica posterior (lesão mede 2,0x1,5cm). Padrão focal com células em anel de sinete (menos de 5% da neoplasia). Infiltração neoplásica focal até camada sub-mucosa. Margens cirúrgicas proximal e distal livres de neoplasia. Ausência de neoplasia em 19 linfonodos dissecados na pequena curvatura e 11 na grande curvatura. Ausência de neoplasia em linfonodos designados como "cadeia 6" e "gânglio da artéria hepática". Invasão angiolinfática não detectada. Invasão peri-neural presente focalmente na sub-mucosa. Gastrite crônica de intensidade moderada a acentuada, com áreas de atrofia e de metaplasia intestinal, em fundo, corpo e antro. Fragmento designado como "margem distal do esôfago" revestido por mucosa gástrica do cardia. Presença de artefatos de pinçamento. Ausência de neoplasia. Fragmento designado como "jejuno" representado por parede de intestino delgado sem particularidades. Ausência de neoplasia em fragmentos submetidos previamente a cortes de congelação. Presença de numerosos histiócitos com pigmento citoplasmático enegrecido em serosa e sub-mucosa dos cortes da região da neoplasia e em linfonodos da pequena  curvatura. Estadiamento patológico: pT1b, pN0.
+- Biópsia (28/12/2015): Vesícula biliar: Vesícula biliar com congestão vascular e marginação de leucócitos na serosa. Mucosa sem particularidades. Ausência de neoplasia.
+- Biópsia (28/12/2015): Produto de gastrectomia (avaliação de margem cirúrgica): Margem cirúrgica proximal livre de neoplasia.
+- Citologia oncótica (28/12/2015): Líquido ascítico: Citologia negativa para células neoplásicas.  Citocentrifugados inflamatórios, com discreto predomínio de células mononucleares.
+4) Terapia Medicamentosa
+Medicação prévia: Losartana, Hidroclorotiazida, Metformina, Rosuvastatina.
+Medicação durante a internação Losartana, Hidroclorotiazida, Clister de glicerina, Brometo de n-butil-hioscina, Metoclopramida, Albumina, Cristaloide, Cefuroxima, Omeprazol, Dipirona, Solução fisiológica de ringer, Enoxaparina, Morfina, Tramadol, Azul de metileno, Ondansetrona.
+5) Terapia Intervencionista
+- 28/12/2025: gastrectomia total + linfadenectomia 1-9 com reconstrução em Y-roux + colecistectomia. Congelação: ausência de margens comprometidas a 5cm da lesão. Dreno direito orientado para coto duodenal. Dreno esquerdo orientado para anastomose jejuno-esofágica. Sem intercorrências.
+6) Dispositivos
+- Dreno esquerdo
+- Dreno direito
+- Sonda nasoenteral
+- Névoa
+7 Situação funcional na alta
+Paciente se alimentando via oral em pequenas quantidades várias vezes.
+Murmúrio vesicular presente sem ruídos adventícios.
+Bulhas rítmicas e normofonéticas
+Abdome plano, flácido, ruídos hidroaéreos presentes. Ferida operatória com saída de líquido seroso em pequena quantidade.
+Dreno JP esquerdo com secreção serosa.
+8) Status laboratorial na alta
+- 05/01/2016: INR 0,9 / TTPA 34 segundos / hemoglobina 11,3 / leucócitos 5790 / plaquetas 313.000
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

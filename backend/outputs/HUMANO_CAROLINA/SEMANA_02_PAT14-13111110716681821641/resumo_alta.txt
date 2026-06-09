@@ -1,0 +1,59 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Dupla lesão mitral de grau moderado por febre reumática
+- Tabagista
+2) Dados da Internação
+Data de [entrada] admissão: 08/03/2016
+Data de alta: 09/03/2016
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Transferida do Hospital Bandeirantes com quadro de dor precordial há 1 dia da admissão tipo pontada, intensa (10/10), com irradiação para membro superior esquerdo, associada a sudorese. Recebeu 300 mg de ácido acetilsalicílico, 300 mg de Clopidogrel e Enoxaparina 60 mg 12/12h. Encaminhada com suspeita de síndrome coronariana aguda e em uso de tridil 3ml/h. Eletrocardiograma com supradesnivelamento do segmento ST em parede lateral, posterior e inferior já evoluído. Exames externos: troponina negativa > positiva, CK-MB negativo > 74, CPK negativo > 455.
+Diagnóstico da Internação:
+- Acidente vascular encefálico isquêmico occipital direito (ictus em 02/03/2016) - mantendo hemianopsia homônima esquerda
+- Síndrome coronariana aguda - infarto agudo do miocárdico de origem embólica?
+3) Exames da Internação
+- Cateterismo cardíaco (05/03/2016): artéria coronária diagonal ocluída.
+- Tomografia computadorizada de crânio (06/03/2016): área hipoatenuante córtico subcortical temporo occipital direita compatível com evento isquêmico/embólico..
+- Ecocardiograma transtorácico (07/03/2016): átrio esquerdo 50mm / septo ventricular 7mm / parede posterior do ventrículo esquerdo 7mm / diâmetro diastólico do ventrículo esquerdo 53mm / diâmetro sistólico do ventrículo esquerdo 32mm / fração de ejeção do ventrículo esquerdo 40%. Aumento importante de átrio esquerdo. Ventrículo esquerdo apresenta espessura preservada e função sistólica diminuída à custa de acinesia em região apical e parede anterior (segmento médio). Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Valva Mitral: Apresenta fusão comissural, espessamento de suas cúspides e redução da abertura valvar compatíveis com comprometimento reumático moderado. Gradiente diastólico máximo átrio esquerdo-ventrículo esquerdo estimado em 18 mmHg e médio em 6 mmHg. Área valvar estimada em 1,1 cm2. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 47 mmHg. Insuficiência tricúspide de grau discreto.
+- Angiotomografia de crânio (07/03/2016): Carótidas internas, artérias cerebrais anteriores, artérias cerebrais médias, porção cranial das artérias vertebrais, artéria basilar, artérias cerebrais posteriores e artérias comunicantes anteriores e posteriores de calibre, trajeto e fluxo preservados. Não foram observados sinais de circulação patológica nos segmentos analisados.
+- Angiotomografia de vasos cervicais (07/03/2016): Arco aórtico de calibre normal e contorno regulares.
+Tronco arterial braquiocefálico permeável, de calibre normal e contornos regulares. Origem da carótida comum direita a partir do tronco bráquio cefálico. Porção proximal das artérias subclávias permeáveis de calibre normal e contornos regulares. Artérias vertebrais permeáveis, de calibre normal e contornos regulares, sendo dominante à direta. Artérias carótidas comuns perveis , de contornos regulares e calibre normal. Artérias carótidas externas perveis, de contornos regulares e calibre normal. Artérias carótidas internas perveis, de contornos regulares e calibre normal.
+- Tomografia computadorizada de crânio (07/03/2016): Em comparação com exame 06/03/2015 não se observa alteração da área hipoatenuante córtico subcortical temporo occipital direita compatível com evento isquêmico/embólico. Restante do parênquima cerebral com coeficientes de atenuação normais. Cisterna basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média. Espessamento mucoso do seio esfenoidal à esquerda.
+4) Terapia Medicamentosa
+Medicação prévia: Furosemida, Omeprazol, Paracetamol, Digoxina, Atenolol.
+Medicação durante a internação: Enoxaparina, Ácido Acetilsalicílico, Clopidogrel, Atorvastatina, Ciprofibrato, Omeprazol, Hemitartarato de Zolpidem, Carvedilol, Espironolactona.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Mantém queixa de turvação visual/diplopia à esquerda, com perda de campo visual temporal à esquerda. Nega novos episódios de dor torácica. Nega dispneia, ortopneia, dispneia paroxística noturna ou tontura. Sem outras queixas no momento.
+Pressão arterial 100x64mmHg. Frequência cardíaca 76bpm. Frequência respiratória 15irpm
+Bom estado geral, lúcida e orientada em tempo e espaço, anictérica, acianótica, eupneica, normocorada, hidratada, escala de coma de glasgow 15.
+Murmúrio vesicular bilateralmente distribuído, sem ruídos adventícios
+Ritmo cardíaco regular em 2 tempos, sopro sistólico regurgitativo ++/6 e diastólico ++/6, em foco mitral.
+Abdome plano, ruídos hidroaéreos presentes, flácido, indolor, sem visceromegalias.
+Extremidades bem perfundidas e sem edema, panturrilhas livres. Sem turgência jugular patológica.
+Pupilas isofotorreagentes, reflexos fotomotor e consensual preservados bilateralmente, motilidade ocular extrínseca preservada, hemianopsia homônima esquerda (campimetria de confrontação). Face simétrica,
+Força motora grau V global.
+8) Status laboratorial na alta
+- 08/03/2016: hemoglobina 12,5 / leucócitos 9140 / plaquetas 183000 / CK-MB 2,5 / proteína C reativa 64,52
+9) Prescrição de Alta
+- Enoxaparina plena em ponte para Varfarina
+- Digoxina
+- Carvedilol
+- Furosemida
+- Espironolactona
+- Omeprazol
+- Zolpidem
+10 Orientações de alta para o paciente
+- Orientado uso contínuo das medicações
+- Orientadas possíveis complicações da varfarina (buscar pronto-socorro em caso de sangramento)
+- Retorno em 14/03/2016 para coleta de RNI e avaliação de ajuste de dose
+10 Orientações de seguimento
+- Encaminhamento para ambulatório de origem (valvopatias)
+- Encaminhamento para neurologista

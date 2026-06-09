@@ -1,0 +1,50 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Insuficiência cardíaca com fração de ejeção reduzida presumidamente isquêmica
+- Hipertensão arterial sistêmica
+- Diabetes mellitus tipo 2 não insulinodependente
+- Infarto agudo do miocárdio prévio - sem relato de dor torácica
+- Episódios prévios semelhantes de síncope
+2) Dados da Internação
+Data de [entrada] admissão: 28/07/2023
+Data de alta: 13/08/2023
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Encaminhado do Hospital de Clínicas, com história de perda de consciência súbita ao esforço, precedido de dispneia, taquicardia e mal-estar. O filho (não profissional da saúde) que acompanhava não detectou pulso e iniciou compressões no local. Admitido em sala de emergência do Hospital de Clínicas, já consciente, lúcido e orientado após retorno de consciência, sem dispneia, angina e com perfusão normal. Apresenta há 3 anos 3-4 episódios de síncope, sendo a maior parte relacionada ao esforço (subir escadas) com perda de consciência súbita. Há 3 anos, paciente relata que surgiram dispneia aos esforços, ortopneia e edema de membros inferiores.
+Diagnóstico da Internação:
+- Síncope de alto risco - com taquicardia ventricular não sustentada no Holter
+- Insuficiência cardíaca de fração de ejeção reduzida - provável etiologia isquêmica com acinesia de múltiplos segmentos
+- Doença renal crônica agudizada - provavelmente associada a exame contrastado
+- Angioplastia coronariana de primeiro ramo diagonal (08/08/2023)
+- Pós-operatório de implante de cardiodesfibrilador implantável (11/08/2023)
+3) Exames da Internação
+- Eletrocardiograma (29/07/2023): sinusal. Bloqueio atrioventricular de primeiro grau. Atraso de condução pelo ramo esquerdo.
+- Ecocardiograma transtorácico (31/07/2023): disfunção ventricular importante. Fração de ejeção do ventrículo esquerdo 25% com discinesias. Insuficiência mitral moderada. Ectasia da aorta 37mm.
+- Cateterismo cardíaco (08/08/2023): artéria descendente anterior com lesão de 90% em terço médio, segundo ramo diagonal com lesão de 90% em terço proximal, artéria circunflexa com lesão de 70% em terço proximal e artéria coronária direita com lesão de 70% no óstio.
+4) Terapia Medicamentosa
+Medicação prévia: Furosemida, Espironolactona, Carvedilol, Hidralazina, Monocordil, Rosuvastatina, Ácido acetilsalicílico.
+Medicação durante a internação: Heparina, Atorvastatina, Ácido acetilsalicílico, Furosemida, Hidralazina, Mononitrato de isossorbida, Carvedilol, Insulina NPH, Atorvastatina, Bicarbonato de sódio, Clopidogrel,
+5) Terapia Intervencionista
+- 08/08/2023: angioplastia do primeiro ramo diagonal (Dg1) com balões e implante de stent farmacológico, com sucesso.
+- 11/08/2023: implante de cardiodesfibrilador implantável subcutâneo, sem intercorrências .
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Estável hemodinamicamente, sem droga vasoativa. Em ar ambiente. Troca de curativo sem sangramento importante. Sem sinais de estimulação do cardiodesfibrilador implantável. Refere episódios de soluço após alimentação.
+Bom estado geral, lúcido e orientado em tempo e espaço
+Ritmo cardíaco regular, bulhas normofonéticas, 2 tempos, sopro sistólico regurgitativo em foco mitral (2+/6+). Tempo de enchimento capilar menor que 3 segundos.
+Murmúrio vesicular universalmente distribuído, sem ruídos adventícios.
+Ferida operatória inframamária e subxifoidea com curativo oclusivo sem sinais de complicação, sem sangramento importante.
+8) Status laboratorial na alta
+- 12/08/2023: hemoglobina 10,4 / leucócitos 7930 / plaquetas 145000 / ureia 173 / creatinina 5,53 / sodio 140 / potássio 5,1 / magnésio 2,5 / proteína C reativa 4,5 / cálcio ionizado 1,26
+9) Prescrição de Alta
+- Atorvastatina 20mg 2 comprimidos 1 vez ao dia.
+- Clopidogrel 75mg 1 comprimido 1 vez ao dia.
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

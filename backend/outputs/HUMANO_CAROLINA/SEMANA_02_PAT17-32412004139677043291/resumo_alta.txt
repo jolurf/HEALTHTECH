@@ -1,0 +1,56 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão arterial sistêmica
+- Prolapso valvar mitral
+- Tabagista de 1 maço/dia
+- Retocolite
+- Extrassístoles atriais frequentes - em uso de propafenona e propranolol
+2) Dados da Internação
+Data de [entrada] admissão: 24/07/2016
+Data de alta: 04/08/2016?
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Há 2 dias com mal-estar, dispneia e tosse seca. Sem palpitações ou dor torácica. Frequentemente apresenta dispneia sem relação com esforço físico e tontura.
+Diagnóstico da Internação:
+- Taquicardia atrial/flutter de alta resposta ventricular
+- Infarto agudo do miocárdio  sem supradesnivelamento do segmento ST - tipo 2?
+- Delirium hiperativo
+- Artéria coronária direita com origem anômala em seio coronariano esquerdo
+- Hipertireoidismo subclínico - induzido pela amiodarona?
+3) Exames da Internação
+- Tomografia de crânio (26/07/2016): Tênue hipoatenuação da substância branca periventricular, inespecífica, podendo corresponder à gliose, microangiopatia ou leucoencefalopatia. Discretas áreas hipoatenuante bilaterais nas regiões núcleo-capsulares, sugestivas de infartos lacunares. Proeminência dos sulcos entre giros corticais e das cisternas cerebrais. Discreta dilatação não hipertensiva do sistema ventricular supratentorial. Não se observa desvio das estruturas da linha média. Não há sinais de sangramentos intracranianos ou coleções extra-axiais. Calcificações nas porções intracranianas das artérias carótidas internas e no sistema vétebro-basilar.
+- Eletrocardiograma (26/07/2016): sobrecarga de câmaras esquerdas. Alterações da repolarização ventricular.
+- Eletrocardiograma (26/07/2016): flutter atrial. Alterações da repolarização ventricular.
+- Cateterismo cardíaco (27/07/2016): sem lesões obstrutivas, artéria coronária direita origina-se do seio coronariano esquerdo.Tortuosidade e calcificação importante em artéria ilíaca esquerda e aorta.
+- Ecocardiograma transesofágico (26/07/2016): FE 45%, discinesia da região apical, insuficiência mitral discreta, insuficiência tricúspide moderada. Pressão sistólica da artéria pulmonar 35. Sinais de contraste espontâneo no átrio esquerdo. Ausência de imagens de trombos ou massas intracavitárias.
+- Urocultura (28/07/2016): E. coli (>100.000 UFC) multissensível
+- Angiotomografia de coronárias (29/07/2016): Artéria Coronária Direita com emergência do seio de valsalva esquerda e trajeto intra-arterial, com redução luminal de 55%, em relação ao segmento proximal. Escore total de cálcio de 1594 (Agatston) e 1266 (volume), no percentil 98 para a faixa etária e sexo. Presença de redução luminal uniarterial discreta/moderada (~50%) na marginal esquerda.
+- Eletrocardiograma (01/08/2016): alterações da repolarização ventricular.
+4) Terapia Medicamentosa
+Medicação prévia: Propafenona, Propranolol, Anlodipino, Losartana, Budesonida
+Medicação durante a internação: Ácido acetilsalicílico, Clopidogrel, Enoxaparina, Anlodipino, Losartana, Furosemida, Budesonida, Amiodarona, Cloridrato de Ranitidina, Carvedilol, Omeprazol, Ceftriaxona.
+5) Terapia Intervencionista
+- Ablação de circuito arritmogênico por cateter de radiofrequência (02/08/2016): ablação de via lenta nodal com sucesso.
+6) Dispositivos
+- Acesso venoso periférico
+- Cateter central de inserção periférica em membro superior direito
+7 Situação funcional na alta
+Refere episódio de tontura quando movimenta o pescoço pela manhã. Ao monitor apresentou episódio de pausa sinusal de 2 segundos.
+Bom estado geral. Corada, hidratada, anictérica, acianótica, eupneica.
+Escala de coma de Glasgow 15, sem déficits focais. Pupilas discretamente anisocóricas (pupila direita discretamente maior que esquerda).
+Bulhas rítmicas sem sopros audíveis. Frequência cardíaca 58bpm. Pressão arterial média 88mmHg. Estase jugular discreta.
+Murmúrio vesicular presente bilateralmente, sem ruídos adventícios.
+Abdome flácido, indolor, ruídos hidroaéreos presentes.
+Extremidades sem edema ou sinais de trombose venosa profunda.
+8) Status laboratorial na alta
+- 04/08/2016: hemoglobina 11,5 / leucócitos 5000 / plaquetas 191000 / ureia 62 / creatinina 0,82 / magnésio 1,5 / proteína C reativa 1,73
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

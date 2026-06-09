@@ -1,0 +1,53 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão Arterial Sistêmica
+- Diabetes mellitus
+- Cefaleia de característica migranosa, 1 vez por mês
+- Laqueadura
+- Alergia a Captopril
+2) Dados da Internação
+Data de [entrada] admissão: 26/05/2020
+Data de alta: 29/05/2020
+Permanência em UTI?
+- Não
+Motivo da internação: paciente refere que no dia 20/05/2020 após realizar rotação da cabeça surgiu uma cefaleia holocraniana e cervicalgia de forte intensidade, 10/10, pulsátil, de instalação súbita, atingindo seu pico em menos de um minuto, com tontura giratória, náuseas e vômitos e fraqueza em membros superiores e inferiores bilateralmente. A cefaleia se mantém contínua desde então, sem melhora com uso de analgésicos. Sem fonofobia e fotofobia. Chegou a procurar atendimento médico em três ocasiões, com pressão arterial sistólica em torno de 200 mmHg.
+Diagnóstico da Internação:
+- Hemorragia subaracnoidea - Fisher I - provável etiologia secundária a dissecção de artéria vertebral direita, sendo mais provável aneurismas de carótidas como achados de imagem e não causa do evento agudo.
+3) Exames da Internação
+- Tomografia computadorizada e angiotomografia computadorizada de crânio (26/05/2020): acentuado afilamento do calibre na artéria vertebral direita imediatamente após a emergência, associado a interrupção na progressão do contraste na porção distal de V3, sugestiva de dissecção da mesma com oclusão. Observa-se reenchimento de V4, que apresenta-se com irregularidades parietais em todo seu trajeto. Aneurisma sacular de contorno bilobulado na transição dos segmentos cavernoso e clinóideo da artéria carótida interna direita, com orientação superior e medial. Apresenta colo de 0,4 cm, distância dômus-colo de 0,6 cm e maior eixo transverso do domo de 0,9 cm. Aneurisma sacular na transição dos segmentos cavernoso e clinóideo da artéria carótida interna esquerda, com orientação medial. Apresenta colo de 0,3 cm, distância dômus-colo de 0,5 cm e maior eixo transverso do domo de 0,4 cm.
+- Líquido cefalorraquidiano: 3 células (39% linfócitos / 23% monócitos / 38% neutrófilos) / 4160 hemácias / xantocrômico / proteína total 31 / glicose 46 / lactato 40,5.
+- Ressonância magnética de crânio (28/05/2020): sugestivo de dissecção de vertebral, mas sem achado que confirme. Sugerido realizar vessel wall.
+4) Terapia Medicamentosa
+Medicação prévia: Losartana, Anlodipino.
+Medicação durante a internação: Nimodipino, Losartana, Dipirona, Clorpromazina, Lactulose, Bisacodil, Hidralazina.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Paciente relata melhora importante da dor após medicações na madrugada. Mas relata sonolência que não vinha apresentando. Checo prescrição que apresenta prescrição de clorpromazina 6/6h (causa da sonolência referida?). Nega náusea, vômitos, tontura ou qualquer outro sintoma.
+Vigil, orientada, pouco colaborativa, conta a própria história, sem alterações de linguagem
+Motricidade: tônus e trofismo preservados, força grau V nos 4 membros, sem alterações em velocidade e amplitude de movimentos, sem quedas as manobras deficitárias. Reflexos osteotendinosos hipoativos simétricos, Reflexo cutâneo plantar não obtido bilateral.
+Sensibilidade: sem alterações
+Coordenação motora: index-index e calcanhar-joelho sem alterações.
+Presença de sinal de Kernig positivo. Rigidez de nuca presente.
+Nervo óptico (II): acuidade visual 20/25 bilateralmente sem correção, sem alterações em campimetria de
+confrontação, sem dessaturação do vermelho, ausência de defeito pupilar aferente relativo.
+Nervos oculomotor, troclear e abducente (III, IV e VI): pupilas isofotorreagentes, motricidade ocular extrínseca preservada, sacada, seguimento e vergência preservados.
+Nervo trigêmeo (V): sensibilidade facial e motricidade mastigatória preservados
+Nervo facial (VII): sem alterações em mímica facial.
+Nervo vestibulococlear (VIII): ausência de hipoacusia, ausência de nistagmo, reflexo vestíbulo-ocular não testado devido cefaleia intensa.
+Nervo glossofaríngeo e vago (IX, X): palato simétrico, úvula centrada.
+Nervo acessório (XI): força grau V em trapézio e esternocleidomastoideo.
+Nervo hipoglosso (XII): motricidade de língua preservada.
+8) Status laboratorial na alta
+- 29/05/2020: hemoglobina 13,0 / leucócitos 7560 / plaquetas 195000 / ureia 36 / creatinina 0,88 / sódio 138 / potássio 4,3.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

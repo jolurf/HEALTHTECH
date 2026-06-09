@@ -1,0 +1,108 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipotireoidismo (crônico)  
+Dislipidemia (crônica)  
+Hipertensão arterial familiar (diagnosticada em 2023‑10‑26)  
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2023‑10‑22  
+Data de alta: 2023‑11‑17  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Paciente admitido com dor torácica intensa de 14 dias irradiada para membros superiores, piora ao esforço e à noite, associada a dispneia progressiva de 8 meses. Houve elevação de troponina sugerindo lesão miocárdica aguda e suspeita de evento isquêmico. Foi considerada arterite de Takayasu em atividade, com possível comprometimento da artéria subclávia direita (síndrome do roubo) e insuficiência aórtica sintomática.
+Diagnóstico da Internação:  
+Infarto Agudo do Miocárdio sem supradesnivelamento de ST (NSTEMI)  
+Infarto Agudo do Miocárdio com supradesnivelamento de ST (STEMI)  
+Arterite de Takayasu (vasculite de grandes vasos)  
+Estenose da artéria subclávia direita / síndrome do roubo da subclávia  
+Insuficiência aórtica sintomática  
+Aortite (possível desabamento de folheto valvar)  
+Afasia de expressão (diagnosticada em 2023‑11‑11)  
+Oclusão da artéria braquial direita  
+Implante de prótese valvar aórtica biológica (Braile nº 21) – possível aortite associada  
+
+3) Exames da Internação  
+22/10/2023 – POCUS: IAo imp, IMi mod‑imp, dilatação ventricular com FE preservada, derrame pericárdico laminar, VCI variando >50%.  
+22/10/2023 – Angio‑TC tórax e abdome: Espessamento concêntrico do tronco braquiocefálico e terço proximal da subclávia direita com reenchimento distal e redução de calibre da carótida direita; sugestão de arterite de Takayasu.  
+22/10/2023 – Angiografia de aorta torácica (TC): Dilatação de câmaras cardíacas esquerdas; valva aórtica tricúspide; aorta com dimensões normais; origem comum do tronco braquiocefálico e da artéria carótida comum esquerda; espessamento parietal circunferencial do arco aórtico e ramos supra‑aórticos; oclusão proximal da artéria subclávia direita com enchimento médio‑distal via artéria vertebral direita (fluxo reverso); redução difusa do calibre da subclávia direita e da carótida comum direita; ramos abdominais normais. Conclusão: possibilidade de arterite de Takayasu.  
+23/10/2023 – Ecocardiograma transtorácico (ECOTT): VE 58 × 40 mm, SxP 10 × 10 mm, FE 58 % sem alterações segmentares; IAo imp com calcificação acentuada entre válvula não coronariana e coronariana direita gerando falha de coaptação central; IM disc‑mod.  
+23/10/2023 – Cateterismo coronariano (CATE): SLO (sem detalhes adicionais).  
+24/10/2023 – Tomografia Computadorizada de Tórax (sem contraste): Espessamento difuso das paredes brônquicas; micronódulos pulmonares bilaterais < 0,3 cm; sem linfonodomegalias mediastinais significativas; espondilose dorsal incipiente; demais estruturas sem alterações relevantes.  
+24/10/2023 – Angio‑RM de vasos: Não demonstra realce significativo da parede do tronco braquiocefálico e da aorta; ausência de hipersinal em T2; porém observa‑se espessamento concêntrico da aorta ascendente, arco, tronco braquiocefálico, artéria subclávia proximal e carótida comum direita, com estenose significativa do tronco braquiocefálico estendendo‑se à origem da subclávia direita; reenchimento colateral da subclávia direita via artéria vertebral (síndrome do roubo).  
+25/10/2023 – Ressonância Magnética Cardíaca: Dilatação importante do ventrículo esquerdo; demais câmaras com dimensões preservadas; disfunção sistólica discreta do VE (FE 47 %); ausência de fibrose/infarto miocárdico; insuficiência aórtica importante.  
+27/10/2023 – PET‑SCAN: Negativo para atividade inflamatória vascular; leve incremento metabólico na aorta ascendente, sem evidência de processo inflamatório em atividade.  
+13/11/2023 – Angiotomografia de Aorta Torácica: Espessamento circunferencial do segmento ascendente e arco aórtico; espessamento focal na origem dos três ramos supra‑aórticos com estenoses discretas; tronco braquiocefálico exuberantemente espessado e afilado; extensão para carótida comum direita; oclusão da artéria subclávia direita desde a origem; contraste tênue distal sugerindo fluxo reverso vertebral (síndrome do roubo).  
+13/11/2023 – Angiotomografia de membro superior direito: Mesmo padrão descrito acima, com foco na oclusão da artéria braquial direita e fluxo colateral.  
+14/11/2023 – Angio‑TC de aorta e membros superiores: Confirma achados de 13/11/2023 (espessamento circunferencial, estenoses, oclusão da subclávia direita, fluxo reverso).  
+16/11/2023 – Ecocardiograma transtorácico (pos‑op): FEVE 34 %; Ao 33 mm, Ae 32 mm, VE 43 × 31 mm, S 10 mm, PP 10 mm; aumento da espessura da parede ventricular sugerindo remodelamento concêntrico; hipocinesia difusa; valva aórtica bioprotética normofuncionante (IAo central mínima).  
+
+4) Terapia Medicamentosa  
+Medicação prévia:  
+Cloreto de potássio  
+Furosemida  
+Hidrion  
+Levotiroxina  
+Medicação durante a internação:  
+AAS  
+Carvedilol  
+Cefuro  
+Enalapril  
+Enoxaparina  
+Furosemida  
+Levotiroxina  
+
+5) Terapia Intervencionista  
+23/10/2023 – Aortografia  
+23/10/2023 – Cateterismo coronariano  
+23/10/2023 – Ecocardiograma (transtorácico)  
+22/10/2023 – Angio‑TC da aorta  
+24/10/2023 – Angio‑RM de vasos  
+25/10/2023 – Ressonância Magnética Cardíaca  
+08/11/2023 – Troca valvar aórtica (cirurgia)  
+08/11/2023 – Biópsia de vasos sanguíneos intraoperatória  
+11/11/2023 – Extubação (10:40)  
+10/11/2023 – Implante de prótese biológica aórtica (Braile nº 21)  
+
+6) Dispositivos  
+11/11/2023 – Cateter de drenagem venosa jugular (CDL VJD)  
+11/11/2023 – PAI ARE  
+11/11/2023 – 1 fio de sutura MP – VD  
+11/11/2023 – Dreno mediano  
+11/11/2023 – SVD  
+10/11/2023 – Prótese biológica de válvula aórtica Braile nº 21  
+
+7) Situação funcional na alta  
+
+Paciente vigil, orientado, sem déficits neurológicos significativos, apresentando parestesia em membro superior direito. Pressão arterial 110/55 mmHg, ECG normal, sem edema. Pulsos periféricos ausentes em membros inferiores. Exame cardiovascular sem sopros, sem derrame pericárdico.
+
+8) Status laboratorial na alta  
+Laboratório geral: dentro dos limites da normalidade (labs ok)  
+Sorologias: Sífilis negativa, IGRA negativo  
+
+9) Prescrição de Alta  
+Carvedilol 3,125 mg – via oral, 2 vezes ao dia  
+Enalapril 2,5 mg – via oral, 2 vezes ao dia  
+AAS 100 mg – via oral, 1 vez ao dia  
+Levotiroxina 25 µg – via oral, 1 vez ao dia  
+
+10) Orientações de Alta  
+
+Para o paciente:  
+Manter AAS 100 mg diariamente devido ao comprometimento da carótida associado à arterite de Takayasu.  
+Manter levotiroxina 25 µg diariamente.  
+Comparecer ao ambulatório no dia 15/01 no 5.º andar do PAMB‑HC.  
+Solicitar exames laboratoriais de rotina antes da consulta.  
+Retornar ao ambulatório UNVAL dentro de 15 dias pós‑alta.  
+
+Seguimento:  
+Encaminhar ao ambulatório de Vasculites para acompanhamento continuado.  
+Avisar a equipe quando próximo à alta para providenciar a ficha de retorno.  
+Avaliar necessidade de alopurinol em consulta ambulatorial.  
+Manter acompanhamento conjunto com a reumatologia.

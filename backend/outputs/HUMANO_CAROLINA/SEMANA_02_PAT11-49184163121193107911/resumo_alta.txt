@@ -1,0 +1,46 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Profilaxia de nefropatia por contraste
+- Dor torácica tipo anginosa e dispneia
+- Doença arterial coronariana (infarto agudo do miocárdio em 08/2014)
+- Insuficiência renal crônica não-dialítica
+- Hipertensão arterial sistêmica (diagnóstico há 20 anos)
+- Dislipidemia
+- Câncer de mama bilateral - mastectomia em 1996 e 1999, quimioterapia por meses e 35 sessões de radioterapia
+2) Dados da Internação
+Data de [entrada] admissão: 03/01/2026
+Data de alta: 04/01/2026
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Piora da dispneia (classe funcional I no ambulatório) há pouco mais de uma semana, de caráter progressivo. Dispneia aos mínimos esforços, ortopneia, dispneia paroxística noturna, associada a tosse seca e náuseas, que melhora com uso de isossorbida.
+Diagnóstico da Internação:
+- Dispneia
+3) Exames da Internação
+- Ecocardiograma transtorácico (03/01/2026): átrio esquerdo 47 / diâmetro diastólico do ventrículo esquerdo 56 / diâmetro sistólico do ventrículo esquerdo 44 / septo ventricular 8 / parede posterior do ventrículo esquerdo 7 / fração de ejeção do ventrículo esquerdo 50% / pressão sistólica da artéria pulmonar 42. Comprometimento sistólico difuso do ventrículo esquerdo de grau discreto. Insuficiência mitral de grau moderado a importante. Insuficiência tricúspide discreta a moderada.
+4) Terapia Medicamentosa
+Medicação prévia: Carvedilol, Losartana, Ácido acetilsalicílico, Furosemida, Sinvastatina, Clortalidona, Isossorbida, Clopidogrel, Omeprazol.
+Medicação durante a internação: Heparina, Carvedilol, Losartana, Atorvastatina, Ácido acetilsalicílico, Omeprazol.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Sem
+7) Situação funcional na alta
+Consciente, orientado, sem queixas.
+Pressão arterial 120x70 mmHg. Frequência cardíaca 70 bpm. Peso 57,2 kg.
+Murmúrio vesicular presente.
+Bulhas cardíacas rítmicas e normofonéticas, sem sopros.
+Abdome sem alterações.
+Sem edema de membros inferiores.
+8) Status laboratorial na alta
+- 04/01/2016: hemoglobina 10,2 / leucócitos 6090 / plaquetas 161000 / ureia 78 / creatinina 2,28 / sódio 142 / potássio 3,8 / magnésio 1,50 / proteína C reativa 13,44 / INR 1,3 / cálcio ionizado 1,16.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Manter medicações de uso
+10 Orientações de seguimento
+- Retorno em 30 dias no ambulatório de referência
+- Visto cateterismo optado por tratamento clínico

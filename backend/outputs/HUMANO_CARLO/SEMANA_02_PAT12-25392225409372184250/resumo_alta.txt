@@ -1,0 +1,57 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- IC perfil C - Miocardiopatia Chagásica FEVE 19%
+- 2 PCR assistolia: hipercalemia
+- Falha de desmame em 22/01/2019
+- Depende de BIA e inotrópico
+- PO (05/02/19) : Transplante Cardíaco Ortotópico Bicaval - Dr. Fábio Gaiotto
+> SO: Sem intercorrências/CEC: 59 min/Anóxia: 40 min/Isquemia do Órgão: 3h 45min/ Cross real e virtual negativo
+- Rejeição fev/2019 2R // Jun/2019 2R
+2) Dados da Internação
+Data de [entrada] admissão: 13/02/2020
+Data de alta: 14/02/2020
+Permanência em UTI?
+- Não
+Motivo da internação:
+Eletiva para biópsia endomiocárdica de um ano.
+Diagnóstico da Internação:
+- Incluir informações descritas no campo “#HD” ou “#Hipóteses Diagnósticas”
+- Listar diagnósticos que foram sendo detectados durante a internação
+- Não incluir diagnósticos prévios
+- Pós-operatório na internação pode ser colocado como diagnóstico
+- Hipóteses diagnósticas devem ser colocadas, mantendo o ponto de interrogação após caso não haja certeza do diagnóstico (exemplo: hemorragia digestiva alta - gastrite erosiva?”)
+3) Exames da Internação 
+
+- Biópsia Endomiocárdica (14/02/2020): Ausência de rejeição aguda celular (Grau 0R) negativo para critérios histopatológicos ou imunopatológicos de rejeição aguda mediada por anticorpos (PAM0R) a pesquisa imuno-histoquímica da fração c4d do complemento resultou negativa
+4) Terapia Medicamentosa
+Medicação prévia: 
+- Tacrolimus
+- Azatioprina
+- Pred
+- Diltiazem 
+- Propanolol
+- Vitamina D3
+- Omeprazol
+- Sinvastatina
+Medicação durante a internação: Tacrolimo, azatioprina, diltiazem, propranolol, omeprazol, sinvastatina
+5) Terapia Intervencionista
+Biópsia Endomiocárdica Percutânea 14/02/2020
+6) Dispositivos
+7 Situação funcional na alta
+
+Bom estado geral, lúcido, hemodinamicamente estável, eupneico em ar ambiente sem apresentar dessaturação. Sem queixas.
+Glasgow 15; ACv: B1B2 normofonéticas, rítmicas, sem sopros. FC 74 bpm. PA 120x80 mmHg; AR: MV+ em AHT sRA. FR 20 irpm; ABD: sem alterações; Extremidades: quentes e bem perfundidas, sem edema ou cianose.
+8) Status laboratorial na alta
+-
+9) Prescrição de Alta
+
+-
+10) Orientações de alta para o paciente
+
+-
+11) Orientações de seguimento
+
+-

@@ -1,0 +1,61 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Fibrilação Atrial permanente
+- AVC isquêmico aproximadamente em 2018 com  sequela de leve disartria.
+- Hipotireoidismo - há mais de 10 anos tem o diagnóstico
+2) Dados da Internação
+Data de [entrada] admissão: 05/06/2023
+Data de alta: 16/06/2023
+Permanência em UTI?
+Sim
+Motivo da internação:
+Paciente com estenose mitral importante (AVM 1,05 e Gradiente médio 14 mmHg), de etiologia provável
+reumática, sintomática (CF III/IV). Insuficiência mitral importante. Internado para realizacao Troca valvar mitral. Cirurgia programada para as 15h do dia 06/06/23.
+Diagnóstico da Internação:
+- Dupla lesão mitral (Estenose Mitral Importante + Insuficiência Mitral moderada/importante) de etiologia reumática
+- Fibrilação Atrial de Alta Resposta Ventricular no pós operatório, revertida a ritmo sinusal com introdução de amiodarona (iniciado via oral 12/06/23)
+- LRA KDIGO II no pós-operatório, revertida
+3) Exames da Internação
+
+- Biópsia de Valvas Cardíacas (07/06/2023): Valvopatia crônica com calcificação e neovascularização, aspecto morfológico compatível com etiologia reumática
+- Ecocardiograma transtorácico (12/06/2023) – pós-operatório:
+ Fração de ejeção do ventrículo esquerdo de 60% e pressão sistólica da artéria pulmonar estimada em 31 mmHg. Observa-se prótese biológica mitral normofuncionante. Presença de derrame pericárdico discreto, sem sinais de restrição ao enchimento ventricular. Identifica-se ainda derrame pleural à esquerda.
+-Ecocardiograma transtorácico (16/06/2023) – pós-operatório:
+ Átrio esquerdo medindo 40 mm, aorta 31 mm, septo interventricular 10 mm e parede posterior 10 mm. Ventrículo esquerdo medindo 45 x 31 mm, com fração de ejeção estimada em 56%. Pressão sistólica da artéria pulmonar estimada em 33 mmHg. Observa-se valva mitral com prótese biológica apresentando espessura e mobilidade preservadas de seus folhetos, com insuficiência central mínima ao Doppler. Gradiente diastólico átrio esquerdo–ventrículo esquerdo estimado em 6 mmHg (máximo) e 4 mmHg (médio). O PHT foi estimado em 112 ms (valor de referência < 130 ms). Há derrame pericárdico discreto, sem sinais de restrição ao enchimento ventricular.
+4) Terapia Medicamentosa
+Medicação prévia: Digoxina, Furosemida, Metoprolol, Levotiroxina, Paroxetina, Buclina,Complexo B, Rivotril, Varfarina
+Medicação durante a internação: Epsilon,  Octaplex, Fibrinogênio, Cálcio, Protamina, Enoxaparina, Varfarina, Amiodarona, Omeprazol, Furosemida, Levotiroxina, Paroxetina, Simeticona, hidroxizina, difenidramina, hidroclorotiazida, carbonato de magnésio, heparina, hidrocortisona, loratadina, mupirocina, cefuroxima, tartarato de metoprolol, bromazepam, digoxina,
+5) Terapia Intervencionista
+06/06/2022 : Troca de Valva Mitral Prótese Biológica N° 27
+6) Dispositivos
+Dreno de Mediastino, 2 fios MP no Ventrículo Direito, Cateter Venoso Central em Veia Jugular Interna Direita, Cateter de Pressão Arterial Invasiva em Radial esquerda, Acesso Venoso Central em Membro Superior Direito, Sonda Vesical de Demora, Tubo Orotraqueal n° 7
+7 Situação funcional na alta
+
+Avalio paciente em leito de enfermaria, acompanhada da filha. Acordada,
+orientada. Sem queixas ativas no momento. Estável hemodinamicamente, sem DVA.
+Eupneica em ar ambiente. Afebril, com PCR em queda, sem uso de ATB. Sem
+intercorrências nas ultimas 24h. PA 105x65 FC 81 SpO2 95%
+Consciente e orientada, anictérica, acianótica, corada, hidratada.
+ACV: RR, BNF, 2T, sem sopros.
+AR: MV + bilateral, creptos bibasais bilateral
+ABD: Abdome flácido, indolor a palpação, RHA+.
+EXT: Bem perfundidas, TEC <3seg, pulsos amplos e simétricos, sem sinais de
+TVP.
+FO: limpa e seca. Sem sinais flogisticos. Sem instabilidade de esterno.
+8) Status laboratorial na alta
+- Laboratório 12/03/2026 - Hemoglobina 12,8 g/dL, Hematócrito 41%, Leucóticots 9.940/mm³ Plaquetas de 257.000/mm³ Ureia 40 mg/dL Creatinina 1,01 mg/dL Sódio de 141 mEq/L Potássio de 3,4 mEq/L. Proteína C reativa de 31 mg/L. INR de 1,0  TTPA de 32,5 s, com relação paciente/normal de 0,97 Lactato venoso de 16 mg/dL.
+9) Prescrição de Alta
+- Mantenho Hidroxizina por lesões cutaneas (D0 14/06) com perspectiva de 5
+dias
+- Mantenho ACO plena com dose ajustada pelo clearence (enoxaparina 1 mg/kg SC
+1xd) e varfarina em dose de uso prévio à internação (0,5mg 1xd)
+- Mantenho amiodarona VO 200mg 2xd por retorno ao ritmo sinusal
+10 Orientações de alta para o paciente
+Não descrito
+10 Orientações de seguimento
+- Avaliar reintrodução de metoprolol (bom controle de frequência na internação)
+- Na alta, encaminhar para fisioterapia motora por fraqueza prévia de membros
+inferiores

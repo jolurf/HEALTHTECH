@@ -1,0 +1,62 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Febre reumática: Dupla lesão Mitral (IM > EM) --> FEVE 44%
+- Diabetes Mellitus Tipo II
+- Fibrilação Atrial em anticoagulação oral
+- ACVi 11/2016 --> discreta afasia de expressão sequelar
+- Etilista abstinente (6 garrafas de cerveja desde os 13 anos, quase todos os dias; atualmente, somente nos finais de semana)
+- Ex- tabagismo
+2) Dados da Internação
+Data de [entrada] admissão: 31/01/2019
+Data de alta: 09/02/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente interna eletivamente para cirurgia de correção de valvopatia mitral (tem dupla lesão com IM>EM). Foi orientado a suspender Marevan em 22/01 e iniciar clexane em 25/01, mas entendeu que deveria suspender todas as medicações. Refere dispneia CF II, tosse pouco produtiva crônica (é ex-tabagista), sem outras queixas. Nega febre, disúria, mudança do padrão da tosse ou outros.
+Diagnóstico da Internação: 
+     - Internação eletiva para troca valvar mitral
+3) Exames da Internação
+-  Biópsia de Valva natural em posição mitral (04/02/2019): Valva mitral (insuficiência com estenose): Fibrose densa e difusa, proliferação de vasos muscularizados e degeneração
+ mucóide e calcificação moderadas e multifocais em estroma valvar que, associadas
+ às alterações macroscópicas, são consistentes com sequela de doença reumática
+ crônica. Deposição focal de fibrina em superfície ulcerada em área de calcificação em
+ cúspide anterior e fibrose moderada em endocárdio de músculos papilares.
+
+- Ecocardiograma transtorácico (06/02/2019): Seio Aórtico 33 mm AE 59 mm DDVD basal 39 mm DDVD médio 28 mm S 9 mm PP 9 mm  DDVE 66 mm DSVE 45 mm IMVE 116g/m² FE 56%Aumento importante de átrio esquerdo. O volume do átrio esquerdo medido pela regra de Simpson foi estimado em 78 ml/m2 (valor normal < 34ml/ m2). Aumento moderado do ventrículo esquerdo. Aumento moderado de átrio direito. Área do átrio direito estimada
+em 21 cm2. Ventrículo esquerdo apresenta hipertrofia excêntrica e função sistólica preservada, não
+ sendo observadas alterações na mobilidade segmentar de parede. Não foi possível análise
+ da função diastólica. Ventrículo direito apresenta função sistólica normal. Movimentação
+ atípica do septo ventricular. ventrículos Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao doppler insuficiência central mínima. Gradiente diastólico máximo AE-VE estimado em 9 mmhg e médio em 2 mmhg. Valva aórtica apresenta fusão comissural e espessamento de suas válvulas compatíveis com comprometimento reumático, sem redução da abertura valvar. Gradiente sistólico máximo  VE-AO estimado em 17 mmHg. O estudo doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva tricúspide apresenta dilatação do anel com redução da superfície de coaptação de suas cúspides. O estudo doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau moderado. Valva Pulmonar apresenta aspecto e movimentação normais de suas válvulas o estudo doppler e mapeamento com fluxo em cores são normais. Seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais.  Pericárdio com espessura normal e aumento mínimo do líquido. Pressão sistólica em artéria pulmonar estimada pelo doppler em 38 mmhg (vn < 35 mmhg).  Prótese biológica em posição mitral sem sinais de disfunção.  Insuficiência tricúspide de grau moderado.  Insuficiência aórtica de grau discreto.
+- Holter 07/02/2019: 89434 batimentos, FC mínima 35 bpm, FC média 70 bpm, FC máxima 130 bpm, não se registrou atividade ectópica ventricular, Extrassístoles atriais frequentes, isoladas, com pares, episódios de taquicardia atrial não sustentadas com até 16 batimentos, com frequentes batimentos atriais bloqueados, com frequentes batimentos e com condução intraventricular aberrante (contagem subestimada pelo sistema). Em ritmo sinusal, a condução atrioventricular manteve intervalo PR em torno de 0,19 s. A repolarização ventricular não apresentou modificações significativas.
+4) Terapia Medicamentosa
+Medicação prévia: Enalapril, Suspendeu por conta própria (Atenolol, Furosemida, Sinvastatina, Metformina, Alopurinol)
+Medicação durante a internação: Dobutamina, Nitroprussiato de Sódio, noradrenalina, lidocaína, prednisona, atenolol, omeprazol, dipirona, furosemida, sinvastatina, cefuroxima, enoxaparina, varfarina
+5) Terapia Intervencionista
+- 01/02/2019: Cirurgia de Troca Valvar Mitral por prótese biológica n° 31
+6) Dispositivos
+- Dreno Pleural Direito
+- Dreno Mediastinal
+- Fio de Marcapasso no VD
+- Cateter Venoso Central em Veia Jugular Interna direita
+- Pressão Arterial Invasiva em Artéria Radial Direita
+- Sonda Vesical de Demora
+7 Situação funcional na alta
+
+- Paciente assintomatico, hemodinamicamente estável, eupneico em AA. Sem intercorrências nas últimas 24h Função renal em melhora Cr 1,12. Marcadores inflamatórios em queda PCR 190.
+Bom estado geral, boa perfusão periférica, turgência jugular ausente, refluxo hepatojugular ausente.
+ Aparelho respiratório: murmúrio vesicular audível universalmente, sem ruídos adventícios.
+Aparelho cardiovascular: ritmo cardíaco regular, em dois tempos, sopro perfil de prótese. Ferida operatória em bom aspecto, sem saída de secreção.
+ Abdome: flácido, indolor.
+ Membros inferiores: sem edema, panturrilhas livres.
+8) Status laboratorial na alta
+- Laboratório 11/02/2019: Hemoglobina 11.5 g/dL Hematócrito 34% Leucócitos 8000/mm³ Plaquetas 177000/mm³ Ureia 28 mg/dL Creatinina 1,12 mg/dL Sódio 142 mEq/L Potássio 3.2 mEq/L Magnésio 2.00 mg/dL Proteína C Reativa (PCR) 90.32 mg/L Cálcio Ionizado 1.21 mmol/L
+9) Prescrição de Alta
+- Não descrito
+10 Orientações de alta para o paciente
+- Encaminho à UNVAL em 15 dias
+10 Orientações de seguimento
+- Optamos por deixar com anticoagulação (FA prévia desde 2015) - instabilidade atrial -
+rever anticoagulação e reconciliação em ambulatório.

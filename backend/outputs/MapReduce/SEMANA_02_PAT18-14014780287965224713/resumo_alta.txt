@@ -1,0 +1,94 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Infarto Agudo do Miocárdio transmural inferior – 14/08/2018  
+Doença Isquêmica Crônica do Coração – 01/03/2019  
+Dislipidemia (hiperlipidemia mista) – 01/03/2019; 30/09/2019; 04/10/2019  
+Acidente Vascular Cerebral Isquêmico – 11/2017  
+Diabetes Mellitus – 30/09/2019; 04/10/2019  
+Hipertensão Arterial Sistêmica – 30/09/2019; 04/10/2019; 05/10/2019  
+Ex‑tabagista (cessação há 25 anos, alta carga) – 30/09/2019; 04/10/2019  
+Ex‑etilista (ex alcoólatra) – 30/09/2019; 04/10/2019  
+Doença Arterial Coronariana – 04/10/2019; 05/10/2019  
+Ateromatose Carotídea – 04/10/2019  
+
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2019‑09‑30  
+Data de alta: 2019‑10‑10  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Cirurgia eletiva de revascularização miocárdica (CABG) com posterior necessidade de suporte hemodinâmico e ventilatório, manejo clínico de coronariopatia por fraqueza e instabilidade leve, além de episódios de tosse e dispneia pós‑operatória.
+
+Diagnóstico da Internação:  
+Doença arterial coronariana / Coronariopatia / Ateromatose coronariana com extensas calcificações (inclui sinais de revascularização)  
+Área inativa inferolateral  
+Instabilidade hemodinâmica leve  
+Hipertensão  
+Dispneia  
+Cardiomegalia com sinais de congestão  
+Congestão pulmonar (suspeita)  
+Componente pulmonar (?)  
+Derrame pleural bilateral (pequeno)  
+Diverticulose cólica sem sinais inflamatórios agudos  
+Atelectasia  
+Fração de ejeção reduzida (FE 50 %)  
+
+3) Exames da Internação
+Ecocardiograma – 2019 (sem data específica): ECO, FE 55 %  
+Ecocardiograma – 09/10/2019: FE 50 %  
+Eletrocardiograma – (sem data específica): ECG  AREA INATIVA  INFEROLATERAL ??  
+Radiografia de tórax – (sem data específica): RX  SEM CONGESÃO  NEM COLEÇÕES  
+Raio‑X de tórax – 07/10/2019: cardiomegalia sinais de congestão  
+Tomografia Computadorizada de Tórax – 08/10/2019:  
+  “Estruturas vasculares do mediastino com diâmetro preservado. Ateromatose esparsa, com extensas calcificações no território coronariano. Esternorrafia metálica e sinais de revascularização do miocárdio. Densificação dos planos adiposos periesternais, sem coleções significativas. Coração com dimensões normais. Não há linfonodomegalias mediastinais. Traqueia e brônquios principais com calibre normal, pérvios. Bandas parenquimatosas de aspecto atelectásico esparsas por ambas as bases. Restante do parênquima pulmonar sem alterações evidentes. Não se observam focos de consolidação alveolar. Pequeno derrame pleural bilateral. Diverticulose cólica sem sinais inflamatórios agudos.”  
+Tomografia Computadorizada de Tórax – 09/10/2019: “Derrame pleural bilateral atelectasia bases sem consolidações.”  
+
+4) Terapia Medicamentosa
+Medicação prévia: não consta  
+
+Medicação durante a internação:  
+AAS  
+Atenolol  
+Diurético  
+Dobutamina  
+Enalapril  
+Furosemida  
+Insulina regular  
+Noradrenalina  
+Quetiapina  
+
+5) Terapia Intervencionista
+Cirurgia de revascularização do miocárdio (CABG) eletiva – 30/09/2019  
+Retirada de drenos – 02/10/2019  
+Inserção de cateter venoso central (CVC VJID) – 01/10/2019  
+Retirada de cateter venoso central (CVC VJID) – 04/10/2019  
+
+6) Dispositivos
+CVC VJID – 01/10/2019  
+ARD – 01/10/2019  
+Drenos (mediano 50 ml, pleural 0 ml) – 01/10/2019  
+
+7) Situação funcional na alta
+Paciente lúcido, orientado, corado; sem sopros, murmur diminuído em bases; ferida operatória sem sinais de infecção; membros inferiores sem edemas.  
+
+8) Status laboratorial na alta
+10/10/2019: Creatinina 1,88 mg/dL; Ureia 71 mg/dL  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Alta amanhã  
+
+Seguimento (profissionais de saúde):  
+Desmame de DVA; vigiar frequência respiratória; avaliar retirada de drenos ao final da tarde; vigilância hemodinâmica; rotinas de CTI; R1 CCV.

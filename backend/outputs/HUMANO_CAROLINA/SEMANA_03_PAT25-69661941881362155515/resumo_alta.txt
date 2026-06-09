@@ -1,0 +1,60 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana multiarterial e lesão proximal importante em artéria descendente anterior
+- Infarto agudo do miocárdio sem supradesnivelamento do segmento ST em maio de 2019
+- Angina CCS I
+- Cirurgia para correção de hérnia inguinal
+- Prostatectomia por história de neoplasia não documentada há cerca de 5 anos
+- Ex-tabagista de baixa carga (parou há 20 anos).
+- Ex-etilista de baixa carga
+2) Dados da Internação
+Data de [entrada] admissão: 21/10/2019
+Data de alta: 30/10/2019?
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para cirurgia de revascularização miocárdica.
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de revascularização miocárdica eletiva (22/10/2019) - ponte mamária esquerda para artéria descendente anterior, ponte de safena para segundo ramo marginal esquerdo. Revascularização miocárdica incompleta (lesão em artéria coronária direita e ramo diagonal).
+- Atrito pericárdico em pós-operatório imediato sem repercussões clínicas
+3) Exames da Internação
+- Ecocardiograma transtorácico (25/10/2019):
+Ventrículos: ventrículo esquerdo com função sistólica diminuída à custa de acinesia da parede anterior (segmento médio) e septo (segmentos médios). A fração de ejeção foi estimada em 45%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Movimentação atípica do septo ventricular.
+Valva mitral: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto a moderado.
+Valva aórtica: apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais.
+Valva tricúspide: apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto.
+Aorta: aorta ascendente (segmento tubular) não visibilizada de forma adequada para análise.
+Pericárdio: aspecto ecocardiográfico normal.
+Não foi possível estimar a PSAP devido dificuldade técnica em alinhar o feixe do Doppler ao jato da insuficiência tricúspide. Exame realizado na beira do leito, com dificuldades técnicas.
+4) Terapia Medicamentosa
+Medicação prévia: Enalapril, Atenolol, Ácido acetilsalicílico, Atorvastatina, Clopidogrel.
+Medicação durante a internação: Cefuroxima, Omeprazol, Dipirona, Ácido acetilsalicílico, Dobutamina, Noradrenalina, Insulina, Prednisona, Heparina, Carvedilol, Furosemida, Atorvastatina, Clopidogrel, Enoxaparina.
+5) Terapia Intervencionista
+- 22/10/2019: cirurgia de revascularização miocárdica com circulação extracorpórea (ponte mamária esquerda para artéria descendente anterior, ponte de safena para segundo ramo marginal esquerdo). Revascularização miocárdica incompleta (lesão em artéria coronária direita e ramo diagonal). Sem intercorrências. Tempo de circulação extracorpórea de 45 minutos. Anóxia 41 minutos.
+6) Dispositivos
+- Tubo orotraqueal
+- Dreno mediano
+- Dreno pleural esquerdo
+- Fio de marcapasso
+7 Situação funcional na alta
+Paciente assintomático. Nega dor em ferida operatória. Nega dispneia.
+Escala de coma de Glasgow 15.
+Bulhas normofonéticas, rítmicas, sem atrito pericárdico. Frequência cardíaca 95 bpm.
+Pressão arterial deitado: 100 x 60 mmHg. Pressão arterial bipedestação: 100x60 mmHg.
+Turgência jugular negativa. Refluxo hepatojugular negativo.
+Murmúrio vesicular diminuído em bases, sem ruídos adventícios. Frequência respiratória 18 irpm. Saturação periférica de oxigênio 95% em ar ambiente.
+Abdome atípico, ruídos hidroaéreos normativos, flácido, depressível, indolor.
+EXT: quentes e bem perfundidas, sem edema ou cianose;
+Ferida operatória esternal: bom aspecto, seca, sem sinais flogísticos; sem sinais de instabilidade.
+Ferida operatória safenectomia: bom aspecto, seca, sem sinais flogísticos.
+8) Status laboratorial na alta
+- 30/10/2019: hemoglobina 10,5 / leucócitos 15490 / plaquetas 303000 / ureia 45 / creatinina 1,02 / proteína C Reativa 14,42.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

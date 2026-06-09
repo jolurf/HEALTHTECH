@@ -1,0 +1,94 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Insuficiência Mitral moderada por prolapso (Classe Funcional I)  
+Taquicardia ventricular não sustentada (TVNS)  
+Ex‑etilista  
+Ex‑tabagista  
+Hipertensão essencial (primária)  
+Insuficiência Mitral (não especificada)  
+Dor torácica ao respirar  
+Dor torácica atípica (desde os 17 anos)  
+
+Vícios: etilismo (ex‑etilista), tabagismo (ex‑tabagista)  
+
+Cirurgias prévias: não consta  
+
+Alergias: não consta  
+
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2016‑12‑29  
+Data de alta: 2017‑01‑10  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Dor precordial/torácica intensa iniciada em 28/12/2016 após esforço físico, com elevação de troponina e CK‑MB, configurando Infarto Agudo do Miocárdio sem supradesnivelamento do ST (NSTEMI) e lesão coronariana com trombo, requerendo anticoagulação. Aguardava segunda fase de cintilografia miocárdica e precisava de raspagem supra‑ e subgengival nos incisivos inferiores.
+
+Diagnóstico da Internação:  
+Miopericardite?  
+Embolização para coronária?  
+Anomalia coronariana congênita com óstio único à direita  
+Oclusão/trombo da artéria circunflexa (Cx)  
+Estenose ≈ 80 % da artéria descendente anterior (LAD)  
+Infarto agudo do miocárdio sem supradesnivelamento do ST (NSTEMI)  
+Insuficiência mitral moderada  
+Lesão coronariana  
+
+3) Exames da Internação
+29/12/2016 – ECG: ECG sinusal, com extrassistoles ventriculares frequentes, sinais de sobrecarga do ventrículo esquerdo.  
+29/12/2016 – Angiografia de coronárias por tomografia computadorizada: (relato completo conforme documento) “Circulação coronariana com dominância direita… Tronco coronariano único… Artéria Circunflexa com placa não calcificada… Oclusão/suboclusão da Cx… Redução luminal importante da CD… Escore de cálcio coronariano de zero.”  
+29/12/2016 – Ressonância Magnética Nuclear (RNM): Infarto miocárdico anterolateral basal recente, com no‑reflow. Infarto inferior médio‑basal prévio, com envolvimento do papilar pós‑medial. Insuficiência mitral. FEVE 62 %.  
+29/12/2016 – Angiotomografia coronariana (ANGIOTC): (mesmo conteúdo detalhado da angiografia TC descrita acima).  
+30/12/2016 – Ecocardiograma (ECO): AE 39 mm, SV 7 cm, PP 7 cm, VE 55 mm × 35 mm, FEVE 66 %, hipocinesia em segmento basal da parede inferior. Valva mitral com prolapso de cúspide anterior.  
+30/12/2016 – Cateterismo coronariano (CATE): Artéria coronária única com origem do seio aórtico direito, descendente anterior com ponte miocárdica no 1/3 médio, Cx com imagem sugestiva de trombo no 1/3 médio sem restrição ao fluxo, CD com estenose de 80 % no 1/3 médio; VE com acinesia apical e hipocinesia lateral e insuficiência mitral moderada.  
+06/01/2017 – Ultra‑som intracoronário (IVUS): Sem intercorrências; sem imagem negativa de trombo em Cx; imagem de artéria CD no terço médio sugestiva de kink ou compressão extrínseca, sem placa aterosclerótica.  
+02/01/2017 – Cintilografia: Discreta hipocaptação transitória de parede inferior (segmentos apical, médio, basal). Hipocaptação persistente de parede ântero‑lateral (segmento basal).  
+06/01/2017 – Ultrassonografia intravascular de coronárias (USG de coronárias): Reestudo de ACD sem sinais de aterosclerose; artéria coronária direita com tortuosidade importante e área luminal mínima de 2,22 mm²; reestudo de ACX sem lesões obstrutivas, sem imagem negativa sugestiva de trombo.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Atenolol  
+
+Medicação durante a internação:  
+Antibiótico profilático  
+Clexane  
+Enoxaparina  
+Heparina  
+Marevan  
+Varfarina  
+
+5) Terapia Intervencionista
+29/12/2016 – Angiografia coronária (tomografia computadorizada).  
+30/12/2016 – Cateterismo cardíaco com angiografia coronariana.  
+30/12/2016 – Punção femoral direita.  
+09/01/2017 – Punção radial direita (hematoma no local).  
+06/01/2017 – Ultrassonografia intravascular coronariana (IVUS).  
+04/01/2017 – Raspagem supra e subgengival em incisivos inferiores.  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente eupneico, hemodinamicamente estável, sem dor torácica, sem sinais de insuficiência respiratória. Neuro: acordado, orientado. Cardiovascular: frequência cardíaca 60 bpm, sem sinais de descompensação. Respiração: ausculta limpa, saturação adequada. Abdômen flácido, indolor, aceita dieta oral. Extremidades quentes, boa perfusão, hematoma em punção radial direita em melhora.
+
+8) Status laboratorial na alta
+10/01/2017 – INR: 2,0  
+
+9) Prescrição de Alta
+Varfarina 2,5 mg, via oral, 1 dose diária  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Coletar tempo de protrombina em 13/01 e trazer o exame à Unidade de Cuidados (UCO).  
+Retornar ao ambulatório da UCO.  
+Alta hospitalar prevista.  
+
+Seguimento:  
+Retorno ao ambulatório da UCO para acompanhamento.  
+Discussão do caso na reunião de equipe em 12/01.

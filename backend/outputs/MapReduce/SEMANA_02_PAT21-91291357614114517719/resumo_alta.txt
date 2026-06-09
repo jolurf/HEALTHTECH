@@ -1,0 +1,77 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Psoríase  
+Alergia a iodo  
+Angina CCS III  
+Hipertensão arterial sistêmica  
+Obesidade  
+Ex‑tabagista  
+Sedentarismo  
+
+Vícios: ex‑tabagista  
+Cirurgias prévias: não consta  
+Alergias: alergia a iodo  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2019‑01‑16  
+Data de alta: 2019‑02‑01  
+Permanência em UTI? sim  
+
+Motivo da internação:  
+Investigação de dispneia limitante com suspeita de doença arterial coronariana, dor em quadrante superior direito do abdômen, angina CCS III (estável ou de início recente) associada a lesão coronariana significativa e necessidade de revascularização, pós‑operatório de cirurgia com boa recuperação e disfunção da parede lateral do ventrículo esquerdo com instabilidade hemodinâmica requerendo suporte com dobutamina.
+
+Diagnóstico da Internação:  
+Doença arterial coronariana (suspeita)  
+Angina CCS classe III  
+Angina CCS classe III com cateterismo triarterial e lesão de artéria descendente anterior proximal  
+Hipertensão arterial sistêmica  
+Lesão grave de tronco coronariano  
+Pós‑operatório de cirurgia  
+Manutenção em cuidados intensivos  
+
+3) Exames da Internação
+17/01/2019 – Tomografia Computadorizada de Abdome Total:  
+  “Fígado de dimensões e contornos preservados, com atenuação homogênea. Não há dilatação das vias biliares. Baço, pâncreas e adrenais sem particularidades. Rins tópicos, de dimensões normais. Prováveis cistos corticais renais bilaterais. Não se evidenciam imagens de cálculos ou hidronefrose. Ausência de linfonodomegalias ou de líquido livre na cavidade peritoneal. Bexiga com pequena repleção e conteúdo líquido homogêneo. Ateromatose aortoilíaca. Diminuta hérnia umbilical com conteúdo adiposo e sem sinais inflamatórios agudos. Divertículos cólicos sem sinais inflamatórios agudos. Apêndice cecal de aspecto habitual. Espondilose dorsal.”
+19/01/2019 – Tomografia Computadorizada de Abdômen:  
+  “TC de abdômen sem alteração.”
+
+4) Terapia Medicamentosa
+Medicação prévia: não consta  
+
+Medicação durante a internação:  
+Anlodipino  
+Beta bloqueador  
+Dobutamina  
+
+5) Terapia Intervencionista
+18/01/2019 – Cateterismo com provável angioplastia (revascularização coronária)  
+22/01/2019 – Procedimento de revascularização coronária  
+24/01/2019 – Cirurgia de revascularização miocárdica  
+30/01/2019 – Cateterismo triarterial  
+19/01/2019 – Dessensibilização para iodo e ácido acetilsalicílico (AAS)  
+
+6) Dispositivos
+Drenos – 24/01/2019  
+DVA – 24/01/2019  
+
+7) Situação funcional na alta
+Estável, assintomático, sem alterações, laboratórios ok.
+
+8) Status laboratorial na alta
+RENAL: BH 1900, DIU 3700, Na 137, K 3,7, U 88, CR 2,12  
+HEMATOLÓGICO/INFECÇÃO: Temperatura máxima 37,8 °C, Leucócitos 11 330 /mm³, Plaquetas 209 000 /mm³, PCR 210,77 mg/L  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente:  
+Possível alta amanhã.  
+
+Seguimento:  
+Solicitar avaliação alérgico‑imunológica para dessensibilização ao AAS e programar cateterismo cardíaco após dessensibilização ao iodo.

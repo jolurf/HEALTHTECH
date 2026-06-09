@@ -1,0 +1,64 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Profilaxia de nefropatia por contraste – 04/01/2016  
+Doença Arterial Coronariana (infarto agudo do miocárdio em 08/2014) – 04/01/2016  
+Insuficiência Renal Crônica não‑dialítica (creatinina 1,82 mg/dL, FG 28 mL/min – 30/09/2015) – 04/01/2016  
+Hipertensão Arterial Sistêmica – 04/01/2016  
+Dislipidemia – 04/01/2016  
+Câncer de Mama bilateral – mastectomia (1996 e 1999) com quimioterapia e radioterapia – 04/01/2016  
+Vícios (tabagismo, etilismo, uso de drogas): não consta  
+Cirurgias prévias realizadas: mastectomia bilateral (1996 e 1999)  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+Exercício físico: não consta  
+
+2) Dados da Internação
+Data de admissão: 2016‑01‑04  
+Data de alta: 2016‑01‑04  
+Permanência em UTI? não  
+Motivo da internação:  
+  Piora progressiva da dispneia (ortopneia, dispneia paroxística noturna) com tosse seca e náuseas, melhora com isossorbida; ausência de dor torácica, síncope ou febre.  
+Diagnóstico da Internação:  
+Dor torácica tipo anginosa e dispneia (2016‑01‑04)  
+Comprometimento sistólico difuso do ventrículo esquerdo discreto (2016‑01‑04)  
+Insuficiência mitral moderada a grave (2016‑01‑04)  
+Insuficiência tricúspide discreta a moderada (2016‑01‑04)  
+
+3) Exames da Internação
+03/01/2016 – Ecocardiograma:  
+  “eco 03/1/16 ae 47 ve 56/44  sep 8 parede 7 fe 50% psap 42 Comprometimento sistólico difuso do ventrículo esquerdo de grau discreto. Insuficiência mitral de grau moderado a importante. Insuficiência tricúspide de grau discreto a moderado.”
+
+4) Terapia Medicamentosa
+Medicação prévia (antes da internação):  
+  carvedilol, clopidogrel, clortalidona, furosemida, isossorbida, losartana, omeprazol, sinvastatina, ácido acetilsalicílico  
+Medicação durante a internação:  
+  carvedilol, furosemida  
+
+5) Terapia Intervencionista
+não consta  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente consciente, orientado, sem queixas. PA 120/70 mmHg, FC 70 bpm, peso 57,2 kg. Ausculta pulmonar com murmúrio vesicular presente nas bases, sem sopros. Abdômen sem alterações, sem edema de membros inferiores.
+
+8) Status laboratorial na alta
+não consta  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Manter uso de furosemida e demais medicações em uso.  
+Não há restrição hídrica.  
+Solicitar ecocardiograma de controle.  
+Retorno ambulatorial em 30 dias.  
+
+Seguimento:  
+Retorno ambulatorial em 30 dias ao médico de referência.

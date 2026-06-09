@@ -1,0 +1,57 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Tetralogia de Fallot (diagnosticada em 15/04/2019)  
+POT BTM à direita (cirurgia realizada em 1996 – 5 meses de idade)  
+POT correção total (cirurgia realizada em 1997 – 1 a 10 meses de idade)  
+Vícios: não consta  
+Alergias: não consta  
+Internações prévias: não consta  
+Exercício físico: não consta  
+
+2) Dados da Internação
+Data de admissão: 2021‑08‑20  
+Data de alta: 2021‑08‑23  
+Permanência em UTI? não  
+Motivo da internação:  
+  Dor torácica em pontada com dispneia ao esforço, piora da classe funcional (II‑III), necessidade de realização de ressonância magnética e definição de conduta cirúrgica; avaliação arrítmica com Holter; monitoramento de pressão arterial em paciente com cardiopatia congênita (tetralogia de Fallot) e classe funcional II.
+Diagnóstico da Internação:  
+Tetralogia de Fallot (Base)  
+POT BTM à direita  
+POT correção total  
+Residual: insuficiência pulmonar acentuada com dilatação acentuada do ventrículo direito e átrio direito, sem disfunção  
+
+3) Exames da Internação
+[20/08/2021] Holter: FC: 51 / 75 / 131, ausência de arritmias ventriculares. BRD, QRS 170 ms. Apresentou 1 episódio de taquicardia atrial de 5 batimentos.  
+[21/08/2021] Holter: FC: 51 / 75 / 131, ausência de arritmias ventriculares. BRD, QRS 170 ms. Apresentou 1 episódio de taquicardia atrial de 5 batimentos.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  Anticoncepcional oral; Bisoprolol; Enalapril; Furosemida; Ramipril.  
+Medicação durante a internação:  
+  Anticoncepcional oral; Bisoprolol; Enalapril; Furosemdia; Furosemida.  
+
+5) Terapia Intervencionista
+não consta  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente clinicamente estável, classe funcional II, dor torácica esporádica relacionada ao esforço. Exame físico: frequência cardíaca 96 bpm, SatO₂ 97 % em ar ambiente, corado, hidratado, sem icterícia, afebril, sem edema, pulsos normais. Ausculta cardíaca com sopros sistólicos 3+/6+ e diastólicos 3+/4+, irradiação para dorso. Abdômen flácido, fígado 1 cm abaixo do rebordo costal direito.  
+
+8) Status laboratorial na alta
+não consta  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Orientados a observar sinais de alarme e retornar ao pronto‑socorro se necessário.  
+
+Seguimento:  
+Remarcar consulta ambulatorial para janeiro, com ressonância marcada para dezembro, para obtenção de laudo e decisão cirúrgica.

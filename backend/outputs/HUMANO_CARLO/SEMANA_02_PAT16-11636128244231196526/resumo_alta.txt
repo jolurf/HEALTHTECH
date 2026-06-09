@@ -1,0 +1,48 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+Hemorragia Subaracnóidea aneurismática em 2017
+Hipertensão Arterial Sistêmica
+Tabagista
+2) Dados da Internação
+Data de [entrada] admissão: 30/12/2020
+Data de alta: 04/01/2021
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Não descrito
+Diagnóstico da Internação:
+- IAMCSST Killip 2 de parede anterior
+- Pericardite Peri-infarto
+- Fibrilação Atrial de Alta Resposta Ventricular pós IAM 31/12/2020 Cardiovertida com Amiodarona
+3) Exames da Internação
+- Cateterismo Cardíaco 30/12/20: DA 100% lesão terço médio - Angioplastia com stent
+farmacológico. Sem lesões residuais.
+
+- Eletrocardiograma 31/12/2020: Fibrilação atrial - supradesnível de  parede inferior e
+- Tomografía Computadorizada de tórax 01/01/2021: Ateromatose, inclusive coronariana. As estruturas vasculares do mediastino apresentam trajeto e diâmetro normais. Observa-se lâmina líquida pericárdica. A traqueia e os brônquios-fonte estão pérvios, com calibre preservado. Não há linfonodomegalias mediastinais. Nota-se leve espessamento das paredes brônquicas e discreto espessamento de septos interlobulares esparsos pelos pulmões, sugestivo de congestão. Há atelectasias laminares esparsas. Observam-se alguns diminutos nódulos pulmonares menores que 0,5 cm, sem calcificação evidente, distribuídos bilateralmente, de aspecto inespecífico, achado frequente e geralmente desprovido de significado clínico. Evidencia-se discreto derrame pleural bilateral, determinando atelectasias restritivas do parênquima pulmonar adjacente. Observa-se ainda espondilose dorsal. Nos achados abdominais, notam-se sinais de esteatose hepática e formação hipoatenuante ovalada na cortical renal esquerda, de aspecto incaracterístico
+4) Terapia Medicamentosa
+Medicação prévia: Losartana, anlodipino, hidroclorotiazida
+Medicação durante a internação: Cloreto de sódio, omeprazol, clopidogrel, AAS, atorvastatina, amiodarona, colchicina, carvedilol, nicotina adesivo transdérmico, sulfato de magnésio, betametasona creme, enalapril, enoxaparina, espironolactona,
+5) Terapia Intervencionista
+- Angioplastia com stent farmacológico em terço médio de Artéria Descendente Anterior 30/12/2020
+6) Dispositivos
+-
+7 Situação funcional na alta
+
+Paciente evolui assintomático, nega dor precordial, palpitações, tontura ou dispneia. Eliminações presentes, ingesta VO mantida, deambulando. BEG, CHAAAE. PA 100/78 mmHg; FC 80 bpm, TEC< 3 seg, SpO2 98% AA. MV+ sem RA.  RCR 2T BNF TJ-, RHJ-. Abdome inocente. MMII sem edemas ou sinais de TVP, pulsos +.
+8) Status laboratorial na alta
+
+- Laboratório 04/01/2021: Hemoglobina 13,3 g/dL Hematócrito 38% Leucócitos 7000/mm³ Plaquetas 162000/mm³ Ureia 34 mg/dL Creatinina 1,23 mg/dL Magnésio 1,9 mg/dL PCR 33,6 mg/L
+9) Prescrição de Alta
+
+- Aumentamos carvedilol para 25 mg/dia e mantenho dose de enalapril
+- Mantemos DAPT + Atorvastatina 80 mg/dia
+- Modifico dose de AAS para 100 mg/dia e mantenho colchicina 0,5 mg 12/12 horas
+10) Orientações de alta para o paciente
+
+- Retorno ambulatorial na Aterosclerose
+- Encaminho ao ambulatório de cessação de tabagismo
+10 Orientações de seguimento

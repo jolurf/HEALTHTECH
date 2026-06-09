@@ -1,0 +1,53 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana triarterial
+- Episódio de taquiarritmia com ida ao pronto-socorro em maio de 2016
+- HDL baixo
+- Talassemia
+- Elevação de ferritina
+- Neoplasia de pele (várias exéreses - carcinoma basocelular; melanoma)
+- Acidente automobilístico em 2010
+2) Dados da Internação
+Data de [entrada] admissão: 29/08/2016
+Data de alta: 05/09/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de revascularização miocárdica
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de revascularização miocárdica com circulação extracorpórea - com ponte mamária esquerda para artéria descendente anterior, safena para primeiro ramo diagonal, safena para primeiro ramo marginal esquerdo (30/08/2016)
+3) Exames da Internação
+- Radiografia de tórax (03/09/2016): sem congestão.
+4) Terapia Medicamentosa
+Medicação prévia: Ácido acetilsalicílico, Atorvastatina, Bromazepam, Atenolol.
+Medicação durante a internação: Dobutamina, Ácido acetilsalicílico, Furosemida, Noradrenalina, Bromazepam, Bisacodil, Lactulose, Pomada anticoagulante a base de heparina, Atorvastatina, Omeprazol, Heparina, Epoetina alfa ou beta, Sulfato ferroso, Ácido fólico.
+5) Terapia Intervencionista
+- 30/08/2016: cirurgia de revascularização miocárdica com circulação extracorpórea (ponte mamária esquerda para artéria descendente anterior, safena para primeiro ramo diagonal, safena para primeiro ramo marginal esquerdo). Tempo de circulação extracorpórea de 1h38. Tempo de anóxia 1h29.
+6) Dispositivos
+- Dreno mediano
+- Dreno pleural esquerdo
+- Tubo orotraqueal
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Paciente refere apenas insônia associada ao ambiente. Nega dor torácica, dispnéia, palpitações. Nega dor em região da ferida operatória (esterno ou membro inferior esquerdo). Não teve mais exteriorização pelo orifício do dreno.
+Bom estado geral, descorado 2+/4+, hidratado, eupneico, afebril, consciente e orientado.
+Murmúrio vesicular diminuído globalmente sem ruídos adventícios, eupneico. Saturação periférica de oxigênio 95% em ar ambiente.
+Bulhas rítmicas normofonéticas em 2 tempos, sem sopros ou abafamentos. Frequência cardíaca 103 bpm. Ferida operatória de esternotomia sem sinais flogísticos ou deiscências. Sem instabilidade do tórax.
+Abdome plano, ruídos hidroaéreos presentes, indolor.
+Membro inferior direito sem edemas ou sinais de trombose venosa profunda, pulsos pediosos presentes.
+Membro inferior esquerdo com edema +/4+ ou sinais de trombose venosa profunda.
+Cicatriz de safenectomia na coxa esquerda sem sinais flogísticos. Com crosta hemática presente.
+8) Status laboratorial na alta
+- 05/09/2016: hemoglobina 9,3 / leucócitos 10800 / plaquetas 273000 / ureia 37 / creatinina 1,11 / sódio 138 / potássio 4,3 / magnésio 1,9 / proteína C reativa 55,5.
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Retorno na unidade de origem em 30 dias para reavaliação.
+- Solicitado exames para o retorno.
+- Orientado a ir ao pronto-socorro em caso de febre ou sinais de alarme.
+10 Orientações de seguimento
+- Acompanhamento em conjunto pela Hematologia
+- Aguardando avaliação para inclusão no protocolo THE FAMOUS.

@@ -1,0 +1,73 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Doença Isquêmica Crônica do Coração – 03/07/2019  
+Infarto Antigo do Miocárdio – 03/07/2019  
+Infarto Agudo do Miocárdio (IAM transmural da parede inferior e IAM sem supradesnivelamento do segmento ST) – 12/07/2019, maio/2019  
+Distúrbios do Metabolismo de Lipoproteínas – 12/07/2019  
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+Observação: não incluir medicamentos, exames ou prática de exercícios físicos nesta seção.
+
+2) Dados da Internação
+Data de admissão: 2019‑10‑21  
+Data de alta: 2019‑10‑30  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Internação eletiva para cirurgia de revascularização miocárdica (CABG) após evento coronariano agudo, com período pós‑operatório imediato caracterizado por atrito pericárdico e hipotensão ortostática; suporte clínico por lesão pulmonar identificada em ressonância magnética incompleta; pericardite pós‑ressonância magnética com instabilidade hemodinâmica.
+Diagnóstico da Internação:  
+Doença Arterial Coronariana multiarterial  
+Lesão proximal importante da artéria descendente anterior  
+Pericardite pós‑ressonância magnética  
+Insuficiência Cardíaca com fração de ejeção de 35 %  
+Pós‑operatório de cirurgia de revascularização miocárdica eletiva  
+Infarto Agudo do Miocárdio sem supradesnivelamento do segmento ST (IAMSSST)  
+Atrito pericárdico em pós‑operatório imediato sem repercussões clínicas  
+
+3) Exames da Internação
+22/10/2019 – Ressonância Magnética: RM incompleta (lesão em CD e Dg). Sem intercorrências.  
+
+(Outros exames citados (ecocardiogramas, cateterismo, ECG) foram realizados antes da data de admissão e, portanto, não constam nesta seção.)
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  AAS; Atenolol; Atorvastatina; Clopidogrel; Enalapril  
+Medicação durante a internação:  
+  Cefuroxima; DAPT; Dobutamina; Furosemida; Insulina; Noradrenalina; Prednisona  
+
+5) Terapia Intervencionista
+22/10/2019 – Revascularização coronária eletiva (cirurgia de revascularização miocárdica – CRM)  
+25/10/2019 – Retirada de fio de MCP  
+25/10/2019 – Retirada de dreno mediastinal  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Paciente assintomático, nega dor na ferida operatória e dispneia. Sinais vitais: PAS 100 mmHg, PAD 60 mmHg, FC 97 bpm, SpO₂ 95 %. Glasgow 15. Ausculta cardíaca B1B2 normofonéticas, sem atrito pericárdico. Extremidades quentes, sem edema.
+
+8) Status laboratorial na alta
+30/10/2019:  
+Hemoglobina: 10,5 g/dL  
+Hematócrito: 31 %  
+Leucócitos: 15 490 /mm³  
+Plaquetas: 303 000  
+Ureia: 45 mg/dL  
+Creatinina: 1,02 mg/dL  
+PCR: 14,42 mg/L  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente:  
+Vigiar pressão arterial.  
+Suspensão da furosemida.  
+Alta prevista para quinta‑feira.  
+
+Seguimento:  
+não consta

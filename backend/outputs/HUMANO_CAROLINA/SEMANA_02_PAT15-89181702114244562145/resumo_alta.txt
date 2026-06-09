@@ -1,0 +1,42 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Doença arterial coronariana
+- Dislipidemia
+- Ácido úrico elevado
+2) Dados da Internação
+Data de [entrada] admissão: 03/06/2019
+Data de alta: 10/06/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de revascularização miocárdica
+Diagnóstico da Internação:
+- Pós-operatório de cirurgia de revascularização miocárdica (04/06/2019)
+3) Exames da Internação
+- Ecocardiograma transtorácico (05/06/2019): Ventrículo esquerdo apresenta função sistólica preservada, não sendo observadas alterações na mobilidade segmentar de parede. A fração de ejeção foi estimada em 60%. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Insuficiência mitral de grau mínimo. Insuficiência tricúspide de grau discreto. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 22 mmHg.
+- Eletrocardiograma (06/06/2019): alterações da repolarização ventricular
+4) Terapia Medicamentosa
+Medicação prévia: sem
+Medicação durante a internação: Atorvastatina, Ácido acetilsalicílico, Glicose 50%, Cefuroxima, Bromazepam, Atenolol, Omeprazol, Furosemida, Heparina, Ezetimibe, Dipirona.
+5) Terapia Intervencionista
+- 04/06/2019: cirurgia de revascularização miocárdica (artéria torácica interna esquerda para artéria descendente anterior e ponte de safena para artéria marginal esquerda)
+6) Dispositivos
+- Cateter venoso central em veia jugular interna direita
+- Artéria radial direita
+- Sonda vesical de demora
+- Dreno mediano
+- Dreno pleural esquerdo
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+- Evoluindo sem intercorrências. Clinicamente estável. Incisões com boa cicatrização.
+8) Status laboratorial na alta
+- 07/06/2019: hemoglobina 14,0 / leucócitos 11840 / plaquetas 180000 / ureia 30 / creatinina 0,96 / magnésio 2,0 / proteína C reativa 46,58 / sódio 143 / potássio 3,9 / cálcio ionizado 1,20 / INR 0,9
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

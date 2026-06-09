@@ -1,0 +1,50 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Episódio de taquiarritmia com ida ao PS em maio 2016
+- HDL baixo
+- Talassemia
+- " Elevação de ferritina"
+- Neoplasia de pele (várias exéreses - CBC; melanoma)
+- Acidente automobilístico (2010)
+2) Dados da Internação
+Data de [entrada] admissão: 29/08/2016
+Data de alta: 05/09/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+Paciente em acompanhamento com hematologia devido a talassemia
+encaminhado para avaliação cardiológica devido a palpitação. Sem dor torácica
+e sem sinais de IC no momento. Realizou teste ergométrico positivo (sem dor)
+e prosseguiu investigação com cateterismo e cintilografia. Padrão
+triarterial (com lesão importante em DA de 80% m + Dg1 90%o + Dg2 70%p; DP
+1/3 70%m; MGe2 80%m) e cintilografia de alto risco pela queda de FE no
+esforço e infra importante no traçado. Caso foi discutido em Heart Team e
+optou-se por revascularização cirúrgica.
+Diagnóstico da Internação:
+- Internação eletiva para Cirurgia de Revascularização Miocárdica por Doença Arterial Coronariana triarterial
+3) Exames da Internação
+- Radiografia de tórax (03/09): Sem congestão.
+4) Terapia Medicamentosa
+Medicação prévia: AAS, Atorvastatina, Bromazepam, Atenolol
+Medicação durante a internação: Dobutamina, noradrenalina, AAS, atorvastatina, furosemida, Concentrado de Hemácias, Ácido Fólico, bisacodil, bromazepam, lactulose, pomada anticoagulante a base de heparina, heparina, epoetina, sulfato ferroso,
+5) Terapia Intervencionista
+- 30/08/2016: Cirurgia de Revascularização Miocárdica com Circulação Extracorpórea: MaE-DA + SF-Dg1 + Sf-MgE1
+6) Dispositivos
+- Dreno Mediastinal
+- Dreno Pleural Esquerdo
+7 Situação funcional na alta
+- Paciente refere apenas insônia associada ao ambiente. Nega dor torácica, dispnéia, palpitações. Nega dor em região da FO (esterno ou MIE). Não teve mais exteriorização pelo orifício do dreno. Ao exame: BEG, descorado 2+/4+, hidratado, eupnéico, afebril, consciente e orientado. MV + diminuídos globalmente sem RA, eupnéico, SatO2: 95% aa. BRNF em 2T sem sopros ou abafamentos, FC 103. FO de esternotomia sem sinais flogísticos ou deiscências. Sem instabilidade do tórax. Abdome plano, RHA+, indolor. MID sem edemas ou sinais de TVP, pulsos pediosos +. MIE com edema +/4+ ou sinais de TVP. Cicatriz de safenectomia na coxa E sem sinais flogísticos. Com crosta hemática presente
+8) Status laboratorial na alta
+- Laboratório 05/09/2016: Hemoglobina 9.3 g/dL Hematócrito 29% Leucócitos 10800/mm³ Plaquetas 273.000 /mm³ Ureia 37 mg/dL Creatinina 1.11 mg/dL Sódio 138 mEq/L Potássio 4.3 mEq/L Magnésio 1.9 mEq/L Proteína C Reativa (PCR) 55.58 mg/L
+9) Prescrição de Alta
+-
+10 Orientações de alta para o paciente
+- Retorno na Unidade de origem em 30 dias
+- Realização de exames para o retorno
+- Orientação de busca do PS caso febre ou sinais de alarme.
+10 Orientações de seguimento
+- Acompanhamento em conjunto pela Hematologia.
+- Está aguardando avaliação para inclusão no Protocolo THE FAMOUS

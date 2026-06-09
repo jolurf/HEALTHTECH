@@ -1,0 +1,40 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Dislipidemia
+- Ácido Úrico elevado
+2) Dados da Internação
+Data de [entrada] admissão: 03/06/2019
+Data de alta: 10/06/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente assintomático cardiovascular, Num exame de rotina TE sugestivo e cintilografia miocárdica hipocaptação transitória de pequena extensão na porção distal das paredes anterior, anteroseptal e no ápice do VE associado a pequeno componente hipocaptação persistente. FEVE 70% repouso e estresse 60%. Interna para ser submetido a cirurgia de revascularuização miocardica
+Diagnóstico da Internação: 
+
+- Internação eletiva para Cirurgia de Revascularização Miocárdica
+3) Exames da Internação
+4) Terapia Medicamentosa
+Medicação prévia: Não descrito
+
+Medicação durante a internação: Atorvastatina, AAS, Glicose injetável, Bromazepam, omeprazol, furosemida, heparina, ezetimibe, atenolol,
+5) Terapia Intervencionista
+- Cirurgia de Revascularização Miocárdica Artéria Mamária Interna Esquerda-DA e Ponte de Safena-Marginal Esquerdo 04/06/2019
+6) Dispositivos
+- Acesso Venoso Central em Veia Jugular Interna Direita 
+- Sonda Vesical de Demora
+- Fio de Marca-passo
+- Dreno Mediano
+- Dreno Pleural Esquerdo
+7 Situação funcional na alta
+Paciente estável
+8) Status laboratorial na alta
+- Laboratório 07/06/2019: Hemoglobina 14 g/dL Hematócrito 40% Leucócitos 11840/mm³ Plaquetas 180000/mm³ Ureia 30 mg/dL Creatinina 0,96 mg/dL Magnésio 2,0 mg/dL PCR 46.58 mg/dL
+9) Prescrição de Alta
+- Não descrito
+10 Orientações de alta para o paciente
+- Não descrito
+10 Orientações de seguimento
+- Não descrito

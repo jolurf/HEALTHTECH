@@ -1,0 +1,65 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Hipertensão arterial sistêmica  
+Dilatação da aorta ascendente (56 mm)  
+Vícios: não consta  
+Cirurgias prévias realizadas: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 2021‑02‑15  
+Data de alta: 2021‑02‑20  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Admissão eletiva para troca de válvula aórtica e correção de aneurisma da aorta ascendente, seguida de pós‑operatório de cirurgia de Bentall com prótese mecânica, apresentando dilatação da aorta ascendente.
+Diagnóstico da Internação:  
+Insuficiência aórtica por dilatação da aorta ascendente (56 mm)  
+Dilatação da aorta ascendente (56 mm)  
+Pós‑operatório de cirurgia de Bentall de Bono (prótese mecânica)  
+Hipertensão arterial sistêmica  
+
+3) Exames da Internação
+Angiotomografia – “diametros ao ascendete 60 mm”  
+15/02/2021 – Tomografia Computadorizada de Alta Resolução de Tórax:  
+  “Placas ateromatosas esparsas na aorta e território coronariano. Aumento do calibre da aorta em sua porção ascendente medindo 6,3 cm. Demais estruturas vasculares do mediastino com calibre externo preservado. Linfonodos mediastinais e hilares de dimensões preservadas. Não se caracterizam linfonodomegalias mediastinais. Pequena hérnia gástrica hiatal. Lâmina líquida pericárdica. Demais estruturas mediastinais preservadas. Traqueia e brônquios principais permeáveis e de calibre normal. Bandas parenquimatosas esparsas nos campos pulmonares inferiores. Demais porções do parênquima pulmonar sem alterações de significado clínico. Espaços pleurais virtuais. Alterações degenerativas da coluna dorsal.”  
+Ecocardiograma (sem data): “ECO com prótese normofuncionante com queda da FE (esperado na correção de insuficiência aórtica).”  
+20/02/2021 – Ecocardiograma: “ECO com prótese normofuncionante com queda da FE (esperado na correção de insuficiência Ao).”
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  aldactone, Espironolactona, furosemida, HCTZ, Hidroclorotiazida, losartana  
+Medicação durante a internação:  
+  Albumina, anlodipino, Atenolol, Dobutamina, enoxaparin, Enoxaparina, Ipsilon, Nitroprussiato de Sódio, Protamina, Varfarina  
+
+5) Terapia Intervencionista
+16/02/2021 – Cirurgia de troca de válvula aórtica e correção de aneurisma da aorta ascendente  
+16/02/2021 – Cirurgia de Bentall de Bono com prótese mecânica n° 23  
+16/02/2021 – Bloqueio anestésico do plano transverso torácico com ropivacaína  
+20/02/2021 – Abertura de pleura direita com drenagem mediastinal  
+
+6) Dispositivos
+Dreno mediastinal direcionado à pleura direita – 16/02/2021, 19/02/2021, 20/02/2021  
+Cateter venoso central (CVC) em veia jugular interna direita – 16/02/2021  
+PAI em artéria renal direita – 16/02/2021  
+
+7) Situação funcional na alta
+Paciente com boa evolução, deambulando, sem queixas, eupneico, FC 68 bpm, PA 120/70 mmHg, sem sinais de TVP, boa perfusão periférica, sem curativo, limpa e seca.
+
+8) Status laboratorial na alta
+PCR em queda (data não especificada)  
+INR = 1,6 (data não especificada)  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Passo boletim via telefone para filha e oriento sobre programação e uso de anticoagulante.  
+
+Seguimento:  
+Vigiar sinais de síndrome pós‑pericardiotomia; monitorar PCR; avaliar alta se INR > 1,5.

@@ -1,0 +1,45 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+     - Estenose Aórtica importante  + Aneurisma de Aorta Ascendente
+- DRC 
+- HAS desde os 28 anos 
+- Gota 
+- Cirurgias ortopédicas (mão - COM PCR em 1988; menisco)
+2) Dados da Internação
+Data de [entrada] admissão: 06/05/2019
+Data de alta: 14/05/2019
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para cirurgia de Troca Valvar Aórtica e correção de Aneurisma de Aorta Ascendente.
+Diagnóstico da Internação:
+- Estenose Aórtica importante  + Aneurisma de Aorta Ascendente
+- Troca de valva aórtica + interposição de tubo de dacron
+- FA paroxística relacionada ao pós operatório cirúrgico
+3) Exames da Internação
+- Biópsia de valva natural em posição aórtica 08/05/2019: fibrose densa e difusa, infiltrado inflamatório linfomononuclear moderado e focal, proliferação de vasos muscularizados ou de paredes finas, degeneração mucóide moderada e difusa e calcificação intensa com metaplasia óssea em estroma valvar que, em associação com as alterações macroscópicas, são compatíveis com sequela de doença reumática crônica. 
+
+- Biópsia de fragmentos da aorta ascendente (aneurisma) 08/05/2019: fragmentos de artéria elástica exibindo degeneração mucóide moderada e difusa em túnica média, fibrose discreta e focal em túnicas média e íntima e hipertrofia da túnica média em arteríolas de vasa vasorum em adventícia. 
+
+- Ecocardiograma 14/05/2019: Seio Aórtica 38 mm AE 40 mm DDVE 46 mm DSVE 29 mm Septo 11 mm PP 11 mm Índice de Massa 87 g/m² FE 67%. Câmaras cardíacas de tamanhos normais. Ventrículo esquerdo apresenta função sistólica preservada e aumento da espessura relativa de parede sugestivo de remodelamento concêntrico, não sendo observadas alterações na mobilidade segmentar de parede. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Calcificação do anel valvar mitral de grau mínimo. O estudo doppler e mapeamento com fluxo em cores demonstraram insuficiência mitral de grau mínimo. Prótese biológica em valva aórtica com espessura e mobilidade preservadas de seus folhetos, apresentando ao doppler insuficiência central de grau discreto. Gradiente sistólico máximo ventrículo esquerdo-aorta estimado em 20 mmhg e médio em 9 mmhg. Valva tricúspide apresenta aspecto e movimentação normais de suas cúspides. O estudo doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Valva pulmonar apresenta aspecto e movimentação normais de suas válvulas. O estudo doppler e mapeamento com fluxo em cores são normais. Tubo protético em aorta ascendente medindo 30 mm de diâmetro. Derrame pericárdico discreto. Ausência de sinais de restrição ao enchimento ventricular. Pressão sistólica em artéria pulmonar estimada pelo doppler em 37 mmhg (valor normal < 35 mmhg).
+4) Terapia Medicamentosa
+Medicação prévia: Clortalidona, Enalapril, Alopurinol
+Medicação durante a internação: Dobutamina, enalapril, omeprazol, enoxaparina, dipirona, cloreto de potássio, furosemida
+5) Terapia Intervencionista
+- 07/05/2019: Cirurgia de Troca Valvar Aórtica + Interposição de Tubo Dacron
+6) Dispositivos
+- Dreno Mediano
+7 Situação funcional na alta
+- Paciente em bom estado geral, lúcido e orientado no tempo e espaço, corado, hidratado, acianótico, anictérico e afebril. Pressão arterial: 100 x 60 mmHg. Frequência cardíaca: 80 bpm. Aparelho cardiovascular: ritmo cardíaco regular em dois tempos, bulhas normofonéticas, sem sopros, tempo de enchimento capilar menor que 3 segundos, sem turgência jugular e sem refluxo hepatojugular. Aparelho respiratório: murmúrio vesicular universalmente audível, sem ruídos adventícios. Abdome: inocente. Extremidades: bem perfundidas, sem edemas.
+8) Status laboratorial na alta
+- Laboratório 14/05/2019:  Hemoglobina 13.8 g/dL Hematócrito 41% Leucócitos 9530/mm³ Plaquetas 235.000/mm³ Ureia 48 mg/dL Creatinina 1.4 mg/dL Sódio 136 mEq/L Potássio 4.2 mEq/L Magnésio 2.2 mg/dL PCR 62.11 mg/L Cálcio Ionizado 1.11 mMol/L
+9) Prescrição de Alta
+- Varfarina
+10 Orientações de alta para o paciente
+- Orientações sobre o uso de varfarina
+- Acompanhamento ambulatorial
+10 Orientações de seguimento
+- Introduzo anticoagulação com varfarina e solicito TP em 7 dias

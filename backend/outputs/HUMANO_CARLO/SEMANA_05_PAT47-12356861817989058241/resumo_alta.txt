@@ -1,0 +1,36 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): -
+2) Dados da Internação
+Data de [entrada] admissão: 14/08/2018
+Data de alta: 24/08/2018
+Permanência em UTI?
+- Sim
+Motivo da internação: 
+- Paciente refere que há cerca de 2 meses, ao levantar uma porta, sentiu dor torácica em opressão associada a dispnéia e sudorese, com duração de 10 minutos e cessou após 20 minutos de repouso. Desde então sente esse mesmo quadro desencadeado aos mínimos esforços. Procurou serviço externo e realizou teste ergométrico dia 24/07, que constatou infradesnivelamento de ST de 2mm após esforço, sugestivo de isquemia miocárdica. Iniciou medicações dia 02/08 com melhora parcial de sintomas. Vem encaminhado hoje dia 13/08 ao InCor para avaliação de necessidade de cateterismo. Encaminhada ao PS Incor e realizado CATE no dia 13/08 que visualizou lesão de TCE 70%o e DAp60%, sendo indicado procedimento cirúrgico para próxima sexta-feira. ECO TT realizado no dia 15/08 sem alterações, com FEVE preservada. Permaneceu assintomático enquanto no PS e é encaminhado hoje à UCO para monitorização e observação clínica enquanto aguarda cirurgia.
+Diagnóstico da Internação:
+- Angina Instável
+3) Exames da Internação 
+
+- Ecocardiograma transtorácico 15/08/2018: Seio Aórtico 30 mm Átrio Esquerdo 30 mm Ventrículo Direito basal 35 mm Ventrículo direito médio 23 mm Septo 9 mm Parede Posterior 10 mm DDVE 46 mm DSVE 30 mm Índice de Massa 82 g/m² FE 64%. Câmaras cardíacas de tamanhos normais. Ventrículo esquerdo apresenta função sistólica e espessura miocárdica preservadas, não sendo observadas alterações na mobilidade segmentar de parede. Achados de Doppler compatíveis com alteração de relaxamento ventricular esquerdo. Ventrículo direito apresenta função sistólica normal. Valva mitral apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Valva aórtica apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. Valva tricúspide apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau mínimo. Valva pulmonar apresenta aspecto e movimentação normais de suas válvulas. O estudo Doppler e mapeamento com fluxo em cores são normais. A aorta ascendente mede 31 mm. Pericárdio com aspecto ecocardiográfico normal 
+
+- Ultrassom com doppler colorido de carótidas 15/08/2018: Ateromatose carotídea bilateral. Estenose inferior a 50% dos bulbos carotídeos, das artérias carótidas internas. Artérias vertebrais sem sinais de lesão estenosante significativa.
+4) Terapia Medicamentosa
+Medicação prévia: monocordil, diltiazem, propranolol, AAS
+Medicação durante a internação: Épsilon, Dobutamina, Cefuroxima, noradrenalina, AAS, enalapril, atenolol, atorvastatina, enoxaparina, omeprazol, bromazepam, furosemida, dipirona, hidrocortisona, clonazepam, ranitidina, clopidogrel, bisacodil, heparina
+5) Terapia Intervencionista
+-  17/08/2018: Cirurgia de Revascularização Miocárdica sem CEC (Mamária - DA, Safena - Mg)
+6) Dispositivos
+- 2 drenos pleurais, Cateter Venoso Central em Veia Jugular Interna Direita, Cateter de Pressão Arterial Invasiva em Radial Esquerda, Sonda Vesical de Demora, Tubo Orotraqueal, Sonda Vesical de Demora, Fio de Marcapasso no VD
+7 Situação funcional na alta
+- Paciente assintomático. Aceito dieta. Evacuações e diurese presentes. Exame físico: EGB, AAA, normocorado, hidratado, alerta. ACV: RCR, 2T, BNF, sem sopros. FC: 100 bpm. PA: 100 x 60 mmHg. AP: MVU com discreta crepitação em base esquerda. Abd: inocente. Ext: PPP, edema em MIE 1+/4+.
+8) Status laboratorial na alta
+- Laboratório 23/08/2018: Hemoglobina 11.3 g/dL Hematócrito 35% Leucócitos 7630/mm³ Plaquetas 278.000/mm³CKMB Massa 1.5 ng/mL Troponina I 0.218 ng/mL CPK 449 U/L Ureia 54 mg/dL Creatinina 1.29 mg/dL Sódio 142 mEq/L Potássio 4.2 mEq/L TGO 48 U/L TGP 47 U/L Cálcio 8.2 mg/dL Magnésio 2.1 mg/dL Bilirrubina total 0.38 mg/dL Bilirrubina direta 0.12 mg/dL Bilirrubina indireta 0.26 mg/dL Proteína C Reativa (PCR) 72.25 mg/L INR 0.9
+9) Prescrição de Alta
+-
+10 Orientações de alta para o paciente
+-
+10 Orientações de seguimento
+-

@@ -1,0 +1,45 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Infarto agudo do miocárdio sem supradesnivelamento do segmento ST em junho de 2017
+- Doença arterial coronariana com lesão crítica em artéria coronária marginal esquerda e aneurisma em terço médio da artéria coronária direita
+- Hipertensão arterial sistêmica
+- Diabetes mellitus?
+- Ex-tabagista de 25 anos/maço
+2) Dados da Internação
+Data de [entrada] admissão: 20/10/2017
+Data de alta: 22/07/2017
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Internação eletiva para realização de angioplastia coronariana de artéria coronária marginal esquerda com reavaliação da artéria coronária direita. Atualmente informa angina CCS 2 com duração aproximada de 10 minutos , apresenta também sintomas ocasionais ao repouso. Refere melhora angina após uso de medicação. Refere tontura ao se levantar.
+Diagnóstico da Internação:
+- Angioplastia eletiva de artéria coronária circunflexa com 2 stents convencionais
+- Lesão de 50% em artéria coronária direita mantido em tratamento conservador
+3) Exames da Internação
+- Cateterismo cardíaco (21/10/2017): angiografia da artéria coronária direita evidenciou-se lesão de 50% no 1/3 médio, imediatamente antes de dilatação aneurismática da artéria.
+4) Terapia Medicamentosa
+Medicação prévia: Omeprazol, Ácido acetilsalicílico, Clopidogrel, Carvedilol, Enalapril, Atorvastatina, Isossorbida.
+Medicação durante a internação: Clopidogrel, Cloridrato de Ranitidina, Solução fisiológica a 0,9%, Ácido acetilsalicílico, Atorvastatina, Maleato de Enalapril, Isossorbida, Carvedilol,
+5) Terapia Intervencionista
+- 21/10/2017: angioplastia da artéria circunflexa com implante de 2 stents convencionais PROKINETIC. Ao final evidenciado bom aspecto angiográfico da artéria tratada, sem sinais de complicações e fluxo distal TIMI 3.
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+Assintomático.
+Altura 1,60m. Peso 73kg.
+Pressão arterial 130x80mmHg. Frequência cardíaca 68bpm.
+Murmúrio vesicular presente difusamente distribuído, sem ruídos adventícios
+Bulhas cardíacas rítmicas e normofonéticas, sem sopros. Sem turgência jugular ou refluxo hepatojugular.
+Membros inferiores sem edemas. Panturrilhas livres, sem sinais de trombose venosa profunda.
+8) Status laboratorial na alta
+- 20/10/2017: hemoglobina 12,4 / leucócitos 6140 / plaquetas 234000 / colesterol 131 / HDL 45 / LDL 59 / triglicerídeos 134 / CK-MB massa 1,2 / troponina inferior a 0,006 / glicose 82 / ureia 40 / creatinina 1,29.
+9) Prescrição de Alta
+- Atorvastatina 20mg 2 comprimidos por dia.
+- Clopidogrel 75mg 1 comprimido por dia.
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Acompanhamento ambulatorial

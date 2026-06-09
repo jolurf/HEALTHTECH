@@ -1,0 +1,100 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+
+Diagnósticos prévios (Antecedentes Patológicos):  
+Febre reumática com doença da válvula mitral (insuficiência > estenose moderada)  
+Diabetes Mellitus tipo 2  
+Fibrilação atrial (crônica, em anticoagulação)  
+Acidente Vascular Cerebral isquêmico (com afasia leve/sequela)  
+Etilismo (ex‑etilista abstinente)  
+Ex‑tabagismo  
+Hipertensão arterial sistêmica  
+Exame dentário (referência ao histórico odontológico)  
+
+Vícios: etilismo (ex‑etilista abstinente), ex‑tabagismo.  
+
+Cirurgias prévias: nenhuma outra cirurgia relatada além da internação atual.  
+
+Alergias: não consta  
+
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 31/01/2019  
+Data de alta: 09/02/2019  
+Permanência em UTI? não  
+
+Motivo da internação:  
+Cirurgia eletiva de correção da valvopatia mitral (dupla lesão) com troca da válvula mitral por prótese biológica, em paciente com dispneia de esforço grau II, tosse crônica e histórico de fibrilação atrial, diabetes mellitus tipo 2 e doença reumática valvar, necessitando monitoramento pós‑operatório e suporte inotrópico.
+
+Diagnóstico da Internação:  
+Febre reumática (com comprometimento da válvula mitral)  
+Diabetes Mellitus tipo 2  
+Fibrilação atrial (em anticoagulação; intermitente)  
+Acidente vascular cerebral isquêmico (com discreta afasia de expressão sequelar)  
+Etilismo (ex‑etilista abstinente)  
+Ex‑tabagismo  
+Insuficiência/Doença da válvula mitral e substituição por prótese biológica  
+Instabilidade hemodinâmica  
+Instabilidade atrial  
+Bloqueio atrioventricular avançado (BAV 1º G + ESSV)  
+3º pós‑operatório TVMI – PB nº 31  
+
+3) Exames da Internação
+01/02/2019 – Ecocardiograma: FEVE 45%  
+03/02/2019 – Radiografia de tórax: rx de torax com aumento de area cardiaca  
+05/02/2019 – ECG: sinusal com ESSV --> Tinha FA previa  
+06/02/2019 – Ecocardiograma: ECO pos: Protese Mitral normofuncionante, com Ins central minima, PSAP 38, IT mod  
+09/02/2019 – Holter: LAUDO DO HOLTER NO SISTEMA - RITMO SINUSAL / EEAA FREQUENTES, BLOQUEADAS - TANS MÁX 16 BAT.  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+Alopurinol, Atenolol, Enalapril, Furosemida, Marevan, Metformina, Sinvastatina  
+
+Medicação durante a internação:  
+Clexane, Dobutamina, Furosemida, Nitroprussiato, Prednisona  
+
+5) Terapia Intervencionista
+31/01/2019 – Cirurgia de correção ou troca da valva mitral (correção da valvopatia mitral e troca por prótese biológica)  
+01/02/2019 – Cirurgia de correção ou troca da valva mitral (continuação)  
+03/02/2019 – Cirurgia de correção ou troca da valva mitral (finalização)  
+01/02/2019 – SVD (suporte ventilatório)  
+01/02/2019 – PAI‑ARD (pressão arterial invasiva)  
+01/02/2019 – CVC‑VIJD (cateter venoso central)  
+01/02/2019 – Dreno mediano  
+
+6) Dispositivos
+01/02/2019 – DPD (dispositivo de pressão arterial)  
+01/02/2019 – Diabetes Mellitus (registro de monitorização)  
+01/02/2019 – Fio MP VD (fio de monitorização de pressão venosa)  
+01/02/2019 – CVC VJID (cateter venoso central)  
+01/02/2019 – PAI radial D (pressão arterial invasiva radial)  
+01/02/2019 – SVD (suporte ventilatório)  
+01/02/2019 – Dreno mediano  
+
+7) Situação funcional na alta
+Paciente assintomático, hemodinamicamente estável, eupneico, sem intercorrências nas últimas 24 h. PA 120/70 mmHg, FC 71 bpm, boa perfusão periférica, sopro de prótese mitral, sem edema, abdômen flácido e indolor.
+
+8) Status laboratorial na alta
+Hb 10,6 g/dL  
+GB 6,1 10³/µL  
+Plaquetas 119 mil/mm³  
+Ureia 58 mg/dL  
+Creatinina 1,36 mg/dL  
+Na⁺ 145 mmol/L  
+K⁺ 3,7 mmol/L  
+Mg²⁺ 2,6 mg/dL  
+PCR 136 mg/L  
+C‑reactive protein (CRP) 1,22 mg/dL  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta
+Para o paciente:  
+Encaminho à UNVAL em 15 dias.  
+
+Seguimento:  
+Rever anticoagulação (ACO) e reconciliação em ambulatório.

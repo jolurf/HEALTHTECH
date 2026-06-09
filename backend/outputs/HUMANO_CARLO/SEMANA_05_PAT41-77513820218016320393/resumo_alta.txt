@@ -1,0 +1,42 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- ICFE intermediária (47%):Hipertensiva?
+- DM sem uso de insulina
+- HAS
+- Dislipidemia
+- Sobrepeso
+- Transtorno de ansiedade generalizada
+2) Dados da Internação
+Data de [entrada] admissão: 29/10/2021
+Data de alta: 01/11/2021
+Permanência em UTI?
+- Não
+Motivo da internação:
+- Paciente encaminhada da hemodinâmica para avaliação no PS por desconforto
+respiratório em CATE eletivo. Paciente com queixa de piora da dispneia desde a última consulta ambulatorial (CF III-IV) com dor torácica atípica, nem sempre relacionada aos esforços. Solicitado CATE eletivo para avaliação e durante procedimento, após receber 100ml de soro, paciente apresentou piora de dispneia, sem tolerar decúbito, com taquipneia importante, sendo constatado crepitações até ápice pulmonar. Encaminhada ao PS para avaliação com HD de EAP - recebeu na hemo 4 ampolas de furosemida + 2 mg de morfina antes de ser trazida ao PS. Paciente admitida em sala de emergência taquidispneia, com esforço respiratório importante, em uso de máscara. Feito inicialmente medidas
+para EAP - furosemida mais 4 ampolas + iniciado tridil 5ml/h, com melhora importante de padrão respiratório após.
+Diagnóstico da Internação:
+- EAP hipertensivo - resolvido
+3) Exames da Internação
+-
+4) Terapia Medicamentosa
+Medicação prévia: AAS, Anlodipino, Atorvastatina, Carvedilol, Enalapril, Espironolactona, Furosemida, Metformina, Gliblencamida, Omeprazol, Sertralina
+Medicação durante a internação: Tridil, furosemida, furosemida, AAS, Atorvastatina, enalapril, carvedilol, espironolactona, sertralina, omeprazol, enoxaparina
+5) Terapia Intervencionista
+-
+6) Dispositivos
+-
+7 Situação funcional na alta
+- Paciente segue em leito de retaguarda, vigil, orientada, estável hemodinamicamente, eupneica e confortável em AA, tolerando decúbito, sem queixa de dispneia ou dor torácica. Evolui com melhora clínica nas últimas 24 horas. Sem novas intercorrências. PA 135x75 (95), FC 67, Spo2 94% em AA, afebril máx 36,6. Exame físico: BEG, corada, hidratada, anictérica, eupneica. AR: MV+ bilateralmente, estertores crepitantes em BPE, sem sinais de desconforto respiratório, eupneica. AC: RCR em 2T, sopro ejetivo mesossistólico em foco aórtico +2/+6, B2 presente, normofonéticas, sem sopros. TJ -, TEC <3seg. Abdome: globoso, flácido, RHA+, indolor à palpação. MMII: sem edema, sem sinais de TVP, extremidades quentes e bem perfundidas.
+8) Status laboratorial na alta
+- Laboratório 31/10/2021: Sódio 139 mEq/L Potássio 3,8 mEq/L Cálcio Ionizado 1,16 mmol/L
+9) Prescrição de Alta
+- Mantida furosemida 40 mg 2xd
+10 Orientações de alta para o paciente
+-  Retorno ambulatorial no departamento de origem em 30 dias
+10 Orientações de seguimento
+-  Mantida programação de CATE via ambulatorial - oriento retorno ao
+departamento de origem

@@ -1,0 +1,90 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Aneurisma da aorta torácica (sem ruptura) – 27/09/2017  
+Dissecção crônica da aorta (tipo Stanford A) – 07/12/2017; 26/01/2019; 27/01/2019  
+Doença Pulmonar Obstrutiva Crônica (DPOC) – 26/01/2019; 27/01/2019  
+Tuberculose (TBG) – 26/01/2019; 27/01/2019  
+Insuficiência Aórtica Moderada – 26/01/2019; 27/01/2019  
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+Exercício físico: não consta  
+
+2) Dados da Internação
+Data de admissão: 2019‑01‑17  
+Data de alta: 2019‑02‑01  
+Permanência em UTI? sim  
+Motivo da internação:  
+  Avaliação e tratamento cirúrgico de aneurisma/dissecção crônica da aorta torácica tipo Stanford A, com necessidade de troca da aorta ascendente (procedimento de Bentall) e plastia tricúspide. No pós‑operatório apresentaram‑se arritmias (taquicardia supraventricular e fibrilação atrial), delírio hiperativo, suspeita de infecção respiratória (traqueobronquite), pericardite e necessidade de suporte hemodinâmico.
+Diagnóstico da Internação:  
+Dissecção crônica da aorta ascendente (Stanford A)  
+Insuficiência aórtica discreta a moderada  
+CD  
+Taquicardia supraventricular pós‑operatória  
+Pericardite (tratada com corticoide)  
+Fibrilação atrial intermitente (FAARV)  
+Delirium hiperativo (tratado com haldol)  
+Traqueobronquite suspeita (em uso de ceftriaxona)  
+Implante de válvula tricúspide ao (pós‑operatório)  
+
+3) Exames da Internação
+Radiografia de tórax – sem alterações. (data não informada)  
+Radiografia de tórax – 26/01/2019: RX bom.  
+ECG – sem alterações isquêmicas novas. (data não informada)  
+Exame físico – 27/01/2019:  
+NEURO: RASS 0, LOTE PIFR SIMÉTRICAS, SEM DÉFCITS  
+ACV: RCI, BNF, SEM SOPRO, FC 62‑66, PAM 72‑78, SEM DVA  
+AR: MVF, SIMÉTRICOS, SEM RA, SAT 97%  
+ABD: PLANO, FLÁCIDO E INDOLOR.  
+BiT 0,31; TGO 20; TGP 23  
+EXTREM: BEM PERFUNDIDAS, SEM EDEMA.  
+RENAL: DIU 2680 U, Cr 1,41, Na 138, K 3,9, Ca 1,12  
+HEMATOLÓG/INFEC: Hb 8,8 g/dL, Ht 27%, Leuco 11 120, Plaq 94 000, PCR 13,4.  
+Ecocardiograma – Novo ECO com DD grau II e FEP, com PB Ao normofuncionante. (data não informada)
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+  AAS, Alenia, Anlodipino, Atenolol, Atorvastatina, Enalapril  
+Medicação durante a internação:  
+  Alenia, amiodarona, Ancoron, Atenolol, ceftriaxona, colchicina, corticoide, dipirona, dobutamina, enoxaparina, furosemida, haldol, hidrocortisona, ibuprofeno, magnésio, metoprolol, noradrenalina, omeprazol, potássio, prednisona, rocefim, varfarina  
+
+5) Terapia Intervencionista
+18/01/2019 – Troca da aorta ascendente (procedimento de Bentall) com tubo supracoronário de Dacron, válvula aórtica bioprostética (TV Ao BIO 21) e plastia tricúspide.  
+26/01/2019 – Cirurgia de Bentall de Bono modificada.  
+
+6) Dispositivos
+Cateter Venoso Central (CVC) – 18/01/2019  
+Dreno – 18/01/2019  
+SVD – 18/01/2019  
+Fio de MCP – 18/01/2019  
+Sonda Nasogástrica (SNG) – 18/01/2019  
+Cateter de Drenagem em VJID – 18/01/2019  
+Tubo supra‑coronariano em aorta ascendente – 30/01/2019  
+Hemi‑arco de Dacron – 30/01/2019  
+
+7) Situação funcional na alta
+Paciente vigil, orientada, com sono reparador, boa aceitação da dieta, discreto edema de membros inferiores, boa perfusão, cateter venoso periférico. Nega alterações urinárias, do trato gastrointestinal, dispneia e queixas algicas.
+
+8) Status laboratorial na alta
+ECG (último): com ritmo sinusal (RS).  
+Laboratorial (último): função renal em melhora; potássio (K) = 5 mmol/L.  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Reduzir dose de furosemida.  
+Vigiar débito de drenos.  
+Desmame de oxigênio.  
+Mobilização do leito.  
+
+Seguimento:  
+Retorno ambulatorial de terapia física em 7 dias.  
+UNCAR em 15 dias.  
+Consulta ambulatorial de aorta em abril.

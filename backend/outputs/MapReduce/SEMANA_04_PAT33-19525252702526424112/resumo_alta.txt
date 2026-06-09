@@ -1,0 +1,69 @@
+1) Dados do Paciente
+Nome completo: não consta  
+Data de nascimento: não consta  
+Sexo: não consta  
+Diagnósticos prévios (Antecedentes Patológicos):  
+Cardiomiopatia dilatada (05/03/2018)  
+Diabetes mellitus tipo 2 (05/03/2018)  
+Doença isquêmica crônica do coração (04/12/2018)  
+Hiperlipidemia mista (13/03/2019)  
+Vícios: não consta  
+Cirurgias prévias: não consta  
+Alergias: não consta  
+Internações prévias relatadas: não consta  
+
+2) Dados da Internação
+Data de admissão: 26/06/2019  
+Data de alta: 03/07/2019  
+Permanência em UTI? sim  
+Motivo da internação: Revascularização coronariana eletiva e pós‑operatório; doença arterial coronariana triarterial com fração de ejeção reduzida.  
+Diagnóstico da Internação:  
+Doença arterial coronariana multiarterial/triarterial com fração de ejeção reduzida (FE ≈ 45 %)  
+Disfunção ventricular grave  
+Revascularização do miocárdio (procedimento de revascularização – PO RM Ma‑Da; Sf‑MgE1; Sf‑Dg2)  
+
+3) Exames da Internação
+não consta  
+
+4) Terapia Medicamentosa
+Medicação prévia:  
+AAS  
+Atorvastatina  
+Carvedilol  
+Enalapril  
+Furosemida  
+Metformina  
+
+Medicação durante a internação:  
+AAS  
+Atenolol  
+Carvedilol  
+Cefuroxima  
+Dobutamina  
+Enalapril  
+Tridil  
+
+5) Terapia Intervencionista
+Revascularização do Miocárdio – 28/06/2019  
+Revascularização do Miocárdio – 29/06/2019  
+
+6) Dispositivos
+não consta  
+
+7) Situação funcional na alta
+Mantém-se assintomático, sem queixas. Sem intercorrências durante a noite.  
+
+8) Status laboratorial na alta
+Lab 02/07/2019: Hb 11,5 g/dL; Leucócitos 7 160 /mm³; Plaquetas 273 000 /mm³; Ureia 43 mg/dL; Creatinina 0,99 mg/dL; Na⁺ 143 mmol/L; K⁺ 4,2 mmol/L; Mg²⁺ 2,40 mg/dL; PCR 87,16 mg/L  
+
+9) Prescrição de Alta
+não consta  
+
+10) Orientações de alta  
+
+Para o paciente:  
+Oriento paciente quanto ao repouso.  
+Procurar PS‑InCor se houver intercorrências.  
+
+Seguimento:  
+não consta

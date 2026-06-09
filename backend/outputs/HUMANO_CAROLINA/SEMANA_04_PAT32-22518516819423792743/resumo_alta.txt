@@ -1,0 +1,45 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipertensão arterial sistêmica
+- Dislipidemia
+- Obesidade
+- Tabagista ativo
+2) Dados da Internação
+Data de [entrada] admissão: 06/11/2018
+Data de alta: 13/11/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Dor típica às 14h de 05/11/2018. Procurou após 3 horas o pronto-socorro de outro serviço onde foi diagnosticado com infarto agudo do miocárdio, porém recebeu alta sem estratificação e sem trombólise, com melhora da dor e orientação de procurar cardiologista eletivamente. Admitido neste serviço hoje referindo dispneia importante e leve desconforto torácico.
+Diagnóstico da Internação:
+- Infarto agudo do miocárdio com supradesnivelamento do segmento ST anterosseptal evoluído - Killip 2
+3) Exames da Internação
+- Ecocardiograma transtorácico: fração de ejeção do ventrículo esquerdo 35%, acinesia região apical.
+- Cateterismo cardíaco (06/11/2018): lesões residuais em artéria circunflexa (oclusão crônica), ramo marginal (subocluído) e artéria coronária direita (toda doente com 70% distal).
+4) Terapia Medicamentosa
+Medicação prévia: sem
+Medicação durante a internação: Ácido acetilsalicílico, Clopidogrel, Furosemida, Atorvastatina, Omeprazol, Heparina, Espironolactona, Captopril, Carvedilol, Cloreto de Potássio, Enalapril.
+5) Terapia Intervencionista
+- 06/11/2018: angioplastia coronariana de artéria descendente anterior proximal com 2 stents
+6) Dispositivos
+- Acesso venoso periférico
+7 Situação funcional na alta
+Paciente hemodinamicamente estável. Assintomático. Em fase de reabilitação. Sem droga vasoativa.
+Regular estado geral, lúcido e orientado em tempo e espaço.
+Saturação periférica de oxigênio 99%. Frequência cardíaca 78 bpm. Pressão arterial 108x70 mmHg.
+Ritmo cardíaco regular, bulhas normofonéticas, sem sopro.
+Murmúrio vesicular mantido, sem ruídos adventícios. Frequência respiratória 16 irpm.
+Abdome globoso à custa do panículo adiposo, não palpo visceromegalia.
+Extremidades bem perfundidas, sem edema, sem sinais de tromboembolismo venoso.
+8) Status laboratorial na alta
+- 13/11/2018: hemoglobina 13,4 / leucócitos 8110 / plaquetas 119000 / CK-MB 1,8 / troponina 14,33 / glicose 108 / ureia 52 / sódio 136 / magnésio 2,2 / proteína C reativa 68,18 / hemoglobina glicada 5,6% /
+9) Prescrição de Alta
+- Atorvastatina
+- Clopidogrel
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

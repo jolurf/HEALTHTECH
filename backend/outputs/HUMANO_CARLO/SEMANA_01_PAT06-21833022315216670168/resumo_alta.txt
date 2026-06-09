@@ -1,0 +1,55 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Febre Reumática
+- Cirurgia de Troca Valvar Mitral por Prótese Biológica em 2012
+- Surto Agudo em 2015 - atrtite e cardite
+2) Dados da Internação
+Data de [entrada] admissão: 26/04/2018
+Data de alta: 08/05/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para abordagem cirúrgica de doença valvar
+Diagnóstico da Internação:
+- Estenose de prótese biológica mitral (Gradiente médio de 17)
+- Pericardite pós-operatória
+- Paralisia frênica
+- Anemia
+3) Exames da Internação 
+
+- Ecocardiograma Transtorácico (03/05/2018): Seio Aórtico 29 mm, AE 52 mm, Ventrículo Direito Basal 33 mm, Ventrículo Direito Médio 25 mm, Septo 10 mm, Parede Posterior 9 mm, DDVE 49 mm, DSVE 30 mm, Fração de Ejeção 69%, Índice de Massa 95g/m². Aumento importante de átrio esquerdo. Demais câmaras de tamanhos normais. Ventrículo esquerdo apresenta função sistólica e espessura miocárdica preservadas, não sendo observadas alterações na mobilidade segmentar de parede. Não foi possível análise da função diastólica. Ventrículo direito apresenta função sistólica normal. Valva Mitral com Prótese biológica com espessura e mobilidade preservadas de seus folhetos, apresentando ao Doppler insuficiência central mínima. Gradiente diastólico máximo AE-VE estimado em 15 mmHg e médio em 8 mmHg. Em vigência de taquicardia. Valva aórtica apresenta sinais de fibrocalcificação discreta, com mobilidade preservada de suas válvulas. Gradiente sistólico máximo VE-Ao estimado em 12 mmHg. O estudo Doppler e mapeamento comfluxo em cores demonstraram insuficiência de grau discreto. Valva Tricúspide Apresenta aspecto e movimentação normais de suas cúspides. O estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva Pulmonar. Apresenta aspecto e movimentação normais de suas válvulas O estudo Doppler e mapeamento com fluxo em cores são normais. Aorta com seios aórticos, aorta ascendente, e arco aórtico com diâmetros e fluxo normais. Pericárdio com aspecto ecocardiográfico normal. Pressão sistólica em artéria pulmonar estimada pelo Doppler em 46 mmHg (VN < 35 mmHg). Prótese biológica em posição mitral sem sinais de disfunção. Insuficiência aórtica de grau discreto. Insuficiência tricúspide de grau discreto.
+- Tomografia de crânio (04/05/2018): Parênquima cerebral com coeficientes de atenuação normais. Cisternas basais e sylvianas de aspecto normal. Sulcos corticais conservados. Sistema ventricular de morfologia e dimensões normais. Não há calcificações patológicas. Não se observa desvio das estruturas da linha média. Não há sinais de sangramentos intracranianos ou coleções extra-axiais.
+4) Terapia Medicamentosa
+Medicação prévia: medicamentos tomados pelo paciente antes da internação.
+- Benzetacil, Atenolol, furosemida, fluoxetina, ciclobenzaprina
+Medicação durante a internação: Dobutamina, Nitroprussiato de Sódio (Nipride), Fleet Enema, Prednisona, Atenolol, Dipirona, Cefuroxima, Omeprazol, Furosemida, Heparina, Fluoxetina, Lactulsoe, Sulfato Ferroso, Simeticona, Ácido Fólico, Ciclobenzaprina,
+5) Terapia Intervencionista
+- Cirurgia de Retroca valvar Prótese Biológica mitral no 27
+6) Dispositivos
+- Cateter Venoso Central em Veia Jugular Interna Direita
+- Cateter de Pressão Arterial Invasiva em Radial Direita - Dreno mediano
+- Dreno pleural esquerdo
+- Dreno pleural direito
+- Tubo Orotraqueal n° 7,5
+- Sonda Vesical de Demora
+- 1 fio de Marca-passo no Ventrículo Direito
+- Acesso Venoso Periférico em Membro Superior Direito
+7 Situação funcional na alta
+Paciente refere melhora da dispneia e parcial da dor no corpo. Mantém queixa
+de cefaleia occipital. PA:110/60 mmHG FC:88 FR:20 ST:98% ar ambiente
+Regular estado geral, lúcida e orientada em tempo e espaço,,Descorada (++/4+), anictérica
+BRCF em 2t sem sopros.FO seca e sem saída de secreção a expressão manual.
+MVBD s/ RA, Abdome semi globoso, RHA +, flácido, indolor. DB negativo
+Extremidades perfundidas e sem edema
+Glasgow 15 sem déficits focais
+8) Status laboratorial na alta
+- Laboratório 07/05/2018 - Hemoglobina 7 g/dL Hematócrito 23% Leucócitos 11480/m³ Plaquetas 249000/mm³ Ureia 19 mg/dL Creatinina 0,67 mg/dL Sódio 138 mEq/L Potássio 4,6 mEq/L Magnésio 2 mg/dL Proteína C Reativa (PCR) 52.97 mg/L  Cálcio Ionizado 1.3 mMol/L
+9) Prescrição de Alta
+Não descrito
+10 Orientações de alta para o paciente
+Não descrito
+10 Orientações de seguimento
+Não descrito

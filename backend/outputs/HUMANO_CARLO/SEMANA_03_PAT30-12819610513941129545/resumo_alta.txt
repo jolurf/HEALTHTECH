@@ -1,0 +1,85 @@
+1) Dados do Paciente
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos):
+- Hipotireodismo
+- Dislipidemia
+2) Dados da Internação
+Data de [entrada] admissão: 22/10/2023
+Data de alta: 17/11/2023
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Paciente relata que há 8 meses iniciou quadro de dispneia para médios
+esforços, de caráter progressivo, associado à dispneia paroxística noturna,
+procurando por diversas vezes atendimento médico, sem resolução do quadro. Há
+14 dias, iniciou quadro de dor torácica de forte intensidade (9/10),
+progressiva ao longo dos dias, com caráter de aperto e queimação, irradiada
+para MSD e MSE, com piora ao exercício físico, diária, sempre iniciada
+durante à noite, com duração de 1h30 e melhora após o uso de dipirona.
+Diagnóstico da Internação:
+1) Insuficiência Aórtica importante sintomática
+> Etiologia: aortite por Takayasu? Degenerativa?
+2) Arterite de Takayasu
+- Dx na internação: PA divergente + pulsos assimétricos + PCR elevado +
+AngioTC com espessamento concêntrico de subclávia direita + carótida direita
+- PET-SCAN: sem atividade de doença
+- Sífilis e IGRA: negativos
+- Em acompanhamento com reumatologia
+3) Dor Torácica com curva de troponina - IAMSSST provável: Acometimento ostial
+aorta?
+3) Exames da Internação
+- Angiotomografia de Aorta Torácica 22/10/2023: Artefatos de movimento limitando a análise. Dilatação de câmaras cardíacas esquerdas. Valva aórtica tricúspide. Aorta com dimensões normais. Origem comum do tronco braquiocefálico e da artéria carótida comum esquerda. Espessamento parietal circunferencial do arco aórtico, origem de ramos supra-aórticos e tronco braquiocefálico. Oclusão do segmento proximal da artéria subclávia direita, com enchimento médio-distal a partir da artéria vertebral direita por provável fluxo reverso. Redução difusa do calibre dos demais segmentos da artéria subclávia direita e das porções visualizadas da artéria carótida comum direita. Ramos abdominais com trajetos e dimensões normais. Diâmetros aórticos: seio de Valsalva 29x32x32 mm, segmento ascendente 31x32 mm, segmento transverso proximal 25x28 mm, segmento transverso médio 26x27 mm, segmento transverso distal 23x25 mm, segmento descendente (terço médio) 21x22 mm, transição toracoabdominal 17x19 mm, segmento aórtico supra-renal 17x17 mm, segmento aórtico infra-renal 15x15 mm. Conclusão: a possibilidade de arterite de Takayasu deve ser considerada.
+
+- Angiotomografia de Aorta Abdominal e ramos 22/10/2023: Artefatos de movimento limitando a análise. Dilatação de câmaras cardíacas esquerdas. Valva aórtica tricúspide. Aorta com dimensões normais. Origem comum do tronco braquiocefálico e da artéria carótida comum esquerda. Espessamento parietal circunferencial do arco aórtico, da origem de ramos supra-aórticos e do tronco braquiocefálico. Oclusão do segmento proximal da artéria subclávia direita, com enchimento médio-distal a partir da artéria vertebral direita por provável fluxo reverso. Redução difusa do calibre dos demais segmentos da artéria subclávia direita e das porções visualizadas da artéria carótida comum direita. Ramos abdominais com trajetos e dimensões normais. Diâmetros aórticos: seio de Valsalva 29x32x32 mm, segmento ascendente 31x32 mm, segmento transverso proximal 25x28 mm, segmento transverso médio 26x27 mm, segmento transverso distal 23x25 mm, segmento descendente (terço médio) 21x22 mm, transição toracoabdominal 17x19 mm, segmento aórtico supra-renal 17x17 mm, segmento aórtico infra-renal 15x15 mm. Conclusão: a possibilidade de arterite de Takayasu deve ser considerada.
+
+- Ecocardiograma transtorácico 23/10/2023 - VE 58x40 SxP 10x10 FE 58% sem alteração segmentar. Insuficiência aórtica importante, apresenta calcificação mais acentuada entre a válvula não coronariana e coronariana direita gerando falha de coaptação central. Insuficiência mitral discreta a moderada.
+- Cateterismo Cardíaco 23/10/2023: Sem lesões obstrutivas 
+
+- Aortografia 23/10/23: com diâmetro preservado. Não apresenta dissecação da aorta. Apresenta insuficiência aórtica acentuada. Apresenta valva aórtica tricúspide, sem calcificação valvar aórtica
+- Angioressonância de Aorta Torácica 24/10/2023: Imagens de ressonância magnética não demonstram realce significativo da parede do tronco braquiocefálico e da parede aórtica na região do arco aórtico, assim como não se observa hipersinal nas sequências em T2 destas mesmas regiões, não sendo possível afirmar processo inflamatório em atividade por este estudo. A critério clínico, complementar com exames de medicina nuclear para avaliar atividade inflamatória.
+
+- Angiorressonância de Aorta Abdominal 24/10/2023: Imagens de ressonância magnética não demonstram realce significativo da parede do tronco braquiocefálico e da parede aórtica na região do arco aórtico, assim como não se observa hipersinal nas sequências em T2 destas mesmas regiões, não sendo possível afirmar processo inflamatório em atividade por este estudo. A critério clínico, complementar com exames de medicina nuclear para avaliar atividade inflamatória.
+- Angioressonância de Vasos Cervicais 25/10/2023: Porção superior do arco aórtico, tronco braquiocefálico, artérias subclávias, vertebrais, carótidas comuns, externas e internas de calibre e trajeto preservados. Observa-se espessamento concêntrico das paredes da aorta na porção ascendente, envolvendo o arco e tronco braquiocefálico, artéria subclávia proximal, artéria carótida comum direita e artéria carótida interna direita. Este espessamento determina estenose significativa do tronco braquiocefálico, estendendo-se até a origem da artéria subclávia direita, onde se observa oclusão. Os segmentos distais da artéria subclávia direita têm reenchimento por colaterais, possivelmente pela vertebral ipsilateral, configurando roubo da subclávia. A artéria carótida interna direita encontra-se afilada em relação à carótida interna esquerda, possivelmente determinando estenose com cerca de 50% em todo seu trajeto. Demais ramos supra-aórticos, artéria carótida comum esquerda e artéria subclávia esquerda apresentam discreto espessamento parietal de suas origens, sem determinar estenoses significativas. Não se observa hipersinal em T2 e realce após uso de contraste nesses segmentos com paredes espessadas, não sendo possível afirmar processo inflamatório em atividade. Segmentos carotídeos à esquerda sem alterações significativas. Artérias vertebrais pérvias, com dominância à esquerda. Não se observam dilatações. Não se observam dissecções.
+- Ressonância Magnética de Coração 25/10/2023: Átrio direito com dimensões preservadas, análise qualitativa. Ventrículo direito com dimensões preservadas. Função sistólica do ventrículo direito preservada. Átrio esquerdo com dimensões preservadas. Ventrículo esquerdo com dimensões acentuadamente aumentadas, volume diastólico final 278 ml, volume sistólico final 153 ml, índice de massa 97 g/m², massa 154 g, fração de ejeção 47%. Ventrículo direito: maior eixo 77 mm, menor eixo 35 mm, volume diastólico final 109 ml, volume sistólico final 52 ml, fração de ejeção 52%. Aorta e artéria pulmonar: raiz da aorta 29 mm, aorta ascendente 30 mm, aorta descendente 20 mm, tronco pulmonar 23 mm. Outros: átrio esquerdo 32 mm. Disfunção sistólica discreta do ventrículo esquerdo, à custa de hipocinesia difusa, fração de ejeção 47%. Ausência de edema miocárdico. Ausência de realce tardio miocárdico. Ausência de derrame pericárdico. Ausência de trombo intracavitário. Observa-se jato de regurgitação aórtica importante, análise qualitativa. Ventrículo esquerdo: septo 10 mm, parede lateral 9 mm, diâmetro diastólico final 61 mm, diâmetro sistólico final 51 mm.
+
+- PETSCAN 27/10/23: Estudo sem evidências de processo inflamatório vascular em
+atividade nos segmentos corporais avaliados.
+- Angiotomografia de membro superior direito 13/11/2023 - Exame realizado em contexto de urgência. Observa-se espessamento parietal de aspecto circunferencial do segmento ascendente e do arco aórtico, o primeiro podendo estar ao menos parcialmente relacionado à manipulação cirúrgica recente, mas comportando igualmente acometimento pela vasculite de base; segmento descendente sem significativo espessamento parietal. Há também espessamento focal de aspecto circunferencial na origem dos três ramos supra-aórticos, com estenoses discretas. O espessamento parietal do tronco braquiocefálico é mais exuberante e extenso, envolvendo toda a extensão do vaso, que se apresenta difusamente afilado. Observa-se ainda sinais de extensão para a artéria carótida comum direita, igualmente afilada, mas pérvia, e oclusão da artéria subclávia direita desde a origem. Há sinais de tênue contrastação do segmento da artéria subclávia direita após a emergência da artéria vertebral direita, possivelmente refletindo reenchimento por inversão de fluxo vertebral no contexto de síndrome do roubo da subclávia. Os segmentos arteriais do membro superior direito apresentam contrastação frustra na raiz do membro e avaliação limitada nos demais segmentos pelo protocolo realizado, sugere-se correlação ultrassonográfica dirigida. Demais achados: sinais de manipulação cirúrgica no esterno e no mediastino anterior, com esternorrafia metálica, densificação dos planos adiposos regionais, acúmulos líquidos e focos gasosos, achados atribuíveis ao pós-operatório recente. Presença de prótese valvar aórtica. Bandas parenquimatosas na base esquerda. Segmentos arteriais cervicais e demais achados do pescoço detalhados em estudo dirigido da mesma data.
+
+-Angiotomografia de aorta torácica 13/11/2023 - Exame realizado em contexto de urgência. Observa-se espessamento parietal de aspecto circunferencial do segmento ascendente e do arco aórtico, o primeiro podendo estar ao menos parcialmente relacionado à manipulação cirúrgica recente, mas comportando igualmente acometimento pela vasculite de base; segmento descendente sem significativo espessamento parietal. Há também espessamento focal de aspecto circunferencial na origem dos três ramos supra-aórticos, com estenoses discretas. O espessamento parietal do tronco braquiocefálico é mais exuberante e extenso, envolvendo toda a extensão do vaso, que se apresenta difusamente afilado. Observa-se ainda sinais de extensão para a artéria carótida comum direita, igualmente afilada, mas pérvia, e oclusão da artéria subclávia direita desde a origem. Há sinais de tênue contrastação do segmento da artéria subclávia direita após a emergência da artéria vertebral direita, possivelmente refletindo reenchimento por inversão de fluxo vertebral no contexto de síndrome do roubo da subclávia. Os segmentos arteriais do membro superior direito têm contrastação frustra na raiz do membro e avaliação limitada nos demais segmentos pelo protocolo realizado, sugere-se correlação ultrassonográfica dirigida. Demais achados: sinais de manipulação cirúrgica no esterno e no mediastino anterior, com esternorrafia metálica, densificação dos planos adiposos regionais, acúmulos líquidos e focos gasosos, achados atribuíveis ao pós-operatório recente. Presença de prótese valvar aórtica. Bandas parenquimatosas na base esquerda. Segmentos arteriais cervicais e demais achados do pescoço detalhados em estudo dirigido da mesma data.
+- Ecocardiograma transesofágico pré-operatório 10/11/2023:  Função sistólica biventricular preservada, fração de ejeção do ventrículo esquerdo 0,65. Valva aórtica apresenta retração da válvula coronariana esquerda, gerando falha de coaptação; o estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau importante. Valva mitral apresenta aspecto e movimentação normais de suas cúspides; o estudo Doppler e mapeamento com fluxo em cores demonstraram insuficiência de grau discreto. Valva tricúspide sem anormalidades significativas e sem refluxo. Septo atrial íntegro. Ausência de imagens de trombos ou massas intracavitárias.
+
+- Biópsia de fragamento da aorta 13/11/2023 - Deposição difusa de pequena quantidade de material mucóide e fibras elásticas preservadas em túnica média de artéria elástica, com fibrose discreta e difusa em adventícia. Ausência de granulomas ou de alterações histológicas de aortite nesta amostra.
+
+- Biópsia de valva aórtica em posição natural 13/11/2023 - Valvulite crônica em atividade, apresentando necrose focal, infiltrado inflamatório linfoplasmocitário rico em eosinófilos, com formação de microabscessos eosinofílicos e proliferação focal de vasos de paredes muscularizadas e hipertróficas em estroma valvar que exibe ainda fibrose e degeneração mucóide moderadas e difusas, metaplasia adiposa focal e calcificação discreta e focal, ver nota. Ausência de granulomas e de células gigantes nesta amostra. Pesquisas histoquímicas de fungos e bactérias, inclusive bacilos álcool-ácido-resistentes, negativas nesta amostra, métodos de Grocott, Brown-Hopps, Brown-Brenn e Ziehl-Neelsen.
+- Ecocardiograma transtorácico 16/11/2023: Fração de ejeção do ventrículo esquerdo 34%. Aorta 33 mm, átrio esquerdo 32 mm, ventrículo esquerdo 43 x 31 mm, septo 10 mm, parede posterior 10 mm. Ventrículo esquerdo com aumento da espessura relativa de parede, sugestivo de remodelamento concêntrico, e função sistólica reduzida à custa de hipocinesia difusa. Ventrículo direito com hipocinesia discreta. Movimentação atípica do septo ventricular. Insuficiência mitral discreta. Valva aórtica com prótese biológica normofuncionante, com insuficiência aórtica central mínima. Insuficiência tricúspide discreta. Pressão sistólica em artéria pulmonar estimada em 23 mmHg.
+4) Terapia Medicamentosa
+Medicação prévia: Levotiroxina, Hidrion
+Medicação durante a internação: cefuroxima, furosemida, atorvastatina, levotiroxina, enoxaparina, tropicamida solução oftálmica, omeprazol, AAS, midazolam, mupirocina creme, dipirona, heparina, ácido fólico, sulfato ferroso
+5) Terapia Intervencionista
+- 10/11/2023 - Cirurgia de Troca Valvar Aórtica - Prótese Biológica Braile n° 21
+6) Dispositivos
+- Cateter Venoso Central em Veia Jugular Interna Direita
+- Cateter de Pressão Arterial Invasiva em Artéria Radial Esquerda
+- Fio de Marcapasso no Ventrículo Direito
+- Dreno Mediano
+- Sonda Vesical de Demora
+- Tubo Orotraqueal
+7 Situação funcional na alta
+- Avalio paciente em leito de enfermaria, ontem apresentou episódio isolado de tontura ao se levantar, sem síncope, associado à hipotensão sem repercussão hemodinâmica, de resolução espontânea; hoje sem recorrência dos sintomas, pressão arterial 110 x 55 mmHg. Controles: controles com níveis pressóricos mais baixos ontem, pressão arterial 90 x 60 a 97 x64 mmHg; hoje 110 x55 mmHg. Eletrocardiograma sem alterações. Afebril, exames laboratoriais sem alterações. Exame físico: neurológico, vigil, orientada, escala de Glasgow 15, sem déficit, pupilas isocóricas e fotorreagentes, parestesia em membro superior direito, nos dedos da mão direita. Aparelho respiratório: murmúrio vesicular presente, sem ruídos adventícios. Aparelho cardiovascular: ritmo cardíaco regular em dois tempos, sem sopros, tempo de enchimento capilar 2 segundos, turgência jugular e refluxo hepatojugular ausentes, pulsos periféricos não palpáveis em membro superior direito. Abdome: ruídos hidroaéreos presentes, indolor à palpação. Extremidades: sem edemas ou empastamento de panturrilhas.
+8) Status laboratorial na alta
+- Laboratório 17/11/2023: Hemoglobina 9,1 g/dL Hematócrito 26% Leucócitos 5760/mm³ Plaquetas 137.000/mm³ Ureia 33 mg/dL Creatinina 1 mg/dL Sódio 141 mE1/L Potássio 3,9 mEq/L Magnésio 2,1 mg/dL Proteína C Reativa (PCR) 77 mg/dL Cálcio Ionizado 1,21 mmol/L
+9) Prescrição de Alta
+- Iniciada  terapia para Insuficiência Cardíaca (prescrito Carvedilol 3,125 mg 2xd + Enalapril 2,5
+mg 2xd)
+- Mantido AAS 100mg por envolvimento de carótida pelo Takayasu, conforme
+orientado pela reumatologia
+- Mantida levotiroxina 25 mg 1xd devido hipotiroidismo
+10 Orientações de alta para o paciente
+- Retorno no ambulatório dia 15/01 5° andar do PAMB-HC
+- Retorno no ambulatório UNVAL até 15 dias pós alta
+10 Orientações de seguimento
+- Seguimento ambulatorial no ambulatório de vasculites da Reumatologia. Será avaliado alopurinol em ambulatório (Ácido Úrico 11,5 e litíase renal de repetição)
+- Solicitados exames laboratoriais

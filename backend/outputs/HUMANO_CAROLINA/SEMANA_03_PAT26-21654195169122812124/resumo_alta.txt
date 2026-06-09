@@ -1,0 +1,61 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Troca valvar mitral por prótese biológica 31 em 2002
+- Hipertensão arterial sistêmica
+- Dislipidemia
+- Varizes de membros inferiores
+- Doença arterial coronariana uniarterial (artéria descendente anterior 100% ocluída)
+2) Dados da Internação
+Data de [entrada] admissão: 10/02/2016
+Data de alta: 21/02/2016
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Internação eletiva para realização de cirurgia de troca valvar mitral por dupla disfunção de prótese mitral
+Diagnóstico da Internação:
+- Pós-operatório de troca de prótese biológica mitral número 29 (11/02/2016)
+- Insuficiência respiratória aguda pós-operatória - traqueobronquite - em reversão
+3) Exames da Internação
+- Radiografia de tórax: congestão/derrame bibasal.
+- Eletrocardiograma: ritmo sinusal com frequência cardíaca de 70 bpm, intervalo PR no limite superior do normal e bloqueio e bloqueio incompleto do ramo direito.
+- Biópsia (12/02/2016): prótese valvar mitral: prótese valvar biológica apresentando degeneração e calcificação dos folhetos, com áreas de laceração; presença de panus focalmente e deposição superficial de fibrina.
+- Biópsia (12/02/2016): trombo do átrio esquerdo: trombo sanguíneo constituído por fibrina, hemácias e leucócitos íntegros e degenerados.
+- Biópsia (12/02/2016): linfonodo mediastinal: linfonodo com arquitetura preservada, exibindo intensa antracose.
+- Ecocardiograma transtorácico (18/02/2016): átrio esquerdo 51 / ventrículo esquerdo 50 x 33. Fração de ejeção do ventrículo esquerdo 63%. Pressão sistólica da artéria pulmonar 20. Valva mitral com regurgitação, gradiente médio 3. Valva aórtica gradiente máximo 16. Insuficiência aórtica discreta.
+- Eletrocardiograma (18/02/2016): flutter atrial.
+- Radiografia de tórax (19/02/2016): cardiomegalia, congestão pulmonar, derrame pleural bilateral discreto.
+4) Terapia Medicamentosa
+Medicação prévia: Atenolol, Omeprazol, Sinvastatina, Furosemida, Digoxina, Ácido acetilsalicílico.
+Medicação durante a internação: Furosemida, Atenolol, Atorvastatina, Omeprazol, Ringer Lactato, Ácido aminocaproico, Dobutamina, Pantoprazol, Cefuroxima, Dipirona, Ácido acetilsalicílico, Noradrenalina, Hidroclorotiazida, Ceftazidima, Varfarina, Lactulose, Heparina, Cloreto de Potássio, Prednisona, Pomada anticoagulante a base de heparina.
+5) Terapia Intervencionista
+- 11/02/2016: troca de prótese biológica mitral número 29. Bradicardia após betabloqueador em saída de circulação extracorpórea, ficando com ritmo de pacing a 100 bpm, sem outras intercorrências. Tempo de circulação extracorpórea de 1h24 e tempo de anóxia 1h17.
+6) Dispositivos
+- Dreno mediano
+- Dreno pleural direito
+- Dreno pleural esquerdo
+- Fios de marcapasso no ventrículo direito
+- Pressão arterial invasiva em artéria radial direita
+- Cateter venoso central em veia jugular interna esquerda
+- Tubo orotraqueal
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Relata melhora da tosse em relação ao dia anterior, hoje leve tosse seca. Nega ortopnéia ou dispnéia paroxística noturna.
+Bom estado geral, corada, hidratada, acianótica, afebril, anictérica, eupneica.
+Frequência cardíaca 82 bpm / Pressão arterial 108 x 70 mmHg.
+Sem congestão direita ou esquerda
+Murmúrio vesicular presente bilateralmente com estertores grosseiros em bases
+Ritmo cardíaco irregular, primeira bulha normal, sem sopros, segunda bulha normal, atrito pericárdico monofásico.
+Abdome globoso, flácido, indolor, ruídos hidroaéreos presentes, sem visceromegalia.
+Ferida operatória com esterno fixo, sem sinais flogísticos ou secreção basal.
+Membros inferiores com varizes, sem sinais de trombose.
+8) Status laboratorial na alta
+- 21/02/2026: hemoglobina 8,0 / leucócitos 9590 / plaquetas 170000 / ureia 59 / creatinina 1,21 / sódio 138 / potássio 4,0 / magnésio 1,90 / proteína C reativa 58,95 / INR 1,8
+9) Prescrição de Alta
+- Sem
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Mantido corticoterapia devido serosite por 7 dias.

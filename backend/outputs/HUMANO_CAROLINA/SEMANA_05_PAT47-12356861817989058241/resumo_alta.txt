@@ -1,0 +1,49 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: masculino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Sem
+2) Dados da Internação
+Data de [entrada] admissão: 13/08/2018
+Data de alta: 24/08/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+Há cerca de 2 meses, ao levantar uma porta, sentiu dor torácica em opressão associada a dispnéia e sudorese, com duração de 10 minutos e cessou após 20 minutos de repouso. Desde então sente esse mesmo quadro desencadeado aos mínimos esforços. Procurou serviço externo e realizou teste ergométrico dia 24/07, que constatou infradesnivelamento de ST de 2mm após esforço, sugestivo de isquemia miocárdica. Iniciou medicações dia 02/08 com melhora parcial de sintomas.
+Diagnóstico da Internação:
+- Angina instável
+- Pós-operatório de cirurgia de revascularização miocárdica com ponte mamária esquerda para artéria descendente anterior e safena para ramo marginal (17/08/2018)
+3) Exames da Internação
+- Cateterismo cardíaco (13/08/2018): lesão de tronco de coronária esquerda 70% ostial e lesão em  artéria descendente anterior 60% proximal.
+- Ecocardiograma transtorácico (15/08/2018): fração de ejeção do ventrículo esquerdo 64%. Ventrículo esquerdo apresenta função sistólica e espessura miocárdica preservadas, não sendo observadas alterações na mobilidade segmentar de parede. Achados de Doppler compatíveis com alteração de relaxamento ventricular esquerdo. Ventrículo direito apresenta função sistólica normal.
+- Ultrassom de carótidas (15/08/2018): Ateromatose carotídea bilateral. Estenose inferior a 50% dos bulbos carotídeos, das artérias carótidas internas. Artérias vertebrais sem sinais de lesão estenosante significativa.
+4) Terapia Medicamentosa
+Medicação prévia: Monocordil, Diltiazem, Propranolol, Ácido acetilsalicílico.
+Medicação durante a internação: Ácido acetilsalicílico, Enalapril, Atenolol, Atorvastatina, Enoxaparina, Omeprazol, Bromazepam, Cefuroxima, Dobutamina, Cristalóide, Albumina, Noradrenalina, Dipirona, Furosemida, Hidrocortisona, Clonazepam, Clopidogrel, Atorvastatina, Ranitidina, Bisacodil, Heparina.
+5) Terapia Intervencionista
+- 17/08/2018: cirurgia de revascularização miocárdica com ponte mamária esquerda para artéria descendente anterior e safena para ramo marginal. Sem intercorrências. Sem circulação extracorpórea.
+6) Dispositivos
+- Drenos pleurais
+- Cateter venoso central em veia jugular interna direita
+- Pressão arterial invasiva em artéria radial esquerda
+- Sonda vesical de demora
+- Tubo orotraqueal
+- Fio de marcapasso no ventrículo direito
+- Cateter nasal de oxigênio
+7 Situação funcional na alta
+Paciente assintomático. Aceitou dieta. Evacuações e diurese presentes.
+Bom estado geral, anictérico, acianótico, afebril, normocorado, hidratado, alerta.
+Ritmo cardíaco regular, 2 tempos, bulhas normofonéticas, sem sopros. Frequência cardíaca 100 bpm. Pressão arterial 100 x 60 mmHg.
+Murmúrio vesicular universal com discreta crepitação em base esquerda
+Abdome inocente
+Edema em membro inferior esquerdo 1+/4+
+8) Status laboratorial na alta
+- 22/08/2018: hemoglobina 11,3 / leucócitos 7630 / plaquetas 278000 / CK-MB 1,5 / troponina 0.218 / CPK 449 / ureia 54 / creatinina 1,29 / sódio 142 / potássio 4,2 / TGO 48 / TGP 47 / cálcio 8,2 / magnésio 2,1 / bilirrubina total 0,38 / bilirrubina direta 0,12 / bilirrubina indireta 0,26 / proteína C reativa 72,2 / INR 0,9 / TTPA 25,2 segundos.
+9) Prescrição de Alta
+- Clopidogrel 75mg 1 comprimido 1 vez ao dia
+- Atorvastatina 20mg 2 comprimidos 1 vez ao dia
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem

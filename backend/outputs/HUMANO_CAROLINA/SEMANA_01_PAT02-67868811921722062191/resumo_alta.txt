@@ -1,0 +1,38 @@
+1) Dados do Paciente
+Nome completo:
+Data de nascimento:
+Sexo: Feminino
+Diagnósticos prévios (Antecedentes Patológicos):
+- Sem
+2) Dados da Internação
+Data de [entrada] admissão: 05/10/2018
+Data de alta: 09/10/2018
+Permanência em UTI?
+- Sim
+Motivo da internação:
+- Realização de cateterismo diagnóstico após infarto agudo do miocárdio com supradesnivelamento do segmento ST trombolisado no hospital de origem (Grajaú).
+Diagnóstico da Internação:
+- Infarto agudo do miocárdio com supradesnivelamento do segmento ST (ínfero-lateral). Trombolisado no Grajaú com critério de reperfusão. Delta T de 8 horas.
+3) Exames da Internação
+- Cateterismo cardíaco (05/10/2018): lesão focal de 100% em terço distal da artéria descendente anterior. Circulação colateral (grau I) da artéria coronária direita para a artéria descendente anterior.
+- Ecocardiograma transtorácico (05/10/2018): fração de ejeção de 50%. Aumento atrial. Acinesia de toda a parede apical.
+- Eletrocardiograma: mantido supradesnivelamento do segmento ST anterior e inferior (mesmo padrão desde a admissão no InCor)
+- Angiotomografia de coronária (08/10/2018): artéria descendente anterior afilada a partir do terço médio, sem no entanto, caracterizar dissecção ou placa aterosclerótica. Escore total de cálcio de zero. Ausência de redução luminal coronariana significativa relacionada a aterosclerose.
+4) Terapia Medicamentosa
+Medicação prévia: sem
+Medicação durante a internação: Tridil, dupla antiagregação plaquetária, enoxaparina, relaxante muscular.
+5) Terapia Intervencionista
+- Sem
+6) Dispositivos
+- Sem
+7 Situação funcional na alta
+- Não tem evolução da alta
+8) Status laboratorial na alta
+- 0910/2018: Hemoglobina 10,6 / Leucócitos 12080 / Plaquetas 368000 / CK-MB 0,32 / Troponina 7,83 / Ureia 29 / Creatinina 0,83 / Sódio 137 / Potássio 4,5 / Mutação da protrombina ausente / Mutação do fator V Leiden ausente / Homocisteína 7,41 / Pesquisa anticoagulante lúpico negativo / Proteína C 135% / Proteína S - livre 58% / Antitrombina III 95%
+9) Prescrição de Alta
+- Clopidogrel
+- Atorvastatina
+10 Orientações de alta para o paciente
+- Sem
+10 Orientações de seguimento
+- Sem
