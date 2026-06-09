@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-03T12:34:59.138623",
+  "id_resumo": "SEMANA_03_PAT28-22977891310816324220",
+  "modelo": "MapReduce",
+  "avaliador": "admin",
+  "grau_incerteza": 6,
+  "sem_contradicoes": 6,
+  "dados_respaldados": 6,
+  "erro_factual": "Sim",
+  "natureza_erro": "Contradição",
+  "gravidade_clinica": "Inócuo",
+  "evita_redundancias": 6,
+  "tamanho_apropriado": 5,
+  "secoes_cobertura": "{\"0\":4,\"1\":4,\"2\":4,\"3\":4,\"4\":4,\"5\":4,\"6\":4,\"7\":4,\"8\":4,\"9\":4,\"10\":4}",
+  "eventos_clinicos": 6,
+  "info_essencial": 6,
+  "uso_clinico": "Sim, com ressalvas",
+  "tempo_avaliacao": 10,
+  "comentarios": "teste"
+}

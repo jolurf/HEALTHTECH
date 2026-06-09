@@ -1,0 +1,22 @@
+# Variáveis de ambiente — NUNCA versionar (contém senhas)
+.env
+
+# Ignorar ambiente virtual
+backend/venv/
+
+# Ignorar banco SQLite
+backend/avaliacoes.db
+
+# Ignorar tudo dentro de outputs
+backend/outputs/*
+
+# Exceto um arquivo específico
+!backend/outputs/MapReduce/CAROLINA/*/resumo_alta.txt
+
+ANOTACAO_1o-SEMESTRE2026
+
+__pycache__/*
+
+# PDFs clínicos — ficam só no servidor (volume Docker / deploy manual)
+backend/PDFs/*
+!backend/PDFs/.gitkeep

@@ -1,0 +1,37 @@
+{
+  "_nota": "Senhas armazenadas como PBKDF2-HMAC-SHA256. Use /admin/resetar-senha para alterar.",
+  "usuarios": [
+    {
+      "username": "Carolina",
+      "email": "",
+      "senha": "5732d867336965d68a94c9b885fd8bb34947e21dc69c4bd01cd62a77d7e6565b",
+      "senha_salt": "c0f717e550a0bea33c93bc2fa85e6375",
+      "permissoes_revisao": [
+        "MapReduce",
+        "HUMANO_CARLO"
+      ]
+    },
+    {
+      "username": "Carlo",
+      "email": "",
+      "senha": "103f613424c0571976defede2f8f03a1880f0d3f26f72a9083b646fb2722e9a9",
+      "senha_salt": "f1f2dda8669416f6becd90df08e386dc",
+      "permissoes_revisao": [
+        "MapReduce",
+        "HUMANO_CAROLINA"
+      ]
+    },
+    {
+      "username": "admin",
+      "email": "joaoreisfreitas@gmail.com",
+      "senha": "84b298f605abe384335c281d038b1511418d5af8fe0a5ab9e10073607831a904",
+      "senha_salt": "1d908820da8411923751844f1aad69b6",
+      "permissoes_revisao": [
+        "MapReduce",
+        "RAG",
+        "HUMANO_CARLO",
+        "HUMANO_CAROLINA"
+      ]
+    }
+  ]
+}

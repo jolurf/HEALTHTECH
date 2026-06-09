@@ -1,0 +1,6 @@
+.git/
+.claude/
+**/__pycache__/
+**/*.pyc
+backend/venv/
+ANOTACAO_1o-SEMESTRE2026
