@@ -41,7 +41,7 @@ app.add_middleware(
 # =========================================================
 
 BASE_OUTPUTS   = Path("outputs")
-BASE_PDFS      = Path("PDFs")
+BASE_PDFS      = Path(os.environ.get("PDFS_PATH", "PDFs"))
 USUARIOS_FILE  = Path(os.environ.get("USUARIOS_FILE", "usuarios.json"))
 BACKUPS_DIR    = Path("backups")
 DB_PATH        = os.environ.get("DB_PATH", "avaliacoes.db")
