@@ -17,6 +17,8 @@ import shutil
 import threading
 import os
 import time
+import re
+import urllib.request
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
@@ -53,6 +55,83 @@ def _inicializar_usuarios():
             shutil.copy(bundled, USUARIOS_FILE)
 
 _inicializar_usuarios()
+
+# =========================================================
+# BOOTSTRAP LFS — baixa PDFs reais do GitHub LFS no 1º boot
+# =========================================================
+
+def _bootstrap_pdfs():
+    token = os.environ.get("GITHUB_TOKEN")
+    repo  = os.environ.get("GITHUB_REPO")
+    if not token or not repo:
+        print("[LFS] GITHUB_TOKEN/GITHUB_REPO não configurados — PDFs não serão baixados.")
+        return
+
+    manifest_path = Path(__file__).parent / "pdfs_manifest.json"
+    if not manifest_path.exists():
+        print("[LFS] pdfs_manifest.json não encontrado.")
+        return
+
+    manifest = json.loads(manifest_path.read_text())
+    to_download = [
+        item for item in manifest
+        if not (BASE_PDFS / item["path"].split("/", 1)[1]).exists()
+        or (BASE_PDFS / item["path"].split("/", 1)[1]).stat().st_size < 500
+    ]
+
+    if not to_download:
+        print(f"[LFS] {len(manifest)} PDFs já presentes no volume.")
+        return
+
+    print(f"[LFS] Baixando {len(to_download)} PDFs para o volume...")
+
+    BATCH = 50
+    downloaded = 0
+    for i in range(0, len(to_download), BATCH):
+        batch = to_download[i:i + BATCH]
+        payload = json.dumps({
+            "operation": "download",
+            "transfers": ["basic"],
+            "objects":   [{"oid": item["oid"], "size": item["size"]} for item in batch],
+        }).encode()
+        try:
+            req = urllib.request.Request(
+                f"https://github.com/{repo}.git/info/lfs/objects/batch",
+                data=payload,
+                headers={
+                    "Accept":        "application/vnd.git-lfs+json",
+                    "Content-Type":  "application/vnd.git-lfs+json",
+                    "Authorization": f"Bearer {token}",
+                },
+            )
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read())
+        except Exception as e:
+            print(f"[LFS] Erro no batch {i}: {e}")
+            continue
+
+        oid_map = {item["oid"]: item for item in batch}
+        for obj in data.get("objects", []):
+            if "error" in obj or "actions" not in obj:
+                continue
+            item = oid_map.get(obj["oid"])
+            if not item:
+                continue
+            dest = BASE_PDFS / item["path"].split("/", 1)[1]
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            try:
+                url     = obj["actions"]["download"]["href"]
+                headers = obj["actions"]["download"].get("header", {})
+                dl_req  = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(dl_req, timeout=60) as r:
+                    dest.write_bytes(r.read())
+                downloaded += 1
+            except Exception as e:
+                print(f"[LFS] Erro baixando {dest.name}: {e}")
+
+    print(f"[LFS] {downloaded}/{len(to_download)} PDFs baixados.")
+
+threading.Thread(target=_bootstrap_pdfs, daemon=True).start()
 
 SESSION_TTL     = 86_400   # 24 horas
 MAX_FALHAS      = 5
