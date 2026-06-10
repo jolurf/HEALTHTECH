@@ -473,15 +473,31 @@
       const pronto = formCompleto(form, auth?.usuario || "");
 
       async function salvar() {
-        if (!pronto) { setErro("Preencha todos os campos antes de salvar."); return; }
+        if (!pronto) {
+          const faltaSecao = Object.values(form.secoes_cobertura).some(v => v === null);
+          const faltaTempo = !form.tempo_avaliacao || isNaN(Number(form.tempo_avaliacao));
+          const faltaErroDetalhe = form.erro_factual === "Sim" &&
+            [form.grau_incerteza, form.sem_contradicoes, form.dados_respaldados].some(v => v !== null && v <= 3) &&
+            (!form.natureza_erro || !form.gravidade_clinica);
+          setErro(
+            faltaSecao      ? "F4 — Cobertura: marque todas as 11 seções antes de salvar." :
+            faltaTempo      ? "Informe o tempo de avaliação (em minutos)." :
+            faltaErroDetalhe? "F2 — preencha a natureza e gravidade do erro factual." :
+                              "Preencha todos os campos obrigatórios antes de salvar."
+          );
+          return;
+        }
         setErro("");
         setStatus("saving");
         const f1Baixo = form.erro_factual === "Sim" &&
           [form.grau_incerteza, form.sem_contradicoes, form.dados_respaldados].some(v => v <= 3);
+        const controller = new AbortController();
+        const timer = setTimeout(() => controller.abort(), 20000);
         try {
           const params = new URLSearchParams({ token: auth.token });
           const resp = await fetch(`${API}/avaliar?${params}`, {
             method: "POST",
+            signal: controller.signal,
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
               id_resumo:          resumoAtual.id_resumo,
@@ -503,6 +519,7 @@
               comentarios,
             }),
           });
+          clearTimeout(timer);
           if (resp.status === 401) { sair(); return; }
           if (resp.status === 409) {
             setStatus("idle");
@@ -518,9 +535,12 @@
             resetar();
             setIndice(i => i + 1);
           }, 800);
-        } catch {
+        } catch (err) {
+          clearTimeout(timer);
           setStatus("error");
-          setErro("Erro ao salvar. Verifique a conexão com o backend.");
+          setErro(err?.name === "AbortError"
+            ? "Tempo esgotado (20s). Tente novamente."
+            : "Erro ao salvar. Verifique a conexão com o backend.");
         }
       }
 
