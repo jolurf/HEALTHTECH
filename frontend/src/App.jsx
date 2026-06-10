@@ -1,8 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = window.location.protocol === "file:"
-  ? "http://127.0.0.1:8000"
-  : "";
+const API = import.meta.env.VITE_BACKEND_HOST;
 
 // =========================================================
 // CONSTANTES
