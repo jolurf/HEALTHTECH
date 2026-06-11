@@ -215,7 +215,7 @@ function PainelPDFs({ pdfs, carregando, urlPdf, onFechar }) {
   }
 
   return (
-    <Card className="sticky top-4 flex flex-col max-h-[calc(100vh-2rem)]">
+    <Card className="h-full flex flex-col">
       <div className="flex items-center justify-between mb-4 shrink-0">
         <h3 className="text-sm font-semibold text-gray-800">Documentos do Caso</h3>
         <button
@@ -232,7 +232,7 @@ function PainelPDFs({ pdfs, carregando, urlPdf, onFechar }) {
       ) : Object.keys(visitas).length === 0 ? (
         <p className="text-xs text-gray-400">Nenhum documento encontrado para este caso.</p>
       ) : (
-        <div className="space-y-4 overflow-y-auto pr-1 flex-1 min-h-0">
+        <div className="space-y-4 flex-1 min-h-0 overflow-y-auto pr-2">
           {Object.entries(visitas).map(([visita, arquivos]) => (
             <div key={visita}>
               <p className="text-xs font-semibold text-gray-500 mb-2 uppercase tracking-wide">
@@ -868,7 +868,7 @@ export default function App() {
 
           {/* Sidebar de documentos */}
           {sidebarAberta && (
-            <div className="w-72 shrink-0">
+            <div className="w-72 shrink-0 sticky top-4" style={{ height: "calc(100vh - 2rem)" }}>
               <PainelPDFs
                 pdfs={pdfsDoCaso}
                 carregando={carregandoPdfs}
