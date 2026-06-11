@@ -215,8 +215,8 @@ function PainelPDFs({ pdfs, carregando, urlPdf, onFechar }) {
   }
 
   return (
-    <Card className="sticky top-4">
-      <div className="flex items-center justify-between mb-4">
+    <Card className="sticky top-4 flex flex-col max-h-[calc(100vh-2rem)]">
+      <div className="flex items-center justify-between mb-4 shrink-0">
         <h3 className="text-sm font-semibold text-gray-800">Documentos do Caso</h3>
         <button
           onClick={onFechar}
@@ -232,7 +232,7 @@ function PainelPDFs({ pdfs, carregando, urlPdf, onFechar }) {
       ) : Object.keys(visitas).length === 0 ? (
         <p className="text-xs text-gray-400">Nenhum documento encontrado para este caso.</p>
       ) : (
-        <div className="space-y-4 max-h-[calc(100vh-10rem)] overflow-y-auto pr-1">
+        <div className="space-y-4 overflow-y-auto pr-1 flex-1 min-h-0">
           {Object.entries(visitas).map(([visita, arquivos]) => (
             <div key={visita}>
               <p className="text-xs font-semibold text-gray-500 mb-2 uppercase tracking-wide">
