@@ -19,6 +19,7 @@ import os
 import time
 import re
 import urllib.request
+import urllib.error
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
@@ -174,6 +175,9 @@ def _enviar_email(destinatario: str, assunto: str, corpo: str):
             try:
                 with urllib.request.urlopen(req, timeout=15) as r:
                     print(f"[EMAIL] Enviado via Resend para {destinatario} (status {r.status})")
+            except urllib.error.HTTPError as e:
+                body = e.read().decode("utf-8", errors="replace")
+                print(f"[EMAIL] Erro Resend {e.code} ao enviar para {destinatario}: {body}")
             except Exception as e:
                 print(f"[EMAIL] Erro Resend ao enviar para {destinatario}: {e}")
             return
