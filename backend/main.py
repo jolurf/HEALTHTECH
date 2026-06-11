@@ -170,6 +170,7 @@ def _enviar_email(destinatario: str, assunto: str, corpo: str):
                 headers={
                     "Authorization": f"Bearer {resend_key}",
                     "Content-Type":  "application/json",
+                    "User-Agent":    "resumos-alta-backend/1.0",
                 },
             )
             try:
