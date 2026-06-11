@@ -158,7 +158,7 @@ def _enviar_email(destinatario: str, assunto: str, corpo: str):
         resend_key = os.environ.get("RESEND_API_KEY", "")
         if resend_key:
             payload = json.dumps({
-                "from":    "Resumos Alta <onboarding@resend.dev>",
+                "from":    "onboarding@resend.dev",
                 "to":      [destinatario],
                 "subject": assunto,
                 "text":    corpo,
