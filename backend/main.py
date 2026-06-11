@@ -155,12 +155,36 @@ _registro_tentativas:  dict[str, list[float]] = {}
 
 def _enviar_email(destinatario: str, assunto: str, corpo: str):
     def _send():
+        resend_key = os.environ.get("RESEND_API_KEY", "")
+        if resend_key:
+            payload = json.dumps({
+                "from":    "Resumos Alta <onboarding@resend.dev>",
+                "to":      [destinatario],
+                "subject": assunto,
+                "text":    corpo,
+            }).encode()
+            req = urllib.request.Request(
+                "https://api.resend.com/emails",
+                data=payload,
+                headers={
+                    "Authorization": f"Bearer {resend_key}",
+                    "Content-Type":  "application/json",
+                },
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=15) as r:
+                    print(f"[EMAIL] Enviado via Resend para {destinatario} (status {r.status})")
+            except Exception as e:
+                print(f"[EMAIL] Erro Resend ao enviar para {destinatario}: {e}")
+            return
+
+        # fallback SMTP (para uso local)
         host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
         port = int(os.environ.get("SMTP_PORT", "587"))
         user = os.environ.get("SMTP_USER", "")
         pwd  = os.environ.get("SMTP_PASS", "")
         if not user or not pwd:
-            print(f"[EMAIL] SMTP não configurado — ignorado. Assunto: {assunto}")
+            print(f"[EMAIL] Nenhum método de envio configurado — ignorado. Assunto: {assunto}")
             return
         try:
             msg = MIMEMultipart()
@@ -173,7 +197,7 @@ def _enviar_email(destinatario: str, assunto: str, corpo: str):
                 s.login(user, pwd)
                 s.send_message(msg)
         except Exception as e:
-            print(f"[EMAIL] Erro ao enviar para {destinatario}: {e}")
+            print(f"[EMAIL] Erro SMTP ao enviar para {destinatario}: {e}")
     threading.Thread(target=_send, daemon=True).start()
 
 
@@ -215,7 +239,7 @@ Info essencial        : {av.info_essencial}
 
 ─── GLOBAL ──────────────────────────────
 Uso clínico           : {av.uso_clinico}
-Tempo de avaliação    : {av.tempo_avaliacao}s
+Tempo de avaliação    : {av.tempo_avaliacao} min
 
 Comentários:
 {av.comentarios or '(nenhum)'}
