@@ -37,7 +37,8 @@ COPY nginx.conf /tmp/nginx.conf.template
 
 EXPOSE 80
 
-# Defaults = valores que já funcionam no Railway hoje. BACKEND_HOST/RESOLVER
-# só precisam ser definidos explicitamente para sobrescrever (ex: docker-compose local).
+# Defaults: BACKEND_HOST já vem configurado no Railway (URL pública do backend);
+# RESOLVER cai num DNS público porque o backend é alcançado pelo domínio público
+# *.up.railway.app, não pela rede privada do Railway.
 # envsubst substitui SOMENTE essas duas vars — variáveis nginx ($host, $uri, etc.) ficam intactas
-CMD ["/bin/sh", "-c", "export BACKEND_HOST=${BACKEND_HOST:-healthtech.railway.internal}; export RESOLVER=${RESOLVER:-[fd12::10]}; envsubst '${BACKEND_HOST} ${RESOLVER}' < /tmp/nginx.conf.template > /etc/nginx/conf.d/default.conf && exec nginx -g 'daemon off;'"]
+CMD ["/bin/sh", "-c", "export BACKEND_HOST=${BACKEND_HOST:-https://healthtech-production-da6a.up.railway.app}; export RESOLVER=${RESOLVER:-8.8.8.8}; envsubst '${BACKEND_HOST} ${RESOLVER}' < /tmp/nginx.conf.template > /etc/nginx/conf.d/default.conf && exec nginx -g 'daemon off;'"]
