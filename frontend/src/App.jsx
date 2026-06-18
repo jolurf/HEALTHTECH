@@ -420,6 +420,7 @@ export default function App() {
 
   useEffect(() => {
     if (!resumoAtual || !auth) { setPdfsDoCaso([]); return; }
+    let cancelado = false;
     setCarregandoPdfs(true);
     const params = new URLSearchParams({
       id_resumo: resumoAtual.id_resumo,
@@ -428,9 +429,10 @@ export default function App() {
     });
     fetch(`${API}/pdfs?${params}`)
       .then((r) => r.ok ? r.json() : [])
-      .then((data) => setPdfsDoCaso(Array.isArray(data) ? data : []))
-      .catch(() => setPdfsDoCaso([]))
-      .finally(() => setCarregandoPdfs(false));
+      .then((data) => { if (!cancelado) setPdfsDoCaso(Array.isArray(data) ? data : []); })
+      .catch(() => { if (!cancelado) setPdfsDoCaso([]); })
+      .finally(() => { if (!cancelado) setCarregandoPdfs(false); });
+    return () => { cancelado = true; };
   }, [resumoAtual?.id_resumo]);
 
   function urlPdf(caminho) {

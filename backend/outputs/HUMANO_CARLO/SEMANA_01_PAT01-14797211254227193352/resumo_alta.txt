@@ -1,84 +1,51 @@
 1) Dados do Paciente
-    • Nome completo: -
-    • Data de nascimento: - 
-    • Sexo: -
-    • Diagnósticos prévios (Antecedentes Patológicos): 
-- Hipertensão Arterial Sistêmica
-- Diabetes Mellitus
-- Dislipidemia
-- Obesidade
-
-
+Nome completo: -
+Data de nascimento: -
+Sexo: -
+Diagnósticos prévios (Antecedentes Patológicos): 
+- Tetralogia de Fallot 
+- POT BTM a direita (1996 - 5 meses)
+- POT correção total (1997 - 1a 10m)
+- Residual: IP acentuada + dilatação acentuada do VD/AD, sem disfunção
 2) Dados da Internação
-    • Data de [entrada] admissão: 18/02/2021
-    • Data de alta: 03/03/2021
-    • Permanência em UTI? 
-- Colocar “sim” se houve permanência em UTI; colocar “não” se não houve permanência em UTI
-    • Motivo da internação: 
-- Paciente transferida via CROSS. Refere ter procurado PS externo ontem (17/02) por quadro de dispneia (estava cansando para os afazeres domésticos, o que não acontece normalmente). Além disso, refere que nos 3 dias anteriores à admissão, apresentou diarreia aquosa, várias vezes ao dia, sem sangue. Nega febre, tosse, coriza, obstrução nasal, odinofagia, cefaléia, mialgias, dor torácica.Refere edema de MMII crônico, porém nega dispneia. Tem sintomas de SAOS (ronco e sonolência diurna) Cintilografia VQ evidenciou TEP, recebendo anticoagulação plena com enoxaparina.
-
-    • Diagnóstico da Internação: 
-- Dispneia A/E
-> COVID-19 (negativo)
-> Hipertensão pulmonar (PSAP de 77 mmHg)
-- SAHOS descompensada?
--  Hipoventilação da obesidade
--  Cintilografia V/Q – TEP (agudo?)
--  DVO com resposta a BD
-
--Luxação glenoumeral
-> Reduzida em 23/02
-
-- DRC agudizada
--  TEV
->  Safena magna a 6 cm da crossa
-
-3) Exames da Internação 
--Ecocardiograma transtorácico 19/02/21: FE 55%, sinais indiretos de hipertensão pulmonar, PSAP 77 mmHg.
-
-- Tomografia de tórax 19/02/21: Exame realizado em caráter de urgência. Ausência de derrame pleural bilateral. Espessamento parietal brônquico difuso. Bandas parenquimatosas esparsas, compatíveis com atelectasias laminares/estrias residuais. Micronódulos/diminutos nódulos esparsos bilaterais, alguns calcificados (residuais) e outros sem calcificações evidentes (inespecíficos). Restante do parênquima pulmonar com atenuação normal. Ausência de linfonodomegalias mediastinais. Traqueia e brônquios-fonte pérvios, de calibre preservado. Ectasia das artérias pulmonares, que têm calibre de 2,8 cm. Tronco pulmonar com calibre no limite superior (3,0 cm). Demais estruturas vasculares do mediastino com trajeto e diâmetro normais. Ateromatose aórtica e coronariana. Calcificações mitrais grosseiras. Espondilose dorsal. 
-
-- Ultrassom com doppler venoso de membro inferior direito 21/02/21: Segmento fêmuro-poplíteo-tibial venoso de trajeto preservado. Ultrassom Doppler colorido venoso de membro inferior direito 23/02/21: Sinais de trombose venosa do terço proximal/médio da veia safena magna direita, distando cerca de 6 cm da crossa, caracterizados por aumento do seu calibre, conteúdo hipoecogênico, perda da compressibilidade e ausência de fluxo detectável ao Doppler. Demais segmentos avaliados com compressibilidade conservada às manobras habituais, sem evidências de trombos e com fluxo venoso característico, observando-se variações fásicas com a respiração. Trombose da veia safena magna, distando 6,0 cm da crossa.
-
-- Ultrassom com doppler venoso de membro inferior esquerdo 21/02/21: Ausência de sinais de trombose venosa profunda.
-
-- Prova de função pulmonar 26/02/21: VEF1 1,14 (47%) > 1,31 (54%) +15% / CVF 1,87 (62%) > 1,97 (65%) +5%. Rel 0,61 > 0,66, distúrbio ventilatório obstrutivo moderado com CVF reduzida.
-
-- Cintilografia pulmonar V/Q 25/02/21: Alta probabilidade de tromboembolismo pulmonar (agudo?). 
-
-
-
-4) Terapia Medicamentosa 
-
-    • Medicação prévia: Atenolol, losartana, anlodipino, furosemida, metformina
-
-    • Medicação durante a internação: enoxaparina, atenolol, furosemida, ondansetrona, lactulose, anlodipino, heparina, poliestirenossulfonato de calcio oral, formoterol + budesonida, diazepam, loratadina, budesonida spray nasal, varfarina
-
+Data de] admissão: 20/08/2021
+Data de alta: 23/08/2021
+Permanência em UTI?
+Não
+Motivo da internação:
+Paciente internada devido piora progressiva da classe funcional,
+com relato de dor torácica tipo pontada após esforços físicos, mas com
+discreta melhora da frequência. Refere ainda dispneia aos moderados esforços,
+sendo optado pela internação para realização de Ressonância de Coração e definição de
+conduta/cirurgia. Solicitado pré-operatório e avaliação da odonto.
+Diagnóstico da Internação: 
+Realização de Ressonância de coração e avaliação cirúrgica
+3) Exames da Internação
+-
+4) Terapia Medicamentosa
+Medicação prévia: 
+- Bisoprolol 2,5 mg a noite
+- Ramipril 5 mg de manhã
+- Anticoncepcional oral
+Medicação durante a internação: Bisoprolol, Enalapril, furosemida e bisacodil
 5) Terapia Intervencionista
-- 
- 
+-
 6) Dispositivos
-- 
-
-7 Situação funcional na alta
-
-- Última evolução 03/03/21: Paciente em leito de isolamento, aguardando leito em enfermaria não covid (já tem 2 exames negativo), durante a avaliação em cateter nasal de O2 SAT 97% em 3L/min. Em uso de VNI intermitente com boa tolerabilidade, vigil e orientada, se mantendo eupneica, com sinais vitais estáveis, sem necessidade de DVA. Sem epistaxe. Já instalado O2 domiciliar aguardando ajuste INR para alta.
-BEG, LOTE, obesa. MV reduzido em bases. FR 18 irpm, SAT 95% CN O2 3L/min. Eupneica. RCR BNF sem sopros. FC 90 bpm. ABD em avental, inocente. Membros inferiores com edema bilateral + com cordões varicosos. Extremidades quentes. Adiposidade em região cervical posterior.
-
+-
+7) Situação funcional na alta
+Paciente segue clinicamente estável, sem queixas no momento. Chorosa à
+avaliação, pois relata que está com sobrinho e pai internados em outros
+hospitais e deseja ficar junto deles. Diurese e evacuações presentes. Ao exame físico: FC: 96bpm / SatO2: 97% em AA. Bom estado geral, corado, hidratado, acianotico, anicterico, afebril Precórdio sem abaulamentos, impulsões ou frêmitos. AR: MV + bilateral, sem RA, sem sinais de desconforto, eupneica
+ACV: RCR, 2T, BNF, SS 3+/6+ e SD 3+/4+ em BEEA, com irradiação para dorso, B2 desdobrada. ABD: Globoso, flácido, indolor, fígado 1 cm RCD. Extremidade: sem edema, pulsos com amplitude normal nos 4 membros, simétricos, boa perfusão capilar periférica.
 8) Status laboratorial na alta
-
-- Laboratório 03/03/21: Gasometria venosa: pH 7,38 pCo2 59,1 mmHg pO2 62,1 mmHg Saturação 02 93,6% Bicarbonato 33,8 mmol/L BE + 7,4 mmol/L (resultado sugere coleta arterial) Cálcio Ionizado 1,16 mMol/L INR 1,07 
-
-
 9) Prescrição de Alta
-- Mantido marevan (D0 01/03)
-
 10 Orientações de alta para o paciente
-- 
-
+Devido a grande fila de espera para o exame internado, devido funcionamento
+de apenas 1 aparelho na instituição, com limitação de exames diários, com
+paciente estável clinicamente, sem sinais de alarme, optamos pela alta
+hospitalar com exame ambulatorial, já marcado para dezembro deste ano.
+Solicitamos remarcar consulta do ambulatório para janeiro, de forma que
+ressonância já tenha laudo e decisão cirúrgica possa ser tomada com mais
+informações. Orientamos sinais de alarme para retorno ao PS.
 10 Orientações de seguimento
-
-- Anticoagulação plena com enoxaparina (se atentar para Epistaxe) 
-- Mantido suspenso budesonida spray nasal (retornar após controle da epistaxe
-- Na alta encaminhar ao ambulatório do sono e da HP 
- 
+-
