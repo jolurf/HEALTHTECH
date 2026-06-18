@@ -40,4 +40,4 @@ EXPOSE 80
 # Defaults = valores que já funcionam no Railway hoje. BACKEND_HOST/RESOLVER
 # só precisam ser definidos explicitamente para sobrescrever (ex: docker-compose local).
 # envsubst substitui SOMENTE essas duas vars — variáveis nginx ($host, $uri, etc.) ficam intactas
-CMD ["/bin/sh", "-c", "export BACKEND_HOST=${BACKEND_HOST:-healthtech.railway.internal}; export RESOLVER=${RESOLVER:-fd12::10}; envsubst '${BACKEND_HOST} ${RESOLVER}' < /tmp/nginx.conf.template > /etc/nginx/conf.d/default.conf && exec nginx -g 'daemon off;'"]
+CMD ["/bin/sh", "-c", "export BACKEND_HOST=${BACKEND_HOST:-healthtech.railway.internal}; export RESOLVER=${RESOLVER:-[fd12::10]}; envsubst '${BACKEND_HOST} ${RESOLVER}' < /tmp/nginx.conf.template > /etc/nginx/conf.d/default.conf && exec nginx -g 'daemon off;'"]
