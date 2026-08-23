@@ -32,3 +32,4 @@ __pycache__/*
 /pdfs_manifest.json
 /requirements.txt
 /usuarios.json
+/comandos_producao.txt
