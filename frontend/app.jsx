@@ -107,13 +107,14 @@
       );
     }
 
-    function RadioGroup({ name, opcoes, valor, onChange }) {
+    function RadioGroup({ name, opcoes, valor, onChange, readOnly = false }) {
       return (
         <div className="space-y-2 mt-3">
           {opcoes.map(op => (
-            <label key={op.value} className="flex items-center gap-3 cursor-pointer group">
+            <label key={op.value} className={`flex items-center gap-3 group ${readOnly ? "" : "cursor-pointer"}`}>
               <input type="radio" name={name}
                      checked={valor === op.value}
+                     disabled={readOnly}
                      onChange={() => onChange(op.value)}
                      className="w-4 h-4 accent-gray-900 shrink-0" />
               <span className="text-sm text-gray-700 group-hover:text-gray-900">
@@ -125,7 +126,7 @@
       );
     }
 
-    function LikertRow6({ valor, onChange }) {
+    function LikertRow6({ valor, onChange, readOnly = false }) {
       return (
         <div className="flex items-center gap-3 mt-3 flex-wrap">
           <span className="text-xs text-gray-500 w-32 text-right shrink-0">
@@ -133,9 +134,9 @@
           </span>
           <div className="flex gap-2">
             {[1,2,3,4,5,6].map(n => (
-              <button key={n} onClick={() => onChange(n)}
+              <button key={n} onClick={() => onChange(n)} disabled={readOnly}
                 className={`w-11 h-11 rounded-xl text-base font-bold border-2
-                  transition-all duration-150
+                  transition-all duration-150 disabled:cursor-not-allowed
                   ${valor === n
                     ? "bg-gray-900 text-white border-gray-900 scale-105 shadow-md"
                     : "bg-white text-gray-700 border-gray-300 hover:border-gray-500"
@@ -149,7 +150,7 @@
       );
     }
 
-    function SecoesGrid({ valores, onChange }) {
+    function SecoesGrid({ valores, onChange, readOnly = false }) {
       return (
         <div className="mt-4 overflow-x-auto">
           <table className="w-full text-sm border-collapse">
@@ -175,6 +176,7 @@
                     <td key={n} className="text-center py-2">
                       <input type="radio" name={`secao-${i}`}
                              checked={valores[i] === n}
+                             disabled={readOnly}
                              onChange={() => onChange(i, n)}
                              className="w-4 h-4 accent-gray-900 cursor-pointer" />
                     </td>
@@ -278,6 +280,54 @@
     }
 
     // =========================================================
+    // MAPA DE PROGRESSO
+    // =========================================================
+
+    const CORES_STATUS = {
+      finalizado:    "bg-green-500 hover:bg-green-600",
+      rascunho:      "bg-yellow-400 hover:bg-yellow-500",
+      nao_iniciado:  "bg-red-400 hover:bg-red-500",
+    };
+
+    function PainelMapaCalor({ resumos, indiceAtual, onSelecionar, onFechar }) {
+      const finalizados = resumos.filter(r => r.status === "finalizado").length;
+      const rascunhos = resumos.filter(r => r.status === "rascunho").length;
+      return (
+        <div className="bg-white rounded-2xl shadow-lg p-4 w-72 max-h-[75vh] flex flex-col">
+          <div className="flex items-center justify-between mb-3 shrink-0">
+            <h3 className="text-sm font-semibold text-gray-800">Mapa de Progresso</h3>
+            <button onClick={onFechar}
+              className="text-gray-400 hover:text-gray-700 text-sm leading-none transition"
+              title="Fechar painel">
+              ✕
+            </button>
+          </div>
+          <p className="text-xs text-gray-500 mb-3 shrink-0">
+            {finalizados} finalizados · {rascunhos} rascunhos · {resumos.length - finalizados - rascunhos} pendentes
+          </p>
+          <div className="overflow-y-auto pr-1 flex-1">
+            <div className="grid gap-1.5" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(1.4rem, 1fr))" }}>
+              {resumos.map((r, i) => (
+                <button key={`${r.id_resumo}-${r.modelo}`}
+                  onClick={() => onSelecionar(i)}
+                  title={`${i + 1}. ${r.id_resumo} (${r.modelo}) — ${r.status.replace("_", " ")}`}
+                  className={`w-full aspect-square rounded-sm transition-all
+                    ${CORES_STATUS[r.status] || CORES_STATUS.nao_iniciado}
+                    ${i === indiceAtual ? "ring-2 ring-offset-1 ring-gray-900" : ""}`}
+                />
+              ))}
+            </div>
+          </div>
+          <div className="flex items-center gap-3 mt-3 pt-3 border-t border-gray-100 text-xs text-gray-500 shrink-0">
+            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-red-400 inline-block" />Pendente</span>
+            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-yellow-400 inline-block" />Rascunho</span>
+            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-green-500 inline-block" />Final</span>
+          </div>
+        </div>
+      );
+    }
+
+    // =========================================================
     // LOGIN
     // =========================================================
 
@@ -364,13 +414,63 @@
       const [status,            setStatus]            = useState("idle");
       const [erro,              setErro]              = useState("");
       const [carregandoResumos, setCarregandoResumos] = useState(false);
-      const [salvosNestaSessao, setSalvosNestaSessao] = useState(0);
-      const [puladosNestaSessao, setPuladosNestaSessao] = useState(0);
+      const [concluido,         setConcluido]         = useState(false);
 
-      const [sidebarAberta,  setSidebarAberta]  = useState(false);
-      const [resumoAberto,   setResumoAberto]   = useState(false);
-      const [pdfsDoCaso,     setPdfsDoCaso]     = useState([]);
-      const [carregandoPdfs, setCarregandoPdfs] = useState(false);
+      const [sidebarAberta,    setSidebarAberta]    = useState(false);
+      const [resumoAberto,     setResumoAberto]     = useState(false);
+      const [mapaCalorAberto,  setMapaCalorAberto]  = useState(false);
+      const [pdfsDoCaso,       setPdfsDoCaso]       = useState([]);
+      const [carregandoPdfs,   setCarregandoPdfs]   = useState(false);
+
+      function chavePosicao(usuario) {
+        return `posicao_${usuario}`;
+      }
+
+      function carregarFormDoItem(item) {
+        if (!item || item.status === "nao_iniciado") {
+          setForm(FORM_INICIAL);
+          setComentarios("");
+          setErro("");
+          setStatus("idle");
+          window.scrollTo({ top: 0, behavior: "smooth" });
+          return;
+        }
+        let secoesCobertura = FORM_INICIAL.secoes_cobertura;
+        try {
+          const parsed = JSON.parse(item.secoes_cobertura || "{}");
+          secoesCobertura = Object.fromEntries(
+            SECOES.map((_, i) => [i, parsed[i] !== undefined ? parsed[i] : null])
+          );
+        } catch {}
+        setForm({
+          grau_incerteza:     item.grau_incerteza,
+          sem_contradicoes:   item.sem_contradicoes,
+          dados_respaldados:  item.dados_respaldados,
+          erro_factual:       item.erro_factual,
+          natureza_erro:      item.natureza_erro,
+          gravidade_clinica:  item.gravidade_clinica,
+          evita_redundancias: item.evita_redundancias,
+          tamanho_apropriado: item.tamanho_apropriado,
+          secoes_cobertura:   secoesCobertura,
+          eventos_clinicos:   item.eventos_clinicos,
+          info_essencial:     item.info_essencial,
+          uso_clinico:        item.uso_clinico,
+          tempo_avaliacao:    item.tempo_avaliacao != null ? String(item.tempo_avaliacao) : "",
+        });
+        setComentarios(item.comentarios || "");
+        setErro("");
+        setStatus("idle");
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+
+      function irPara(novoIndice, listaAtual) {
+        const lista = listaAtual || resumos;
+        if (!lista.length) return;
+        const alvo = Math.max(0, Math.min(lista.length - 1, novoIndice));
+        setIndice(alvo);
+        if (auth) localStorage.setItem(chavePosicao(auth.usuario), String(alvo));
+        carregarFormDoItem(lista[alvo]);
+      }
 
       function sair() {
         localStorage.removeItem("usuario");
@@ -384,16 +484,7 @@
         setStatus("idle");
         setPdfsDoCaso([]);
         setCarregandoResumos(false);
-        setSalvosNestaSessao(0);
-        setPuladosNestaSessao(0);
-      }
-
-      function resetar() {
-        setForm(FORM_INICIAL);
-        setComentarios("");
-        setErro("");
-        setStatus("idle");
-        window.scrollTo({ top: 0, behavior: "smooth" });
+        setConcluido(false);
       }
 
       async function carregarResumos() {
@@ -407,10 +498,17 @@
           if (!r.ok) throw new Error();
           const data = await r.json();
           setResumos(data);
-          setIndice(0);
-          setSalvosNestaSessao(0);
-          setPuladosNestaSessao(0);
-          resetar();
+
+          let inicial = 0;
+          const salvo = parseInt(localStorage.getItem(chavePosicao(auth.usuario)), 10);
+          if (!isNaN(salvo) && salvo >= 0 && salvo < data.length) {
+            inicial = salvo;
+          } else {
+            const primeiroPendente = data.findIndex(item => item.status !== "finalizado");
+            inicial = primeiroPendente === -1 ? 0 : primeiroPendente;
+          }
+          setIndice(inicial);
+          carregarFormDoItem(data[inicial]);
         } catch {
           setErro("Não foi possível conectar ao servidor. Verifique se o backend está em execução.");
         } finally {
@@ -460,26 +558,27 @@
       }
 
       const pronto = formCompleto(form, auth?.usuario || "");
+      const somenteLeitura = resumoAtual?.status === "finalizado";
 
-      async function salvar() {
-        if (!pronto) {
+      async function salvar(statusAlvo) {
+        if (statusAlvo === "finalizado" && !pronto) {
           const faltaSecao = Object.values(form.secoes_cobertura).some(v => v === null);
           const faltaTempo = !form.tempo_avaliacao || isNaN(Number(form.tempo_avaliacao));
           const faltaErroDetalhe = form.erro_factual === "Sim" &&
             [form.grau_incerteza, form.sem_contradicoes, form.dados_respaldados].some(v => v !== null && v <= 3) &&
             (!form.natureza_erro || !form.gravidade_clinica);
           setErro(
-            faltaSecao      ? "F4 — Cobertura: marque todas as 11 seções antes de salvar." :
+            faltaSecao      ? "F4 — Cobertura: marque todas as 11 seções antes de finalizar." :
             faltaTempo      ? "Informe o tempo de avaliação (em minutos)." :
             faltaErroDetalhe? "F2 — preencha a natureza e gravidade do erro factual." :
-                              "Preencha todos os campos obrigatórios antes de salvar."
+                              "Preencha todos os campos obrigatórios antes de finalizar."
           );
           return;
         }
         setErro("");
         setStatus("saving");
         const f1Baixo = form.erro_factual === "Sim" &&
-          [form.grau_incerteza, form.sem_contradicoes, form.dados_respaldados].some(v => v <= 3);
+          [form.grau_incerteza, form.sem_contradicoes, form.dados_respaldados].some(v => v !== null && v <= 3);
         const controller = new AbortController();
         const timer = setTimeout(() => controller.abort(), 20000);
         try {
@@ -492,6 +591,7 @@
               id_resumo:          resumoAtual.id_resumo,
               modelo:             resumoAtual.modelo,
               avaliador:          auth.usuario,
+              status:             statusAlvo,
               grau_incerteza:     form.grau_incerteza,
               sem_contradicoes:   form.sem_contradicoes,
               dados_respaldados:  form.dados_respaldados,
@@ -504,25 +604,47 @@
               eventos_clinicos:   form.eventos_clinicos,
               info_essencial:     form.info_essencial,
               uso_clinico:        form.uso_clinico,
-              tempo_avaliacao:    Number(form.tempo_avaliacao),
+              tempo_avaliacao:    form.tempo_avaliacao === "" ? null : Number(form.tempo_avaliacao),
               comentarios,
             }),
           });
           clearTimeout(timer);
           if (resp.status === 401) { sair(); return; }
           if (resp.status === 409) {
+            const data = await resp.json().catch(() => ({}));
             setStatus("idle");
-            setErro("Esta avaliação já foi registrada. Avançando para o próximo.");
-            setTimeout(() => { resetar(); setIndice(i => i + 1); setErro(""); }, 1500);
+            setErro(data.detail || "Esta avaliação já foi finalizada. Avançando para o próximo.");
+            setTimeout(() => { irPara(indice + 1); setErro(""); }, 1500);
             return;
           }
           if (!resp.ok) throw new Error();
-          setStatus("saved");
-          setSalvosNestaSessao(s => s + 1);
+
+          const listaAtualizada = resumos.map((item, i) => i !== indice ? item : {
+            ...item,
+            status: statusAlvo,
+            grau_incerteza: form.grau_incerteza,
+            sem_contradicoes: form.sem_contradicoes,
+            dados_respaldados: form.dados_respaldados,
+            erro_factual: form.erro_factual,
+            natureza_erro: f1Baixo ? form.natureza_erro : null,
+            gravidade_clinica: f1Baixo ? form.gravidade_clinica : null,
+            evita_redundancias: form.evita_redundancias,
+            tamanho_apropriado: form.tamanho_apropriado,
+            secoes_cobertura: JSON.stringify(form.secoes_cobertura),
+            eventos_clinicos: form.eventos_clinicos,
+            info_essencial: form.info_essencial,
+            uso_clinico: form.uso_clinico,
+            tempo_avaliacao: form.tempo_avaliacao === "" ? null : Number(form.tempo_avaliacao),
+            comentarios,
+          });
+          setResumos(listaAtualizada);
+          setStatus(statusAlvo === "finalizado" ? "saved" : "draft-saved");
           setTimeout(() => {
-            setStatus("idle");
-            resetar();
-            setIndice(i => i + 1);
+            if (indice + 1 >= listaAtualizada.length) {
+              setConcluido(true);
+            } else {
+              irPara(indice + 1, listaAtualizada);
+            }
           }, 800);
         } catch (err) {
           clearTimeout(timer);
@@ -531,12 +653,6 @@
             ? "Tempo esgotado (20s). Tente novamente."
             : "Erro ao salvar. Verifique a conexão com o backend.");
         }
-      }
-
-      function pular() {
-        resetar();
-        setPuladosNestaSessao(p => p + 1);
-        setIndice(i => i + 1);
       }
 
       // ── login ──────────────────────────────────────────────
@@ -589,30 +705,33 @@
         </div>
       );
 
-      if (indice >= resumos.length) return (
-        <div className="min-h-screen flex items-center justify-center">
-          <div className="max-w-md text-center space-y-4 p-10 bg-white rounded-3xl shadow-xl">
-            <div className="text-5xl">✅</div>
-            <h2 className="text-2xl font-bold">Sessão concluída!</h2>
-            <p className="text-gray-500">
-              {salvosNestaSessao === resumos.length
-                ? `Todos os ${resumos.length} resumos foram avaliados.`
-                : `Você percorreu os ${resumos.length} resumos desta sessão (${salvosNestaSessao} salvos${puladosNestaSessao > 0 ? `, ${puladosNestaSessao} pulados` : ""}).`}
-              {" "}Obrigado, {auth.usuario}!
-            </p>
-            <div className="flex gap-3 justify-center">
-              <button onClick={carregarResumos}
-                className="bg-gray-900 text-white px-6 py-3 rounded-xl hover:bg-gray-700">
-                Recarregar lista
-              </button>
-              <button onClick={sair}
-                className="border border-gray-300 text-gray-600 px-6 py-3 rounded-xl hover:bg-gray-50">
-                Sair
-              </button>
+      if (concluido) {
+        const finalizados = resumos.filter(r => r.status === "finalizado").length;
+        return (
+          <div className="min-h-screen flex items-center justify-center">
+            <div className="max-w-md text-center space-y-4 p-10 bg-white rounded-3xl shadow-xl">
+              <div className="text-5xl">✅</div>
+              <h2 className="text-2xl font-bold">Você chegou ao fim da lista!</h2>
+              <p className="text-gray-500">
+                {finalizados === resumos.length
+                  ? `Todos os ${resumos.length} resumos foram finalizados.`
+                  : `${finalizados} de ${resumos.length} resumos finalizados até agora.`}
+                {" "}Use o mapa de progresso ou o botão Voltar para revisar algum caso. Obrigado, {auth.usuario}!
+              </p>
+              <div className="flex gap-3 justify-center">
+                <button onClick={() => setConcluido(false)}
+                  className="bg-gray-900 text-white px-6 py-3 rounded-xl hover:bg-gray-700">
+                  Voltar ao último caso
+                </button>
+                <button onClick={sair}
+                  className="border border-gray-300 text-gray-600 px-6 py-3 rounded-xl hover:bg-gray-50">
+                  Sair
+                </button>
+              </div>
             </div>
           </div>
-        </div>
-      );
+        );
+      }
 
       // ── tela principal ─────────────────────────────────────
 
@@ -623,6 +742,18 @@
 
       return (
         <div className="min-h-screen bg-gray-100">
+
+          {mapaCalorAberto && (
+            <div className="fixed top-20 left-4 z-40">
+              <PainelMapaCalor
+                resumos={resumos}
+                indiceAtual={indice}
+                onSelecionar={(i) => { irPara(i); setMapaCalorAberto(false); }}
+                onFechar={() => setMapaCalorAberto(false)}
+              />
+            </div>
+          )}
+
           <div className={wrapperClass}>
             <div className={painelAberto ? "flex gap-5" : ""}>
 
@@ -667,6 +798,25 @@
                           </span>
                         )}
                       </button>
+
+                      {/* Botão Mapa de Progresso */}
+                      <button
+                        onClick={() => setMapaCalorAberto(v => !v)}
+                        title="Ver mapa de progresso"
+                        className={`text-xs px-3 py-1.5 rounded-lg border transition ${
+                          mapaCalorAberto
+                            ? "bg-gray-900 text-white border-gray-900"
+                            : "border-gray-300 text-gray-600 hover:bg-gray-50"
+                        }`}>
+                        Mapa
+                      </button>
+
+                      {somenteLeitura && (
+                        <span className="text-xs font-semibold text-green-700 bg-green-50
+                                         border border-green-200 px-3 py-1 rounded-lg">
+                          ✓ Finalizado — somente leitura
+                        </span>
+                      )}
 
                       <span className="text-sm text-gray-500 font-medium">
                         {indice + 1} / {resumos.length}
@@ -713,15 +863,15 @@
                   <FatorLabel codigo="F1" nome="Fidelidade" />
                   <div className="space-y-6">
                     <Pergunta titulo="O texto preserva o grau de incerteza diagnóstica (não transforma hipótese em fato) *">
-                      <LikertRow6 valor={form.grau_incerteza}
+                      <LikertRow6 valor={form.grau_incerteza} readOnly={somenteLeitura}
                         onChange={v => setField("grau_incerteza", v)} />
                     </Pergunta>
                     <Pergunta titulo="Não há contradições no resumo em relação aos prontuários (datas, dosagens, diagnósticos) *">
-                      <LikertRow6 valor={form.sem_contradicoes}
+                      <LikertRow6 valor={form.sem_contradicoes} readOnly={somenteLeitura}
                         onChange={v => setField("sem_contradicoes", v)} />
                     </Pergunta>
                     <Pergunta titulo="Os dados clínicos apresentados no resumo são totalmente respaldados pelo prontuário original. *">
-                      <LikertRow6 valor={form.dados_respaldados}
+                      <LikertRow6 valor={form.dados_respaldados} readOnly={somenteLeitura}
                         onChange={v => setField("dados_respaldados", v)} />
                     </Pergunta>
                   </div>
@@ -732,7 +882,7 @@
                   <FatorLabel codigo="F2" nome="Erros Factuais" />
                   <div className="space-y-6">
                     <Pergunta titulo="Foi detectado erro factual relevante *">
-                      <RadioGroup name="erro_factual"
+                      <RadioGroup name="erro_factual" readOnly={somenteLeitura}
                         opcoes={[
                           { value: "Sim", label: "Sim" },
                           { value: "Não", label: "Não" },
@@ -749,7 +899,7 @@
                     {form.erro_factual === "Sim" && (
                       <>
                         <Pergunta titulo="Caso tenha pontuado 3 ou menos em qualquer item acima, identifique a natureza do erro principal">
-                          <RadioGroup name="natureza_erro"
+                          <RadioGroup name="natureza_erro" readOnly={somenteLeitura}
                             opcoes={[
                               { value: "Contradição",       label: "Contradição: Informação inversa ao prontuário." },
                               { value: "Ilusão de Certeza", label: "Ilusão de Certeza: Atribuiu certeza a algo que era apenas uma hipótese." },
@@ -760,7 +910,7 @@
                           />
                         </Pergunta>
                         <Pergunta titulo="Gravidade Clínica: Qual o impacto desse erro de fidelidade na segurança do paciente?">
-                          <RadioGroup name="gravidade_clinica"
+                          <RadioGroup name="gravidade_clinica" readOnly={somenteLeitura}
                             opcoes={[
                               { value: "Inócuo",   label: "Inócuo: Erro menor (ex: erro de digitação de nome não crítico)" },
                               { value: "Moderado", label: "Moderado: Pode confundir, mas não induz a conduta imediata errada." },
@@ -780,11 +930,11 @@
                   <FatorLabel codigo="F3" nome="Concisão" />
                   <div className="space-y-6">
                     <Pergunta titulo="O resumo evita redundâncias desnecessárias. *">
-                      <LikertRow6 valor={form.evita_redundancias}
+                      <LikertRow6 valor={form.evita_redundancias} readOnly={somenteLeitura}
                         onChange={v => setField("evita_redundancias", v)} />
                     </Pergunta>
                     <Pergunta titulo="O tamanho do documento é apropriado para uma transição de cuidados segura *">
-                      <LikertRow6 valor={form.tamanho_apropriado}
+                      <LikertRow6 valor={form.tamanho_apropriado} readOnly={somenteLeitura}
                         onChange={v => setField("tamanho_apropriado", v)} />
                     </Pergunta>
                   </div>
@@ -794,7 +944,7 @@
                 <Card>
                   <FatorLabel codigo="F4" nome="Cobertura" />
                   <Pergunta titulo="O modelo cobriu todos os tópicos do template institucional">
-                    <SecoesGrid valores={form.secoes_cobertura} onChange={setSecao} />
+                    <SecoesGrid valores={form.secoes_cobertura} onChange={setSecao} readOnly={somenteLeitura} />
                   </Pergunta>
                 </Card>
 
@@ -803,11 +953,11 @@
                   <FatorLabel codigo="F5" nome="Completude" />
                   <div className="space-y-6">
                     <Pergunta titulo="O resumo contém os principais eventos clínicos relevantes da internação. *">
-                      <LikertRow6 valor={form.eventos_clinicos}
+                      <LikertRow6 valor={form.eventos_clinicos} readOnly={somenteLeitura}
                         onChange={v => setField("eventos_clinicos", v)} />
                     </Pergunta>
                     <Pergunta titulo="Nenhuma informação essencial para continuidade do cuidado foi omitida. *">
-                      <LikertRow6 valor={form.info_essencial}
+                      <LikertRow6 valor={form.info_essencial} readOnly={somenteLeitura}
                         onChange={v => setField("info_essencial", v)} />
                     </Pergunta>
                   </div>
@@ -818,7 +968,7 @@
                   <FatorLabel codigo="★" nome="Avaliação Global" />
                   <div className="space-y-6">
                     <Pergunta titulo="Este resumo poderia ser usado clinicamente sem revisão humana substancial? *">
-                      <RadioGroup name="uso_clinico"
+                      <RadioGroup name="uso_clinico" readOnly={somenteLeitura}
                         opcoes={[
                           { value: "Sim",                label: "Sim" },
                           { value: "Sim, com ressalvas",  label: "Sim, com ressalvas" },
@@ -832,10 +982,12 @@
                     <Pergunta titulo="Quanto tempo você levou para avaliar o texto, sem ter que preencher o formulário? (estimativa em minutos) *">
                       <input type="text"
                         value={form.tempo_avaliacao}
+                        disabled={somenteLeitura}
                         onChange={e => setField("tempo_avaliacao", e.target.value)}
                         placeholder="Ex: 5"
                         className="mt-3 w-28 border border-gray-300 rounded-xl px-4 py-2 text-sm
-                                   focus:outline-none focus:ring-2 focus:ring-gray-400" />
+                                   focus:outline-none focus:ring-2 focus:ring-gray-400
+                                   disabled:bg-gray-100 disabled:text-gray-400" />
                     </Pergunta>
                   </div>
                 </Card>
@@ -847,10 +999,12 @@
                     <span className="text-gray-400 font-normal text-sm">(opcional)</span>
                   </label>
                   <textarea rows={3} value={comentarios}
+                    disabled={somenteLeitura}
                     onChange={e => setComentarios(e.target.value)}
                     placeholder="Observações adicionais sobre o resumo..."
                     className="w-full border border-gray-300 rounded-xl px-4 py-3 text-sm
-                               focus:outline-none focus:ring-2 focus:ring-gray-400 resize-none" />
+                               focus:outline-none focus:ring-2 focus:ring-gray-400 resize-none
+                               disabled:bg-gray-100 disabled:text-gray-400" />
                 </Card>
 
                 {/* Erro */}
@@ -862,24 +1016,51 @@
                 )}
 
                 {/* Ações */}
-                <div className="flex justify-between items-center pb-8">
-                  <button onClick={pular}
-                    className="text-sm text-gray-500 border border-gray-300 px-5 py-3
-                               rounded-xl hover:bg-gray-50 transition">
-                    Pular →
-                  </button>
-                  <button onClick={salvar}
-                    disabled={status === "saving" || status === "saved"}
-                    className={`px-8 py-3 rounded-xl font-semibold text-sm transition-all
-                      ${status === "saved"    ? "bg-green-600 text-white"
-                      : status === "saving"  ? "bg-gray-400 text-white cursor-not-allowed"
-                      : pronto               ? "bg-gray-900 text-white hover:bg-gray-700"
-                      :                        "bg-gray-200 text-gray-400 cursor-not-allowed"
-                      }`}>
-                    {status === "saving" ? "Salvando..."
-                      : status === "saved" ? "✓ Salvo!"
-                      : "Salvar avaliação"}
-                  </button>
+                <div className="flex justify-between items-center pb-8 gap-3">
+                  <div className="flex gap-3">
+                    <button onClick={() => irPara(indice - 1)}
+                      disabled={indice === 0}
+                      className="text-sm text-gray-500 border border-gray-300 px-5 py-3
+                                 rounded-xl hover:bg-gray-50 transition disabled:opacity-40
+                                 disabled:cursor-not-allowed">
+                      ← Voltar
+                    </button>
+                    <button onClick={() => irPara(indice + 1)}
+                      disabled={indice >= resumos.length - 1}
+                      className="text-sm text-gray-500 border border-gray-300 px-5 py-3
+                                 rounded-xl hover:bg-gray-50 transition disabled:opacity-40
+                                 disabled:cursor-not-allowed">
+                      Avançar →
+                    </button>
+                  </div>
+
+                  {!somenteLeitura && (
+                    <div className="flex gap-3">
+                      <button onClick={() => salvar("rascunho")}
+                        disabled={status === "saving"}
+                        className={`px-6 py-3 rounded-xl font-semibold text-sm transition-all
+                          ${status === "draft-saved" ? "bg-yellow-500 text-white"
+                          : status === "saving"      ? "bg-gray-400 text-white cursor-not-allowed"
+                          :                             "border border-gray-300 text-gray-700 hover:bg-gray-50"
+                          }`}>
+                        {status === "saving" ? "Salvando..."
+                          : status === "draft-saved" ? "✓ Rascunho salvo"
+                          : "Salvar rascunho"}
+                      </button>
+                      <button onClick={() => salvar("finalizado")}
+                        disabled={status === "saving" || status === "saved"}
+                        className={`px-8 py-3 rounded-xl font-semibold text-sm transition-all
+                          ${status === "saved"    ? "bg-green-600 text-white"
+                          : status === "saving"  ? "bg-gray-400 text-white cursor-not-allowed"
+                          : pronto               ? "bg-gray-900 text-white hover:bg-gray-700"
+                          :                        "bg-gray-200 text-gray-400 cursor-not-allowed"
+                          }`}>
+                        {status === "saving" ? "Salvando..."
+                          : status === "saved" ? "✓ Finalizado!"
+                          : "Finalizar"}
+                      </button>
+                    </div>
+                  )}
                 </div>
 
               </div>{/* fim coluna principal */}

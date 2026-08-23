@@ -2,7 +2,7 @@ from fastapi import FastAPI, Query, HTTPException, Request
 from fastapi.responses import FileResponse
 from pydantic import BaseModel, field_validator, model_validator
 from fastapi.middleware.cors import CORSMiddleware
-from typing import Optional
+from typing import Optional, Literal
 
 from pathlib import Path
 from datetime import datetime
@@ -393,6 +393,9 @@ def _extrair_identificador(arq: Path) -> str:
     return pasta
 
 def _usuario_pode_avaliar(user: dict, modelo: str, id_resumo: str) -> bool:
+    amostra = set(user.get("amostra_casos", []))
+    if amostra and id_resumo not in amostra:
+        return False
     for permissao in user.get("permissoes_revisao", []):
         modelo_nome = permissao.split("/")[0]
         if modelo_nome != modelo:
@@ -546,32 +549,64 @@ class Avaliacao(BaseModel):
     modelo:    str
     avaliador: str
 
+    # rascunho: pode ser salvo incompleto, editável depois
+    # finalizado: precisa estar completo, trava edição depois de salvo
+    status: Literal["rascunho", "finalizado"] = "finalizado"
+
     # F1 — Fidelidade (Likert 1–6)
-    grau_incerteza:    int
-    sem_contradicoes:  int
-    dados_respaldados: int
+    grau_incerteza:    Optional[int] = None
+    sem_contradicoes:  Optional[int] = None
+    dados_respaldados: Optional[int] = None
 
     # F2 — Erros Factuais
-    erro_factual:      str
+    erro_factual:      Optional[str] = None
     natureza_erro:     Optional[str] = None
     gravidade_clinica: Optional[str] = None
 
     # F3 — Concisão (Likert 1–6)
-    evita_redundancias: int
-    tamanho_apropriado: int
+    evita_redundancias: Optional[int] = None
+    tamanho_apropriado: Optional[int] = None
 
     # F4 — Cobertura (grid 11 seções × 0–4, serializado como JSON)
-    secoes_cobertura:  str
+    secoes_cobertura:  str = "{}"
 
     # F5 — Completude (Likert 1–6)
-    eventos_clinicos:  int
-    info_essencial:    int
+    eventos_clinicos:  Optional[int] = None
+    info_essencial:    Optional[int] = None
 
     # Global
-    uso_clinico:       str
-    tempo_avaliacao:   int
+    uso_clinico:       Optional[str] = None
+    tempo_avaliacao:   Optional[int] = None
 
     comentarios: str = ""
+
+
+def _avaliacao_completa(av: "Avaliacao") -> bool:
+    obrigatorios = [
+        av.grau_incerteza, av.sem_contradicoes, av.dados_respaldados,
+        av.erro_factual,
+        av.evita_redundancias, av.tamanho_apropriado,
+        av.eventos_clinicos, av.info_essencial,
+        av.uso_clinico,
+    ]
+    if any(v is None or v == "" for v in obrigatorios):
+        return False
+    try:
+        cobertura = json.loads(av.secoes_cobertura or "{}")
+    except Exception:
+        return False
+    if not cobertura or any(v is None for v in cobertura.values()):
+        return False
+    if av.tempo_avaliacao is None:
+        return False
+    if av.erro_factual == "Sim":
+        f1_baixo = any(
+            v is not None and v <= 3
+            for v in [av.grau_incerteza, av.sem_contradicoes, av.dados_respaldados]
+        )
+        if f1_baixo and (not av.natureza_erro or not av.gravidade_clinica):
+            return False
+    return True
 
 # =========================================================
 # BANCO
@@ -583,11 +618,13 @@ def inicializar_banco():
     c = conn.cursor()
 
     c.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='avaliacoes'")
-    if c.fetchone():
+    tabela_existia = bool(c.fetchone())
+    if tabela_existia:
         c.execute("PRAGMA table_info(avaliacoes)")
         cols = {row[1] for row in c.fetchall()}
         if "precisao_factual" in cols:
             c.execute("ALTER TABLE avaliacoes RENAME TO avaliacoes_legacy")
+            tabela_existia = False
 
     c.execute("""
     CREATE TABLE IF NOT EXISTS avaliacoes (
@@ -596,6 +633,7 @@ def inicializar_banco():
         id_resumo          TEXT,
         modelo             TEXT,
         avaliador          TEXT,
+        status             TEXT NOT NULL DEFAULT 'finalizado',
         grau_incerteza     INTEGER,
         sem_contradicoes   INTEGER,
         dados_respaldados  INTEGER,
@@ -612,6 +650,12 @@ def inicializar_banco():
         comentarios        TEXT
     )
     """)
+
+    if tabela_existia:
+        c.execute("PRAGMA table_info(avaliacoes)")
+        cols = {row[1] for row in c.fetchall()}
+        if "status" not in cols:
+            c.execute("ALTER TABLE avaliacoes ADD COLUMN status TEXT NOT NULL DEFAULT 'finalizado'")
 
     conn.commit()
     conn.close()
@@ -845,6 +889,7 @@ def listar_usuarios(usuario: str = Query(...), token: str = Query(...)):
             "username":           u["username"],
             "email":              u.get("email", ""),
             "permissoes_revisao": u.get("permissoes_revisao", []),
+            "amostra_casos":      u.get("amostra_casos", []),
             "senha_definida":     bool(u.get("senha")),
         }
         for u in _carregar_usuarios()
@@ -863,13 +908,23 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
         raise HTTPException(status_code=404, detail="Usuário não encontrado")
 
     conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    c.execute(
-        "SELECT DISTINCT id_resumo, modelo FROM avaliacoes WHERE avaliador = ?",
-        (user["username"],)
-    )
-    ja_avaliados = {(row[0], row[1]) for row in c.fetchall()}
+    c.execute("SELECT * FROM avaliacoes WHERE avaliador = ?", (user["username"],))
+    avaliacoes = {(row["id_resumo"], row["modelo"]): dict(row) for row in c.fetchall()}
     conn.close()
+
+    campos_avaliacao = [
+        "grau_incerteza", "sem_contradicoes", "dados_respaldados",
+        "erro_factual", "natureza_erro", "gravidade_clinica",
+        "evita_redundancias", "tamanho_apropriado",
+        "secoes_cobertura",
+        "eventos_clinicos", "info_essencial",
+        "uso_clinico", "tempo_avaliacao",
+        "comentarios",
+    ]
+
+    amostra = set(user.get("amostra_casos", []))
 
     resultado = []
     vistos: set[tuple[str, str]] = set()
@@ -879,16 +934,23 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
         for arq in BASE_OUTPUTS.glob(padrao):
             try:
                 identificador = _extrair_identificador(arq)
+                if amostra and identificador not in amostra:
+                    continue
                 chave = (identificador, modelo_nome)
-                if chave in ja_avaliados or chave in vistos:
+                if chave in vistos:
                     continue
                 vistos.add(chave)
                 texto = arq.read_text(encoding="utf-8", errors="ignore")
-                resultado.append({
+                av_existente = avaliacoes.get(chave)
+                item = {
                     "modelo":    modelo_nome,
                     "id_resumo": identificador,
                     "texto":     texto,
-                })
+                    "status":    av_existente["status"] if av_existente else "nao_iniciado",
+                }
+                for campo in campos_avaliacao:
+                    item[campo] = av_existente[campo] if av_existente else None
+                resultado.append(item)
             except Exception as e:
                 print(f"Erro lendo {arq}: {e}")
 
@@ -896,10 +958,11 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
     for item in resultado:
         grupos.setdefault(item["id_resumo"], []).append(item)
 
+    rng = random.Random(user["username"].lower())
     resultado_final = []
     for id_resumo in sorted(grupos):
         modelos = grupos[id_resumo]
-        random.shuffle(modelos)
+        rng.shuffle(modelos)
         resultado_final.extend(modelos)
 
     return resultado_final
@@ -914,34 +977,28 @@ def salvar(av: Avaliacao, token: str = Query(...)):
     if not _usuario_pode_avaliar(user, av.modelo, av.id_resumo):
         raise HTTPException(status_code=403, detail="Sem permissão para avaliar este resumo")
 
+    if av.status == "finalizado" and not _avaliacao_completa(av):
+        raise HTTPException(status_code=400, detail="Formulário incompleto para finalizar.")
+
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
 
     c.execute(
-        "SELECT 1 FROM avaliacoes WHERE avaliador = ? AND id_resumo = ? AND modelo = ? LIMIT 1",
+        "SELECT id, status FROM avaliacoes WHERE avaliador = ? AND id_resumo = ? AND modelo = ? LIMIT 1",
         (av.avaliador, av.id_resumo, av.modelo),
     )
-    if c.fetchone():
+    existente = c.fetchone()
+
+    if existente and existente[1] == "finalizado":
         conn.close()
         raise HTTPException(
             status_code=409,
-            detail=f"Avaliação de '{av.id_resumo}' ({av.modelo}) já registrada para {av.avaliador}.",
+            detail=f"Avaliação de '{av.id_resumo}' ({av.modelo}) já foi finalizada e não pode mais ser alterada.",
         )
 
-    c.execute("""
-    INSERT INTO avaliacoes (
-        timestamp, id_resumo, modelo, avaliador,
-        grau_incerteza, sem_contradicoes, dados_respaldados,
-        erro_factual, natureza_erro, gravidade_clinica,
-        evita_redundancias, tamanho_apropriado,
-        secoes_cobertura,
-        eventos_clinicos, info_essencial,
-        uso_clinico, tempo_avaliacao,
-        comentarios
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    """, (
+    valores = (
         datetime.now().isoformat(),
-        av.id_resumo, av.modelo, av.avaliador,
+        av.status,
         av.grau_incerteza, av.sem_contradicoes, av.dados_respaldados,
         av.erro_factual, av.natureza_erro, av.gravidade_clinica,
         av.evita_redundancias, av.tamanho_apropriado,
@@ -949,14 +1006,43 @@ def salvar(av: Avaliacao, token: str = Query(...)):
         av.eventos_clinicos, av.info_essencial,
         av.uso_clinico, av.tempo_avaliacao,
         av.comentarios,
-    ))
+    )
+
+    if existente:
+        c.execute("""
+        UPDATE avaliacoes SET
+            timestamp = ?, status = ?,
+            grau_incerteza = ?, sem_contradicoes = ?, dados_respaldados = ?,
+            erro_factual = ?, natureza_erro = ?, gravidade_clinica = ?,
+            evita_redundancias = ?, tamanho_apropriado = ?,
+            secoes_cobertura = ?,
+            eventos_clinicos = ?, info_essencial = ?,
+            uso_clinico = ?, tempo_avaliacao = ?,
+            comentarios = ?
+        WHERE id = ?
+        """, valores + (existente[0],))
+    else:
+        c.execute("""
+        INSERT INTO avaliacoes (
+            timestamp, status, id_resumo, modelo, avaliador,
+            grau_incerteza, sem_contradicoes, dados_respaldados,
+            erro_factual, natureza_erro, gravidade_clinica,
+            evita_redundancias, tamanho_apropriado,
+            secoes_cobertura,
+            eventos_clinicos, info_essencial,
+            uso_clinico, tempo_avaliacao,
+            comentarios
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, valores[:2] + (av.id_resumo, av.modelo, av.avaliador) + valores[2:])
+
     conn.commit()
     conn.close()
 
-    _salvar_backup(av)
-    _email_avaliacao(av)
+    if av.status == "finalizado":
+        _salvar_backup(av)
+        _email_avaliacao(av)
 
-    return {"ok": True, "mensagem": "Avaliação salva com sucesso"}
+    return {"ok": True, "mensagem": "Rascunho salvo" if av.status == "rascunho" else "Avaliação finalizada com sucesso"}
 
 
 @app.get("/avaliacoes")
