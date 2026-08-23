@@ -14,3 +14,21 @@ __pycache__/*
 
 # PDFs clínicos — gerenciados via Git LFS
 !backend/PDFs/**
+
+# Claude Code (config local, não faz parte do projeto)
+.claude/
+
+# Resquícios da raiz de antes da reorganização em backend/ + frontend/ —
+# duplicam arquivos que já vivem (versionados) dentro de backend/. Nunca
+# devem ser versionados de novo (contêm PDFs e avaliações reais de pacientes).
+/Dockerfile
+/PDFs/
+/backups/
+/converter_docx.py
+/data/
+/limpar_resumos.py
+/main.py
+/outputs/
+/pdfs_manifest.json
+/requirements.txt
+/usuarios.json
