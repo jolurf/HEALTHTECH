@@ -543,6 +543,17 @@ class ResetarSenhaRequest(BaseModel):
         return v
 
 
+class SincronizarUsuariosRequest(BaseModel):
+    admin_usuario: str
+    admin_senha:   str
+
+
+class ReabrirAvaliacoesRequest(BaseModel):
+    admin_usuario: str
+    admin_senha:   str
+    usuario_alvo:  str
+
+
 class Avaliacao(BaseModel):
 
     id_resumo: str
@@ -894,6 +905,64 @@ def listar_usuarios(usuario: str = Query(...), token: str = Query(...)):
         }
         for u in _carregar_usuarios()
     ]
+
+
+@app.post("/admin/sincronizar-usuarios")
+def sincronizar_usuarios(req: SincronizarUsuariosRequest):
+    """Atualiza permissoes_revisao/amostra_casos dos usuários já cadastrados a partir
+    do usuarios.json embutido na imagem (deploy), sem tocar em senha/e-mail e sem
+    criar usuários novos."""
+    _autenticar_admin(req.admin_usuario, req.admin_senha)
+
+    bundled_path = Path(__file__).parent / "usuarios.json"
+    if not bundled_path.exists():
+        raise HTTPException(status_code=404, detail="usuarios.json embutido não encontrado na imagem")
+    bundled = json.loads(bundled_path.read_text(encoding="utf-8")).get("usuarios", [])
+    bundled_por_nome = {u["username"].lower(): u for u in bundled}
+
+    atuais = _carregar_usuarios()
+    atualizados = []
+    for u in atuais:
+        origem = bundled_por_nome.get(u["username"].lower())
+        if not origem:
+            continue
+        if "permissoes_revisao" in origem:
+            u["permissoes_revisao"] = origem["permissoes_revisao"]
+        if "amostra_casos" in origem:
+            u["amostra_casos"] = origem["amostra_casos"]
+        else:
+            u.pop("amostra_casos", None)
+        atualizados.append(u["username"])
+    _salvar_usuarios(atuais)
+
+    return {"ok": True, "usuarios_atualizados": atualizados}
+
+
+@app.post("/admin/reabrir-avaliacoes")
+def reabrir_avaliacoes(req: ReabrirAvaliacoesRequest):
+    """Apaga as avaliações do usuário_alvo referentes à amostra_casos definida para
+    ele (reavaliação), sem tocar em nenhuma avaliação fora dessa amostra."""
+    _autenticar_admin(req.admin_usuario, req.admin_senha)
+
+    alvo = _get_user(req.usuario_alvo)
+    if not alvo:
+        raise HTTPException(status_code=404, detail="Usuário não encontrado")
+    amostra = alvo.get("amostra_casos", [])
+    if not amostra:
+        raise HTTPException(status_code=400, detail="Este usuário não tem amostra_casos definida")
+
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    placeholders = ",".join("?" for _ in amostra)
+    c.execute(
+        f"DELETE FROM avaliacoes WHERE avaliador = ? AND id_resumo IN ({placeholders})",
+        (alvo["username"], *amostra),
+    )
+    apagadas = c.rowcount
+    conn.commit()
+    conn.close()
+
+    return {"ok": True, "avaliacoes_reabertas": apagadas, "casos": amostra}
 
 
 # =========================================================
