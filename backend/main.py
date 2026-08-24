@@ -554,6 +554,34 @@ class ReabrirAvaliacoesRequest(BaseModel):
     usuario_alvo:  str
 
 
+class RegistroRestauracao(BaseModel):
+    timestamp:  str
+    id_resumo:  str
+    modelo:     str
+    avaliador:  str
+
+    grau_incerteza:     Optional[int] = None
+    sem_contradicoes:   Optional[int] = None
+    dados_respaldados:  Optional[int] = None
+    erro_factual:       Optional[str] = None
+    natureza_erro:      Optional[str] = None
+    gravidade_clinica:  Optional[str] = None
+    evita_redundancias: Optional[int] = None
+    tamanho_apropriado: Optional[int] = None
+    secoes_cobertura:   str = "{}"
+    eventos_clinicos:   Optional[int] = None
+    info_essencial:     Optional[int] = None
+    uso_clinico:        Optional[str] = None
+    tempo_avaliacao:    Optional[int] = None
+    comentarios:        str = ""
+
+
+class RestaurarAvaliacoesRequest(BaseModel):
+    admin_usuario: str
+    admin_senha:   str
+    registros:     list[RegistroRestauracao]
+
+
 class Avaliacao(BaseModel):
 
     id_resumo: str
@@ -968,6 +996,56 @@ def reabrir_avaliacoes(req: ReabrirAvaliacoesRequest):
     conn.close()
 
     return {"ok": True, "avaliacoes_reabertas": apagadas, "casos": amostra}
+
+
+@app.post("/admin/restaurar-avaliacoes")
+def restaurar_avaliacoes(req: RestaurarAvaliacoesRequest):
+    """Reinsere avaliações de rodada 1 a partir de um backup (usado para recuperar
+    dados apagados por engano). Idempotente: nunca sobrescreve uma linha que já
+    existe para (avaliador, id_resumo, modelo, rodada=1) — só preenche o que falta."""
+    _autenticar_admin(req.admin_usuario, req.admin_senha)
+
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+
+    restaurados = []
+    ja_existiam = []
+    for r in req.registros:
+        c.execute(
+            "SELECT 1 FROM avaliacoes WHERE avaliador = ? AND id_resumo = ? AND modelo = ? AND rodada = 1 LIMIT 1",
+            (r.avaliador, r.id_resumo, r.modelo),
+        )
+        if c.fetchone():
+            ja_existiam.append(f"{r.avaliador}/{r.id_resumo}/{r.modelo}")
+            continue
+
+        c.execute("""
+        INSERT INTO avaliacoes (
+            timestamp, status, rodada, id_resumo, modelo, avaliador,
+            grau_incerteza, sem_contradicoes, dados_respaldados,
+            erro_factual, natureza_erro, gravidade_clinica,
+            evita_redundancias, tamanho_apropriado,
+            secoes_cobertura,
+            eventos_clinicos, info_essencial,
+            uso_clinico, tempo_avaliacao,
+            comentarios
+        ) VALUES (?, 'finalizado', 1, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, (
+            r.timestamp, r.id_resumo, r.modelo, r.avaliador,
+            r.grau_incerteza, r.sem_contradicoes, r.dados_respaldados,
+            r.erro_factual, r.natureza_erro, r.gravidade_clinica,
+            r.evita_redundancias, r.tamanho_apropriado,
+            r.secoes_cobertura,
+            r.eventos_clinicos, r.info_essencial,
+            r.uso_clinico, r.tempo_avaliacao,
+            r.comentarios,
+        ))
+        restaurados.append(f"{r.avaliador}/{r.id_resumo}/{r.modelo}")
+
+    conn.commit()
+    conn.close()
+
+    return {"ok": True, "restaurados": len(restaurados), "ja_existiam": len(ja_existiam), "detalhe_ja_existiam": ja_existiam}
 
 
 # =========================================================
