@@ -33,3 +33,4 @@ __pycache__/*
 /requirements.txt
 /usuarios.json
 /comandos_producao.txt
+/restaurar_avaliacoes_payload.json
