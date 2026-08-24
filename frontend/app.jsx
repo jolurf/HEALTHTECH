@@ -748,7 +748,7 @@
               <PainelMapaCalor
                 resumos={resumos}
                 indiceAtual={indice}
-                onSelecionar={(i) => { irPara(i); setMapaCalorAberto(false); }}
+                onSelecionar={(i) => irPara(i)}
                 onFechar={() => setMapaCalorAberto(false)}
               />
             </div>
