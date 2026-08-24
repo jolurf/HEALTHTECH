@@ -418,7 +418,7 @@
 
       const [sidebarAberta,    setSidebarAberta]    = useState(false);
       const [resumoAberto,     setResumoAberto]     = useState(false);
-      const [mapaCalorAberto,  setMapaCalorAberto]  = useState(false);
+      const [mapaCalorAberto,  setMapaCalorAberto]  = useState(true);
       const [pdfsDoCaso,       setPdfsDoCaso]       = useState([]);
       const [carregandoPdfs,   setCarregandoPdfs]   = useState(false);
 
