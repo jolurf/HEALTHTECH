@@ -554,6 +554,13 @@ class ReabrirAvaliacoesRequest(BaseModel):
     usuario_alvo:  str
 
 
+class DefinirAmostraRequest(BaseModel):
+    admin_usuario: str
+    admin_senha:   str
+    usuario_alvo:  str
+    casos:         list[str]
+
+
 class RegistroRestauracao(BaseModel):
     timestamp:  str
     id_resumo:  str
@@ -967,6 +974,29 @@ def sincronizar_usuarios(req: SincronizarUsuariosRequest):
     _salvar_usuarios(atuais)
 
     return {"ok": True, "usuarios_atualizados": atualizados}
+
+
+@app.post("/admin/definir-amostra")
+def definir_amostra(req: DefinirAmostraRequest):
+    """Define (sobrescreve) a amostra_casos de um usuário sob demanda, sem precisar
+    de novo deploy. Use casos=[] para limpar (usuário volta a ver tudo normalmente)."""
+    _autenticar_admin(req.admin_usuario, req.admin_senha)
+
+    alvo = _get_user(req.usuario_alvo)
+    if not alvo:
+        raise HTTPException(status_code=404, detail="Usuário não encontrado")
+
+    usuarios = _carregar_usuarios()
+    for u in usuarios:
+        if u["username"].lower() == req.usuario_alvo.lower():
+            if req.casos:
+                u["amostra_casos"] = req.casos
+            else:
+                u.pop("amostra_casos", None)
+            break
+    _salvar_usuarios(usuarios)
+
+    return {"ok": True, "usuario": req.usuario_alvo, "amostra_casos": req.casos}
 
 
 @app.post("/admin/reabrir-avaliacoes")
