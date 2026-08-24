@@ -645,6 +645,7 @@ def inicializar_banco():
         modelo             TEXT,
         avaliador          TEXT,
         status             TEXT NOT NULL DEFAULT 'finalizado',
+        rodada             INTEGER NOT NULL DEFAULT 1,
         grau_incerteza     INTEGER,
         sem_contradicoes   INTEGER,
         dados_respaldados  INTEGER,
@@ -667,6 +668,8 @@ def inicializar_banco():
         cols = {row[1] for row in c.fetchall()}
         if "status" not in cols:
             c.execute("ALTER TABLE avaliacoes ADD COLUMN status TEXT NOT NULL DEFAULT 'finalizado'")
+        if "rodada" not in cols:
+            c.execute("ALTER TABLE avaliacoes ADD COLUMN rodada INTEGER NOT NULL DEFAULT 1")
 
     conn.commit()
     conn.close()
@@ -940,8 +943,10 @@ def sincronizar_usuarios(req: SincronizarUsuariosRequest):
 
 @app.post("/admin/reabrir-avaliacoes")
 def reabrir_avaliacoes(req: ReabrirAvaliacoesRequest):
-    """Apaga as avaliações do usuário_alvo referentes à amostra_casos definida para
-    ele (reavaliação), sem tocar em nenhuma avaliação fora dessa amostra."""
+    """Apaga o progresso de rodada 2 (reavaliação) do usuário_alvo dentro da sua
+    amostra_casos, caso precise reiniciar do zero. Nunca toca na rodada 1 (avaliação
+    original) — não precisa ser chamado antes da primeira vez que o avaliador entrar
+    na amostra, já que uma rodada 2 sem registro já aparece como "não iniciado"."""
     _autenticar_admin(req.admin_usuario, req.admin_senha)
 
     alvo = _get_user(req.usuario_alvo)
@@ -955,7 +960,7 @@ def reabrir_avaliacoes(req: ReabrirAvaliacoesRequest):
     c = conn.cursor()
     placeholders = ",".join("?" for _ in amostra)
     c.execute(
-        f"DELETE FROM avaliacoes WHERE avaliador = ? AND id_resumo IN ({placeholders})",
+        f"DELETE FROM avaliacoes WHERE avaliador = ? AND rodada = 2 AND id_resumo IN ({placeholders})",
         (alvo["username"], *amostra),
     )
     apagadas = c.rowcount
@@ -980,7 +985,7 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
     c.execute("SELECT * FROM avaliacoes WHERE avaliador = ?", (user["username"],))
-    avaliacoes = {(row["id_resumo"], row["modelo"]): dict(row) for row in c.fetchall()}
+    avaliacoes = {(row["id_resumo"], row["modelo"], row["rodada"]): dict(row) for row in c.fetchall()}
     conn.close()
 
     campos_avaliacao = [
@@ -1005,16 +1010,20 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
                 identificador = _extrair_identificador(arq)
                 if amostra and identificador not in amostra:
                     continue
-                chave = (identificador, modelo_nome)
-                if chave in vistos:
+                chave_vista = (identificador, modelo_nome)
+                if chave_vista in vistos:
                     continue
-                vistos.add(chave)
+                vistos.add(chave_vista)
+                # casos dentro da amostra de reavaliação são tratados como rodada 2:
+                # a rodada 1 (avaliação original) fica intacta, nunca é sobrescrita.
+                rodada = 2 if identificador in amostra else 1
                 texto = arq.read_text(encoding="utf-8", errors="ignore")
-                av_existente = avaliacoes.get(chave)
+                av_existente = avaliacoes.get((identificador, modelo_nome, rodada))
                 item = {
                     "modelo":    modelo_nome,
                     "id_resumo": identificador,
                     "texto":     texto,
+                    "rodada":    rodada,
                     "status":    av_existente["status"] if av_existente else "nao_iniciado",
                 }
                 for campo in campos_avaliacao:
@@ -1049,12 +1058,18 @@ def salvar(av: Avaliacao, token: str = Query(...)):
     if av.status == "finalizado" and not _avaliacao_completa(av):
         raise HTTPException(status_code=400, detail="Formulário incompleto para finalizar.")
 
+    # casos dentro da amostra de reavaliação do usuário são gravados como rodada 2,
+    # sem nunca tocar na rodada 1 (avaliação original) — necessário para poder medir
+    # concordância intra-avaliador entre as duas rodadas.
+    amostra = set(user.get("amostra_casos", []))
+    rodada = 2 if av.id_resumo in amostra else 1
+
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
 
     c.execute(
-        "SELECT id, status FROM avaliacoes WHERE avaliador = ? AND id_resumo = ? AND modelo = ? LIMIT 1",
-        (av.avaliador, av.id_resumo, av.modelo),
+        "SELECT id, status FROM avaliacoes WHERE avaliador = ? AND id_resumo = ? AND modelo = ? AND rodada = ? LIMIT 1",
+        (av.avaliador, av.id_resumo, av.modelo, rodada),
     )
     existente = c.fetchone()
 
@@ -1093,7 +1108,7 @@ def salvar(av: Avaliacao, token: str = Query(...)):
     else:
         c.execute("""
         INSERT INTO avaliacoes (
-            timestamp, status, id_resumo, modelo, avaliador,
+            timestamp, status, id_resumo, modelo, avaliador, rodada,
             grau_incerteza, sem_contradicoes, dados_respaldados,
             erro_factual, natureza_erro, gravidade_clinica,
             evita_redundancias, tamanho_apropriado,
@@ -1101,8 +1116,8 @@ def salvar(av: Avaliacao, token: str = Query(...)):
             eventos_clinicos, info_essencial,
             uso_clinico, tempo_avaliacao,
             comentarios
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, valores[:2] + (av.id_resumo, av.modelo, av.avaliador) + valores[2:])
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, valores[:2] + (av.id_resumo, av.modelo, av.avaliador, rodada) + valores[2:])
 
     conn.commit()
     conn.close()

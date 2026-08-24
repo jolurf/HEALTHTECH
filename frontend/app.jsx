@@ -836,12 +836,20 @@
 
                 {/* Metadados */}
                 <Card>
-                  <div className="text-sm">
-                    <span className="font-semibold text-gray-600 block mb-1">Identificador</span>
-                    <span className="bg-gray-100 text-gray-800 px-3 py-1 rounded-lg
-                                     inline-block font-mono text-xs break-all">
-                      {resumoAtual.id_resumo}
-                    </span>
+                  <div className="text-sm flex items-center gap-2 flex-wrap">
+                    <div>
+                      <span className="font-semibold text-gray-600 block mb-1">Identificador</span>
+                      <span className="bg-gray-100 text-gray-800 px-3 py-1 rounded-lg
+                                       inline-block font-mono text-xs break-all">
+                        {resumoAtual.id_resumo}
+                      </span>
+                    </div>
+                    {resumoAtual.rodada === 2 && (
+                      <span className="text-xs font-semibold text-amber-700 bg-amber-50
+                                       border border-amber-200 px-3 py-1 rounded-lg">
+                        🔁 Rodada 2 — reavaliação
+                      </span>
+                    )}
                   </div>
                 </Card>
 
