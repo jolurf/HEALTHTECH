@@ -568,7 +568,7 @@
             [form.grau_incerteza, form.sem_contradicoes, form.dados_respaldados].some(v => v !== null && v <= 3) &&
             (!form.natureza_erro || !form.gravidade_clinica);
           setErro(
-            faltaSecao      ? "F4 — Cobertura: marque todas as 11 seções antes de finalizar." :
+            faltaSecao      ? "F4 — Qualidade: marque todas as 11 seções antes de finalizar." :
             faltaTempo      ? "Informe o tempo de avaliação (em minutos)." :
             faltaErroDetalhe? "F2 — preencha a natureza e gravidade do erro factual." :
                               "Preencha todos os campos obrigatórios antes de finalizar."
@@ -948,9 +948,9 @@
                   </div>
                 </Card>
 
-                {/* F4 — Cobertura */}
+                {/* F4 — Qualidade */}
                 <Card>
-                  <FatorLabel codigo="F4" nome="Cobertura" />
+                  <FatorLabel codigo="F4" nome="Qualidade" />
                   <Pergunta titulo="Avalie a qualidade de cada seção do resumo (escala de 0 a 4, onde 0 é irrelevante e 4 é muito relevante)">
                     <SecoesGrid valores={form.secoes_cobertura} onChange={setSecao} readOnly={somenteLeitura} />
                   </Pergunta>
