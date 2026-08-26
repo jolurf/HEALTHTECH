@@ -162,8 +162,8 @@
                 {[0,1,2,3,4].map(n => (
                   <th key={n} className="text-center text-xs font-semibold text-gray-500 pb-2 px-2">
                     <div>{n}</div>
-                    {n === 0 && <div className="font-normal text-gray-400">Irrelevante</div>}
-                    {n === 4 && <div className="font-normal text-gray-400">Muito relevante</div>}
+                    {n === 0 && <div className="font-normal text-gray-400">Muito ruim</div>}
+                    {n === 4 && <div className="font-normal text-gray-400">Muito bom</div>}
                   </th>
                 ))}
               </tr>
@@ -951,7 +951,7 @@
                 {/* F4 — Qualidade */}
                 <Card>
                   <FatorLabel codigo="F4" nome="Qualidade" />
-                  <Pergunta titulo="Avalie a qualidade de cada seção do resumo (escala de 0 a 4, onde 0 é irrelevante e 4 é muito relevante)">
+                  <Pergunta titulo="Avalie a qualidade de cada seção do resumo (escala de 0 a 4, onde 0 é muito ruim e 4 é muito bom)">
                     <SecoesGrid valores={form.secoes_cobertura} onChange={setSecao} readOnly={somenteLeitura} />
                   </Pergunta>
                 </Card>

@@ -59,9 +59,9 @@ das 11 seções do template institucional, marque de 0 a 4:
 
 | Nota | Significado |
 |---|---|
-| 0 | Irrelevante — a seção está ausente, vazia ou não contribui em nada |
+| 0 | Muito ruim — a seção está ausente, vazia ou não contribui em nada |
 | 1–3 | Intermediário — presente mas incompleta, superficial ou com problemas |
-| 4 | Muito relevante — completa, clara e clinicamente útil |
+| 4 | Muito bom — completa, clara e clinicamente útil |
 
 As 11 seções avaliadas: Dados do Paciente, Dados da Internação, Exames da
 Internação, Terapia Medicamentosa, Terapia Intervencionista, Dispositivos,
