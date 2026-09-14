@@ -559,6 +559,36 @@
 
       const pronto = formCompleto(form, auth?.usuario || "");
       const somenteLeitura = resumoAtual?.status === "finalizado";
+      const qualidadeEditavel = !!resumoAtual?.qualidade_editavel;
+
+      const [statusQualidade, setStatusQualidade] = useState("idle");
+
+      async function salvarQualidade() {
+        setStatusQualidade("saving");
+        try {
+          const params = new URLSearchParams({ token: auth.token });
+          const resp = await fetch(`${API}/atualizar-qualidade?${params}`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              avaliador:         auth.usuario,
+              id_resumo:         resumoAtual.id_resumo,
+              modelo:            resumoAtual.modelo,
+              secoes_cobertura:  JSON.stringify(form.secoes_cobertura),
+            }),
+          });
+          if (resp.status === 401) { sair(); return; }
+          if (!resp.ok) throw new Error();
+          setResumos(prev => prev.map((item, i) => i !== indice ? item : {
+            ...item,
+            secoes_cobertura: JSON.stringify(form.secoes_cobertura),
+          }));
+          setStatusQualidade("saved");
+          setTimeout(() => setStatusQualidade("idle"), 1500);
+        } catch {
+          setStatusQualidade("error");
+        }
+      }
 
       async function salvar(statusAlvo) {
         if (statusAlvo === "finalizado" && !pronto) {
@@ -950,10 +980,34 @@
 
                 {/* F4 — Qualidade */}
                 <Card>
-                  <FatorLabel codigo="F4" nome="Qualidade" />
+                  <div className="flex items-center justify-between mb-4">
+                    <FatorLabel codigo="F4" nome="Qualidade" />
+                    {qualidadeEditavel && (
+                      <span className="text-xs font-semibold text-amber-700 bg-amber-50
+                                       border border-amber-200 px-3 py-1 rounded-lg">
+                        ✎ Liberado para correção
+                      </span>
+                    )}
+                  </div>
                   <Pergunta titulo="Avalie a qualidade de cada seção do resumo (escala de 0 a 4, onde 0 é muito ruim e 4 é muito bom)">
-                    <SecoesGrid valores={form.secoes_cobertura} onChange={setSecao} readOnly={somenteLeitura} />
+                    <SecoesGrid valores={form.secoes_cobertura} onChange={setSecao}
+                      readOnly={somenteLeitura && !qualidadeEditavel} />
                   </Pergunta>
+                  {qualidadeEditavel && (
+                    <div className="flex justify-end mt-4">
+                      <button onClick={salvarQualidade}
+                        disabled={statusQualidade === "saving"}
+                        className={`px-5 py-2 rounded-xl font-semibold text-sm transition-all
+                          ${statusQualidade === "saved"  ? "bg-green-600 text-white"
+                          : statusQualidade === "saving" ? "bg-gray-400 text-white cursor-not-allowed"
+                          :                                "bg-gray-900 text-white hover:bg-gray-700"
+                          }`}>
+                        {statusQualidade === "saving" ? "Salvando..."
+                          : statusQualidade === "saved" ? "✓ Salvo!"
+                          : "Salvar correção de Qualidade"}
+                      </button>
+                    </div>
+                  )}
                 </Card>
 
                 {/* F5 — Completude */}

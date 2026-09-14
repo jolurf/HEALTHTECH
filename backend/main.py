@@ -394,7 +394,7 @@ def _extrair_identificador(arq: Path) -> str:
 
 def _usuario_pode_avaliar(user: dict, modelo: str, id_resumo: str) -> bool:
     amostra = set(user.get("amostra_casos", []))
-    if amostra and id_resumo not in amostra:
+    if amostra and id_resumo not in amostra and not user.get("pode_editar_qualidade"):
         return False
     for permissao in user.get("permissoes_revisao", []):
         modelo_nome = permissao.split("/")[0]
@@ -559,6 +559,13 @@ class DefinirAmostraRequest(BaseModel):
     admin_senha:   str
     usuario_alvo:  str
     casos:         list[str]
+
+
+class AtualizarQualidadeRequest(BaseModel):
+    avaliador:        str
+    id_resumo:        str
+    modelo:           str
+    secoes_cobertura: str
 
 
 class RegistroRestauracao(BaseModel):
@@ -970,6 +977,10 @@ def sincronizar_usuarios(req: SincronizarUsuariosRequest):
             u["amostra_casos"] = origem["amostra_casos"]
         else:
             u.pop("amostra_casos", None)
+        if origem.get("pode_editar_qualidade"):
+            u["pode_editar_qualidade"] = True
+        else:
+            u.pop("pode_editar_qualidade", None)
         atualizados.append(u["username"])
     _salvar_usuarios(atuais)
 
@@ -1107,6 +1118,7 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
     ]
 
     amostra = set(user.get("amostra_casos", []))
+    pode_editar_qualidade = bool(user.get("pode_editar_qualidade"))
 
     resultado = []
     vistos: set[tuple[str, str]] = set()
@@ -1116,7 +1128,7 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
         for arq in BASE_OUTPUTS.glob(padrao):
             try:
                 identificador = _extrair_identificador(arq)
-                if amostra and identificador not in amostra:
+                if amostra and identificador not in amostra and not pode_editar_qualidade:
                     continue
                 chave_vista = (identificador, modelo_nome)
                 if chave_vista in vistos:
@@ -1127,12 +1139,14 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
                 rodada = 2 if identificador in amostra else 1
                 texto = arq.read_text(encoding="utf-8", errors="ignore")
                 av_existente = avaliacoes.get((identificador, modelo_nome, rodada))
+                status_item = av_existente["status"] if av_existente else "nao_iniciado"
                 item = {
-                    "modelo":    modelo_nome,
-                    "id_resumo": identificador,
-                    "texto":     texto,
-                    "rodada":    rodada,
-                    "status":    av_existente["status"] if av_existente else "nao_iniciado",
+                    "modelo":            modelo_nome,
+                    "id_resumo":         identificador,
+                    "texto":             texto,
+                    "rodada":            rodada,
+                    "status":            status_item,
+                    "qualidade_editavel": pode_editar_qualidade and rodada == 1 and status_item == "finalizado",
                 }
                 for campo in campos_avaliacao:
                     item[campo] = av_existente[campo] if av_existente else None
@@ -1235,6 +1249,38 @@ def salvar(av: Avaliacao, token: str = Query(...)):
         _email_avaliacao(av)
 
     return {"ok": True, "mensagem": "Rascunho salvo" if av.status == "rascunho" else "Avaliação finalizada com sucesso"}
+
+
+@app.post("/atualizar-qualidade")
+def atualizar_qualidade(req: AtualizarQualidadeRequest, token: str = Query(...)):
+    """Permite corrigir só o campo secoes_cobertura (F4 — Qualidade) de uma avaliação
+    de rodada 1 já finalizada, sem reabrir o resto do formulário. Restrito a usuários
+    com a flag pode_editar_qualidade (definida pelo admin)."""
+    _verificar_token(req.avaliador, token)
+    user = _get_user(req.avaliador)
+    if not user:
+        raise HTTPException(status_code=404, detail="Usuário não encontrado")
+    if not user.get("pode_editar_qualidade"):
+        raise HTTPException(status_code=403, detail="Sem permissão para editar a Qualidade de avaliações finalizadas")
+    if not _usuario_pode_avaliar(user, req.modelo, req.id_resumo):
+        raise HTTPException(status_code=403, detail="Sem permissão para avaliar este resumo")
+
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    c.execute(
+        "SELECT id FROM avaliacoes WHERE avaliador = ? AND id_resumo = ? AND modelo = ? AND rodada = 1 LIMIT 1",
+        (req.avaliador, req.id_resumo, req.modelo),
+    )
+    existente = c.fetchone()
+    if not existente:
+        conn.close()
+        raise HTTPException(status_code=404, detail="Avaliação original (rodada 1) não encontrada para este caso")
+
+    c.execute("UPDATE avaliacoes SET secoes_cobertura = ? WHERE id = ?", (req.secoes_cobertura, existente[0]))
+    conn.commit()
+    conn.close()
+
+    return {"ok": True, "mensagem": "Qualidade atualizada com sucesso"}
 
 
 @app.get("/avaliacoes")
