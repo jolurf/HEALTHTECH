@@ -303,13 +303,33 @@
       return `${i + 1}. ${r.id_resumo} (${r.modelo}) — ${r.status.replace("_", " ")}`;
     }
 
+    function GradeMapa({ itens, indiceAtual, onSelecionar }) {
+      return (
+        <div className="grid gap-1.5" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(1.4rem, 1fr))" }}>
+          {itens.map(r => (
+            <button key={`${r.id_resumo}-${r.modelo}-${r.rodada}`}
+              onClick={() => onSelecionar(r._i)}
+              title={tituloDoQuadrado(r, r._i)}
+              className={`w-full aspect-square rounded-sm transition-all
+                ${corDoQuadrado(r)}
+                ${r._i === indiceAtual ? "ring-2 ring-offset-1 ring-gray-900" : ""}`}
+            />
+          ))}
+        </div>
+      );
+    }
+
     function PainelMapaCalor({ resumos, indiceAtual, onSelecionar, onFechar }) {
-      const temCorrecaoQualidade = resumos.some(r => r.qualidade_editavel);
-      const qualidadeCorrigida = resumos.filter(r => r.qualidade_editavel && r.qualidade_corrigida).length;
-      const qualidadeTotal = resumos.filter(r => r.qualidade_editavel).length;
-      const finalizados = resumos.filter(r => !r.qualidade_editavel && r.status === "finalizado").length;
-      const rascunhos = resumos.filter(r => !r.qualidade_editavel && r.status === "rascunho").length;
-      const pendentes = resumos.filter(r => !r.qualidade_editavel && r.status === "nao_iniciado").length;
+      const comIndice = resumos.map((r, i) => ({ ...r, _i: i }));
+      const itensQualidade = comIndice.filter(r => r.qualidade_editavel);
+      const itensNormais = comIndice.filter(r => !r.qualidade_editavel);
+      const temCorrecaoQualidade = itensQualidade.length > 0;
+
+      const qualidadeCorrigida = itensQualidade.filter(r => r.qualidade_corrigida).length;
+      const finalizados = itensNormais.filter(r => r.status === "finalizado").length;
+      const rascunhos = itensNormais.filter(r => r.status === "rascunho").length;
+      const pendentes = itensNormais.filter(r => r.status === "nao_iniciado").length;
+
       return (
         <div className="bg-white rounded-2xl shadow-lg p-4 w-72 max-h-[75vh] flex flex-col">
           <div className="flex items-center justify-between mb-3 shrink-0">
@@ -320,29 +340,35 @@
               ✕
             </button>
           </div>
-          <p className="text-xs text-gray-500 mb-3 shrink-0">
-            {temCorrecaoQualidade && `${qualidadeCorrigida}/${qualidadeTotal} Qualidade corrigida`}
-            {temCorrecaoQualidade && (finalizados || rascunhos || pendentes) && " · "}
-            {(finalizados || rascunhos || pendentes) && `${finalizados} finalizados · ${rascunhos} rascunhos · ${pendentes} pendentes`}
-          </p>
-          <div className="overflow-y-auto pr-1 flex-1">
-            <div className="grid gap-1.5" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(1.4rem, 1fr))" }}>
-              {resumos.map((r, i) => (
-                <button key={`${r.id_resumo}-${r.modelo}`}
-                  onClick={() => onSelecionar(i)}
-                  title={tituloDoQuadrado(r, i)}
-                  className={`w-full aspect-square rounded-sm transition-all
-                    ${corDoQuadrado(r)}
-                    ${i === indiceAtual ? "ring-2 ring-offset-1 ring-gray-900" : ""}`}
-                />
-              ))}
-            </div>
+          <div className="overflow-y-auto pr-1 flex-1 space-y-4">
+            {temCorrecaoQualidade && (
+              <div>
+                <p className="text-xs font-semibold text-gray-600 mb-1.5">
+                  Correção de Qualidade (rodada 1) — {qualidadeCorrigida}/{itensQualidade.length}
+                </p>
+                <GradeMapa itens={itensQualidade} indiceAtual={indiceAtual} onSelecionar={onSelecionar} />
+              </div>
+            )}
+            {itensNormais.length > 0 && (
+              <div>
+                {temCorrecaoQualidade && (
+                  <p className="text-xs font-semibold text-gray-600 mb-1.5">Casos</p>
+                )}
+                <GradeMapa itens={itensNormais} indiceAtual={indiceAtual} onSelecionar={onSelecionar} />
+              </div>
+            )}
           </div>
           <div className="flex items-center gap-3 mt-3 pt-3 border-t border-gray-100 text-xs text-gray-500 shrink-0 flex-wrap">
             <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-red-400 inline-block" />Pendente</span>
-            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-yellow-400 inline-block" />{temCorrecaoQualidade ? "Falta corrigir" : "Rascunho"}</span>
-            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-green-500 inline-block" />{temCorrecaoQualidade ? "Corrigido" : "Final"}</span>
+            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-yellow-400 inline-block" />Rascunho / falta corrigir</span>
+            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-green-500 inline-block" />Final / corrigido</span>
           </div>
+          {temCorrecaoQualidade && (
+            <p className="text-[11px] text-gray-400 mt-2 shrink-0">
+              💡 "Correção de Qualidade" e "Casos" são grupos separados — o amarelo/verde
+              de cada um tem um significado diferente entre si.
+            </p>
+          )}
         </div>
       );
     }

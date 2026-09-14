@@ -394,7 +394,7 @@ def _extrair_identificador(arq: Path) -> str:
 
 def _usuario_pode_avaliar(user: dict, modelo: str, id_resumo: str) -> bool:
     amostra = set(user.get("amostra_casos", []))
-    if amostra and id_resumo not in amostra and not user.get("pode_editar_qualidade"):
+    if amostra and id_resumo not in amostra:
         return False
     for permissao in user.get("permissoes_revisao", []):
         modelo_nome = permissao.split("/")[0]
@@ -1132,30 +1132,39 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
         for arq in BASE_OUTPUTS.glob(padrao):
             try:
                 identificador = _extrair_identificador(arq)
-                if amostra and identificador not in amostra and not pode_editar_qualidade:
+                if amostra and identificador not in amostra:
                     continue
                 chave_vista = (identificador, modelo_nome)
                 if chave_vista in vistos:
                     continue
                 vistos.add(chave_vista)
+                texto = arq.read_text(encoding="utf-8", errors="ignore")
+
+                em_amostra = identificador in amostra
                 # casos dentro da amostra de reavaliação são tratados como rodada 2:
                 # a rodada 1 (avaliação original) fica intacta, nunca é sobrescrita.
-                rodada = 2 if identificador in amostra else 1
-                texto = arq.read_text(encoding="utf-8", errors="ignore")
-                av_existente = avaliacoes.get((identificador, modelo_nome, rodada))
-                status_item = av_existente["status"] if av_existente else "nao_iniciado"
-                item = {
-                    "modelo":            modelo_nome,
-                    "id_resumo":         identificador,
-                    "texto":             texto,
-                    "rodada":            rodada,
-                    "status":            status_item,
-                    "qualidade_editavel": pode_editar_qualidade and rodada == 1 and status_item == "finalizado",
-                    "qualidade_corrigida": bool(av_existente and av_existente.get("qualidade_corrigida_em")),
-                }
-                for campo in campos_avaliacao:
-                    item[campo] = av_existente[campo] if av_existente else None
-                resultado.append(item)
+                # se o usuário também pode corrigir Qualidade, ele precisa enxergar as
+                # DUAS rodadas desses mesmos casos — uma entrada por rodada, não só uma.
+                if em_amostra and pode_editar_qualidade:
+                    rodadas = (1, 2)
+                else:
+                    rodadas = (2,) if em_amostra else (1,)
+
+                for rodada in rodadas:
+                    av_existente = avaliacoes.get((identificador, modelo_nome, rodada))
+                    status_item = av_existente["status"] if av_existente else "nao_iniciado"
+                    item = {
+                        "modelo":            modelo_nome,
+                        "id_resumo":         identificador,
+                        "texto":             texto,
+                        "rodada":            rodada,
+                        "status":            status_item,
+                        "qualidade_editavel": pode_editar_qualidade and em_amostra and rodada == 1 and status_item == "finalizado",
+                        "qualidade_corrigida": bool(av_existente and av_existente.get("qualidade_corrigida_em")),
+                    }
+                    for campo in campos_avaliacao:
+                        item[campo] = av_existente[campo] if av_existente else None
+                    resultado.append(item)
             except Exception as e:
                 print(f"Erro lendo {arq}: {e}")
 
