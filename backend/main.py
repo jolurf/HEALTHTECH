@@ -394,7 +394,7 @@ def _extrair_identificador(arq: Path) -> str:
 
 def _usuario_pode_avaliar(user: dict, modelo: str, id_resumo: str) -> bool:
     amostra = set(user.get("amostra_casos", []))
-    if amostra and id_resumo not in amostra:
+    if amostra and id_resumo not in amostra and not user.get("pode_editar_qualidade"):
         return False
     for permissao in user.get("permissoes_revisao", []):
         modelo_nome = permissao.split("/")[0]
@@ -1132,7 +1132,7 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
         for arq in BASE_OUTPUTS.glob(padrao):
             try:
                 identificador = _extrair_identificador(arq)
-                if amostra and identificador not in amostra:
+                if amostra and identificador not in amostra and not pode_editar_qualidade:
                     continue
                 chave_vista = (identificador, modelo_nome)
                 if chave_vista in vistos:
@@ -1143,10 +1143,11 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
                 em_amostra = identificador in amostra
                 # casos dentro da amostra de reavaliação são tratados como rodada 2:
                 # a rodada 1 (avaliação original) fica intacta, nunca é sobrescrita.
-                # se o usuário também pode corrigir Qualidade, ele precisa enxergar as
-                # DUAS rodadas desses mesmos casos — uma entrada por rodada, não só uma.
-                if em_amostra and pode_editar_qualidade:
-                    rodadas = (1, 2)
+                # quem pode corrigir Qualidade enxerga TODOS os casos em rodada 1 (pra
+                # corrigir); os que também estão na amostra ganham uma 2ª entrada em
+                # rodada 2 (a reavaliação), sem esconder uma rodada atrás da outra.
+                if pode_editar_qualidade:
+                    rodadas = (1, 2) if em_amostra else (1,)
                 else:
                     rodadas = (2,) if em_amostra else (1,)
 
@@ -1159,7 +1160,7 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
                         "texto":             texto,
                         "rodada":            rodada,
                         "status":            status_item,
-                        "qualidade_editavel": pode_editar_qualidade and em_amostra and rodada == 1 and status_item == "finalizado",
+                        "qualidade_editavel": pode_editar_qualidade and rodada == 1 and status_item == "finalizado",
                         "qualidade_corrigida": bool(av_existente and av_existente.get("qualidade_corrigida_em")),
                     }
                     for campo in campos_avaliacao:
