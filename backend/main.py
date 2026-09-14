@@ -946,6 +946,7 @@ def listar_usuarios(usuario: str = Query(...), token: str = Query(...)):
             "email":              u.get("email", ""),
             "permissoes_revisao": u.get("permissoes_revisao", []),
             "amostra_casos":      u.get("amostra_casos", []),
+            "pode_editar_qualidade": bool(u.get("pode_editar_qualidade")),
             "senha_definida":     bool(u.get("senha")),
         }
         for u in _carregar_usuarios()
