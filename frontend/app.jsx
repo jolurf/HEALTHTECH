@@ -289,9 +289,27 @@
       nao_iniciado:  "bg-red-400 hover:bg-red-500",
     };
 
+    function corDoQuadrado(r) {
+      if (r.qualidade_editavel) {
+        return r.qualidade_corrigida ? CORES_STATUS.finalizado : CORES_STATUS.rascunho;
+      }
+      return CORES_STATUS[r.status] || CORES_STATUS.nao_iniciado;
+    }
+
+    function tituloDoQuadrado(r, i) {
+      if (r.qualidade_editavel) {
+        return `${i + 1}. ${r.id_resumo} (${r.modelo}) — Qualidade ${r.qualidade_corrigida ? "já corrigida" : "a corrigir"}`;
+      }
+      return `${i + 1}. ${r.id_resumo} (${r.modelo}) — ${r.status.replace("_", " ")}`;
+    }
+
     function PainelMapaCalor({ resumos, indiceAtual, onSelecionar, onFechar }) {
-      const finalizados = resumos.filter(r => r.status === "finalizado").length;
-      const rascunhos = resumos.filter(r => r.status === "rascunho").length;
+      const temCorrecaoQualidade = resumos.some(r => r.qualidade_editavel);
+      const qualidadeCorrigida = resumos.filter(r => r.qualidade_editavel && r.qualidade_corrigida).length;
+      const qualidadeTotal = resumos.filter(r => r.qualidade_editavel).length;
+      const finalizados = resumos.filter(r => !r.qualidade_editavel && r.status === "finalizado").length;
+      const rascunhos = resumos.filter(r => !r.qualidade_editavel && r.status === "rascunho").length;
+      const pendentes = resumos.filter(r => !r.qualidade_editavel && r.status === "nao_iniciado").length;
       return (
         <div className="bg-white rounded-2xl shadow-lg p-4 w-72 max-h-[75vh] flex flex-col">
           <div className="flex items-center justify-between mb-3 shrink-0">
@@ -303,25 +321,27 @@
             </button>
           </div>
           <p className="text-xs text-gray-500 mb-3 shrink-0">
-            {finalizados} finalizados · {rascunhos} rascunhos · {resumos.length - finalizados - rascunhos} pendentes
+            {temCorrecaoQualidade && `${qualidadeCorrigida}/${qualidadeTotal} Qualidade corrigida`}
+            {temCorrecaoQualidade && (finalizados || rascunhos || pendentes) && " · "}
+            {(finalizados || rascunhos || pendentes) && `${finalizados} finalizados · ${rascunhos} rascunhos · ${pendentes} pendentes`}
           </p>
           <div className="overflow-y-auto pr-1 flex-1">
             <div className="grid gap-1.5" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(1.4rem, 1fr))" }}>
               {resumos.map((r, i) => (
                 <button key={`${r.id_resumo}-${r.modelo}`}
                   onClick={() => onSelecionar(i)}
-                  title={`${i + 1}. ${r.id_resumo} (${r.modelo}) — ${r.status.replace("_", " ")}`}
+                  title={tituloDoQuadrado(r, i)}
                   className={`w-full aspect-square rounded-sm transition-all
-                    ${CORES_STATUS[r.status] || CORES_STATUS.nao_iniciado}
+                    ${corDoQuadrado(r)}
                     ${i === indiceAtual ? "ring-2 ring-offset-1 ring-gray-900" : ""}`}
                 />
               ))}
             </div>
           </div>
-          <div className="flex items-center gap-3 mt-3 pt-3 border-t border-gray-100 text-xs text-gray-500 shrink-0">
+          <div className="flex items-center gap-3 mt-3 pt-3 border-t border-gray-100 text-xs text-gray-500 shrink-0 flex-wrap">
             <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-red-400 inline-block" />Pendente</span>
-            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-yellow-400 inline-block" />Rascunho</span>
-            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-green-500 inline-block" />Final</span>
+            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-yellow-400 inline-block" />{temCorrecaoQualidade ? "Falta corrigir" : "Rascunho"}</span>
+            <span className="flex items-center gap-1"><span className="w-2.5 h-2.5 rounded-sm bg-green-500 inline-block" />{temCorrecaoQualidade ? "Corrigido" : "Final"}</span>
           </div>
         </div>
       );
@@ -582,6 +602,7 @@
           setResumos(prev => prev.map((item, i) => i !== indice ? item : {
             ...item,
             secoes_cobertura: JSON.stringify(form.secoes_cobertura),
+            qualidade_corrigida: true,
           }));
           setStatusQualidade("saved");
           setTimeout(() => setStatusQualidade("idle"), 1500);

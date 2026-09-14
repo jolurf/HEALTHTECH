@@ -701,7 +701,8 @@ def inicializar_banco():
         info_essencial     INTEGER,
         uso_clinico        TEXT,
         tempo_avaliacao    INTEGER,
-        comentarios        TEXT
+        comentarios        TEXT,
+        qualidade_corrigida_em TEXT
     )
     """)
 
@@ -712,6 +713,8 @@ def inicializar_banco():
             c.execute("ALTER TABLE avaliacoes ADD COLUMN status TEXT NOT NULL DEFAULT 'finalizado'")
         if "rodada" not in cols:
             c.execute("ALTER TABLE avaliacoes ADD COLUMN rodada INTEGER NOT NULL DEFAULT 1")
+        if "qualidade_corrigida_em" not in cols:
+            c.execute("ALTER TABLE avaliacoes ADD COLUMN qualidade_corrigida_em TEXT")
 
     conn.commit()
     conn.close()
@@ -1148,6 +1151,7 @@ def listar_resumos(usuario: str = Query(...), token: str = Query(...)):
                     "rodada":            rodada,
                     "status":            status_item,
                     "qualidade_editavel": pode_editar_qualidade and rodada == 1 and status_item == "finalizado",
+                    "qualidade_corrigida": bool(av_existente and av_existente.get("qualidade_corrigida_em")),
                 }
                 for campo in campos_avaliacao:
                     item[campo] = av_existente[campo] if av_existente else None
@@ -1277,7 +1281,10 @@ def atualizar_qualidade(req: AtualizarQualidadeRequest, token: str = Query(...))
         conn.close()
         raise HTTPException(status_code=404, detail="Avaliação original (rodada 1) não encontrada para este caso")
 
-    c.execute("UPDATE avaliacoes SET secoes_cobertura = ? WHERE id = ?", (req.secoes_cobertura, existente[0]))
+    c.execute(
+        "UPDATE avaliacoes SET secoes_cobertura = ?, qualidade_corrigida_em = ? WHERE id = ?",
+        (req.secoes_cobertura, datetime.now().isoformat(), existente[0]),
+    )
     conn.commit()
     conn.close()
 
