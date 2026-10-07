@@ -1,0 +1,71 @@
+﻿1. Identificação do Paciente:
+    • Sexo: Masculino.
+    • Data de nascimento: Não informado no prontuário. 
+2. Histórico Familiar Cardiovascular:
+    • Não informado no prontuário.
+3. Hábitos de Vida:
+    • Não informado no prontuário.
+4. Histórico Médico
+4.1 Diagnósticos (confirmados):
+    • 18/09/2017: FA (Fibrilação Atrial) e Flutter atrial (CID10 I48).
+    • 23/01/2018: Fibrilação Atrial persistente (CID10 I48).
+    • 20/03/2018: Palpitações (CID10 R00.2).
+4.2 Diagnósticos em Investigação:
+    • Não informado no prontuário.
+
+4.3 Histórico Cirúrgico:
+    • 31/01/2018: Ablação por Radiofrequência de Fibrilação Atrial — isolamento das quatro veias pulmonares e bloqueio do istmo cavotricuspídeo.
+    • 17/12/2018: Reablação por Radiofrequência do istmo cavotricuspídeo por flutter atrial.
+
+4.4. Intercorrências:
+    •   15/02/2018: Síncope associada a taquicardia atrial com alta resposta ventricular.
+    •   20/03/2018: Reversão espontânea de FA durante preparo para cardioversão; cardioversão suspensa.
+    •   17/10/2017: CVE (Cardioversão Elétrica) sincronizada.
+    •   02/12/2017: CVE (Cardioversão Elétrica) — reversão para ritmo sinusal.
+
+5. Medicamentos Atuais
+Medicações	
+Dose	
+Posologia	
+Alergia	
+Reação Adversa
+Apixabana	5 mg	2 x dia (manhã e noite)	NÃO	NÃO
+Nebivolol	5 mg	2 x dia (manhã e noite)	NÃO	NÃO
+Diltiazem	30 mg	2 x dia (manhã e noite)	NÃO	NÃO
+Amiodarona	200 mg	1 x dia (manhã)	NÃO	NÃO
+Propafenona	150 mg	2 x dia (manhã e noite)	NÃO	NÃO
+Omeprazol	20 mg	1x dia (manhã)	NÃO	NÃO
+
+6. Tratamento Oncológico:
+    • Não informado no prontuário.
+7. Motivo do Último Atendimento
+Data	Atendimentos
+31/01/2019	Queixa atual:
+Paciente relata sentir-se bem após a última ablação, sem novos episódios de palpitação ou síncope.
+Ao exame físico:
+Ritmo regular, bulhas normofonéticas sem sopros; pressão arterial 130/80 mmHg; frequência cardíaca 85 bpm; algumas extrassístoles durante o exame físico.
+Impressão:
+Pós-ablação de fibrilação atrial e flutter atrial, sem recorrência sintomática no momento.
+
+
+8. Exames Relevantes
+
+Exames
+	Resultados
+
+Eletrocardiograma
+
+	31/01/2019: Ritmo sinusal com extrassístoles atriais
+Ecocardiograma
+	17/10/2017: Fração de ejeção 68%, átrio esquerdo 47 mm, ETE sem trombos, apêndice atrial hipocontrátil.
+Holter 24h
+	22/08/2018: FC 54–74–126 bpm; extrassístoles atriais 2951 (3%).
+Cintilografia miocárdica
+	27/12/2017: Discreta hipocaptação persistente em parede anterior; ausência de isquemia induzida ao estresse; presença de flutter atrial.
+
+9. Pontos de Atenção:
+Restrição terapêutica:
+    • Não informado no prontuário. 
+
+Familiar de referência: 
+    • Não informado no prontuário. 

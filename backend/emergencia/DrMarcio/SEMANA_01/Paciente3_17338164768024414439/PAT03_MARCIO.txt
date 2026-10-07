@@ -1,0 +1,75 @@
+﻿1. Identificação do Paciente:
+Sexo: Masculino. 
+Data de nascimento: Não informado no prontuário.
+2.Histórico Familiar Cardiovascular:
+    • Não informado no prontuário.
+3.Hábitos de Vida:
+    • Tabagismo: Ex-tabagista, 3 anos/maço, cessou há cerca de 40 anos.
+4. Histórico Médico:
+4.1 Diagnósticos (confirmados):
+    • 2017: Obesidade
+    • 2017: HAP (hipertensão arterial pulmonar)
+    • 30/05/2017: IC (Insuficiência cardíaca)
+    • 20/02/2017: HAS (Hipertensão Arterial Sistêmica).
+    • 20/02/2017: Doença renal hipertensiva com insuficiência renal – (CID I12.0).
+    • 20/02/2017: Insuficiência renal crônica não especificada – (CID N18.9).
+    • 02/03/2017: Embolia e trombose venosas de veia não especificada – (CID I82.9).
+    • 20/02/2017: Flebite e tromboflebite de outras localizações – (CID I80.8).
+    • 08/03/2018: Flebite e tromboflebite de localização não especificada – (CID I80.9).
+    • 20/02/2017: Transtornos do aparelho circulatório, subsequentes a procedimento não especificado – (CID I97.9).
+    • 09/03/2018: Outros transtornos venosos especificados – (CID I87.8).
+    • 09/03/2018: Outra embolia e trombose venosas – (CID I82).
+    • 15/03/2018: Afecções de artérias e arteríolas, não especificadas – (CID I77.9).
+
+4.2 Diagnósticos em Investigação:
+    • 08/03/2018: Trombose de veia subclávia esquerda?
+    • 15/03/2018: Trombose de veia inominada esquerda?
+
+4.3 Histórico Cirúrgico:
+    • 2017: Angioplastia de veia inominada esquerda.
+    • 2018: Retirada de nódulo em nariz (CBC).
+    • 2024: Transplante renal.
+
+4.4 Intercorrências:
+    • Não informado no prontuário.
+
+5.Medicamentos Atuais:
+Medicações	
+Dose	
+Posologia	
+Alergia	
+Reação Adversa
+Ácido fólico	5 mg	1 x dia (manhã)	NÃO	NÃO
+Carbonato de cálcio	500 mg	4 cp/dia (manhã)	NÃO	NÃO
+Complexo B	—	2 cp/dia (manhã)	NÃO	NÃO
+Clonidina	0,150 mg	3 x dia (manhã, atrde e noite)	NÃO	NÃO
+Furosemida	40 mg	2 x dia (manhã e tarde)	NÃO	NÃO
+Cinacalcete (Mimpara)	—	—	NÃO	NÃO
+Ácido acetilsalicílico	100 mg	1 x dia (tarde)	NÃO	NÃO
+Atenolol	50 mg	3 x dia (manhã, tarde e noite)	NÃO	NÃO
+Losartana	25 mg	3 x dia (manhã, tarde e noite)	NÃO	NÃO
+Sevelamer	800 mg	2 cp 3 x dia (manhã, tarde e noite)	NÃO	NÃO
+Zolpidem	10 mg	1 x (noite)	NÃO	NÃO
+ZimpassEZE	20/10 mg	1x dia	NÃO	NÃO
+Pressplus	2,5/10 mg	1x dia	NÃO	NÃO
+
+
+6. Tratamento Oncológico:
+    • Não informado no prontuário.
+
+7. Motivo do Último Atendimento:
+Data	Atendimentos
+17/09/2024	Queixa / Atual:
+Refere apresentar dispnéia ao esforço ocasional. Foi submetido a TX de rim. Atualmente, está com lesão cutânea provável Ca. Veio para tirar dúvidas.
+Ao exame:
+Não informado no prontuário
+Impressão:
+Não informado no prontuário
+8. Exames Relevantes
+
+
+
+
+9. Pontos de Atenção: 
+    • Restrição terapêutica: Não informado no prontuário.
+    • Familiar de referência: Não informado no prontuário.

@@ -443,6 +443,48 @@
     }
 
     // =========================================================
+    // ESCOLHA DE PROJETO (só admin)
+    // =========================================================
+
+    function EscolhaProjeto({ usuario, onAlta, onSair }) {
+      const opcoes = [
+        {
+          titulo:    "Resumo de Alta",
+          descricao: "Avaliação dos resumos de alta (este questionário).",
+          onClick:   onAlta,
+        },
+        {
+          titulo:    "Resumo Emergência",
+          descricao: "Visualizador do resumo R10 lado a lado com os gabaritos e os PDFs de origem.",
+          onClick:   () => { window.location.href = "/emergencia/"; },
+        },
+      ];
+      return (
+        <div className="min-h-screen flex items-center justify-center bg-gray-100 p-4">
+          <div className="bg-white rounded-2xl shadow-lg p-8 w-full max-w-lg space-y-6">
+            <div>
+              <h1 className="text-xl font-bold text-gray-900">Escolha o projeto</h1>
+              <p className="text-sm text-gray-500 mt-1">Olá, {usuario}.</p>
+            </div>
+            <div className="space-y-3">
+              {opcoes.map(o => (
+                <button key={o.titulo} onClick={o.onClick}
+                  className="w-full text-left border border-gray-200 rounded-xl px-5 py-4
+                             hover:border-gray-900 hover:bg-gray-50 transition">
+                  <div className="font-semibold text-gray-900">{o.titulo} →</div>
+                  <div className="text-sm text-gray-500 mt-0.5">{o.descricao}</div>
+                </button>
+              ))}
+            </div>
+            <button onClick={onSair} className="text-sm text-gray-500 hover:text-gray-800">
+              Sair
+            </button>
+          </div>
+        </div>
+      );
+    }
+
+    // =========================================================
     // APP
     // =========================================================
 
@@ -467,6 +509,21 @@
       const [mapaCalorAberto,  setMapaCalorAberto]  = useState(true);
       const [pdfsDoCaso,       setPdfsDoCaso]       = useState([]);
       const [carregandoPdfs,   setCarregandoPdfs]   = useState(false);
+
+      // Admin escolhe entre Resumo de Alta e Resumo Emergência antes de entrar.
+      const [ehAdmin, setEhAdmin] = useState(false);
+      const [projeto, setProjeto] = useState(null);
+
+      useEffect(() => {
+        setEhAdmin(false);
+        setProjeto(null);
+        if (!auth) return;
+        const params = new URLSearchParams({ usuario: auth.usuario, token: auth.token });
+        fetch(`${API}/admin/perfil?${params}`)
+          .then(r => r.ok ? r.json() : { admin: false })
+          .then(data => setEhAdmin(!!data.admin))
+          .catch(() => setEhAdmin(false));
+      }, [auth]);
 
       function chavePosicao(usuario) {
         return `posicao_${usuario}`;
@@ -736,6 +793,10 @@
 
       if (!auth) return <LoginScreen onLogin={(u, t) => setAuth({ usuario: u, token: t })} />;
 
+      if (ehAdmin && projeto !== "alta") return (
+        <EscolhaProjeto usuario={auth.usuario} onAlta={() => setProjeto("alta")} onSair={sair} />
+      );
+
       // ── telas especiais ────────────────────────────────────
 
       if (carregandoResumos) return (
@@ -844,6 +905,15 @@
                       Avaliação de Resumos de Alta
                     </h1>
                     <div className="flex items-center gap-3">
+
+                      {ehAdmin && (
+                        <button
+                          onClick={() => setProjeto(null)}
+                          title="Voltar à escolha de projeto"
+                          className="text-xs px-3 py-1.5 rounded-lg border border-gray-300 text-gray-600 hover:bg-gray-50 transition">
+                          ← Projetos
+                        </button>
+                      )}
 
                       {/* Botão Resumo */}
                       <button

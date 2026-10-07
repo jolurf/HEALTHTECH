@@ -1,0 +1,75 @@
+﻿1. Identificação do Paciente
+    • Sexo: Masculino
+    • Data de nascimento: Não informado no prontuário.
+2. Histórico Familiar Cardiovascular
+    • Pai: Morte súbita (MS) aos 48 anos;
+3. Hábitos de Vida
+    • - Atividade física: 5x/semana - 40 min - caminhada e hidroginástica; 
+4. Histórico Médico
+4.1 Diagnósticos (confirmados)
+    • - 2010 - Coarctação da aorta; 
+    • - 2014 - Valva Aórtica Bicúspide; 
+    • - 2014 Insuficiência (da valva) aórtica; 
+    • - 2014 - Hipertensão essencial (primária) – HAS;
+    • - Síndrome da apneia obstrutiva do sono (SAOS);
+    • - Dislipidemia; 
+    • - Hérnia lombar;
+    • - 19/03/2016 - Síndrome Vestibular Periférica - Labirintite;
+
+4.2 Diagnósticos em Investigação
+    • Não informado no prontuário.
+4.3 Histórico Cirúrgico
+    • - Cirurgia de amigdalectomia por Síndrome da apneia obstrutiva do sono (SAOS);
+    • - ~1991 - Correção de coarctação de aorta aos 7 anos; 
+    • - 21/05/2015 - Troca valvar aórtica por prótese; 
+    • - 03/07/2015 - Drenagem de derrame pericárdico 03/07/15;
+
+4.4 Intercorrências
+    • - 03/07/2015 - Bronquite aguda (CID J20.9);
+    • - 29/12/2015 – Palpitações (CID R00.2);
+    • - 15/03/2023 - Prostatite aguda (CID N41.0);
+    • -15/09/2020 - Desconforto torácico de caráter atípico – Dispepsia (CID K30); 
+5.0 Medicamentos Atuais
+Medicações	Dose	Posologia	Alergia	Reação Adversa
+Losartana	50 mg	1 vez ao dia – manhã.	Não	Não
+Rosuvastatina	20 mg	1 vez ao dia.	Não	Não
+Varfarina	5 mg	1 vez ao dia – manhã	Não	Não
+Losartana	50 mg	1 vez ao dia – manhã.	Não	Não
+
+6. Tratamento Oncológico
+Não informado no prontuário.
+
+7. Motivo do Último Atendimento
+Data	Atendimentos
+06/12/2023
+	# Atual / queixas:
+Assintomático do ponto de vista cardiovascular
+
+# Ao exame:
+Bom estado geral, corado, hidratado, afebril, acianótico, anictérico, eupneico, FC
+70, PA 130x80
+Ritmo cardíaco regular, bulhas normofonéticas, sem sopros. Tempo de enchimento
+capilar<3seg. Clique de válvula mecânica
+Murmúrios vesiculares presentes, simétricos e normais, sem ruídos adventícios
+Abdômen inocente
+Membros inferiores sem edema, panturrilhas livres
+Neuro: Glasgow 15, sem déficits aparentes
+
+# Impressão: 
+pós-operatório de troca valvar aórtica por prótese mecânica de 2015,
+HAS, dislipidemia
+
+8. Exames Relevantes
+Exames	Resultados
+MAPA 	23/11/2023 - Normal.
+Teste de esforço 	25/04/2023 - Sem alterações, HAS.
+Holter 	24/04/2023 - Normal.
+
+Ecocardiograma 	05/04/2023 - Prótese mecânica sem alterações.
+Angiotomografia de Aorta 	19/04/2022  - Estável em comparação ao exame de 18/08/2020.
+
+
+
+9. Pontos de atenção
+Restrição terapêutica: Não informado no prontuário.
+Familiar de referência: Não informado no prontuário.

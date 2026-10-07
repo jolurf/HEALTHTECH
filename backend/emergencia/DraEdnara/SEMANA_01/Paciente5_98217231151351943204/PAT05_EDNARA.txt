@@ -1,0 +1,95 @@
+﻿1. Identificação do Paciente
+    • Sexo: Masculino.
+    • Data de nascimento: Não informado no prontuário. 
+2. Histórico Familiar Cardiovascular
+    • Mãe: AVCi (Acidente Vascular Cerebral isquêmico). 
+3. Hábitos de Vida
+    • Não informado no prontuário. 
+4. Histórico Médico
+4.1 Diagnósticos (confirmados)
+    • 18/09/2017: FA cr – (Fibrilação atrial crônica) – (CID: I48).
+    • 18/09/2017: "Flutter" e fibrilação atrial – (CID: I48).
+    • Recorrência de FA - (Fibrilação atrial) e Flutter atrial após cardioversão elétrica programadas (realizadas em 10/2017, 11/2017 e 12/2017).
+    • Recorrência precoce de taquiarritmias supraventriculares, caracterizadas por taquicardia atrial (TA) e flutter atrial (FLU).
+4.2 Diagnósticos em Investigação
+    • Não informado no prontuário. 
+4.3 Histórico Cirúrgico
+    • 17/10/2017: CVE (Cardioversão Elétrica) sincronizada programada - Revertido à ritmo sinusal na 2 tentativa com 150 J(100 J - 150 J).
+    • 18/11/2017 – CVE (Cardioversão Elétrica) programada.
+    • 02/12/2017: CVE (Cardioversão Elétrica) programada - 100 J em ritmo sinusal.
+    • 31/01/2018: Ablação por Radiofrequência de FA (Fibrilação Atrial)： 
+- Isolamento das 4 veias pulmonares e bloqueio do ICT (istmo cavotricuspídeo) - mapa de voltagem do AE (átrio esquerdo) sem cicatriz. 
+    • 17/12/2018: Reablação de Flutter atrial:
+- Bloqueio do ICT (istmo cavotricuspídeo) horário. Veias pulmonares mantinha-se isoladas. 
+
+4.4 Intercorrências
+    • Recorrência de FA - (Fibrilação atrial) e Flutter atrial após cardioversão elétrica programadas (realizadas em 10/2017, 11/2017 e 12/2017).
+    • 08/02/2018: Episódio de síncope associado a taquicardia atrial com alta resposta ventricular.
+    • 20/03/2018: Reversão espontânea da fibrilação atrial antes de cardioversão elétrica previamente programada.
+
+5.0 Medicamentos Atuais
+Medicações	Dose	Posologia	Alergia	Reação Adversa
+Eliquis	5 mg	2 x dia	NÃO	NÃO
+Nebivolol 	5 mg	2 x dia	NÃO	NÃO
+Diltiazem 	60 mg 	2 x dia.	NÃO	NÃO
+
+
+6. Tratamento Oncológico
+    • Não informado no prontuário. 
+
+7. Motivo do Último Atendimento
+31/01/2019
+	Atual / Queixas:
+Paciente relata sentir-se bem após a última ablação sem novos episódios de
+palpitação ou síncope.
+
+ Ao exame:.
+BEG, hidratado, corado
+Cardio: Ritmo regular, 2T BNF sem sopros. PA 130/80 FC 85, algumas extrassístoles
+durante exame físico.
+Resp: MVRD sem ruídos adventícios
+Abdome: sp
+Membros: Ausência de edema, boa perfusão.
+
+  Impressão:. 
+Não informado no prontuário. 
+
+8. Exames Relevantes
+Exames	Resultados
+Ecocardiogramas transesofágico	- 17/10/2017: 
+Atrio esquerdo com 47 mm; aorta com 31 mm; ventrículo esquerdo medindo 50 × 31 mm; septo interventricular com 9 mm; parede posterior com 10 mm.
+Fração de ejeção do ventrículo esquerdo de 68%.
+Ausência de trombos; apêndice atrial esquerdo hipocontrátil; Função ventricular normal. 
+Cintilografia miocárdica	– 27/12/2017: 
+Discreta hipocaptação persistente na parede anterior (segmentos apical, médio e basal).
+Ausência de isquemia induzida pelo estresse. Presença de flutter atrial.
+
+Endoscopia digestiva alta - EDA
+	- 01/02/2018:
+Gastrite enantemática leve de corpo alta.
+Holter	- 22/08/2018:
+FC (frequência cardíaca) mínima de 54 bpm, média de 74 bpm e máxima de 126 bpm.
+Presença de EV (extrassístoles ventriculares): 1.
+Presença de EA (extrassístoles atriais): 2.951 (3%), isoladas.
+Estudo eletrofisiológico (EEF)
+	- 31/01/2018: 
+Pelo estudo eletrofisiológico, paciente com registro prévio de fibrilação atrial e flutter atrial, submetido a estudo eletrofisiológico e ablação por radiofrequência.
+Realizado isolamento elétrico das veias pulmonares, com sucesso, bem como bloqueio bidirecional do istmo cavotricuspídeo.
+Procedimento finalizado sem intercorrências.
+Estudo eletrofisiológico (EEF)
+	- 17/12/2018: 
+ Pela EEF, as manobras demonstraram flutter atrial dependente do istmo cavotricuspídeo (ICT).
+Foi realizada ablação por radiofrequência do ICT, obtendo-se intervalo de duplo potencial (DP) de 107 ms, compatível com bloqueio bidirecional do istmo cavotricuspídeo, com sucesso.
+Procedimento finalizado sem intercorrências.
+Eletrocardiograma:	- Mencionado na evolução de 31/01/2019, sem data documentada da realização do exame.
+Sinusal com extrassístoles atriais.
+
+
+
+9. Pontos de atenção
+Restrição terapêutica:
+    • Não informado no prontuário. 
+
+Familiar de referência: 
+    • Não informado no prontuário. 
+

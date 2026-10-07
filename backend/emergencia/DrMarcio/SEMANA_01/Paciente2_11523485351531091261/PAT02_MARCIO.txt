@@ -1,0 +1,76 @@
+﻿1. Identificação do Paciente
+    • Sexo: Feminino
+    • Data de nascimento: Não informado no prontuário.
+2. Histórico Familiar Cardiovascular
+    • Não informado no prontuário.
+3. Hábitos de Vida
+    • Tabagismo: Ex-tabagista. 
+    • Limitações funcionais: Está de cadeira de rodas para locomoção no hospital; em casa anda apoiando nas paredes. (registrado em cardiogeriatria)
+
+4. Histórico Médico
+4.1 Diagnósticos (confirmados)
+    • 01/02/2005: Bloqueio Atrioventricular Total.
+    • 01/02/2005: Implante de Marcapasso definitivo por Bloqueio Atrioventricular 2:1.
+    • 06/03/2012: Hipertensão Arterial Sistêmica.
+    • 25/10/2010: Insuficiência Cardíaca.
+    • 23/11/2006: Alergia não especificada.
+    • 03/11/2021: Bloqueio Atrioventricular de Segundo Grau.
+    • 02/05/2024: Insuficiência Coronariana Estável. 
+    • 02/05/2024: Hipercolesterolemia pura
+    • 29/05/2011: Diarreia e gastroenterite de origem infecciosa presumível
+    • 06/12/2009: dor torácica não especificada
+    • 22/12/2007: dor precordial
+    • 22/09/2007: dor lombar
+    • 06/02/2006: Mialgia
+    • 09/03/2009: Náusea e vômitos
+    • 17/05/2007: broncopneumonia não especificada
+    • 11/11/2005: Bursite transtocantérica
+4.2 Diagnósticos em Investigação
+    • 2015: Dispneia secundária à pneumopatia?
+    • 2023: Etiologia hipertensiva da Insuficiência Cardíaca?
+4.3 Histórico Cirúrgico
+    • 2005: Implante de Marcapasso 
+    • 28/12/2015: Troca de Gerador de Marcapasso (TG) por exaustão de bateria (End of Life).
+4.4 Intercorrências
+    • 17/12/2015: Marcapasso não interrogável, ainda funcionante, associado a palpitações e tontura → internação para avaliação.
+    • 12/2015: Exaustão de gerador de marcapasso (End of Life), sem possibilidade de interrogação do dispositivo, motivando internação.
+5.0 Medicamentos Atuais
+Medicações	Dose	Posologia	Alergia	Reação Adversa
+Losartana potássica	50 mg	1 x dia (manhã)	NÃO	NÃO
+Losartana potássica	25 mg	1 x dia (noite)	NÃO	NÃO
+Carvedilol	6,25 mg	2 x dia (manhã e noite)	NÃO	NÃO
+Espironolactona	25 mg	1 x dia (manhã)	NÃO	NÃO
+Furosemida	40 mg	1 x dia (manhã)	NÃO	NÃO
+Omeprazol	20 mg	1 x dia (manhã)	NÃO	NÃO
+Atorvastatina cálcica	10 mg	1 x dia (noite)	NÃO	NÃO
+
+6. Tratamento Oncológico
+Tratamento oncológico: Não
+
+7. Motivo do Último Atendimento
+Data	Atendimentos
+29/10/2024	Atual / Queixas: Pouco apetite, dispepsia, antecedente recente de infecção respiratória tratada com corticoide e episódio subsequente de herpes zoster.
+ Ao exame: PA 140×60 mmHg em decúbito, FC 51 bpm, edema de membros inferiores, pulmões livres, sem sopros cardíacos.
+  Impressão: Insuficiência Cardíaca com Fração de Ejeção Reduzida, Classe Funcional II; marcapasso definitivo; pós-herpes zoster.
+
+8. Exames Relevantes
+Exames	Resultados
+Espirometria simples com broncodilatador 	07/05/2015: Espirometria normal. Ausência de variação significativa após broncodilatador
+
+
+Radiografia de Tórax (PA, lateral, oblíqua)	09/10/2015: sem registro
+Laboratoriais	17/12/2015: troponina 0,02; 
+BNP: 968 pg/mL
+Ecocardiograma	24/04/2023: Fração de ejeção 20%, hipocinesia difusa de ventrículo esquerdo, insuficiência tricúspide moderada, pressão sistólica da artéria pulmonar 63 mmHg
+
+Cintilografia Miocárdica	01/2024: Isquemia induzida pelo estresse de pequena extensão em parede inferior; fração de ejeção ~44%.
+
+Eletrocardiograma	09/10/2024: marcapasso artificialmente eficiente
+Tomografia Computadorizada de Crânio	09/10/2024:
+Hipoatenuação da substância branca periventricular, inespecífica, podendo corresponder à gliose, microangiopatia ou leucoencefalopatia. Calcificações núcleocapsulares bilaterais. Acentuação dos sulcos corticais e cisternas. Proeminência dos ventrículos supratentoriais sem sinais hipertensivos. Ateromatose das carótidas em sua porção intracavernosa. Não se observa desvio das estruturas da linha média.
+
+
+
+9. Pontos de atenção
+Restrição terapêutica: Não informado no prontuário
+Familiar de referência: Não informado no prontuário

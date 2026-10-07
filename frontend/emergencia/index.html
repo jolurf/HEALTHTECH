@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Visualizador — Resumo de Emergência</title>
+<link rel="stylesheet" href="style.css">
+<!-- marked vem do npm no build (frontend/Dockerfile), não de CDN -->
+<script src="marked.min.js"></script>
+</head>
+<body>
+
+<header class="topo">
+  <a href="/" class="link-projetos" title="Voltar à escolha de projeto">← Projetos</a>
+  <h1>Visualizador de Resumos de Emergência</h1>
+  <div class="seletor-esquerda">
+    <label>Caso (IA)
+      <select id="sel-caso"><option>carregando…</option></select>
+    </label>
+  </div>
+  <button id="btn-gabarito" class="botao-gabarito">Comparar com gabarito ▸</button>
+</header>
+
+<main class="layout">
+  <section id="painel-ia" class="painel painel-ia">
+    <div id="conteudo-ia" class="conteudo markdown-body">Selecione um caso acima.</div>
+  </section>
+
+  <div id="resizer-gabarito" class="resizer fechado" title="Arraste para ajustar a largura"></div>
+
+  <aside id="painel-gabarito" class="painel painel-gabarito fechado">
+    <div class="cabecalho-gabarito">
+      <label>Médico
+        <select id="sel-medico"><option>—</option></select>
+      </label>
+      <div class="controles-fonte">
+        <button id="btn-fonte-menor" class="botao-fonte" title="Diminuir texto">A-</button>
+        <button id="btn-fonte-maior" class="botao-fonte" title="Aumentar texto">A+</button>
+      </div>
+      <button id="btn-fechar-gabarito" class="botao-fechar" title="Fechar">✕</button>
+    </div>
+    <div id="conteudo-gabarito" class="conteudo texto-plano">Escolha um médico.</div>
+  </aside>
+
+  <!-- Onde a linha está no prontuário (MapReduce_v2 com .fontes.json): abas por [Doc N], texto
+       do documento que o pipeline leu, trecho grifado. Ocupa o mesmo lugar do gabarito. -->
+  <aside id="painel-fonte" class="painel painel-gabarito fechado">
+    <div class="cabecalho-gabarito">
+      <span id="fonte-titulo" class="fonte-titulo">Documento de origem</span>
+      <button id="btn-fechar-fonte" class="botao-fechar" title="Fechar">✕</button>
+    </div>
+    <div id="fonte-linha" class="fonte-linha"></div>
+    <div id="fonte-abas" class="fonte-abas"></div>
+    <div id="fonte-info" class="fonte-info"></div>
+    <div id="fonte-texto" class="conteudo texto-plano fonte-texto"></div>
+  </aside>
+</main>
+
+<div id="modal-trecho" class="modal escondido">
+  <div class="modal-caixa">
+    <div class="modal-cabecalho">
+      <span id="modal-titulo">Trecho de origem</span>
+      <button id="modal-fechar" class="botao-fechar" title="Fechar">✕</button>
+    </div>
+    <div id="modal-corpo" class="modal-corpo">
+      <p class="carregando">Buscando…</p>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

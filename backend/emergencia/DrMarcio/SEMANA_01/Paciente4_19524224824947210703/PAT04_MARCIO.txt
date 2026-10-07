@@ -1,0 +1,90 @@
+﻿Projeto - PLNMED
+
+    1. Identificação do Paciente
+    • Sexo: Masculino
+    • Data de nascimento: Não informado no prontuário.
+
+
+    2. Histórico Familiar Cardiovascular
+ 
+    • Pai: morte súbita os 48 anos
+
+
+
+3. Hábitos de Vida
+
+
+    • Atividade física: Caminhada e hidroginástica
+
+
+    4. Histórico Médico
+        4.1 Diagnósticos (confirmados)
+
+    • 26/11/2010: Coarctação da aorta
+    • 14/04/2015: Exame especial de rastreamento de doenças cardiovasculares; 
+    • 29/05/2014: Hipertensão essencial (primaria); 
+    • 17/07/2014: Insuficiência (da valva) aórtica; 
+    • 02/07/2015: Derrame pericárdico (não-inflamatório); 
+    •  03/07/2015: Bronquite, traqueobronquite, traqueíte e bronquiolite;
+    • 29/12/2015: Palpitações; 
+    • 18/03/2016: Insuficiência cardiaca congestiva; 
+    • 21/03/2016: Tontura e instabilidade; 
+    • 21/03/2016: Presença de prótese de valvula cardíaca;  
+    • 15/03/2023: Prostatite aguda; 
+
+	4.2 Diagnósticos em Investigação
+    • Não informado no prontuário.
+
+	4.3 Histórico Cirúrgico
+    • 03/07/15: Drenagem de derrame pericárdico 
+    • 21/05/15: Troca valvar aórtica por prótese mecânica 
+    • 1991: Correção de coarctação de aorta 
+    • Cirurgia de amigdalectomia
+
+
+4.4.Intercorrências
+    • Não informado no prontuário.
+    5. Medicamentos Atuais
+
+
+
+Medicações	Dose	Posologia	Alergia	Reação Adversa
+Losartana	50mg	1 vez ao dia – manhã.	Não	Não
+Rosuvastatina	20mg	1 vez ao dia.	Não	Não
+Varfarina	5mg	1 vez ao dia – manhã	Não	Não
+
+    6. Tratamento oncológico:
+Não informado no prontuário.
+
+7.Motivo do Último Atendimento
+
+Data	Atendimentos
+06/12/2023	Assintomático do ponto de vista cardiovascular
+
+Bom estado geral, corado, hidratado, afebril, acianótico, anictérico, eupneico, FC
+70, PA 130x80
+Ritmo cardíaco regular, bulhas normofonéticas, sem sopros. Tempo de enchimento
+capilar<3 seg. Clique de válvula mecânica
+Murmúrios vesiculares presentes, simétricos e normais, sem ruídos adventícios
+Abdômen inocente
+Membros inferiores sem edema, panturrilhas livres
+Neuro: Glasgow 15, sem déficits aparentes
+
+8. Exames Relevantes
+
+
+
+Exames	Resultados
+Eco 	25/07/16: sem alterações
+ECG 	25/06/15: BRD
+LabLab 	08/09/16: OK
+AngioTC de Ao 	28/06/14: discreta redução do calibre da Ao ao nível do istmo com
+calibre minimo de 1,5 cm:
+
+
+9. Pontos de atenção
+
+
+Restrição terapêutica: Não informado no prontuário.
+Familiar de referência: Não informado no prontuário.
+

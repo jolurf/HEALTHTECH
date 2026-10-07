@@ -1,0 +1,91 @@
+﻿
+
+    1. Identificação do Paciente
+    • Sexo: Masculino
+    • Data de nascimento: 
+
+2. Histórico Familiar Cardiovascular
+Não informado no prontuário
+
+3. Hábitos de Vida
+
+    • Não informado no prontuário
+
+    4. Histórico Médico
+        4.1 Diagnósticos (confirmados)
+
+
+    • CIA com moderada repercussão hemodinâmica
+    • 30/10/2012: Comunicação interatrial (Q21.1 CID)
+    • Atraso do desenvolvimento neuropsicomotor
+    • Autismo
+
+
+	4.2 Diagnósticos em Investigação
+
+    • Não informado no prontuário
+
+
+	4.3 Histórico Cirúrgico
+
+
+    • 06/09/2017: Atriosseptoplastia
+
+	4.4.Intercorrências
+
+
+    • Não informado no prontuário
+
+    5. Medicamentos Atuais
+
+    • 
+
+
+Medicações	Dose	Posologia	Alergia	Reação Adversa
+Fluoxetina	         20gts	         1x ao dia	    Não	     Não
+
+Reação Adversa ou Alergia
+    6.0 Tratamento oncológico:
+
+	Não informado no prontuário
+
+    7.0 Motivo do Último Atendimento
+
+
+Data	Atendimentos
+19/05/2021	Paciente sem mantém assintomático do ponto de vista cardiovascular.
+Sem intercorrências
+Paciente agitado ao exame, não cooperativo, com irritabilidade, fica agredindo
+durante exame.
+BEG, ativo e reativo, corado, hidratado, eupnéico, acianótico, anictérico,
+afebril. Microfatalmia à D e estrabismos
+Extremidades aquecidas e bem perfundidas, TEC<3s, sem edema. Pulsos palpáveis
+
+    8.0 Exames Relevantes
+
+
+
+Exames	Resultados
+Ecocardiograma	12/09/2017:
+- Presença de imagem hiperrefringente no interior do átrio direito, sugestivo de
+cateter venoso central.
+- Imagem filamentosa móvel, medindo cerca de 6 mm, aderiada ao "patch" na face
+atrial direita, correspondendo provavelmente a ponto cirúrgico ou resquício de
+septo.
+- "Patch" bem posicionado no septo interatrial sem fluxo residual.
+- Átrio direito com dimensão aumentada em grau discreto a moderado. Volme: 34
+ml/m2.
+- Ventrículo direito com dilatação moderada. Medidas no plano apical quatro câmaras: porção basal mede 30 mm, porção média 25 mm e porção longitudinal 53 mm.
+Função sistólica preservada, TAPSE: 1,2 cm, FAC: 44%. Função diastólica preservada ao Doppler tecidual.
+- Ventrículo esquerdo normal. Funções sistólica preservada. Não foi possível a avaliação da função dastólica devido à fusão de ondas ao Doppler.
+- Regurgitação valvar pulmonar de grau discreto. Não foi possível estimar a PMAP devido à curva tênue do Doppler
+
+
+
+
+    9.0 Pontos de atenção
+
+Restrição terapêutica: Não informado no prontuário
+
+Familiar de referência: Não informado no prontuário
+

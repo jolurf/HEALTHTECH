@@ -7,7 +7,7 @@ FROM node:20-alpine AS build
 WORKDIR /build
 
 RUN npm init -y >/dev/null \
-  && npm install --no-save react@18 react-dom@18 @babel/core@7 @babel/preset-react@7 tailwindcss@3
+  && npm install --no-save react@18 react-dom@18 @babel/core@7 @babel/preset-react@7 tailwindcss@3 marked@12.0.2
 
 COPY app.jsx tailwind.config.js input.css ./
 
@@ -31,6 +31,10 @@ COPY --from=build /build/app.js /usr/share/nginx/html/app.js
 COPY --from=build /build/tailwind.css /usr/share/nginx/html/tailwind.css
 COPY --from=build /build/node_modules/react/umd/react.production.min.js /usr/share/nginx/html/react.production.min.js
 COPY --from=build /build/node_modules/react-dom/umd/react-dom.production.min.js /usr/share/nginx/html/react-dom.production.min.js
+
+# Visualizador do Resumo de Emergência (só admin; os dados vêm de /admin/emergencia/* no backend)
+COPY emergencia/ /usr/share/nginx/html/emergencia/
+COPY --from=build /build/node_modules/marked/marked.min.js /usr/share/nginx/html/emergencia/marked.min.js
 
 # nginx.conf fica como template; ${BACKEND_HOST} é substituído em tempo de execução
 COPY nginx.conf /tmp/nginx.conf.template

@@ -1,0 +1,84 @@
+﻿1. Identificação do Paciente
+    • Sexo: Masculino. 
+    • Data de nascimento: Não informado no prontuário.
+2. Histórico Familiar Cardiovascular
+    • Nega comorbidades heredofamiliar. 
+3. Hábitos de Vida
+    • Ex-tabagista: 2-3 anos/maço, cessou em 1977. 
+4. Histórico Médico
+4.1 Diagnósticos (confirmados)
+    • HAS – (Hipertensão arterial sistêmica) – iniciada após os 40 anos de idade.
+    • 2009: IRC – (Insuficiência renal crônica).   
+    • 01/2016 ou 2015: DRC em HD - Doença renal crônica em hemodiálise. 
+    • 20/02/2017: Doença renal hipertensiva com insuficiência renal - CID I12.0.
+    • 20/02/2017: Insuficiência renal crônica não especificada - CID N18.9.
+    • HAP – (Hipertensão arterial pulmonar) - sem etiologia.
+    • Obesidade.
+    • 30/05/2017: IC – (Insuficiência cardíaca).  
+
+4.2 Diagnósticos em Investigação
+    • Não informado no prontuário.
+
+        4.3 Histórico Cirúrgico
+    • Herniorrafia inguinal esquerda.
+    • 01/2017: FAV (Fístula arteriovenosa) radio-cefálica em membro superior esquerdo. 
+    • 16/03/2017: Angioplastia com balão de veia inominada esquerda.
+    • 02/2018: Retirada de nódulo em nariz – CBC (Carcinoma Basocelular). 
+    • 16/03/2018: Angioplastia com balão com reperfusão parcial. 
+    • 2024: Transplante Renal. 
+        4.4 Intercorrências
+    • 20/02/2017: Flebite e tromboflebite em membro superior esquerdo. 
+    • 20/02/2017: Transtornos do aparelho circulatório subsequentes a procedimento não especificado - CID I97.9.
+    • 02/03/2017: Estenose tronco braquiocefálico venoso esquerdo e estenose grave de veia inominada esquerda.
+    • 02/03/2017: Apresentou mal-estar, hipertensão, ansiedade e sinais de congestão pulmonar e crise hipertensiva.
+    • 30/05/2017: IC – (Insuficiência cardíaca) descompensado perfil B devido a hipervolemia.
+    • 30/05/2017: Congestão pulmonar secundaria a hipervolemia. 
+    • 26/02/2018: Reestenose de veia inominada esquerda.
+    • Flebite e tromboflebite em membro superior esquerdo. 
+
+5. Medicamentos Atuais
+Medicações	Dose	Posologia	Alergia	Reação Adversa
+ZimpassEZE	20/10 mg	1 x dia.	NÃO 	NÃO
+Acido Acetilsalicílico 	100 mg	1 x dia.	NÃO	NÃO
+Pressplus 	2,5/10mg	1 x dia.	NÃO	NÃO
+Nega alergia				
+
+6. Tratamento Oncológico
+    • Não informado no prontuário.
+7. Motivo do Último Atendimento
+Data	Atendimentos
+17/09/2024	Atual / Queixas:.
+Refere apresentar dispneia ao esforço ocasional. Foi submetido a TX de rim.
+Atualmente, está com lesão cutânea provável Ca. Veio para tirar dúvidas.
+
+ Ao exame:.
+Não informado no prontuário.
+
+  Impressão:.
+Não informado no prontuário.
+
+8. Exames Relevantes
+Exames	Resultados
+Cateterismo cardíaco – (CAT)	- Presente na evolução do dia 20/02/2017 – sem data da realização do exame: 
+Presença de fístula entre a artéria subclávia esquerda e a veia cava, a esclarecer;
+obstrução distal crítica do tronco braquiocefálico esquerdo;
+fístula arteriovenosa em artéria radial esquerda para hemodiálise, em funcionamento.
+Flebografia	- Presente na evolução do dia 16/03/2017 – sem data da realização do exame: 
+Estenose grave de veia inominada esquerda.
+Ecocardiograma Transtorácico – (ECOTT)	- 02/03/2017:
+Fração de ejeção do ventrículo esquerdo: 59%.
+Átrio esquerdo: 52 mm.
+Ventrículo esquerdo: 62 × 42 mm, com hipertrofia miocárdica concêntrica de grau importante, sem sinais de disfunção sistólica ou diastólica.
+Ventrículo direito: sem disfunção sistólica ou diastólica.
+Pressão sistólica da artéria pulmonar: 58 mmHg.
+Insuficiência mitral: grau moderado.
+Insuficiência tricúspide: grau discreto a moderado.
+Doppler / Ultrassonografia de membro superior esquerdo – (USG MSE)	- 08/03/02018:
+Doppler do membro superior esquerdo: Não foram caracterizadas áreas de estenose hemodinamicamente
+significativas. Espessamento e hiperecogênicidade do tecido subcutâneo inferindo edema.
+
+9. Pontos de atenção
+Restrição terapêutica:
+    • Não informado no prontuário.
+Familiar de referência: 
+    • Não informado no prontuário.

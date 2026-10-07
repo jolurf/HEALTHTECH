@@ -23,6 +23,8 @@ import urllib.error
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
+import emergencia
+
 app = FastAPI()
 
 # =========================================================
@@ -1360,3 +1362,61 @@ def servir_pdf(caminho: str = Query(...), usuario: str = Query(...), token: str 
         media_type="application/pdf",
         headers={"Content-Disposition": f"inline; filename=\"{arquivo.name}\""},
     )
+
+
+# =========================================================
+# ENDPOINTS — ADMIN: escolha de projeto / Resumo de Emergência
+# =========================================================
+# O visualizador (frontend/emergencia/) é estático, servido pelo nginx; os dados vêm daqui,
+# sob /admin (já proxiado pelo nginx) e só para admin.
+
+def _verificar_admin_token(usuario: str, token: str):
+    _verificar_token(usuario, token)
+    user = _get_user(usuario)
+    if not user or not _is_admin(user):
+        raise HTTPException(status_code=403, detail="Acesso restrito a administradores")
+
+
+@app.get("/admin/perfil")
+def perfil(usuario: str = Query(...), token: str = Query(...)):
+    """Diz ao frontend se mostra a página de escolha de projeto (só para admin)."""
+    _verificar_token(usuario, token)
+    user = _get_user(usuario)
+    return {"admin": bool(user and _is_admin(user))}
+
+
+@app.get("/admin/emergencia/casos")
+def emergencia_casos(usuario: str = Query(...), token: str = Query(...)):
+    _verificar_admin_token(usuario, token)
+    return emergencia.listar_casos()
+
+
+@app.get("/admin/emergencia/gabaritos")
+def emergencia_gabaritos(usuario: str = Query(...), token: str = Query(...)):
+    _verificar_admin_token(usuario, token)
+    return emergencia.listar_gabaritos()
+
+
+@app.get("/admin/emergencia/relatorio")
+def emergencia_relatorio(arquivo: str = Query(...), usuario: str = Query(...), token: str = Query(...)):
+    _verificar_admin_token(usuario, token)
+    return emergencia.obter_relatorio(arquivo)
+
+
+@app.get("/admin/emergencia/fontes")
+def emergencia_fontes(arquivo: str = Query(...), usuario: str = Query(...), token: str = Query(...)):
+    _verificar_admin_token(usuario, token)
+    return emergencia.obter_fontes(arquivo)
+
+
+@app.get("/admin/emergencia/gabarito")
+def emergencia_gabarito(arquivo: str = Query(...), usuario: str = Query(...), token: str = Query(...)):
+    _verificar_admin_token(usuario, token)
+    return emergencia.obter_gabarito(arquivo)
+
+
+@app.get("/admin/emergencia/trecho")
+def emergencia_trecho(arquivo: str = Query(...), doc_id: str = Query(...), claim: str = Query(...),
+                      usuario: str = Query(...), token: str = Query(...)):
+    _verificar_admin_token(usuario, token)
+    return emergencia.buscar_trecho(arquivo, doc_id, claim)
